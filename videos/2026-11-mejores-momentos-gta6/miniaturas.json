@@ -1,0 +1,32 @@
+[
+ {
+  "id": "miniatura-A",
+  "pieza": "largo",
+  "layout": "hero",
+  "datos": {
+   "img": {
+    "img": "illo-cara",
+    "pos": "50% 30%"
+   },
+   "kick": "EN PLENO DIRECTO",
+   "l1": "BORRÓ",
+   "l2": "GTA 6",
+   "sello": "TOP 12",
+   "top": 60
+  }
+ },
+ {
+  "id": "portada-short-01",
+  "pieza": "short-01",
+  "layout": "portada",
+  "datos": {
+   "img": {
+    "img": "illo-full",
+    "pos": "50% 30%"
+   },
+   "kick": "GTA 6 · ILLOJUAN",
+   "l1": "BORRÓ",
+   "l2": "GTA 6"
+  }
+ }
+]

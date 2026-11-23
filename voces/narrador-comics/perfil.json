@@ -1,0 +1,19 @@
+{
+ "nombre_voicebox": "narrador comics",
+ "descripcion": "Narrador de la serie Camino a Doomsday (Shorts de cómics/Marvel). Referencia: narrador-de-comics.mp3.",
+ "personalidad": "Narrador de tráiler de cómics: grave, épico, directo, tensión de cine.",
+ "idioma": "es",
+ "tipo": "cloned",
+ "motor": "qwen",
+ "efectos": null,
+ "muestra": "muestra.wav",
+ "texto_muestra": "muestra.txt",
+ "generacion": {
+  "normalize": true,
+  "max_chunk_chars": 800,
+  "crossfade_ms": 50,
+  "personality": false
+ },
+ "exportado": "2026-11-23",
+ "voicebox_id": "1174dcf0-e7d0-4b8a-9d76-769f6a4c3929"
+}

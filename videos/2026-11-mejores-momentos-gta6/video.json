@@ -1,0 +1,43 @@
+{
+ "titulo": "Top 12 momentos de streamers en GTA 6",
+ "fecha": "2026-11-21",
+ "formato": "largo+serie",
+ "estilo": "facecam",
+ "voz": null,
+ "serie": null,
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo"
+  },
+  {
+   "id": "short-01",
+   "tipo": "short"
+  },
+  {
+   "id": "short-02",
+   "tipo": "short"
+  }
+ ],
+ "musica": {
+  "tema": "leonida-synthwave.wav",
+  "fondo": "leonida-fondo-loop.wav",
+  "largo": {
+   "fondo_desde": "n12",
+   "fondo_offset": -0.5,
+   "gain_fondo": -17
+  }
+ },
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/mejores-momentos-de-gta6"
+}

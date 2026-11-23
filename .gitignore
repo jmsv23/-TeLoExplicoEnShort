@@ -1,0 +1,41 @@
+# =====================================================================
+# Regla: en git va solo lo que NO se puede regenerar (texto, decisiones, muestras de voz, estilos).
+# Todo lo pesado y regenerable queda fuera; ./tl regenerar <video> lo reconstruye.
+# =====================================================================
+
+# ---- Por video: todo lo generado ----
+videos/*/build/
+# assets: solo el manifiesto (URLs, cortes, créditos). Los archivos se bajan con ./tl assets fetch
+videos/*/assets/*
+!videos/*/assets/manifest.json
+# entrega: solo los textos de publicación; mp4/png salen de build/ y miniaturas.json
+videos/*/entrega/*
+!videos/*/entrega/*.md
+!videos/*/entrega/*.txt
+!videos/*/entrega/*.srt
+
+# ---- Música generada: se versionan los prompts/seeds (PROMPTS.md), no el audio ----
+audio-lib/musica/*
+!audio-lib/musica/PROMPTS.md
+# SFX: pequeños (~10 MB) y compartidos por todos los estilos → sí se versionan
+
+# ---- Estilos: previews renderizados se regeneran ----
+estilos/*/preview/*.mp4
+estilos/*/_trabajo/
+
+# ---- Python / Node / caches ----
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.hyperframes/
+.thumbnails/
+
+# ---- Sistema / editor / secretos ----
+.claude/settings.local.json
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.env
+.env.*

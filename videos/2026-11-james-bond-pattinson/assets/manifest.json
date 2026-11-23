@@ -1,0 +1,574 @@
+{
+ "_nota": "Fuente de verdad de los assets. Los archivos se ignoran en git: ./tl assets fetch los vuelve a bajar y ./tl assets cortar los corta. pin=true → sin URL directa: respaldar con ./tl assets respaldar.",
+ "imagenes": [
+  {
+   "id": "brosnan-goldeneye-tanque",
+   "archivo": "img/brosnan-goldeneye-tanque.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/09/pierce-brosnan-james-bond-goldeneye-007.jpg?q=49&fit=contain&w=750&h=422&dpr=2",
+   "pagina": "https://screenrant.com/james-bond-older-007-pierce-brosnan-goldeneye-30th-anniversary-op-ed/",
+   "fuente": "screenrant.com",
+   "pin": false
+  },
+  {
+   "id": "brosnan-remington-steele",
+   "archivo": "img/brosnan-remington-steele.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BMTk2NzAxMjM5OV5BMl5BanBnXkFtZTgwMzc3ODc5MjE@.jpg",
+   "pagina": "https://www.imdb.com/title/tt0083470/characters/nm0000112/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "brosnan-retrato",
+   "archivo": "img/brosnan-retrato.jpg",
+   "url": "https://variety.com/wp-content/uploads/2025/04/MCDGOLD_EC009.jpg?w=1000&h=667&crop=1",
+   "pagina": "https://variety.com/2025/film/news/goldeneye-at-thirty-1236581765/",
+   "fuente": "variety.com",
+   "pin": false
+  },
+  {
+   "id": "connery-drno-esmoquin",
+   "archivo": "img/connery-drno-esmoquin.jpg",
+   "url": "https://www.gentlemansgazette.com/wp-content/uploads/2012/10/Sean-Connery-in-Goldfiner-with-Notched-Lapel-Tuxedo-900x722.jpg",
+   "pagina": "https://www.gentlemansgazette.com/james-bond-his-tuxedo/",
+   "fuente": "gentlemansgazette.com",
+   "pin": false
+  },
+  {
+   "id": "connery-goldfinger-db5",
+   "archivo": "img/connery-goldfinger-db5.jpg",
+   "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/01/sean-connery.jpg?q=50&fit=contain&w=2000&h=1000&dpr=1.5",
+   "pagina": "https://collider.com/sean-connery-dr-no-production-drama/",
+   "fuente": "collider.com",
+   "pin": false
+  },
+  {
+   "id": "craig-2005-chaleco",
+   "archivo": "img/craig-2005-chaleco.jpg",
+   "url": "https://preview.redd.it/daniel-craig-before-the-press-conference-that-announced-he-v0-n9yix7gh8an91.jpg?width=640&crop=smart&auto=webp&s=4805ac2693de9f0378e0dba4a223f9633b050859",
+   "pagina": "https://reddit.com/r/JamesBond/comments/xbrk1g/daniel_craig_before_the_press_conference_that",
+   "fuente": "reddit.com",
+   "pin": false
+  },
+  {
+   "id": "craig-casino-esmoquin",
+   "archivo": "img/craig-casino-esmoquin.jpg",
+   "url": "https://images.bauerhosting.com/legacy/media/5dfd/1474/6a79/a366/57e5/a351/casino-royale.jpg?ar=16:9&fit=crop&crop=top&auto=format&w=2560&q=80",
+   "pagina": "https://www.empireonline.com/movies/news/daniel-craig-casino-royale-moment-james-bond-role-martini/",
+   "fuente": "empireonline.com",
+   "pin": false
+  },
+  {
+   "id": "craig-skyfall-londres",
+   "archivo": "img/craig-skyfall-londres.jpg",
+   "url": "https://media.gq-magazine.co.uk/photos/633affc571c19086b84ccf38/master/w_1600,c_limit/Skyfall%20building%20muscle%200310_02.jpg",
+   "pagina": "https://www.gq-magazine.co.uk/fitness/article/daniel-craig-skyfall-workout",
+   "fuente": "gq-magazine.co.uk",
+   "pin": false
+  },
+  {
+   "id": "dalton-tld-arma",
+   "archivo": "img/dalton-tld-arma.jpg",
+   "url": "https://images.squarespace-cdn.com/content/v1/5d39e718d8ec690001509614/c61f1312-2229-43ae-8462-4d59b5e52843/tLD_01.png",
+   "pagina": "https://dagondogs.com/posts/the-living-daylights-1987-review",
+   "fuente": "dagondogs.com",
+   "pin": false
+  },
+  {
+   "id": "dalton-tld-esmoquin",
+   "archivo": "img/dalton-tld-esmoquin.jpg",
+   "url": "https://images.squarespace-cdn.com/content/v1/5d39e718d8ec690001509614/e47de6ce-725e-4154-8d78-ba74f832ccb4/LtK_05.png",
+   "pagina": "https://dagondogs.com/posts/license-to-kill-1989-review",
+   "fuente": "dagondogs.com",
+   "pin": false
+  },
+  {
+   "id": "fleming-retrato",
+   "archivo": "img/fleming-retrato.jpg",
+   "url": "https://ianfleming.com/wp-content/uploads/2025/09/IF-desk-cigs-square-wpv_600x600_center_center.jpg",
+   "pagina": "https://ianfleming.com/authors",
+   "fuente": "ianfleming.com",
+   "pin": false
+  },
+  {
+   "id": "lazenby-ohmss-2",
+   "archivo": "img/lazenby-ohmss-2.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BNjExNjcxY2UtMzhkZi00ZTE4LWFkMjktOTI3NzdkYTc5ZDAyXkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt0064757/characters/nm0493872/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "lazenby-ohmss",
+   "archivo": "img/lazenby-ohmss.jpg",
+   "url": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDONHE_EC023.jpg?w=2700&h=1687&crop=1",
+   "pagina": "https://www.indiewire.com/features/commentary/george-lazenby-james-bond-on-her-majestys-secret-service-1235224936/",
+   "fuente": "indiewire.com",
+   "pin": false
+  },
+  {
+   "id": "moore-silla-007",
+   "archivo": "img/moore-silla-007.jpg",
+   "url": "https://www.telegraph.co.uk/content/dam/films/2023/06/26/TELEMMGLPICT000340670583_16877788915520_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?imwidth=350",
+   "pagina": "https://www.telegraph.co.uk/films/0/live-and-let-die-james-bond-roger-moore/",
+   "fuente": "telegraph.co.uk",
+   "pin": false
+  },
+  {
+   "id": "moore-traje",
+   "archivo": "img/moore-traje.jpg",
+   "url": "https://www.bondsuits.com/wp-content/uploads/2011/01/Moonraker-Double-Breasted-Blazer-2-1024x604.jpg",
+   "pagina": "https://www.bondsuits.com/bond-wardrobe-review-11-moonraker-1979/",
+   "fuente": "bondsuits.com",
+   "pin": false
+  },
+  {
+   "id": "pattinson-007-logo",
+   "archivo": "img/pattinson-007-logo.jpg",
+   "url": "https://assets.aboutamazon.com/66/71/1d75dd1d47ae8204b0bffb30cb66/007-2026-5.jpg",
+   "pagina": "https://www.aboutamazon.com/news/entertainment/james-bond-robert-pattinson-cast-amazon-mgm-film",
+   "fuente": "aboutamazon.com",
+   "pin": false
+  },
+  {
+   "id": "pattinson-007-primera-imagen",
+   "archivo": "img/pattinson-007-primera-imagen.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/jXZroWshUbRBwnsbkB8tUL.jpg",
+   "pagina": "https://www.gamesradar.com/entertainment/james-bond-movies/robert-pattinson-james-bond-confirmed-first-look/",
+   "fuente": "gamesradar.com",
+   "pin": false
+  },
+  {
+   "id": "pattinson-batman",
+   "archivo": "img/pattinson-batman.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-batman_iznbpp.jpg?q=49&fit=contain&w=1920&h=1080&dpr=2",
+   "pagina": "https://screenrant.com/batman-2-robert-pattinson-bruce-wayne-set-photos/",
+   "fuente": "screenrant.com",
+   "pin": false
+  },
+  {
+   "id": "pattinson-bruce-wayne",
+   "archivo": "img/pattinson-bruce-wayne.jpg",
+   "url": "https://gizmodo.com/app/uploads/2026/09/MS-September-14.jpg",
+   "pagina": "https://gizmodo.com/robert-pattinson-reportedly-freed-from-the-batman-trilogy-2000841344",
+   "fuente": "gizmodo.com",
+   "pin": false
+  },
+  {
+   "id": "pattinson-crepusculo",
+   "archivo": "img/pattinson-crepusculo.jpg",
+   "url": "https://people.com/thmb/kaLoVJfKd7wrTzR87nbeHQErozw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(705x146:707x148)/actors-almost-in-twilight-robert-pattinson-050125-bc69065852e34ed59cfe6ef2c5f2a97a.jpg",
+   "pagina": "https://people.com/robert-pattinson-funny-twilight-detail-he-never-noticed-11934511",
+   "fuente": "people.com",
+   "pin": false
+  },
+  {
+   "id": "pattinson-retrato",
+   "archivo": "img/pattinson-retrato.jpg",
+   "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2284931307.jpg?crop=0px,363px,7589px,4247px&resize=2000,1126",
+   "pagina": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-movies-2026-primetime-odyssey-dune-drama-1236691678/",
+   "fuente": "hollywoodreporter.com",
+   "pin": false
+  },
+  {
+   "id": "poster-casino",
+   "archivo": "img/poster-casino.jpg",
+   "url": "https://m.media-amazon.com/images/I/71FfKuHau6L.jpg",
+   "pagina": "https://www.amazon.com/casino-royale-movie-poster/s?k=casino+royale+movie+poster",
+   "fuente": "amazon.com",
+   "pin": false
+  },
+  {
+   "id": "poster-dad",
+   "archivo": "img/poster-dad.jpg",
+   "url": "https://originalvintagemovieposters.com/wp-content/uploads/2016/09/Die-Another-Day-4937.jpg",
+   "pagina": "https://originalvintagemovieposters.com/die-another-day-original-james-bond-007-rolled-movie-poster/",
+   "fuente": "originalvintagemovieposters.com",
+   "pin": false
+  },
+  {
+   "id": "poster-drno",
+   "archivo": "img/poster-drno.jpg",
+   "url": "https://m.media-amazon.com/images/I/91CzywV1+ML.jpg",
+   "pagina": "https://www.amazon.com/Dr-No-1962-Poster-Reprint/dp/B09QYGS5YS",
+   "fuente": "amazon.com",
+   "pin": false
+  },
+  {
+   "id": "poster-goldeneye",
+   "archivo": "img/poster-goldeneye.jpg",
+   "url": "https://m.media-amazon.com/images/I/81Szs0MeNqL.jpg",
+   "pagina": "https://amazon.com/goldeneye-poster/s?k=goldeneye+poster&page=2",
+   "fuente": "amazon.com",
+   "pin": false
+  },
+  {
+   "id": "poster-lald",
+   "archivo": "img/poster-lald.jpg",
+   "url": "https://www.originalfilmart.com/cdn/shop/products/live_and_let_die_1973_linen_original_film_art_f_1600x.webp?v=1679960299",
+   "pagina": "https://www.originalfilmart.com/products/live-and-let-die-1973",
+   "fuente": "originalfilmart.com",
+   "pin": false
+  },
+  {
+   "id": "poster-ltk",
+   "archivo": "img/poster-ltk.jpg",
+   "url": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2025/02/IMG_9050-scaled.jpeg",
+   "pagina": "https://www.vintagemovieposters.co.uk/shop/james-bond-licence-to-kill-movie-poster-2/",
+   "fuente": "vintagemovieposters.co.uk",
+   "pin": false
+  },
+  {
+   "id": "poster-ohmss",
+   "archivo": "img/poster-ohmss.jpg",
+   "url": "https://m.media-amazon.com/images/I/91IOqXwLv8L.jpg",
+   "pagina": "https://www.amazon.com/Majestys-Secret-Service-Poster-Reprint/dp/B09WL7SWTD",
+   "fuente": "amazon.com",
+   "pin": false
+  },
+  {
+   "id": "poster-skyfall",
+   "archivo": "img/poster-skyfall.jpg",
+   "url": "https://007store.com/cdn/shop/files/Skyfall_gun_barrel_postcard_2e479a41-40dd-4795-86c3-10bb4e555c50_1200x.jpg?v=1695732482",
+   "pagina": "https://007store.com/en-us/products/skyfall-postcard-1",
+   "fuente": "007store.com",
+   "pin": false
+  },
+  {
+   "id": "poster-thunderball",
+   "archivo": "img/poster-thunderball.jpg",
+   "url": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2020/04/IMG_3880-scaled.jpeg",
+   "pagina": "https://www.vintagemovieposters.co.uk/shop/james-bond-thunderball-movie-poster/",
+   "fuente": "vintagemovieposters.co.uk",
+   "pin": false
+  },
+  {
+   "id": "poster-tld",
+   "archivo": "img/poster-tld.jpg",
+   "url": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2022/12/IMG_0107-scaled.jpeg",
+   "pagina": "https://www.vintagemovieposters.co.uk/shop/james-bond-the-living-daylights-movie-poster-4/",
+   "fuente": "vintagemovieposters.co.uk",
+   "pin": false
+  },
+  {
+   "id": "villeneuve-retrato",
+   "archivo": "img/villeneuve-retrato.jpg",
+   "url": "https://ca-times.brightspotcdn.com/dims4/default/6447ef3/2147483647/strip/true/crop/5385x3793+0+0/resize/2000x1409!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/5e/74/9f749fa2460dbe24eecc7c7a9425/11481314-la-env-denis-villeneuve-cover2526.jpg",
+   "pagina": "https://www.latimes.com/entertainment-arts/awards/story/2024-12-26/denis-villeneuve-dune-part-two-scorsese-spielberg-tarantino-christopher-nolan",
+   "fuente": "latimes.com",
+   "pin": false
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "anuncio-pattinson-globalnews",
+   "url": "https://www.youtube.com/watch?v=weCn5XBaUBs"
+  },
+  {
+   "id": "craig-2005-ap-archive",
+   "url": "https://www.youtube.com/watch?v=pGj4vqa9KYo"
+  },
+  {
+   "id": "tr-drno",
+   "url": "https://youtube.com/watch?v=JxkRgem6WAA"
+  },
+  {
+   "id": "tr-thunderball",
+   "url": "https://www.youtube.com/watch?v=7JowkFmI1Fo"
+  },
+  {
+   "id": "tr-ohmss",
+   "url": "https://www.youtube.com/watch?v=U_-nD5r8dc0"
+  },
+  {
+   "id": "tr-lald",
+   "url": "https://www.youtube.com/watch?v=KTzsm9-XWQo"
+  },
+  {
+   "id": "tr-tld",
+   "url": "https://www.youtube.com/watch?v=IXAVKJTIM1E"
+  },
+  {
+   "id": "tr-ltk",
+   "url": "https://www.youtube.com/watch?v=quHQAuO0lkg"
+  },
+  {
+   "id": "tr-goldeneye",
+   "url": "https://youtube.com/watch?v=Ym5EIygd89M"
+  },
+  {
+   "id": "tr-dad",
+   "url": "https://www.youtube.com/watch?v=VSzixW0KQcc"
+  },
+  {
+   "id": "tr-casino",
+   "url": "https://www.youtube.com/watch?v=U4NT78c-pYs"
+  },
+  {
+   "id": "tr-skyfall",
+   "url": "https://www.youtube.com/watch?v=6kw1UVovByw"
+  },
+  {
+   "id": "tr-batman",
+   "url": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+  },
+  {
+   "id": "tr-twilight",
+   "url": "https://www.youtube.com/watch?v=QDRLSqm_WVg"
+  },
+  {
+   "id": "esc-drno-bond-james-bond",
+   "url": "https://www.youtube.com/watch?v=b15-P12gIf0"
+  },
+  {
+   "id": "esc-goldfinger-laser",
+   "url": "https://www.youtube.com/watch?v=wzwPI1zJ9K0"
+  },
+  {
+   "id": "esc-ohmss-other-fellow",
+   "url": "https://www.youtube.com/watch?v=swqR39aRynU"
+  },
+  {
+   "id": "esc-ohmss-boda-final",
+   "url": "https://www.youtube.com/watch?v=edF7IuytZ3k"
+  },
+  {
+   "id": "esc-lald-cocodrilos",
+   "url": "https://www.youtube.com/watch?v=-LrbTd69iwI"
+  },
+  {
+   "id": "esc-moore-frases",
+   "url": "https://www.youtube.com/watch?v=HM240qQUoHA"
+  },
+  {
+   "id": "esc-tld-apertura",
+   "url": "https://www.youtube.com/watch?v=Ia5FDkESpAY"
+  },
+  {
+   "id": "esc-ltk-escape",
+   "url": "https://www.youtube.com/watch?v=9GAmE2KkCQY"
+  },
+  {
+   "id": "esc-goldeneye-tanque",
+   "url": "https://www.youtube.com/watch?v=iB7ZWNlF8DY"
+  },
+  {
+   "id": "esc-dad-lago-auto-invisible",
+   "url": "https://www.youtube.com/watch?v=NeWG3lSw34A"
+  },
+  {
+   "id": "esc-dad-surf",
+   "url": "https://www.youtube.com/watch?v=frPUnQBS7Mw"
+  },
+  {
+   "id": "esc-casino-parkour",
+   "url": "https://www.youtube.com/watch?v=NMNlIj3CU28"
+  },
+  {
+   "id": "esc-casino-shaken",
+   "url": "https://www.youtube.com/watch?v=YmgI8UayCEE"
+  },
+  {
+   "id": "esc-skyfall-tren",
+   "url": "https://www.youtube.com/watch?v=etnCBggA4Os"
+  },
+  {
+   "id": "esc-batman-vengeance",
+   "url": "https://www.youtube.com/watch?v=I0ZBUGNwZzo"
+  },
+  {
+   "id": "esc-twilight-spider-monkey",
+   "url": "https://www.youtube.com/watch?v=vnZ6xwBj7NE"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "connery-bond-james-bond",
+   "fuente": "esc-drno-bond-james-bond",
+   "inicio": 84.6,
+   "fin": 89.6,
+   "tipo": "voz",
+   "bloque": "3 Connery",
+   "nota": "\"Bond. James Bond.\" El origen."
+  },
+  {
+   "id": "lazenby-other-fella",
+   "fuente": "esc-ohmss-other-fellow",
+   "inicio": 235.8,
+   "fin": 239.9,
+   "tipo": "voz",
+   "bloque": "4 Lazenby",
+   "nota": "\"This never happened to the other fella\" a cámara."
+  },
+  {
+   "id": "moore-anders",
+   "fuente": "esc-moore-frases",
+   "inicio": 20.0,
+   "fin": 23.4,
+   "tipo": "voz",
+   "bloque": "5 Moore",
+   "nota": "\"I didn't recognize you with the clothes on\": su humor."
+  },
+  {
+   "id": "dalton-bond-james-bond",
+   "fuente": "esc-tld-apertura",
+   "inicio": 192.4,
+   "fin": 195.2,
+   "tipo": "voz",
+   "bloque": "6 Dalton",
+   "nota": "Su debut: \"Bond, James Bond.\""
+  },
+  {
+   "id": "brosnan-corbata",
+   "fuente": "esc-goldeneye-tanque",
+   "inicio": 84.0,
+   "fin": 89.8,
+   "tipo": "voz",
+   "bloque": "7 Brosnan (a favor)",
+   "nota": "El tanque rompe el muro y Bond se acomoda la corbata (verificado; mapa Gemini v3)."
+  },
+  {
+   "id": "brosnan-auto-invisible",
+   "fuente": "esc-dad-lago-auto-invisible",
+   "inicio": 38.0,
+   "fin": 46.0,
+   "tipo": "voz",
+   "bloque": "7 Brosnan (contra)",
+   "nota": "El auto invisible aparece."
+  },
+  {
+   "id": "craig-shaken",
+   "fuente": "esc-casino-shaken",
+   "inicio": 0.4,
+   "fin": 3.6,
+   "tipo": "voz",
+   "bloque": "8 Craig",
+   "nota": "\"Shaken or stirred?\" \"Do I look like I give a damn?\""
+  },
+  {
+   "id": "pattinson-vengeance",
+   "fuente": "esc-batman-vengeance",
+   "inicio": 56.8,
+   "fin": 61.0,
+   "tipo": "voz",
+   "bloque": "10 El patrón",
+   "nota": "\"I'm vengeance.\""
+  },
+  {
+   "id": "pattinson-spider-monkey",
+   "fuente": "esc-twilight-spider-monkey",
+   "inicio": 481.6,
+   "fin": 484.6,
+   "tipo": "voz",
+   "bloque": "10 El patrón",
+   "nota": "\"Hold on tight, spider monkey.\""
+  },
+  {
+   "id": "connery-laser",
+   "fuente": "esc-goldfinger-laser",
+   "inicio": 116.6,
+   "fin": 122.3,
+   "tipo": "voz-alt",
+   "bloque": "3 Connery",
+   "nota": "\"Do you expect me to talk?\" \"No, Mr. Bond, I expect you to die.\""
+  },
+  {
+   "id": "lazenby-all-the-time",
+   "fuente": "esc-ohmss-boda-final",
+   "inicio": 286.6,
+   "fin": 290.8,
+   "tipo": "voz-alt",
+   "bloque": "4 Lazenby",
+   "nota": "\"We have all the time in the world\": el final triste."
+  },
+  {
+   "id": "moore-jaws",
+   "fuente": "esc-moore-frases",
+   "inicio": 68.4,
+   "fin": 77.2,
+   "tipo": "voz-alt",
+   "bloque": "5 Moore",
+   "nota": "\"His name's Jaws. He kills people.\""
+  },
+  {
+   "id": "brosnan-surf",
+   "fuente": "esc-dad-surf",
+   "inicio": 48.0,
+   "fin": 58.0,
+   "tipo": "voz-alt",
+   "bloque": "7 Brosnan (contra)",
+   "nota": "El surf con efectos digitales."
+  },
+  {
+   "id": "moore-cocodrilos",
+   "fuente": "esc-lald-cocodrilos",
+   "inicio": 139.0,
+   "fin": 145.0,
+   "tipo": "broll",
+   "bloque": "5 Moore",
+   "nota": "Corre sobre los cocodrilos."
+  },
+  {
+   "id": "dalton-ltk",
+   "fuente": "esc-ltk-escape",
+   "inicio": 30.0,
+   "fin": 36.0,
+   "tipo": "broll",
+   "bloque": "6 Dalton",
+   "nota": "Acción de Licencia para matar (revisar)."
+  },
+  {
+   "id": "brosnan-tanque-muro",
+   "fuente": "esc-goldeneye-tanque",
+   "inicio": 59.0,
+   "fin": 66.0,
+   "tipo": "broll",
+   "bloque": "7 Brosnan",
+   "nota": "El tanque atraviesa el muro."
+  },
+  {
+   "id": "brosnan-tanque-estatua",
+   "fuente": "esc-goldeneye-tanque",
+   "inicio": 228.6,
+   "fin": 234.0,
+   "tipo": "broll",
+   "bloque": "7 Brosnan",
+   "nota": "El tanque con la estatua encima."
+  },
+  {
+   "id": "brosnan-botellas",
+   "fuente": "esc-goldeneye-tanque",
+   "inicio": 217.6,
+   "fin": 221.5,
+   "tipo": "broll",
+   "bloque": "7 Brosnan",
+   "nota": "El tanque aplasta el camión de Perrier (mapa Gemini v3)."
+  },
+  {
+   "id": "craig-grua",
+   "fuente": "esc-casino-parkour",
+   "inicio": 213.0,
+   "fin": 222.0,
+   "tipo": "broll",
+   "bloque": "8 Craig",
+   "nota": "El salto entre grúas."
+  },
+  {
+   "id": "craig-excavadora",
+   "fuente": "esc-skyfall-tren",
+   "inicio": 171.0,
+   "fin": 179.0,
+   "tipo": "broll",
+   "bloque": "8 Craig / Skyfall",
+   "nota": "La excavadora sobre el tren."
+  },
+  {
+   "id": "craig-salto-tren",
+   "fuente": "esc-skyfall-tren",
+   "inicio": 182.0,
+   "fin": 190.0,
+   "tipo": "broll",
+   "bloque": "8 Craig / Skyfall",
+   "nota": "Salta de la excavadora al vagón."
+  }
+ ]
+}

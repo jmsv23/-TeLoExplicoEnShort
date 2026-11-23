@@ -1,0 +1,58 @@
+[
+ {
+  "id": "miniatura-A",
+  "pieza": "largo",
+  "layout": "hero",
+  "datos": {
+   "img": {
+    "img": "lucia-corriendo",
+    "pos": "50% 20%"
+   },
+   "kick": "GTA 6 VS TODOS",
+   "l1": "1997",
+   "l2": "VS 2026",
+   "top": 40,
+   "fila": [
+    {
+     "img": "gta1"
+    },
+    {
+     "img": "vc2002"
+    }
+   ]
+  }
+ },
+ {
+  "id": "miniatura-B",
+  "pieza": "largo",
+  "layout": "versus",
+  "datos": {
+   "a": {
+    "img": "vc2002",
+    "pos": "40% 50%",
+    "etiqueta": "2002"
+   },
+   "b": {
+    "img": "jl-gasolinera",
+    "pos": "50% 45%",
+    "etiqueta": "2026"
+   },
+   "l1": "¿EVOLUCIÓN",
+   "l2": "O RETROCESO?"
+  }
+ },
+ {
+  "id": "portada-short-01",
+  "pieza": "short-01",
+  "layout": "portada",
+  "datos": {
+   "img": {
+    "img": "vi-keyart",
+    "pos": "50% 30%"
+   },
+   "kick": "GTA 6 · RÉCORD",
+   "l1": "$3,790 M",
+   "l2": "EN UN DÍA"
+  }
+ }
+]

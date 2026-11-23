@@ -1,0 +1,110 @@
+[
+ {
+  "id": "miniatura-A",
+  "pieza": "largo",
+  "layout": "hero",
+  "datos": {
+   "img": {
+    "img": "pattinson-007-primera-imagen",
+    "pos": "60% 35%"
+   },
+   "kick": "EL NUEVO JAMES BOND",
+   "l1": "¿ESTÁ A LA",
+   "l2": "ALTURA?",
+   "sub": "Así recibieron a los otros seis",
+   "fila": [
+    {
+     "img": "connery-drno-esmoquin",
+     "bn": true
+    },
+    {
+     "img": "lazenby-ohmss",
+     "bn": true
+    },
+    {
+     "img": "moore-silla-007",
+     "bn": true
+    },
+    {
+     "img": "dalton-tld-esmoquin",
+     "bn": true,
+     "pos": "22% 30%"
+    },
+    {
+     "img": "brosnan-retrato",
+     "bn": true
+    },
+    {
+     "img": "craig-casino-esmoquin",
+     "bn": true
+    }
+   ],
+   "fila_q": "?"
+  }
+ },
+ {
+  "id": "miniatura-B",
+  "pieza": "largo",
+  "layout": "versus",
+  "datos": {
+   "a": {
+    "img": "connery-drno-esmoquin",
+    "bn": true,
+    "etiqueta": "1962"
+   },
+   "b": {
+    "img": "pattinson-007-primera-imagen",
+    "etiqueta": "2028"
+   },
+   "l1": "LOS ODIARON",
+   "l2": "A TODOS"
+  }
+ },
+ {
+  "id": "portada-short-01",
+  "pieza": "short-01",
+  "layout": "portada",
+  "datos": {
+   "img": {
+    "img": "pattinson-007-primera-imagen",
+    "pos": "66% 30%"
+   },
+   "kick": "OFICIAL · NUEVO 007",
+   "l1": "TENEMOS NUEVO",
+   "l2": "JAMES BOND",
+   "sello": "¿LO ODIAN?",
+   "fila": [
+    {
+     "img": "connery-drno-esmoquin",
+     "bn": true,
+     "pos": "50% 22%"
+    },
+    {
+     "img": "lazenby-ohmss",
+     "bn": true,
+     "pos": "40% 20%"
+    },
+    {
+     "img": "moore-silla-007",
+     "bn": true,
+     "pos": "75% 10%"
+    },
+    {
+     "img": "dalton-tld-esmoquin",
+     "bn": true,
+     "pos": "22% 25%"
+    },
+    {
+     "img": "brosnan-retrato",
+     "bn": true,
+     "pos": "50% 22%"
+    },
+    {
+     "img": "craig-casino-esmoquin",
+     "bn": true,
+     "pos": "50% 22%"
+    }
+   ]
+  }
+ }
+]

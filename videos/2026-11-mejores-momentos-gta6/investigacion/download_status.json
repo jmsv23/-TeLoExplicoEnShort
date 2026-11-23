@@ -1,0 +1,51 @@
+[
+  {
+    "label": "01_es_streamers",
+    "url": "https://www.youtube.com/watch?v=6wA7C9ooKUc",
+    "status": "downloaded",
+    "title": "GTA 6: los MEJORES MOMENTOS de RUBIUS, ILLOJUAN, WILLYREX, ALEXBY y más 😂🔥",
+    "duration": 1054,
+    "channel": "Janito"
+  },
+  {
+    "label": "02_en_streamers",
+    "url": "https://www.youtube.com/watch?v=xrWAL5ZhFiQ",
+    "status": "downloaded",
+    "title": "GTA 6 WENT TOO FAR 😱 Kai Cenat, IShowSpeed, xQc, caseoh, LIRIK & ohnePixel React | Vantis Clips",
+    "duration": 633,
+    "channel": "Vantis - GTA6 Clips"
+  },
+  {
+    "label": "03_en_launch",
+    "url": "https://www.youtube.com/watch?v=uSgJ0C6eViI",
+    "status": "downloaded",
+    "title": "Kai Cenat, Asmongold & CaseOh: Best GTA 6 Stream Moments (Nov 19)",
+    "duration": 306,
+    "channel": "Neighborhood Streamers"
+  },
+  {
+    "label": "04_rubius",
+    "url": "https://www.youtube.com/watch?v=ndt7erSfBhw",
+    "status": "downloaded",
+    "title": "¡RUBIUS SUBE A LO MÁS ALTO DE GTA 6! | RUBIUS JUEGA GTA VI: Mejores momentos",
+    "duration": 1054,
+    "channel": "rubiusclips"
+  },
+  {
+    "label": "05_caseoh",
+    "url": "https://www.youtube.com/watch?v=1UYqV49-L5Y",
+    "status": "downloaded",
+    "title": "Best of CaseOh GTA 6! (Funny Moments)",
+    "duration": 915,
+    "channel": "QuickCase"
+  },
+  {
+    "label": "06_kick_adin",
+    "url": "https://kick.com/adinross/clips/clip_01M7RP0WZYS0W8VVWWZ4CR5M7B",
+    "status": "downloaded",
+    "title": "etaztjgzyhrfxsj",
+    "duration": 29.0,
+    "channel": "adinross",
+    "note": "Retried successfully with best format because source does not advertise height"
+  }
+]

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jost;src:url(../hf-largo/assets/fonts/Jost.ttf);font-weight:100 900}
+@font-face{font-family:Mono;src:url(../hf-largo/assets/fonts/JetBrainsMono.ttf);font-weight:100 900}
+@font-face{font-family:Corm;src:url(../hf-largo/assets/fonts/CormorantGaramond-Italic.ttf);font-style:italic}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1280px;height:720px;overflow:hidden;background:#07070a}
+.st{position:relative;width:1280px;height:720px;overflow:hidden;font-family:Jost,sans-serif;color:#ece6da;
+  background:radial-gradient(ellipse at 70% 50%,#1b1b21 0%,#07070a 65%)}
+.hero{position:absolute;right:-40px;top:0;width:560px;height:720px;object-fit:cover;object-position:62% 35%}
+.herofade{position:absolute;right:0;top:0;width:620px;height:720px;background:linear-gradient(90deg,#07070a 0%,rgba(7,7,10,.15) 30%,rgba(7,7,10,0) 60%)}
+.grid{position:absolute;left:44px;top:236px;display:grid;grid-template-columns:repeat(3,196px);gap:12px}
+.t{position:relative;width:196px;height:216px;overflow:hidden;border:1px solid rgba(200,164,92,.45)}
+.t img{width:100%;height:100%;object-fit:cover;object-position:50% 22%;filter:contrast(1.08)}
+.t span{position:absolute;left:50%;top:58%;transform:translate(-50%,-50%) rotate(-14deg);font-family:Mono,monospace;font-weight:800;
+  font-size:19px;letter-spacing:.08em;color:#e0453a;border:3px solid #e0453a;padding:6px 14px;background:rgba(7,7,10,.25);white-space:nowrap}
+.gold{background:linear-gradient(100deg,#9c7a3a 0%,#ecd59b 35%,#fff6dc 50%,#ecd59b 65%,#9c7a3a 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.head{position:absolute;left:44px;top:34px;width:760px}
+.ring{position:absolute;right:120px;bottom:70px;width:210px;height:210px;border-radius:50%;border:3px solid #c8a45c;display:flex;align-items:center;justify-content:center;
+  background:rgba(7,7,10,.55)}
+.vig{position:absolute;inset:0;box-shadow:inset 0 0 140px 30px rgba(0,0,0,.45)}
+</style></head><body>
+<div class="st">
+  <img class="hero" src="../hf-largo/assets/img/pattinson-007-primera-imagen.jpg">
+  <div class="herofade"></div>
+  <div class="head">
+    <div style="font-size:84px;font-weight:300;letter-spacing:.04em;line-height:1">LOS ODIARON</div>
+    <div style="display:flex;align-items:baseline;gap:22px">
+      <div class="gold" style="font-size:132px;font-weight:800;letter-spacing:.02em;line-height:1;padding-right:8px">A TODOS</div>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="t"><img src="../hf-largo/assets/img/connery-drno-esmoquin-bn.jpg"><span>RECHAZADO</span></div>
+    <div class="t"><img src="../hf-largo/assets/img/lazenby-ohmss-bn.jpg" style="object-position:40% 20%"><span>RECHAZADO</span></div>
+    <div class="t"><img src="../hf-largo/assets/img/moore-silla-007-bn.jpg" style="object-position:75% 10%"><span>RECHAZADO</span></div>
+    <div class="t"><img src="../hf-largo/assets/img/dalton-tld-esmoquin-bn.jpg" style="object-position:22% 25%"><span>RECHAZADO</span></div>
+    <div class="t"><img src="../hf-largo/assets/img/brosnan-retrato-bn.jpg"><span>RECHAZADO</span></div>
+    <div class="t"><img src="../hf-largo/assets/img/craig-casino-esmoquin-bn.jpg"><span>RECHAZADO</span></div>
+  </div>
+  <div class="ring"><div style="text-align:center"><div class="gold" style="font-size:92px;font-weight:800;line-height:.9">¿7º?</div></div></div>
+  <div class="vig"></div>
+</div>
+</body></html>

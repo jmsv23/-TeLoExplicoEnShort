@@ -1,0 +1,52 @@
+[
+ {
+  "id": "miniatura-A",
+  "pieza": "largo",
+  "layout": "hero",
+  "datos": {
+   "img": {
+    "img": "scarlett-ironman2-pose",
+    "pos": "50% 20%"
+   },
+   "kick": "TOP 5 · MCU",
+   "l1": "¿LA MÁS",
+   "l2": "SEXY",
+   "sub": "del MCU?",
+   "top": 52,
+   "ancho": 600,
+   "fila": [
+    {
+     "img": "zoe-oscar-perfil",
+     "pos": "45% 20%"
+    },
+    {
+     "img": "portman-cannes",
+     "pos": "50% 12%"
+    },
+    {
+     "img": "zendaya-metgala-flores",
+     "pos": "78% 22%"
+    },
+    {
+     "img": "olsen-corona-retrato"
+    }
+   ],
+   "fila_q": "?"
+  }
+ },
+ {
+  "id": "portada-short-01",
+  "pieza": "short-01",
+  "layout": "portada",
+  "datos": {
+   "img": {
+    "img": "scarlett-oscar-2025",
+    "pos": "50% 20%"
+   },
+   "kick": "TOP 5 MARVEL",
+   "l1": "Nº 1",
+   "l2": "NADIE LE GANA",
+   "sello": "SCARLETT"
+  }
+ }
+]

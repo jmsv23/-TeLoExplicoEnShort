@@ -1,0 +1,5 @@
+- asi como lo hicimos para los videos de jamesbond y top 5 actrices, usa /home/jmsv23/projects/personal/content-creator/.agents/skills/search para buscar y conseguir todos los assets (videos, imagenes) para vestir el video, principalmente queremos clips de video donde sea posible
+- tenemos que definir una estetica del video apropiada para gta el tema es tan grande que vale la pena crear su propia estetica usando tipografia y colores del juego.
+- buscamos click bait recuerda eso cuando hagas titulos, descripciones y miniaturas, recuerda que para video largo siempre buscamos ab testing en minuaturas y titulos, lo importante es llamar la atencion
+- para el analisis de video puedes usar gemini como lo hiciste en james bond y top 5 actrices para generar un mapa y saber que puedes usar, siempre recordando la regla de que hagas 1 pasada para no gastar demasiados creditos lo demas lo puedes hacer tu analizando el video a 1fps para ahorrar tokens.
+- 

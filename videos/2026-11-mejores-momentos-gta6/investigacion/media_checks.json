@@ -1,0 +1,50 @@
+[
+  {
+    "file": "01_es_streamers_6wA7C9ooKUc.mp4",
+    "duration_seconds": 1053.837642,
+    "video_codec": "vp9",
+    "audio_codec": "aac",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "02_en_streamers_xrWAL5ZhFiQ.mp4",
+    "duration_seconds": 633.486803,
+    "video_codec": "av1",
+    "audio_codec": "aac",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "03_en_launch_uSgJ0C6eViI.mp4",
+    "duration_seconds": 306.480181,
+    "video_codec": "av1",
+    "audio_codec": "aac",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "04_rubius_ndt7erSfBhw.mp4",
+    "duration_seconds": 1054.4878,
+    "video_codec": "av1",
+    "audio_codec": "aac",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "05_caseoh_1UYqV49-L5Y.mp4",
+    "duration_seconds": 914.982313,
+    "video_codec": "av1",
+    "audio_codec": "aac",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "06_kick_adin_clip_01M7RP0WZYS0W8VVWWZ4CR5M7B.mp4",
+    "duration_seconds": 29.984333,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "width": 1920,
+    "height": 1080
+  }
+]

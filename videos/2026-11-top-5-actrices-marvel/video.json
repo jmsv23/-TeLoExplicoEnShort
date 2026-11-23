@@ -1,0 +1,38 @@
+{
+ "titulo": "Top 5 actrices de Marvel",
+ "fecha": "2026-11-20",
+ "formato": "largo+short",
+ "estilo": "portada",
+ "voz": null,
+ "serie": null,
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo"
+  },
+  {
+   "id": "short-01",
+   "tipo": "short"
+  }
+ ],
+ "musica": {
+  "tema": "portada-runway.wav",
+  "fondo": "portada-fondo.wav",
+  "largo": {
+   "fondo_desde": "n5",
+   "gain_fondo": -15
+  }
+ },
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/top-5-actrices-marvel-mas-guapas"
+}

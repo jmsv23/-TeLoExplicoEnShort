@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jost;src:url(../hf-largo/assets/fonts/Jost.ttf);font-weight:100 900}
+@font-face{font-family:Mono;src:url(../hf-largo/assets/fonts/JetBrainsMono.ttf);font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#07070a}
+.st{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:Jost,sans-serif;color:#ece6da}
+.hero{position:absolute;left:0;top:0;width:1080px;height:1240px;object-fit:cover;object-position:66% 30%}
+.fade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(7,7,10,0) 0%,rgba(7,7,10,0) 42%,rgba(7,7,10,.7) 58%,#07070a 66%,#07070a 100%)}
+.gold{background:linear-gradient(100deg,#9c7a3a 0%,#ecd59b 35%,#fff6dc 50%,#ecd59b 65%,#9c7a3a 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.txt{position:absolute;left:60px;right:60px;top:1110px;text-align:center}
+.k{font-family:Mono,monospace;font-size:34px;letter-spacing:.32em;color:#ecd59b}
+.sello{display:inline-block;margin-top:26px;font-family:Mono,monospace;font-weight:800;font-size:66px;letter-spacing:.08em;color:#e0453a;
+  border:6px solid #e0453a;padding:10px 34px;transform:rotate(-5deg);background:rgba(7,7,10,.35)}
+.row{position:absolute;left:0;right:0;bottom:110px;display:flex;justify-content:center;gap:12px}
+.row div{width:112px;height:150px;overflow:hidden;border:1px solid rgba(200,164,92,.5)}
+.row img{width:100%;height:100%;object-fit:cover;object-position:50% 22%}
+</style></head><body>
+<div class="st">
+  <img class="hero" src="../hf-largo/assets/img/pattinson-007-primera-imagen.jpg">
+  <div class="fade"></div>
+  <div class="txt">
+    <div class="k">OFICIAL · NUEVO 007</div>
+    <div style="font-size:96px;font-weight:300;letter-spacing:.04em;line-height:1;margin-top:26px;white-space:nowrap">TENEMOS NUEVO</div>
+    <div class="gold" style="font-size:128px;font-weight:800;letter-spacing:.01em;line-height:1.05;white-space:nowrap;display:inline-block;padding:0 10px">JAMES BOND</div>
+    <div class="sello">¿LO ODIAN?</div>
+  </div>
+  <div class="row">
+    <div><img src="../hf-largo/assets/img/connery-drno-esmoquin-bn.jpg"></div>
+    <div><img src="../hf-largo/assets/img/lazenby-ohmss-bn.jpg" style="object-position:40% 20%"></div>
+    <div><img src="../hf-largo/assets/img/moore-silla-007-bn.jpg" style="object-position:75% 10%"></div>
+    <div><img src="../hf-largo/assets/img/dalton-tld-esmoquin-bn.jpg" style="object-position:22% 25%"></div>
+    <div><img src="../hf-largo/assets/img/brosnan-retrato-bn.jpg"></div>
+    <div><img src="../hf-largo/assets/img/craig-casino-esmoquin-bn.jpg"></div>
+  </div>
+</div>
+</body></html>

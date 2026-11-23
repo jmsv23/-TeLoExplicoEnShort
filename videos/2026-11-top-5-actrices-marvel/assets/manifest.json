@@ -1,0 +1,737 @@
+{
+ "_nota": "Fuente de verdad de los assets. Los archivos se ignoran en git: ./tl assets fetch los vuelve a bajar y ./tl assets cortar los corta. pin=true → sin URL directa: respaldar con ./tl assets respaldar.",
+ "imagenes": [
+  {
+   "id": "doom-doomsday",
+   "archivo": "img/doom-doomsday.webp",
+   "url": "https://ew.com/thmb/2KFqFUawKToj5lhOoN3Z6Be49YI=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dr-doom-1-8d0c777b2992421da5053b0740f14760.jpg",
+   "pagina": "https://ew.com/visionquest-avengers-doomsday-post-credits-scene-elizabeth-olsen-scarlet-witch-return-12248438",
+   "fuente": "ew.com",
+   "pin": false
+  },
+  {
+   "id": "doomsday-poster-oficial",
+   "archivo": "img/doomsday-poster-oficial.jpg",
+   "url": "https://lumiere-a.akamaihd.net/v1/images/abd0b671-bcb8-4444-a02e-00fdee5f16d9_974ef472.png?region=0,0,1058,1566",
+   "pagina": "https://press.disney.co.uk/news/marvel-studios-avengers-doomsday-debuts-new-trailer-and-poster",
+   "fuente": "press.disney.co.uk",
+   "pin": false
+  },
+  {
+   "id": "doomsday-poster-teaser",
+   "archivo": "img/doomsday-poster-teaser.jpg",
+   "url": "https://i.ebayimg.com/images/g/wxkAAeSwS~JqX5GV/s-l1600.jpg",
+   "pagina": "https://www.ebay.com/itm/366556535348",
+   "fuente": "ebay.com",
+   "pin": false
+  },
+  {
+   "id": "kirby-sue-2",
+   "archivo": "img/kirby-sue-2.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/vanessa-kirby-s-sue-storm-looking-determined-in-the-fantastic-four-first-steps.jpg?q=49&fit=contain&w=2000&h=1000&dpr=2",
+   "pagina": "https://screenrant.com/fantastic-four-vanessa-kirby-sue-storm-malice-mcu/",
+   "fuente": "screenrant.com",
+   "pin": false
+  },
+  {
+   "id": "kirby-sue",
+   "archivo": "img/kirby-sue.jpg",
+   "url": "https://statico.soapcentral.com/editor/2025/07/0203a-17535369515413.jpg",
+   "pagina": "https://www.soapcentral.com/entertainment/7-sue-storm-moments-fantastic-four-first-steps-will-make-fall-love-vanessa-kirby",
+   "fuente": "soapcentral.com",
+   "pin": false
+  },
+  {
+   "id": "larson-carol",
+   "archivo": "img/larson-carol.jpg",
+   "url": "https://ew.com/thmb/dJYCcQlBGQ-gIfB4xbPn1_yylOQ=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/opw-15891_r-2000-dfc1604afd6f498ab245034931dd8ed7.jpg",
+   "pagina": "https://ew.com/movies/2018/09/05/brie-larson-captain-marvel-interview/",
+   "fuente": "ew.com",
+   "pin": false
+  },
+  {
+   "id": "larson-poster",
+   "archivo": "img/larson-poster.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BODlhOGM4MGMtYjBjMi00MWQ2LTk4OWUtYzQ2YzE0NWZkODlkXkEyXkFqcGdeQW1yb3NzZXI@.jpg",
+   "pagina": "https://www.imdb.com/title/tt4154664/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-bruja-corona",
+   "archivo": "img/olsen-bruja-corona.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BYmM2YmNlY2YtNTNmMy00NzIwLWJlYWQtMjg4YjhmYWRkYTYyXkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt9419884/characters/nm0647634/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-bruja-darkhold",
+   "archivo": "img/olsen-bruja-darkhold.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BYmM2YmNlY2YtNTNmMy00NzIwLWJlYWQtMjg4YjhmYWRkYTYyXkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt9419884/characters/nm0647634/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-cannes-rosa",
+   "archivo": "img/olsen-cannes-rosa.jpg",
+   "url": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2021/01/GettyImages-524622572.jpg",
+   "pagina": "https://graziamagazine.com/us/articles/wandavision-elizabeth-olsen-red-carpet-fashion/",
+   "fuente": "graziamagazine.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-con-hermanas",
+   "archivo": "img/olsen-con-hermanas.webp",
+   "url": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0Y2Q3NGFjYzFkMGE5OWYzYS9ibHRkYzk0NDU0Yjk0NzA2YTRjLzY3ZTgwOGM5NDRhZjJhMGRiNjM0ZmYwMS9vbHNlbi1zaXN0ZXJzLmpwZw.webp",
+   "pagina": "https://www.ladbible.com/entertainment/celebrity/elizabeth-olsen-sisters-mary-kate-ashley-admission-329154-20250329",
+   "fuente": "ladbible.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-corona-retrato",
+   "archivo": "img/olsen-corona-retrato.webp",
+   "url": "https://ew.com/thmb/2KFqFUawKToj5lhOoN3Z6Be49YI=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dr-doom-1-8d0c777b2992421da5053b0740f14760.jpg",
+   "pagina": "https://ew.com/visionquest-avengers-doomsday-post-credits-scene-elizabeth-olsen-scarlet-witch-return-12248438",
+   "fuente": "ew.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-critics-vino",
+   "archivo": "img/olsen-critics-vino.webp",
+   "url": "https://www.instyle.com/thmb/eexiFQF0Yfj9Zr2vpj_bSJ-wxQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-686028566-51773a5cd0284b3d9b673f40c521812c.jpg",
+   "pagina": "https://www.instyle.com/elizabeth-olsen-red-carpet-7969992",
+   "fuente": "instyle.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-wanda-promo",
+   "archivo": "img/olsen-wanda-promo.jpg",
+   "url": "https://i.redd.it/96xevkrp78zf1.jpg",
+   "pagina": "https://www.reddit.com/r/ScarletWitch/comments/1oo5349/promotional_photoshoot_of_elizabeth_as/",
+   "fuente": "reddit.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-wanda-ultron",
+   "archivo": "img/olsen-wanda-ultron.jpg",
+   "url": "https://i.pinimg.com/originals/66/e8/83/66e883a001ce55c71a9b5105114edebd.jpg",
+   "pagina": "https://www.pinterest.com/ideas/elizabeth-olsen-age-of-ultron/900630786996/",
+   "fuente": "pinterest.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-wandavision-cocina",
+   "archivo": "img/olsen-wandavision-cocina.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BNDY2MTRhZjItNDIxYi00MmQ3LTkwZjctZDZhZDQxNTM2N2Y0XkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt9140560/characters/nm0647634/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "olsen-wandavision-traje",
+   "archivo": "img/olsen-wandavision-traje.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BNDY2MTRhZjItNDIxYi00MmQ3LTkwZjctZDZhZDQxNTM2N2Y0XkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt9140560/characters/nm0647634/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "portman-cannes",
+   "archivo": "img/portman-cannes.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/TAZbYs9VkghxoNKAXB2oxi.jpg",
+   "pagina": "https://www.marieclaire.com/fashion/natalie-portman-cannes-film-festival-red-carpet-dior-gown/",
+   "fuente": "marieclaire.com",
+   "pin": false
+  },
+  {
+   "id": "portman-cisne-negro",
+   "archivo": "img/portman-cisne-negro.webp",
+   "url": "https://numero.com/wp-content/uploads/2024/07/19487915.webp",
+   "pagina": "https://numero.com/en/culture-en/movies/natalie-portmans-best-roles-the-compelling-actress-behind-jackie/",
+   "fuente": "numero.com",
+   "pin": false
+  },
+  {
+   "id": "portman-comiccon-martillo",
+   "archivo": "img/portman-comiccon-martillo.jpg",
+   "url": "https://www.syfy.com/sites/syfy/files/gettyimages-1163270461.jpg",
+   "pagina": "https://www.syfy.com/syfy-wire/natalie-portman-plot-points-thor-love-and-thunder",
+   "fuente": "syfy.com",
+   "pin": false
+  },
+  {
+   "id": "portman-harvard-2015",
+   "archivo": "img/portman-harvard-2015.jpg",
+   "url": "https://www.nydailynews.com/wp-content/uploads/migration/2015/05/28/X2ZY4HYBFCAO5T6ZJHBOGJMSOA.jpg",
+   "pagina": "https://www.nydailynews.com/2015/05/28/natalie-portman-talks-dark-moments-during-harvard-commencement-speech-says-she-had-to-prove-she-wasnt-just-a-dumb-actress/",
+   "fuente": "nydailynews.com",
+   "pin": false
+  },
+  {
+   "id": "portman-jane-2011",
+   "archivo": "img/portman-jane-2011.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BMTAxZjQwZWMtZWVhZC00MDljLWFhN2EtN2RmMjJkNGIzNjUyXkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt0800369/characters/nm0000204/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "portman-jane-thor",
+   "archivo": "img/portman-jane-thor.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BMTAxZjQwZWMtZWVhZC00MDljLWFhN2EtN2RmMjJkNGIzNjUyXkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt0800369/characters/nm0000204/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "portman-mighty-con-thor",
+   "archivo": "img/portman-mighty-con-thor.webp",
+   "url": "https://people.com/thmb/djez-y1d11YFrE5gtYXPBZ0e3TM=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(839x465:841x467):format(webp)/Thor-Love-and-Thunder-ba907a09be2b4bb9aae2134d3d5dede7.jpg",
+   "pagina": "https://people.com/health/natalie-portman-thor-love-and-thunder-fitness-bulking-up-sexualization-young-age/",
+   "fuente": "people.com",
+   "pin": false
+  },
+  {
+   "id": "portman-mighty-cuerpo",
+   "archivo": "img/portman-mighty-cuerpo.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BYTk1YWJjY2MtYjVjNC00OWFhLWFhN2MtZTg4NGFiMGExMzc1XkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt10648342/characters/nm0000204/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "portman-mighty-trono",
+   "archivo": "img/portman-mighty-trono.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BYTk1YWJjY2MtYjVjNC00OWFhLWFhN2MtZTg4NGFiMGExMzc1XkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt10648342/characters/nm0000204/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "portman-oscar-2011",
+   "archivo": "img/portman-oscar-2011.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BMTY2NDQ1OTMyNV5BMl5BanBnXkFtZTcwNzU5MDc1NA@@._V1_QL75_UX820_.jpg",
+   "pagina": "https://www.imdb.com/list/ls000256646/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "pugh-scarlett-hermanas",
+   "archivo": "img/pugh-scarlett-hermanas.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/KaSXd9JsLyjSbNEg3Mzff7.jpg",
+   "pagina": "https://www.gamesradar.com/black-widow-avengers-endgame-scarlett-johansson/",
+   "fuente": "gamesradar.com",
+   "pin": false
+  },
+  {
+   "id": "pugh-yelena",
+   "archivo": "img/pugh-yelena.jpg",
+   "url": "https://i.pinimg.com/originals/f4/6f/56/f46f560e91eaf5130ab51bf6e43c3a2e.jpg",
+   "pagina": "https://www.pinterest.com/ideas/florence-pugh-thunderbolts/936162030439/",
+   "fuente": "pinterest.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-blackwidow-2021",
+   "archivo": "img/scarlett-blackwidow-2021.webp",
+   "url": "https://people.com/thmb/yD61ek7xMTXH7Io0Vrup3GLqDgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2):format(webp)/black-widow-6b66ccb442834cc983ac008367d4cc4c.jpg",
+   "pagina": "https://people.com/scarlett-johansson-confirms-black-widow-dead-let-it-go-11694883",
+   "fuente": "people.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-cannes-alfombra",
+   "archivo": "img/scarlett-cannes-alfombra.jpg",
+   "url": "https://parade.com/.image/ODowMDAwMDAwMDAwNzEwMjI4/un-simple-accident-red-carpet-the-78th-annual-cannes-film-festival.jpg?profile=w2560&x=50&y=50",
+   "pagina": "https://parade.com/news/scarlett-johanssons-cannes-red-carpet-moment-with-husband-colin-jost-was-pure-rom-com-magic",
+   "fuente": "parade.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-endgame-vormir",
+   "archivo": "img/scarlett-endgame-vormir.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2022/12/scarlett-johansson-as-black-widow-in-avengers-endgame.jpg?q=49&fit=contain&w=2000&h=1000&dpr=2",
+   "pagina": "https://screenrant.com/black-widow-mcu-scarlett-johansson-hawkeye-regrets-reveal/",
+   "fuente": "screenrant.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-esquire-2013",
+   "archivo": "img/scarlett-esquire-2013.jpg",
+   "url": "https://i.pinimg.com/originals/17/6a/3b/176a3be55f23cf910b32143ff06ffc73.jpg",
+   "pagina": "https://www.pinterest.com/pin/186336503322798474/",
+   "fuente": "pinterest.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-ironman2-pasillo",
+   "archivo": "img/scarlett-ironman2-pasillo.jpg",
+   "url": "https://i.pinimg.com/originals/7c/d3/a2/7cd3a20528db7f6f17b6dd0c931bd79e.jpg",
+   "pagina": "https://www.pinterest.com/ideas/ironman-2-scarlett-johansson/955719150685/",
+   "fuente": "pinterest.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-ironman2-pose-h",
+   "archivo": "img/scarlett-ironman2-pose-h.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/f7j9gqm3ZdWBeTFLPJyaFE.jpg",
+   "pagina": "https://www.gamesradar.com/scarlett-johansson-iron-man-2-turned-down/",
+   "fuente": "gamesradar.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-ironman2-pose",
+   "archivo": "img/scarlett-ironman2-pose.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BMTA0OTQwMDc1NTReQTJeQWpwZ15BbWU3MDg4MzA5NzI@.jpg",
+   "pagina": "https://www.imdb.com/title/tt1228705/characters/nm0424060/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-jurassic-rebirth",
+   "archivo": "img/scarlett-jurassic-rebirth.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BNjJjNWUyYzctN2Q1Zi00MDdhLWIxMWQtYzFhZDZlNGY3MTBmXkEyXkFqcGc@.jpg",
+   "pagina": "https://www.imdb.com/title/tt31036941/characters/nm0424060",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-natasha-avengers",
+   "archivo": "img/scarlett-natasha-avengers.jpg",
+   "url": "https://i.pinimg.com/originals/4f/f0/f8/4ff0f86cc85183affd451cff7e852f30.jpg",
+   "pagina": "https://in.pinterest.com/karthik272/natasha-romanoff/",
+   "fuente": "in.pinterest.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-natasha-retrato",
+   "archivo": "img/scarlett-natasha-retrato.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BNjkyOTAwNTE2M15BMl5BanBnXkFtZTgwOTIwMjQ0NTE@.jpg",
+   "pagina": "https://www.imdb.com/title/tt2395427/characters/nm0424060/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-natasha-ultron",
+   "archivo": "img/scarlett-natasha-ultron.jpg",
+   "url": "https://m.media-amazon.com/images/M/MV5BNjkyOTAwNTE2M15BMl5BanBnXkFtZTgwOTIwMjQ0NTE@.jpg",
+   "pagina": "https://www.imdb.com/title/tt2395427/characters/nm0424060/",
+   "fuente": "imdb.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-oscar-2025-cuerpo",
+   "archivo": "img/scarlett-oscar-2025-cuerpo.jpg",
+   "url": "https://people.com/thmb/YQTzvQXRb5wF2oUelQ-Fx2Umne8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/scarlett-johansson-2025-oscars-030225-1-15bf4063c6bd44d1a7a98ef075fcabb3.jpg",
+   "pagina": "https://people.com/2025-oscars-scarlett-johansson-vintage-gown-diamond-necklace-red-carpet-photos-11687243",
+   "fuente": "people.com",
+   "pin": false
+  },
+  {
+   "id": "scarlett-oscar-2025",
+   "archivo": "img/scarlett-oscar-2025.jpg",
+   "url": "https://people.com/thmb/YQTzvQXRb5wF2oUelQ-Fx2Umne8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/scarlett-johansson-2025-oscars-030225-1-15bf4063c6bd44d1a7a98ef075fcabb3.jpg",
+   "pagina": "https://people.com/2025-oscars-scarlett-johansson-vintage-gown-diamond-necklace-red-carpet-photos-11687243",
+   "fuente": "people.com",
+   "pin": false
+  },
+  {
+   "id": "steinfeld-kate-arco",
+   "archivo": "img/steinfeld-kate-arco.jpg",
+   "url": "https://graziamagazine.com/us/wp-content/uploads/sites/15/2021/11/cmb2490_103_trl_v126_0a28978b-e1637774927576.jpeg?w=1024",
+   "pagina": "https://graziamagazine.com/us/articles/hawkeye-marvel-disney-hailee-steinfeld/",
+   "fuente": "graziamagazine.com",
+   "pin": false
+  },
+  {
+   "id": "steinfeld-kate-vertical",
+   "archivo": "img/steinfeld-kate-vertical.jpg",
+   "url": "https://cdn.marvel.com/content/2x/apt-106-13840_r_opt.webp",
+   "pagina": "https://www.marvel.com/articles/culture-lifestyle/behind-the-scenes-of-marvel-studios-hawkeye-with-hailee-steinfeld",
+   "fuente": "marvel.com",
+   "pin": false
+  },
+  {
+   "id": "visionquest-wanda-revive",
+   "archivo": "img/visionquest-wanda-revive.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/Xz2E6UhMFdChuPKHaaiQx3.jpg",
+   "pagina": "https://www.cinemablend.com/movies/major-avengers-return-scarlet-witch-set-up-visionquest-have-another-doomsday-question",
+   "fuente": "cinemablend.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-holland-bnd",
+   "archivo": "img/zendaya-holland-bnd.jpg",
+   "url": "https://ew.com/thmb/8VpIPd___El0A84fgiE2PUv3UKI=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/tom-zendaya-2-1551886c888c4a0293d59d7294d98b9e.jpg",
+   "pagina": "https://ew.com/tom-holland-and-zendaya-walk-first-red-carpet-together-since-marriage-speculation-11998159",
+   "fuente": "ew.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-holland-premiere",
+   "archivo": "img/zendaya-holland-premiere.jpg",
+   "url": "https://hips.hearstapps.com/hmg-prod/images/582ffed0-e47a-4912-ba0e-c314b6fab34c.jpeg?crop=1xw:1xh;center,top",
+   "pagina": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71678168/every-zendaya-tom-holland-red-carpet-appearance-photos/",
+   "fuente": "harpersbazaar.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-metgala-2024",
+   "archivo": "img/zendaya-metgala-2024.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/hiCtg2bpCqxypuqfLDqHCa.jpg",
+   "pagina": "https://www.whowhatwear.com/fashion/celebrity-style/zendaya-met-gala-2024",
+   "fuente": "whowhatwear.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-metgala-azul",
+   "archivo": "img/zendaya-metgala-azul.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/CHFuhjWdNmLrrfnGjwd2PB.jpg",
+   "pagina": "https://www.marieclaire.com/fashion/zendaya-met-gala-2025-red-carpet-look-photo/",
+   "fuente": "marieclaire.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-metgala-flores",
+   "archivo": "img/zendaya-metgala-flores.webp",
+   "url": "https://static.time.com/v3/assets/bltea6093859af6183b/blt04fc8d8fb3dd7753/698a5679cabb1d2e41e54192/met-gala-2024-zendaya-second-look-2.jpg?branch=production&width=3840&quality=75&auto=webp&crop=3:2",
+   "pagina": "https://time.com/6975121/zendaya-met-gala-2024/",
+   "fuente": "time.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-mj-bnd",
+   "archivo": "img/zendaya-mj-bnd.webp",
+   "url": "https://ew.com/thmb/Ra46hTWOqgI2rXm2-HQ0VQNiwX0=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Zendaya-Spider-Man-Brand-New-Day-072826-800b0797ac4643bcb91eb2b6c579e69f.jpg",
+   "pagina": "https://ew.com/zendaya-mj-pass-spider-man-brand-new-day-script-12028408",
+   "fuente": "ew.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-mj-homecoming",
+   "archivo": "img/zendaya-mj-homecoming.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/ctgDJePE2NrsMvF4euB5jB.jpg",
+   "pagina": "https://www.gamesradar.com/zendaya-didnt-know-she-was-auditioning-for-mj-in-spider-man-homecoming/",
+   "fuente": "gamesradar.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-mj-nwh",
+   "archivo": "img/zendaya-mj-nwh.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/vBG2BqHApagNH3Mgte5kNP.jpg",
+   "pagina": "https://www.cinemablend.com/news/2455263/zendaya-was-really-surprised-about-her-spider-man-homecoming-role",
+   "fuente": "cinemablend.com",
+   "pin": false
+  },
+  {
+   "id": "zendaya-mj-spiderman",
+   "archivo": "img/zendaya-mj-spiderman.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/04/zendaya-and-tom-holland-in-spider-man-no-way-home.jpg?q=49&fit=crop&w=825&dpr=2",
+   "pagina": "https://screenrant.com/spider-man-brand-new-day-zendaya-real-mj-watson/",
+   "fuente": "screenrant.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-critics-rojo",
+   "archivo": "img/zoe-critics-rojo.jpg",
+   "url": "https://assets.vogue.com/photos/67a7276da6668a78c04c870b/master/w_1600,c_limit/zoe-saldana-con-vestido-saint-laurent-en-critics-choice-awards-2025.jpg",
+   "pagina": "https://www.vogue.com/article/zoe-saldana-red-saint-laurent-critics-choice-awards-2025",
+   "fuente": "vogue.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-gamora-nave",
+   "archivo": "img/zoe-gamora-nave.jpg",
+   "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/10/zoe-saldana-as-gamora-in-guardians-of-the-galaxy-vol-3.jpg?q=49&fit=crop&w=528&h=374&dpr=2",
+   "pagina": "https://movieweb.com/zoe-saldana-dislikes-make-up-mcu-role/",
+   "fuente": "movieweb.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-gamora-polaroid",
+   "archivo": "img/zoe-gamora-polaroid.jpg",
+   "url": "https://people.com/thmb/rRsDv0Dq1W9kLCDqLFIy8ypvA7Y=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/Marvel-Studios-Guardians-of-the-Galaxy-Volume-3-Official-Trailer-03-120122-f4e9ace6743f4dce8360580d438566a1.jpg",
+   "pagina": "https://people.com/movies/zoe-saldana-says-she-wont-reprise-gamora-role-after-guardians-vol-3-it-is-the-end-for-me/",
+   "fuente": "people.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-gamora-prueba-maquillaje",
+   "archivo": "img/zoe-gamora-prueba-maquillaje.jpg",
+   "url": "https://hips.hearstapps.com/hmg-prod/images/zoe-saldana-gamora-green-eyes-1623066749.jpg?resize=980:*",
+   "pagina": "https://www.digitalspy.com/movies/a36646226/guardians-of-the-galaxy-zoe-saldana-gamora-change/",
+   "fuente": "digitalspy.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-gamora-retrato",
+   "archivo": "img/zoe-gamora-retrato.jpg",
+   "url": "https://ew.com/thmb/WWFKO3OLbbMp8GTuTP3jrkowl4I=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Zoe-Saldana-Guardians-Of-The-Galaxy-102124-84c1917bb5bd4960bea0ba3dcc86dc09.jpg",
+   "pagina": "https://ew.com/zoe-saldana-wishes-she-could-reshoot-gamora-avengers-movies-8731370",
+   "fuente": "ew.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-gamora-set-croma",
+   "archivo": "img/zoe-gamora-set-croma.jpg",
+   "url": "https://www.trippinwithtara.com/wp-content/uploads/LUP-18811_R.jpg",
+   "pagina": "https://www.trippinwithtara.com/zoe-saldana-guardians-of-the-galaxy-vol-2-inteview/",
+   "fuente": "trippinwithtara.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-oscar-alfombra",
+   "archivo": "img/zoe-oscar-alfombra.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/sq9A3vomesXoXTHkiAf5QT.jpg",
+   "pagina": "https://www.marieclaire.com/fashion/zoe-saldana-saint-laurent-dress-oscars-2025-red-carpet/",
+   "fuente": "marieclaire.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-oscar-escenario",
+   "archivo": "img/zoe-oscar-escenario.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/jHGRQ5hwXPpu77qSk8uHLb.jpg",
+   "pagina": "https://www.marieclaire.com/culture/movies/2025-oscars-zoe-saldana-wins-best-supporting-actress/",
+   "fuente": "marieclaire.com",
+   "pin": false
+  },
+  {
+   "id": "zoe-oscar-perfil",
+   "archivo": "img/zoe-oscar-perfil.jpg",
+   "url": "https://www.rappler.com/tachyon/2025/03/2025-03-03T000021Z_415334404_HP1EL33000ITZ_RTRMADP_3_AWARDS-OSCARS-scaled.jpg",
+   "pagina": "https://www.rappler.com/entertainment/movies/oscars-red-carpet-photos-2025/",
+   "fuente": "rappler.com",
+   "pin": false
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "esc-gotg-idiotas",
+   "url": "https://www.youtube.com/watch?v=Jb_eKuD7IR0"
+  },
+  {
+   "id": "esc-gotg-rescate",
+   "url": "https://www.youtube.com/watch?v=S3wf3Pf_oEs"
+  },
+  {
+   "id": "esc-thor2-cachetada",
+   "url": "https://www.youtube.com/watch?v=HeNUnl17hg4"
+  },
+  {
+   "id": "esc-lovethunder-mighty",
+   "url": "https://www.youtube.com/watch?v=2aphoPK_IpI"
+  },
+  {
+   "id": "esc-homecoming-mj",
+   "url": "https://www.youtube.com/watch?v=_3UyRtHmaJc"
+  },
+  {
+   "id": "esc-homecoming-final",
+   "url": "https://www.youtube.com/watch?v=i_Wgp5DsJT4"
+  },
+  {
+   "id": "esc-endgame-wanda",
+   "url": "https://www.youtube.com/watch?v=Pz6PiGzUhDQ"
+  },
+  {
+   "id": "esc-iw-wanda-wakanda",
+   "url": "https://www.youtube.com/watch?v=tb8-ZyqNUWQ"
+  },
+  {
+   "id": "esc-avengers-interrogatorio",
+   "url": "https://www.youtube.com/watch?v=JyyGJk51n-0"
+  },
+  {
+   "id": "esc-ironman2-pasillo",
+   "url": "https://www.youtube.com/watch?v=0lZYKVl49Ac"
+  },
+  {
+   "id": "esc-homecoming-callmemj",
+   "url": "https://www.youtube.com/watch?v=EwP5axvqkDM"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "zoe-idiotas",
+   "fuente": "esc-gotg-idiotas",
+   "inicio": 0.0,
+   "fin": 3.97,
+   "tipo": "voz",
+   "bloque": "5 Zoe",
+   "zoom": 1.55,
+   "nota": "\"I'm gonna die surrounded by the biggest idiots in the galaxy\". 720p con subtítulo quemado: zoom 1.55 lo saca"
+  },
+  {
+   "id": "zoe-gamora-rostro",
+   "fuente": "esc-gotg-rescate",
+   "inicio": 133.0,
+   "fin": 136.5,
+   "tipo": "broll",
+   "bloque": "5 Zoe",
+   "zoom": 1.0,
+   "nota": "primer plano de Gamora en la oscuridad"
+  },
+  {
+   "id": "zoe-gamora-flotando",
+   "fuente": "esc-gotg-rescate",
+   "inicio": 4.0,
+   "fin": 7.0,
+   "tipo": "broll",
+   "bloque": "5 Zoe",
+   "zoom": 1.0,
+   "nota": "Gamora flotando en el espacio"
+  },
+  {
+   "id": "portman-eat-my-hammer",
+   "fuente": "esc-lovethunder-mighty",
+   "inicio": 261.0,
+   "fin": 266.0,
+   "tipo": "voz",
+   "bloque": "4 Portman",
+   "zoom": 1.0,
+   "nota": "\"Eat my hammer!\" y el rayo"
+  },
+  {
+   "id": "portman-mighty-grito",
+   "fuente": "esc-lovethunder-mighty",
+   "inicio": 254.6,
+   "fin": 258.6,
+   "tipo": "broll",
+   "bloque": "4 Portman",
+   "zoom": 1.0,
+   "nota": "Jane grita con el martillo y lo lanza"
+  },
+  {
+   "id": "portman-transformacion",
+   "fuente": "esc-lovethunder-mighty",
+   "inicio": 120.5,
+   "fin": 124.5,
+   "tipo": "broll",
+   "bloque": "4 Portman",
+   "zoom": 1.0,
+   "nota": "el martillo llega y aparece la Poderosa Thor"
+  },
+  {
+   "id": "portman-cachetada-loki",
+   "fuente": "esc-thor2-cachetada",
+   "inicio": 2.4,
+   "fin": 4.0,
+   "tipo": "voz-alt",
+   "bloque": "4 Portman",
+   "zoom": 1.0,
+   "nota": "\"That's for New York\". Fuente meme vertical con texto: solo si se recorta la banda de película"
+  },
+  {
+   "id": "zendaya-call-me-mj",
+   "fuente": "esc-homecoming-callmemj",
+   "inicio": 9.0,
+   "fin": 12.0,
+   "tipo": "voz",
+   "bloque": "3 Zendaya",
+   "zoom": 1.0,
+   "nota": "\"Thank you. My friends call me MJ.\" (desde 12 s hay un meme de The Office: no pasar)"
+  },
+  {
+   "id": "zendaya-lame-party",
+   "fuente": "esc-homecoming-mj",
+   "inicio": 0.0,
+   "fin": 5.9,
+   "tipo": "voz",
+   "bloque": "3 Zendaya",
+   "zoom": 1.15,
+   "nota": "\"Can't believe you're at this lame party\" / \"But you're here too\" / \"Am I?\". Subtítulo quemado: zoom"
+  },
+  {
+   "id": "olsen-took-everything",
+   "fuente": "esc-endgame-wanda",
+   "inicio": 4.5,
+   "fin": 10.4,
+   "tipo": "voz",
+   "bloque": "2 Olsen",
+   "zoom": 1.0,
+   "nota": "\"You took everything from me\" / \"I don't even know who you are\""
+  },
+  {
+   "id": "olsen-levitando",
+   "fuente": "esc-endgame-wanda",
+   "inicio": 13.0,
+   "fin": 17.5,
+   "tipo": "broll",
+   "bloque": "2 Olsen",
+   "zoom": 1.0,
+   "nota": "Wanda se eleva con poder rojo"
+  },
+  {
+   "id": "olsen-wakanda-poder",
+   "fuente": "esc-iw-wanda-wakanda",
+   "inicio": 6.0,
+   "fin": 10.5,
+   "tipo": "broll",
+   "bloque": "2 Olsen",
+   "zoom": 1.0,
+   "nota": "Wanda destroza a las bestias en Wakanda"
+  },
+  {
+   "id": "olsen-wakanda-okoye",
+   "fuente": "esc-iw-wanda-wakanda",
+   "inicio": 16.6,
+   "fin": 22.3,
+   "tipo": "voz-alt",
+   "bloque": "2 Olsen",
+   "zoom": 1.0,
+   "nota": "Wanda llega; Okoye: \"Why was she up there all this time?\""
+  },
+  {
+   "id": "scarlett-on-hold",
+   "fuente": "esc-avengers-interrogatorio",
+   "inicio": 132.5,
+   "fin": 140.5,
+   "tipo": "voz",
+   "bloque": "1 Scarlett",
+   "zoom": 1.22,
+   "nota": "\"Let me put you on hold\" y se libera de la silla. Subtítulo quemado: zoom"
+  },
+  {
+   "id": "scarlett-interrogatorio-moron",
+   "fuente": "esc-avengers-interrogatorio",
+   "inicio": 115.5,
+   "fin": 122.6,
+   "tipo": "voz-alt",
+   "bloque": "1 Scarlett",
+   "zoom": 1.22,
+   "nota": "\"I'm in the middle of an interrogation. This moron is giving me everything.\" (WhisperX corre ~17 s antes aquí: tiempos por subtítulo)"
+  },
+  {
+   "id": "scarlett-pasillo-camina",
+   "fuente": "esc-ironman2-pasillo",
+   "inicio": 107.0,
+   "fin": 113.0,
+   "tipo": "broll",
+   "bloque": "1 Scarlett",
+   "zoom": 1.0,
+   "nota": "Natasha avanza por el pasillo hacia cámara"
+  },
+  {
+   "id": "scarlett-pasillo-desliza",
+   "fuente": "esc-ironman2-pasillo",
+   "inicio": 43.0,
+   "fin": 46.5,
+   "tipo": "broll",
+   "bloque": "1 Scarlett",
+   "zoom": 1.0,
+   "nota": "barrida por el piso"
+  },
+  {
+   "id": "scarlett-pasillo-pose",
+   "fuente": "esc-ironman2-pasillo",
+   "inicio": 24.0,
+   "fin": 27.0,
+   "tipo": "broll",
+   "bloque": "1 Scarlett",
+   "zoom": 1.0,
+   "nota": "pose de pelea en el pasillo"
+  }
+ ]
+}

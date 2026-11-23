@@ -1,0 +1,197 @@
+{
+ "_nota": "Fuente de verdad de los assets. Los archivos se ignoran en git: ./tl assets fetch los vuelve a bajar y ./tl assets cortar los corta. pin=true → sin URL directa: respaldar con ./tl assets respaldar.",
+ "imagenes": [
+  {
+   "id": "explosion",
+   "archivo": "img/explosion.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "illo-cara",
+   "archivo": "img/illo-cara.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "illo-full",
+   "archivo": "img/illo-full.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "perro-18",
+   "archivo": "img/perro-18.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "perro-20",
+   "archivo": "img/perro-20.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "perro-22",
+   "archivo": "img/perro-22.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "salto",
+   "archivo": "img/salto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "01_es_streamers_6wA7C9ooKUc",
+   "url": "https://www.youtube.com/watch?v=6wA7C9ooKUc"
+  },
+  {
+   "id": "02_en_streamers_xrWAL5ZhFiQ",
+   "url": "https://www.youtube.com/watch?v=xrWAL5ZhFiQ"
+  },
+  {
+   "id": "03_en_launch_uSgJ0C6eViI",
+   "url": "https://www.youtube.com/watch?v=uSgJ0C6eViI"
+  },
+  {
+   "id": "04_rubius_ndt7erSfBhw",
+   "url": "https://www.youtube.com/watch?v=ndt7erSfBhw"
+  },
+  {
+   "id": "05_caseoh_1UYqV49-L5Y",
+   "url": "https://www.youtube.com/watch?v=1UYqV49-L5Y"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "illo-borra",
+   "fuente": "01_es_streamers_6wA7C9ooKUc",
+   "inicio": 80.0,
+   "fin": 120.6,
+   "tipo": "voz"
+  },
+  {
+   "id": "rubius-psico",
+   "fuente": "01_es_streamers_6wA7C9ooKUc",
+   "inicio": 489.5,
+   "fin": 519.0,
+   "tipo": "voz"
+  },
+  {
+   "id": "rubius-salto",
+   "fuente": "04_rubius_ndt7erSfBhw",
+   "inicio": 979.0,
+   "fin": 1006.0,
+   "tipo": "voz"
+  },
+  {
+   "id": "papa-gas",
+   "fuente": "02_en_streamers_xrWAL5ZhFiQ",
+   "inicio": 497.0,
+   "fin": 513.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "kai-techo",
+   "fuente": "03_en_launch_uSgJ0C6eViI",
+   "inicio": 202.0,
+   "fin": 220.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "speed-robo",
+   "fuente": "02_en_streamers_xrWAL5ZhFiQ",
+   "inicio": 116.0,
+   "fin": 137.0,
+   "tipo": "voz"
+  },
+  {
+   "id": "willy-coco",
+   "fuente": "01_es_streamers_6wA7C9ooKUc",
+   "inicio": 131.5,
+   "fin": 172.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "rubius-bigfoot",
+   "fuente": "04_rubius_ndt7erSfBhw",
+   "inicio": 458.5,
+   "fin": 486.0,
+   "tipo": "voz"
+  },
+  {
+   "id": "lirik-perro",
+   "fuente": "02_en_streamers_xrWAL5ZhFiQ",
+   "inicio": 235.5,
+   "fin": 263.0,
+   "tipo": "voz"
+  },
+  {
+   "id": "peanut-puerta",
+   "fuente": "03_en_launch_uSgJ0C6eViI",
+   "inicio": 167.5,
+   "fin": 199.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "vanoss-gaviota",
+   "fuente": "03_en_launch_uSgJ0C6eViI",
+   "inicio": 259.0,
+   "fin": 284.0,
+   "tipo": "voz"
+  },
+  {
+   "id": "caseoh-dolores",
+   "fuente": "05_caseoh_1UYqV49-L5Y",
+   "inicio": 279.0,
+   "fin": 308.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "illo-borra-s",
+   "fuente": "01_es_streamers_6wA7C9ooKUc",
+   "inicio": 101.0,
+   "fin": 120.6,
+   "tipo": "voz"
+  },
+  {
+   "id": "kai-techo-s",
+   "fuente": "03_en_launch_uSgJ0C6eViI",
+   "inicio": 206.5,
+   "fin": 219.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "papa-gas-s",
+   "fuente": "02_en_streamers_xrWAL5ZhFiQ",
+   "inicio": 504.5,
+   "fin": 513.5,
+   "tipo": "voz"
+  },
+  {
+   "id": "willy-coco-s",
+   "fuente": "01_es_streamers_6wA7C9ooKUc",
+   "inicio": 140.5,
+   "fin": 158.5,
+   "tipo": "voz"
+  }
+ ]
+}

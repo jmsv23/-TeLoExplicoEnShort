@@ -1,0 +1,29 @@
+{
+ "voicebox": {
+  "url": "http://192.168.0.52:17493",
+  "timeout_s": 900
+ },
+ "voz_default": "narrador-comics",
+ "whisperx_python": "~/.local/share/uv/tools/whisperx/bin/python",
+ "hyperframes": "0.9.70",
+ "fps": 30,
+ "workers": 2,
+ "gaps": {
+  "bloque": 0.28,
+  "seccion": 0.6,
+  "clip": 0.3
+ },
+ "loudness": {
+  "I": -14,
+  "TP": -1.5,
+  "LRA": 11
+ },
+ "duracion": {
+  "short_max": 60,
+  "largo_min": 360,
+  "largo_max": 900
+ },
+ "chrome": "google-chrome",
+ "hyperframes_cache": "~/.local/share/hyperframes-cache",
+ "respaldo_assets": "~/Documentos/youtube/_respaldo-assets"
+}

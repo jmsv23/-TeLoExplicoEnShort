@@ -1,0 +1,513 @@
+{
+ "_nota": "Cómo debe decir el TTS los nombres propios. Se aplica de la más larga a la más corta, con límite de palabra. Cada video puede agregar o sobreescribir en video.json → \"pronunciacion\": [[\"original\", \"como suena\"]].",
+ "reglas": [
+  [
+   "Amazon",
+   "Ámazon"
+  ],
+  [
+   "Amazon MGM",
+   "Ámazon eme ge eme"
+  ],
+  [
+   "Ashley",
+   "Áshli"
+  ],
+  [
+   "Avatar",
+   "Ávatar"
+  ],
+  [
+   "Avengers",
+   "Avényers"
+  ],
+  [
+   "Batman",
+   "Bátman"
+  ],
+  [
+   "Bigfoot",
+   "Bígfut"
+  ],
+  [
+   "Black Widow",
+   "Blac Uídou"
+  ],
+  [
+   "Brie Larson",
+   "Bri Lárson"
+  ],
+  [
+   "Brosnan",
+   "Brósnan"
+  ],
+  [
+   "Carl Johnson",
+   "Carl Yónson"
+  ],
+  [
+   "CaseOh",
+   "Kéis Óu"
+  ],
+  [
+   "Casino Royale",
+   "Casino Royál"
+  ],
+  [
+   "Claude",
+   "Clod"
+  ],
+  [
+   "Connery",
+   "Cóneri"
+  ],
+  [
+   "Craig",
+   "Créig"
+  ],
+  [
+   "Dalton",
+   "Dólton"
+  ],
+  [
+   "Daniel",
+   "Dániel"
+  ],
+  [
+   "Denis",
+   "Denís"
+  ],
+  [
+   "DMA Design",
+   "De Eme A Disáin"
+  ],
+  [
+   "Doctor Doom",
+   "Dóctor Dum"
+  ],
+  [
+   "Doctor Strange",
+   "Dóctor Stréinch"
+  ],
+  [
+   "Doomsday",
+   "Dúmsdei"
+  ],
+  [
+   "Dune",
+   "Diun"
+  ],
+  [
+   "Elizabeth",
+   "Elízabeth"
+  ],
+  [
+   "Elizabeth Olsen",
+   "Elízabeth Ólsen"
+  ],
+  [
+   "Emily Blunt",
+   "Émili Blant"
+  ],
+  [
+   "Emmy",
+   "Émi"
+  ],
+  [
+   "Endgame",
+   "Éndgueim"
+  ],
+  [
+   "Esquire",
+   "Eskuáier"
+  ],
+  [
+   "Euphoria",
+   "Eufória"
+  ],
+  [
+   "Fire Stick",
+   "Fáier Stik"
+  ],
+  [
+   "Fleming",
+   "Fléming"
+  ],
+  [
+   "Florence Pugh",
+   "Flórens Piú"
+  ],
+  [
+   "Florida",
+   "Flórida"
+  ],
+  [
+   "Franklin",
+   "Fránklin"
+  ],
+  [
+   "Gamora",
+   "Gamóra"
+  ],
+  [
+   "George",
+   "Yórch"
+  ],
+  [
+   "GoldenEye",
+   "Góldenai"
+  ],
+  [
+   "Goodfellas",
+   "Gudfélas"
+  ],
+  [
+   "Grand Theft Auto",
+   "Gránd Zeft Óto"
+  ],
+  [
+   "Grove Street",
+   "Grouv Strit"
+  ],
+  [
+   "GTA",
+   "ge te a"
+  ],
+  [
+   "GTA Online",
+   "ge te a Onláin"
+  ],
+  [
+   "Hailee Steinfeld",
+   "Jéili Stáinfeld"
+  ],
+  [
+   "Harvard",
+   "Járvard"
+  ],
+  [
+   "Hollywood",
+   "Jóliwud"
+  ],
+  [
+   "Hot Coffee",
+   "Jot Cófi"
+  ],
+  [
+   "Ian",
+   "Ían"
+  ],
+  [
+   "IlloJuan",
+   "Íyo Juan"
+  ],
+  [
+   "Iron Man",
+   "Áiron Man"
+  ],
+  [
+   "IShowSpeed",
+   "Ái Shou Spíd"
+  ],
+  [
+   "Jack Thompson",
+   "Yak Tómpson"
+  ],
+  [
+   "James Blonde",
+   "Yéims Blond"
+  ],
+  [
+   "James Bond",
+   "Yéims Bond"
+  ],
+  [
+   "Jason",
+   "Yéison"
+  ],
+  [
+   "jetpack",
+   "yétpak"
+  ],
+  [
+   "Jurassic World",
+   "Yurásic Güorld"
+  ],
+  [
+   "Kai Cenat",
+   "Kái Sénat"
+  ],
+  [
+   "Kate Bishop",
+   "Kéit Bíshop"
+  ],
+  [
+   "Lazenby",
+   "Léisenbi"
+  ],
+  [
+   "Liberty City",
+   "Líberti Síti"
+  ],
+  [
+   "LIRIK",
+   "Lírik"
+  ],
+  [
+   "Marvel",
+   "Márvel"
+  ],
+  [
+   "Mary-Kate",
+   "Meri-Kéit"
+  ],
+  [
+   "Maximoff",
+   "Máximof"
+  ],
+  [
+   "Metacritic",
+   "Métacritic"
+  ],
+  [
+   "Michael",
+   "Máikol"
+  ],
+  [
+   "MJ",
+   "Em-yéi"
+  ],
+  [
+   "Moore",
+   "Mur"
+  ],
+  [
+   "Natalie",
+   "Nátali"
+  ],
+  [
+   "Natalie Portman",
+   "Nátali Pórtman"
+  ],
+  [
+   "Niko Bellic",
+   "Níko Bélic"
+  ],
+  [
+   "Ocarina of Time",
+   "Ocarína of Táim"
+  ],
+  [
+   "Ocean Beach",
+   "Óushen Bich"
+  ],
+  [
+   "Ocean View",
+   "Óushen Viu"
+  ],
+  [
+   "Olsen",
+   "Ólsen"
+  ],
+  [
+   "Papaplatte",
+   "Pápaplate"
+  ],
+  [
+   "Pattinson",
+   "Pátinson"
+  ],
+  [
+   "Peter Parker",
+   "Píter Párker"
+  ],
+  [
+   "Pierce",
+   "Píers"
+  ],
+  [
+   "PlayStation",
+   "Pléisteishon"
+  ],
+  [
+   "Race and Chase",
+   "Réis an Chéis"
+  ],
+  [
+   "Ray Liotta",
+   "Rei Lióta"
+  ],
+  [
+   "Remington Steele",
+   "Rémington Stil"
+  ],
+  [
+   "review bombing",
+   "riviú bóming"
+  ],
+  [
+   "Robert",
+   "Róbert"
+  ],
+  [
+   "Rockstar",
+   "Rókstar"
+  ],
+  [
+   "Roger",
+   "Róyer"
+  ],
+  [
+   "Roman",
+   "Róman"
+  ],
+  [
+   "Romanoff",
+   "Rómanof"
+  ],
+  [
+   "Rubius",
+   "Rúbius"
+  ],
+  [
+   "San Andreas",
+   "San Andréas"
+  ],
+  [
+   "Scarlett",
+   "Scárlet"
+  ],
+  [
+   "Scarlett Johansson",
+   "Scárlet Yóhanson"
+  ],
+  [
+   "Sean",
+   "Shon"
+  ],
+  [
+   "Skunk Ape",
+   "Skonk Éip"
+  ],
+  [
+   "Skyfall",
+   "Skáifol"
+  ],
+  [
+   "snob",
+   "esnob"
+  ],
+  [
+   "Speed",
+   "Spíd"
+  ],
+  [
+   "Spider-Man",
+   "Spáiderman"
+  ],
+  [
+   "Star Wars",
+   "Estar Guors"
+  ],
+  [
+   "streamer",
+   "estrímer"
+  ],
+  [
+   "streamers",
+   "estrímers"
+  ],
+  [
+   "Sue Storm",
+   "Su Storm"
+  ],
+  [
+   "Take Two",
+   "Téik Tu"
+  ],
+  [
+   "The Batman",
+   "De Bátman"
+  ],
+  [
+   "TheBurntPeanut",
+   "De Bérnt Pínat"
+  ],
+  [
+   "Thor",
+   "Tor"
+  ],
+  [
+   "Thunderbolts",
+   "Tánderbolts"
+  ],
+  [
+   "Timothy",
+   "Tímoti"
+  ],
+  [
+   "Tom Holland",
+   "Tom Jólan"
+  ],
+  [
+   "Tommy",
+   "Tómi"
+  ],
+  [
+   "Tommy Vercetti",
+   "Tómi Verchéti"
+  ],
+  [
+   "Trevor",
+   "Trévor"
+  ],
+  [
+   "Ultrón",
+   "Últron"
+  ],
+  [
+   "Vanessa Kirby",
+   "Vanesa Kérbi"
+  ],
+  [
+   "VanossGaming",
+   "Vanós Géiming"
+  ],
+  [
+   "Vice City",
+   "Váis Síti"
+  ],
+  [
+   "Villeneuve",
+   "Vilnév"
+  ],
+  [
+   "VisionQuest",
+   "Víshon-Cuest"
+  ],
+  [
+   "Wanda",
+   "Guanda"
+  ],
+  [
+   "WandaVision",
+   "Guandavíshon"
+  ],
+  [
+   "Willyrex",
+   "Wílirex"
+  ],
+  [
+   "Yelena Belova",
+   "Yelena Belóva"
+  ],
+  [
+   "YouTube",
+   "Yutúb"
+  ],
+  [
+   "Zendaya",
+   "Zendáya"
+  ]
+ ]
+}

@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Jost;src:url(../hf-largo/assets/fonts/Jost.ttf);font-weight:100 900}
+@font-face{font-family:Corm;src:url(../hf-largo/assets/fonts/CormorantGaramond-Italic.ttf);font-style:italic}
+@font-face{font-family:Mono;src:url(../hf-largo/assets/fonts/JetBrainsMono.ttf)}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1280px;height:720px;overflow:hidden;background:#07070a}
+.st{position:relative;width:1280px;height:720px;overflow:hidden;font-family:Jost,sans-serif;color:#ece6da}
+.hero{position:absolute;right:-60px;top:0;width:900px;height:720px;object-fit:cover;object-position:60% 35%}
+.fade{position:absolute;inset:0;background:linear-gradient(90deg,#07070a 0%,#07070a 30%,rgba(7,7,10,.6) 52%,rgba(7,7,10,0) 75%)}
+.vig{position:absolute;inset:0;box-shadow:inset 0 0 160px 40px #000}
+.gold{background:linear-gradient(100deg,#9c7a3a 0%,#ecd59b 35%,#fff6dc 50%,#ecd59b 65%,#9c7a3a 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.k{font-family:Mono,monospace;font-size:24px;letter-spacing:.32em;color:#c8a45c}
+.row{position:absolute;left:56px;bottom:52px;display:flex;gap:10px}
+.row div{width:78px;height:104px;overflow:hidden;border:1px solid rgba(200,164,92,.5)}
+.row img{width:100%;height:100%;object-fit:cover;object-position:50% 25%}
+.q{width:78px;height:104px;border:2px solid #c8a45c!important;display:flex;align-items:center;justify-content:center;font-size:64px;font-weight:700}
+</style></head><body>
+<div class="st">
+  <img class="hero" src="../hf-largo/assets/img/pattinson-007-primera-imagen.jpg">
+  <div class="fade"></div><div class="vig"></div>
+  <div style="position:absolute;left:56px;top:70px;width:760px">
+    <div class="k">EL NUEVO JAMES BOND</div>
+    <div style="font-size:92px;font-weight:300;letter-spacing:.06em;line-height:1;margin-top:20px">¿ESTÁ A LA</div>
+    <div class="gold" style="font-size:140px;font-weight:700;letter-spacing:.03em;line-height:.95;display:inline-block;padding-right:12px">ALTURA?</div>
+    <div style="font-family:Corm,serif;font-style:italic;font-size:44px;margin-top:18px">Así recibieron a los otros seis</div>
+  </div>
+  <div class="row">
+    <div><img src="../hf-largo/assets/img/connery-drno-esmoquin-bn.jpg"></div>
+    <div><img src="../hf-largo/assets/img/lazenby-ohmss-bn.jpg"></div>
+    <div><img src="../hf-largo/assets/img/moore-silla-007-bn.jpg"></div>
+    <div><img src="../hf-largo/assets/img/dalton-tld-esmoquin-bn.jpg" style="object-position:22% 30%"></div>
+    <div><img src="../hf-largo/assets/img/brosnan-retrato-bn.jpg"></div>
+    <div><img src="../hf-largo/assets/img/craig-casino-esmoquin-bn.jpg"></div>
+    <div class="q"><span class="gold">?</span></div>
+  </div>
+</div>
+</body></html>

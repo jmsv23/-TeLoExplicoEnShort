@@ -1,0 +1,59 @@
+{
+ "titulo": "La evolución del GTA (1997 → GTA 6)",
+ "fecha": "2026-11-22",
+ "formato": "largo+serie",
+ "estilo": "leonida",
+ "voz": null,
+ "serie": null,
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo",
+   "partes": 3
+  },
+  {
+   "id": "short-01",
+   "tipo": "short"
+  },
+  {
+   "id": "short-02",
+   "tipo": "short"
+  },
+  {
+   "id": "short-03",
+   "tipo": "short"
+  },
+  {
+   "id": "short-04",
+   "tipo": "short"
+  },
+  {
+   "id": "short-05",
+   "tipo": "short"
+  },
+  {
+   "id": "short-06",
+   "tipo": "short"
+  }
+ ],
+ "musica": {
+  "tema": "leonida-synthwave.wav",
+  "fondo": "leonida-fondo-loop.wav",
+  "largo": {
+   "fondo_desde": "origen",
+   "gain_fondo": -15
+  }
+ },
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/evolucion-del-gta"
+}

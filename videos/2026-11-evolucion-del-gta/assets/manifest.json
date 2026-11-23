@@ -1,0 +1,959 @@
+{
+ "_nota": "Fuente de verdad de los assets. Los archivos se ignoran en git: ./tl assets fetch los vuelve a bajar y ./tl assets cortar los corta. pin=true → sin URL directa: respaldar con ./tl assets respaldar.",
+ "imagenes": [
+  {
+   "id": "cj",
+   "archivo": "img/cj.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "claude",
+   "archivo": "img/claude.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "dma-collage",
+   "archivo": "img/dma-collage.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "gta1-cover",
+   "archivo": "img/gta1-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "gta2-cover",
+   "archivo": "img/gta2-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "gta3-cover",
+   "archivo": "img/gta3-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "iv-cover",
+   "archivo": "img/iv-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "jl-armas",
+   "archivo": "img/jl-armas.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "jl-atardecer",
+   "archivo": "img/jl-atardecer.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "jl-gasolinera",
+   "archivo": "img/jl-gasolinera.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "liotta",
+   "archivo": "img/liotta.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "lucia-bar",
+   "archivo": "img/lucia-bar.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "lucia-chamarra",
+   "archivo": "img/lucia-chamarra.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "lucia-corriendo",
+   "archivo": "img/lucia-corriendo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "mapa-gtav",
+   "archivo": "img/mapa-gtav.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "mapa-leonida",
+   "archivo": "img/mapa-leonida.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "mapa-sa",
+   "archivo": "img/mapa-sa.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "mapa-vc2002",
+   "archivo": "img/mapa-vc2002.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "metacritic-99",
+   "archivo": "img/metacritic-99.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "metacritic-user",
+   "archivo": "img/metacritic-user.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "mft-arte",
+   "archivo": "img/mft-arte.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "mft-trio",
+   "archivo": "img/mft-trio.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "niko",
+   "archivo": "img/niko.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "ocean-view",
+   "archivo": "img/ocean-view.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "rockstar-north",
+   "archivo": "img/rockstar-north.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "sa-cover",
+   "archivo": "img/sa-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "taketwo",
+   "archivo": "img/taketwo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "tommy",
+   "archivo": "img/tommy.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "v-cover",
+   "archivo": "img/v-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vc-cover",
+   "archivo": "img/vc-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-cayos",
+   "archivo": "img/vi-cayos.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-cover",
+   "archivo": "img/vi-cover.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-gasolinera",
+   "archivo": "img/vi-gasolinera.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-keyart-fecha",
+   "archivo": "img/vi-keyart-fecha.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-keyart",
+   "archivo": "img/vi-keyart.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-neon",
+   "archivo": "img/vi-neon.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-ocean-drive",
+   "archivo": "img/vi-ocean-drive.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-pareja",
+   "archivo": "img/vi-pareja.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "vi-policia-playa",
+   "archivo": "img/vi-policia-playa.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": null,
+   "pin": true
+  },
+  {
+   "id": "choque6",
+   "archivo": "img/choque6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "gta1",
+   "archivo": "img/gta1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "policia6",
+   "archivo": "img/policia6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "vc2002",
+   "archivo": "img/vc2002.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  },
+  {
+   "id": "vc2026",
+   "archivo": "img/vc2026.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "frame/recorte para miniatura (legacy)",
+   "pin": true
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "gta6-tr1",
+   "url": "QdBZY2fkU-0"
+  },
+  {
+   "id": "gta6-tr2",
+   "url": "VQRLujxTm3c"
+  },
+  {
+   "id": "gta6-launch",
+   "url": "rz1B4B2yBZY"
+  },
+  {
+   "id": "gta6-extended",
+   "url": "tJbzMqJGH4k"
+  },
+  {
+   "id": "gta1-gameplay",
+   "url": "ahOIJNLLtkI"
+  },
+  {
+   "id": "gta2-gameplay",
+   "url": "RrKhHGRcoNo"
+  },
+  {
+   "id": "gta3-intro",
+   "url": "PV31RVPJSK8"
+  },
+  {
+   "id": "vc-gameplay",
+   "url": "sx2R2HvJkak"
+  },
+  {
+   "id": "sa-intro",
+   "url": "nnJVotTI9gw"
+  },
+  {
+   "id": "sa-cuerpo",
+   "url": "S29tXit0tOY"
+  },
+  {
+   "id": "iv-roman",
+   "url": "WJy6ESZsu48"
+  },
+  {
+   "id": "iv-vs-v-fisica",
+   "url": "WwUp50Z4Qbc"
+  },
+  {
+   "id": "vi-vs-iv-fisica",
+   "url": "CK6XFkFSoyc"
+  },
+  {
+   "id": "iv-euphoria",
+   "url": "TI6hwe28fEI"
+  },
+  {
+   "id": "v-trailer",
+   "url": "hvoD7ehZPcM"
+  },
+  {
+   "id": "v-mft",
+   "url": "Bf38HiYPMiI"
+  },
+  {
+   "id": "vi-policia",
+   "url": "MUQpt6U4N20"
+  },
+  {
+   "id": "vi-barco",
+   "url": "fykOLDQ1Xfg"
+  },
+  {
+   "id": "vi-gym",
+   "url": "aFa4hJpjyd4"
+  },
+  {
+   "id": "vi-choques",
+   "url": "HQ0yZ5lrWqU"
+  },
+  {
+   "id": "vc-vs-vi",
+   "url": "bw0-Dp3ueJo"
+  },
+  {
+   "id": "vi-manejo",
+   "url": "K-uFahxraLM"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "cj-here-we-go",
+   "fuente": "sa-intro",
+   "inicio": 180.6,
+   "fin": 185.0,
+   "tipo": "voz",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "Ah shit, here we go again"
+  },
+  {
+   "id": "roman-bowling",
+   "fuente": "iv-roman",
+   "inicio": 2.9,
+   "fin": 5.9,
+   "tipo": "voz",
+   "bloque": "gta4",
+   "zoom": -1.2,
+   "nota": "Niko, it's Roman, let's go bowling (centrado: saca Bandicam y subtítulo)"
+  },
+  {
+   "id": "trailer1-lucia",
+   "fuente": "gta6-tr1",
+   "inicio": 6.6,
+   "fin": 11.2,
+   "tipo": "voz",
+   "bloque": "espera",
+   "zoom": -1.33,
+   "nota": "Lucia, do you know why you're here? Bad luck, I guess."
+  },
+  {
+   "id": "gta1-calle",
+   "fuente": "gta1-gameplay",
+   "inicio": 12.0,
+   "fin": 18.0,
+   "tipo": "broll",
+   "bloque": "hook",
+   "zoom": 1.0,
+   "nota": "GTA 1 manejando desde arriba"
+  },
+  {
+   "id": "gta1-policia",
+   "fuente": "gta1-gameplay",
+   "inicio": 195.0,
+   "fin": 201.0,
+   "tipo": "broll",
+   "bloque": "origen",
+   "zoom": 1.0,
+   "nota": "GTA 1 persecución policial"
+  },
+  {
+   "id": "gta2-calle",
+   "fuente": "gta2-gameplay",
+   "inicio": 84.0,
+   "fin": 90.0,
+   "tipo": "broll",
+   "bloque": "origen",
+   "zoom": 1.0,
+   "nota": "GTA 2 calles"
+  },
+  {
+   "id": "gta2-calle2",
+   "fuente": "gta2-gameplay",
+   "inicio": 176.0,
+   "fin": 182.0,
+   "tipo": "broll",
+   "bloque": "origen",
+   "zoom": 1.0,
+   "nota": "GTA 2 perseguido por patrullas"
+  },
+  {
+   "id": "gta3-ciudad",
+   "fuente": "gta3-intro",
+   "inicio": 176.0,
+   "fin": 182.0,
+   "tipo": "broll",
+   "bloque": "salto3d",
+   "zoom": 1.0,
+   "nota": "GTA III furgón en el puente bajo la lluvia"
+  },
+  {
+   "id": "gta3-calle",
+   "fuente": "gta3-intro",
+   "inicio": 328.0,
+   "fin": 334.0,
+   "tipo": "broll",
+   "bloque": "salto3d",
+   "zoom": 1.0,
+   "nota": "GTA III manejando por Liberty City"
+  },
+  {
+   "id": "gta3-patrulla",
+   "fuente": "gta3-intro",
+   "inicio": 262.0,
+   "fin": 268.0,
+   "tipo": "broll",
+   "bloque": "salto3d",
+   "zoom": 1.0,
+   "nota": "GTA III ataque al convoy policial"
+  },
+  {
+   "id": "vc-atardecer",
+   "fuente": "vc-gameplay",
+   "inicio": 66.0,
+   "fin": 69.5,
+   "tipo": "broll",
+   "bloque": "vicecity",
+   "zoom": 1.0,
+   "nota": "Vice City atardecer con palmeras"
+  },
+  {
+   "id": "vc-tommy-auto",
+   "fuente": "vc-gameplay",
+   "inicio": 180.0,
+   "fin": 186.0,
+   "tipo": "broll",
+   "bloque": "vicecity",
+   "zoom": 1.0,
+   "nota": "Tommy en auto deportivo rojo"
+  },
+  {
+   "id": "sa-llegada",
+   "fuente": "sa-intro",
+   "inicio": 28.5,
+   "fin": 34.5,
+   "tipo": "broll",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "CJ llega al aeropuerto"
+  },
+  {
+   "id": "sa-callejon",
+   "fuente": "sa-intro",
+   "inicio": 174.0,
+   "fin": 180.0,
+   "tipo": "broll",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "CJ solo en el callejón"
+  },
+  {
+   "id": "sa-cuerpo3",
+   "fuente": "sa-cuerpo",
+   "inicio": 9.0,
+   "fin": 15.0,
+   "tipo": "broll",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "CJ flaco, musculoso y gordo lado a lado"
+  },
+  {
+   "id": "sa-gordo",
+   "fuente": "sa-cuerpo",
+   "inicio": 40.0,
+   "fin": 46.0,
+   "tipo": "broll",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "CJ intenta saltar el muro"
+  },
+  {
+   "id": "sa-musculo",
+   "fuente": "sa-cuerpo",
+   "inicio": 92.0,
+   "fin": 98.0,
+   "tipo": "broll",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "CJ peleando"
+  },
+  {
+   "id": "sa-gym",
+   "fuente": "sa-cuerpo",
+   "inicio": 64.0,
+   "fin": 70.0,
+   "tipo": "broll",
+   "bloque": "sanandreas",
+   "zoom": 1.0,
+   "nota": "CJ saltando entre techos"
+  },
+  {
+   "id": "iv-calle",
+   "fuente": "iv-vs-v-fisica",
+   "inicio": 16.0,
+   "fin": 22.0,
+   "tipo": "broll",
+   "bloque": "gta4",
+   "zoom": 1.0,
+   "nota": "GTA IV auto en la calle"
+  },
+  {
+   "id": "iv-choque",
+   "fuente": "iv-vs-v-fisica",
+   "inicio": 88.5,
+   "fin": 92.5,
+   "tipo": "broll",
+   "bloque": "gta4",
+   "zoom": 1.0,
+   "nota": "GTA IV impacto brutal"
+  },
+  {
+   "id": "iv-euphoria-1",
+   "fuente": "iv-euphoria",
+   "inicio": 5.0,
+   "fin": 10.0,
+   "tipo": "broll",
+   "bloque": "gta4",
+   "zoom": 1.0,
+   "nota": "Euphoria: atropello"
+  },
+  {
+   "id": "iv-euphoria-2",
+   "fuente": "iv-euphoria",
+   "inicio": 134.0,
+   "fin": 139.0,
+   "tipo": "broll",
+   "bloque": "gta4",
+   "zoom": 1.0,
+   "nota": "Euphoria: golpe de helicóptero"
+  },
+  {
+   "id": "iv-vs-v-a",
+   "fuente": "iv-vs-v-fisica",
+   "inicio": 15.0,
+   "fin": 21.0,
+   "tipo": "broll",
+   "bloque": "gta4",
+   "zoom": 1.0,
+   "nota": "choque en GTA IV"
+  },
+  {
+   "id": "iv-vs-v-b",
+   "fuente": "iv-vs-v-fisica",
+   "inicio": 2.0,
+   "fin": 8.0,
+   "tipo": "broll",
+   "bloque": "gta4",
+   "zoom": 1.0,
+   "nota": "choque en GTA V"
+  },
+  {
+   "id": "v-ls",
+   "fuente": "v-trailer",
+   "inicio": 44.0,
+   "fin": 49.0,
+   "tipo": "broll",
+   "bloque": "gta5",
+   "zoom": 1.0,
+   "nota": "GTA V salto en paracaídas sobre Los Santos"
+  },
+  {
+   "id": "v-ls2",
+   "fuente": "v-trailer",
+   "inicio": 35.0,
+   "fin": 40.0,
+   "tipo": "broll",
+   "bloque": "gta5",
+   "zoom": 1.0,
+   "nota": "GTA V persecución bajo lluvia"
+  },
+  {
+   "id": "v-cambio",
+   "fuente": "v-mft",
+   "inicio": 60.0,
+   "fin": 66.0,
+   "tipo": "broll",
+   "bloque": "gta5",
+   "zoom": 1.0,
+   "nota": "GTA V atracos y acción"
+  },
+  {
+   "id": "v-michael",
+   "fuente": "v-mft",
+   "inicio": 20.0,
+   "fin": 26.0,
+   "tipo": "broll",
+   "bloque": "gta5",
+   "zoom": 1.0,
+   "nota": "GTA V vida de Michael"
+  },
+  {
+   "id": "v-policia",
+   "fuente": "v-mft",
+   "inicio": 120.0,
+   "fin": 126.0,
+   "tipo": "broll",
+   "bloque": "policia",
+   "zoom": 1.0,
+   "nota": "Franklin contra la policía"
+  },
+  {
+   "id": "vi-atardecer",
+   "fuente": "gta6-tr1",
+   "inicio": 2.4,
+   "fin": 5.0,
+   "tipo": "broll",
+   "bloque": "hook",
+   "zoom": -1.33,
+   "nota": "GTA 6 atardecer en autopista"
+  },
+  {
+   "id": "vi-playa",
+   "fuente": "gta6-tr1",
+   "inicio": 11.0,
+   "fin": 13.6,
+   "tipo": "broll",
+   "bloque": "espera",
+   "zoom": -1.33,
+   "nota": "GTA 6 playa desde el aire"
+  },
+  {
+   "id": "vi-noche",
+   "fuente": "gta6-tr1",
+   "inicio": 20.0,
+   "fin": 26.0,
+   "tipo": "broll",
+   "bloque": "espera",
+   "zoom": -1.33,
+   "nota": "GTA 6 vida nocturna"
+  },
+  {
+   "id": "vi-caiman",
+   "fuente": "gta6-tr1",
+   "inicio": 47.5,
+   "fin": 50.5,
+   "tipo": "broll",
+   "bloque": "s5",
+   "zoom": -1.33,
+   "nota": "caimán en la tienda"
+  },
+  {
+   "id": "vi-entrada",
+   "fuente": "gta6-tr1",
+   "inicio": 72.0,
+   "fin": 77.0,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": -1.33,
+   "nota": "Jason y Lucía entran armados"
+  },
+  {
+   "id": "vi-yate",
+   "fuente": "gta6-tr2",
+   "inicio": 93.0,
+   "fin": 97.0,
+   "tipo": "broll",
+   "bloque": "espera",
+   "zoom": -1.33,
+   "nota": "fiesta en yate"
+  },
+  {
+   "id": "vi-explosion",
+   "fuente": "gta6-tr2",
+   "inicio": 115.0,
+   "fin": 120.0,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": -1.33,
+   "nota": "explosión con policía"
+  },
+  {
+   "id": "vi-pantano",
+   "fuente": "gta6-tr2",
+   "inicio": 137.0,
+   "fin": 142.0,
+   "tipo": "broll",
+   "bloque": "vicecity",
+   "zoom": -1.33,
+   "nota": "persecución en el pantano"
+  },
+  {
+   "id": "vi-aereo",
+   "fuente": "gta6-tr2",
+   "inicio": 6.0,
+   "fin": 12.0,
+   "tipo": "broll",
+   "bloque": "vicecity",
+   "zoom": -1.33,
+   "nota": "Vice City desde el aire"
+  },
+  {
+   "id": "vi-aereo2",
+   "fuente": "gta6-launch",
+   "inicio": 16.5,
+   "fin": 20.0,
+   "tipo": "broll",
+   "bloque": "polemicas",
+   "zoom": -1.33,
+   "nota": "Vice City de noche"
+  },
+  {
+   "id": "vi-policia-1",
+   "fuente": "vi-policia",
+   "inicio": 148.0,
+   "fin": 154.0,
+   "tipo": "broll",
+   "bloque": "policia",
+   "zoom": 1.0,
+   "nota": "persecución policial GTA 6"
+  },
+  {
+   "id": "vi-policia-2",
+   "fuente": "vi-policia",
+   "inicio": 117.0,
+   "fin": 123.0,
+   "tipo": "broll",
+   "bloque": "policia",
+   "zoom": 1.0,
+   "nota": "asalto y persecución bajo un avión"
+  },
+  {
+   "id": "vi-barco",
+   "fuente": "vi-barco",
+   "inicio": 51.0,
+   "fin": 58.0,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": 1.0,
+   "nota": "GPS del velero con el mapa de Los Santos"
+  },
+  {
+   "id": "vi-barco2",
+   "fuente": "vi-barco",
+   "inicio": 0.5,
+   "fin": 6.0,
+   "tipo": "broll",
+   "bloque": "s3",
+   "zoom": 1.0,
+   "nota": "el velero de Michael junto a la casa de Jason"
+  },
+  {
+   "id": "vi-gym",
+   "fuente": "vi-gym",
+   "inicio": 158.0,
+   "fin": 164.0,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": 1.0,
+   "nota": "gimnasio en GTA 6"
+  },
+  {
+   "id": "vi-choque-1",
+   "fuente": "vi-choques",
+   "inicio": 13.0,
+   "fin": 18.0,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": 1.0,
+   "nota": "SUV choca contra camión y vuelca"
+  },
+  {
+   "id": "vi-choque-2",
+   "fuente": "vi-choques",
+   "inicio": 152.0,
+   "fin": 158.0,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": 1.0,
+   "nota": "deportivo rojo vuelca"
+  },
+  {
+   "id": "vi-gym2",
+   "fuente": "gta6-tr2",
+   "inicio": 39.0,
+   "fin": 42.5,
+   "tipo": "broll",
+   "bloque": "gta6",
+   "zoom": -1.33,
+   "nota": "pesas en la playa"
+  },
+  {
+   "id": "vi-patrulla",
+   "fuente": "gta6-tr2",
+   "inicio": 45.5,
+   "fin": 50.0,
+   "tipo": "broll",
+   "bloque": "policia",
+   "zoom": -1.33,
+   "nota": "patrulla detrás de Jason"
+  },
+  {
+   "id": "vc-vs-vi-a",
+   "fuente": "vc-gameplay",
+   "inicio": 190.0,
+   "fin": 196.0,
+   "tipo": "broll",
+   "bloque": "vicecity",
+   "zoom": 1.0,
+   "nota": "Vice City 2002 manejando"
+  },
+  {
+   "id": "vc-vs-vi-b",
+   "fuente": "vi-manejo",
+   "inicio": 88.0,
+   "fin": 94.0,
+   "tipo": "broll",
+   "bloque": "vicecity",
+   "zoom": 1.0,
+   "nota": "Vice City 2026 manejando"
+  },
+  {
+   "id": "vi-moto",
+   "fuente": "gta6-launch",
+   "inicio": 48.0,
+   "fin": 51.0,
+   "tipo": "broll",
+   "bloque": "shorts",
+   "zoom": -1.33,
+   "nota": "salto en moto"
+  }
+ ]
+}

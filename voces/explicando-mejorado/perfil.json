@@ -1,0 +1,19 @@
+{
+ "nombre_voicebox": "explicando-mejorado",
+ "descripcion": "Narrador nuevo de Explicando (serie técnicas culinarias). Muestra: nuevo narrador.mp3, 0–22 s.",
+ "personalidad": null,
+ "idioma": "es",
+ "tipo": "cloned",
+ "motor": "qwen",
+ "efectos": null,
+ "muestra": "muestra.wav",
+ "texto_muestra": "muestra.txt",
+ "generacion": {
+  "normalize": true,
+  "max_chunk_chars": 800,
+  "crossfade_ms": 50,
+  "personality": false
+ },
+ "exportado": "2026-11-23",
+ "voicebox_id": "e8d1aa80-c31d-4cfe-8504-eee5c47a959b"
+}
