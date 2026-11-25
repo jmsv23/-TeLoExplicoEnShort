@@ -1,0 +1,142 @@
+{
+ "resumen": "El creador analiza el trailer final de Avengers: Doomsday desglosando escena por escena: la vida de Steve Rogers y Peggy criando a su hijo en una linea temporal alterada, la llegada de los Cuatro Fantasticos, la aparicion de Doctor Doom en Latveria con las Brujas de Latveria, la presencia de la Odin Force en Thor y la confirmacion de los X-Men con la frase To me, my X-Men, la cual critica severamente por considerarla un spoiler innecesario en un trailer.",
+ "puntos": [
+  {
+   "inicio": 129,
+   "fin": 162,
+   "afirmacion": "Steve Rogers ha estado criando a su hijo junto a Peggy y el hijo no conoce los origenes de su padre.",
+   "imagen_de_apoyo": "Steve Rogers con barba y cabello largo conversando con Peggy Carter en su casa.",
+   "tipo": "lectura_de_imagen",
+   "verificar": "Confirmado por las imagenes del trailer donde Steve aparece alejado de la accion criando a su hijo."
+  },
+  {
+   "inicio": 163,
+   "fin": 175,
+   "afirmacion": "En los comics James Rogers es hijo de Steve Rogers y Viuda Negra en la continuidad alternativa de Next Avengers.",
+   "imagen_de_apoyo": "Plano de Steve Rogers y Peggy Carter con el hijo de ambos en el salon.",
+   "tipo": "dato",
+   "verificar": "Correcto. James Rogers aparece en la pelicula animada Next Avengers: Heroes of Tomorrow y en historietas de lineas temporales alternativas como hijo de Steve Rogers y Natasha Romanoff."
+  },
+  {
+   "inicio": 175,
+   "fin": 207,
+   "afirmacion": "La linea temporal que creo Steve al quedarse con Peggy es la Tierra-828 y afecto directamente la vida de Victor von Doom.",
+   "imagen_de_apoyo": "Los Cuatro Fantasticos llegando en una nave interdimensional y bajando frente a la casa de Steve Rogers.",
+   "tipo": "teoria",
+   "verificar": "Es una teoria del creador. No esta confirmado que la linea temporal de Steve sea la 828 ni que afectara a Doom directamente en el MCU."
+  },
+  {
+   "inicio": 267,
+   "fin": 289,
+   "afirmacion": "Doctor Doom aparece en Latveria acompañado por las tres Brujas de Latveria y una de ellas podria ser Wanda Maximoff.",
+   "imagen_de_apoyo": "Doctor Doom caminando en una estructura catedralicia de Latveria seguido por tres figuras encapuchadas con mascaras doradas.",
+   "tipo": "teoria",
+   "verificar": "En los comics las Brujas de Latveria no son un grupo formal clasico con Wanda. Es una especulacion sobre el papel de Elizabeth Olsen/Wanda en el multiverso."
+  },
+  {
+   "inicio": 289,
+   "fin": 318,
+   "afirmacion": "La tierra destruida que se observa en las incursiones corresponde a la Tierra-10005 del universo X-Men de Fox.",
+   "imagen_de_apoyo": "Vista nocturna del skyline de Nueva York con dos lunas o planetas colisionando en el cielo.",
+   "tipo": "lectura_de_imagen",
+   "verificar": "Es muy probable segun las filtraciones previas de 4chan y el trailer que muestra la destruccion de la linea de Fox (Tierra-10005)."
+  },
+  {
+   "inicio": 318,
+   "fin": 363,
+   "afirmacion": "La nave con la que llegan los Cuatro Fantasticos a la Torre de los Vengadores es diferente a la nave puntiaguda de Thunderbolts.",
+   "imagen_de_apoyo": "Nave circular aterrizando frente al logo del Capitan America en la Torre de los Vengadores.",
+   "tipo": "lectura_de_imagen",
+   "verificar": "Correcto. El diseño de la nave es esferico y retro-futurista, alineado con la estetica de los Cuatro Fantasticos de los años 60."
+  },
+  {
+   "inicio": 377,
+   "fin": 387,
+   "afirmacion": "Steve Rogers golpea a Doctor Doom con el Mjolnir dentro de la nave sacandolo despedido hacia el suelo.",
+   "imagen_de_apoyo": "Reed Richards sorprendido dentro de la cabina de la nave tras un impacto violento en el cristal.",
+   "tipo": "teoria",
+   "verificar": "Teoria basada en conectar la escena de Reed sorprendido con la toma filtrada/anterior donde Doom cae al suelo junto a un martillo."
+  },
+  {
+   "inicio": 416,
+   "fin": 454,
+   "afirmacion": "Thor ha obtenido la Odin Force porque sus rayos pasaron de ser azules a amarillos dorados.",
+   "imagen_de_apoyo": "Thor rodeado de fulgores de rayos de color amarillo intenso en lugar del azul tradicional.",
+   "tipo": "teoria",
+   "verificar": "En los comics la Odin Force / Thor Force se manifiesta con un brillo dorado/amarillo superior. En el MCU no se ha nombrado explicitamente como Odin Force aun."
+  },
+  {
+   "inicio": 455,
+   "fin": 542,
+   "afirmacion": "Mostrar a Cíclope diciendo To me, my X-Men en el trailer es un arruinar o robar el momento magico del cine.",
+   "imagen_de_apoyo": "Ciclope ajustando su visor de rubi cuarzo antes de lanzar la frase junto a los X-Men.",
+   "tipo": "opinion",
+   "verificar": "Es una opinion subjetiva del creador. Ademas nota un detalle tecnico: suena el tema de los Vengadores en lugar del tema clasico de X-Men 97 / Fox."
+  },
+  {
+   "inicio": 543,
+   "fin": 559,
+   "afirmacion": "Thor se molesta en la escena post-creditos del trailer porque quien sostiene el Mjolnir es Loki disfrazado.",
+   "imagen_de_apoyo": "Thor mirando fijamente a alguien fuera de camara que sostiene el martillo Mjolnir en la ciudad.",
+   "tipo": "teoria",
+   "verificar": "Teoria especulativa para explicar la reaccion molesta de Thor ante otra persona levantando el martillo."
+  },
+  {
+   "inicio": 581,
+   "fin": 600,
+   "afirmacion": "El nuevo poster promocional de Avengers Doomsday es una referencia directa al poster original de Iron Man de 2008.",
+   "imagen_de_apoyo": "Comparativa de posters: el casco de Iron Man a la izquierda (2008) y la mascara de Doctor Doom a la derecha (2026) con Robert Downey Jr.",
+   "tipo": "dato",
+   "verificar": "Correcto. El poster promocional imita la composicion de iluminacion y encuadre del primer cartel de Iron Man en 2008."
+  }
+ ],
+ "estructura": {
+  "hook": "El creador arranca anunciando directamente que salio el trailer final de Doomsday y advierte que hay una escena en concreto al final que odio profundamente.",
+  "fortalezas": "Analisis muy detallado cuadro a cuadro conectando referencias de comics (James Rogers, Odin Force) con teorias de lineas temporales (Tierra-828 y 10005). Buena pasion en su critica sobre los spoilers en trailers.",
+  "debilidades": "El video dura 10 minutos en formato vertical sin cortes dinamicos de edicion, lo que ralentiza el ritmo. Da muchas vueltas sobre su descontento personal por el spoiler de los X-Men.",
+  "que_haríamos_mejor": "Comenzar con un hook visual impactante del enfrentamiento Thor vs Doom o el cara a cara de los X-Men en los primeros 3 segundos. Agilizar la explicacion con rotulos de texto en pantalla para nombrar cada Tierra (616, 828, 10005) y usar graficos comparativos de los rayos azules vs amarillos de Thor."
+ },
+ "angulos_short": [
+  {
+   "angulo": "Polemica de spoilers en trailers",
+   "hook": "Marvel arruino la escena mas epica de Avengers Doomsday antes del estreno?",
+   "por_que": "Genera debate inmediato en comentarios entre los fans que amaron ver a Ciclope y los que prefieren no ver spoilers."
+  },
+  {
+   "angulo": "Nivel de poder de Thor (Odin Force)",
+   "hook": "El detalle del trailer de Doomsday que prueba que Thor ahora tiene el poder de Odín.",
+   "por_que": "Atrae a los fans del lore y las escalas de poder de superheroes al analizar el cambio de color en los rayos de Thor."
+  },
+  {
+   "angulo": "El secreto de la linea temporal del Capitan America",
+   "hook": "Steve Rogers creo la Tierra-828 y condeno al universo en Avengers Doomsday?",
+   "por_que": "Explora las consecuencias del final de Endgame y como la vida del Capitan America conecto con el origen de Doctor Doom."
+  }
+ ],
+ "polemicas": [
+  "Marvel spoileo el llamado de To me, my X-Men en un trailer en lugar de reservarlo para el cine.",
+  "El trailer utilizo el tema musical de los Vengadores en lugar del tema clasico de los X-Men durante el grito de batalla.",
+  "La presencia del hijo de Steve Rogers abre el debate de si posee el suero del super soldado o si altera las reglas temporales de Endgame."
+ ],
+ "_meta": {
+  "modelo": "gemini-3.5-flash",
+  "res": "MEDIA_RESOLUTION_LOW",
+  "uso": {
+   "promptTokenCount": 57687,
+   "candidatesTokenCount": 2324,
+   "totalTokenCount": 61025,
+   "promptTokensDetails": [
+    {
+     "modality": "TEXT",
+     "tokenCount": 3086
+    },
+    {
+     "modality": "VIDEO",
+     "tokenCount": 54601
+    }
+   ],
+   "thoughtsTokenCount": 1014,
+   "serviceTier": "standard"
+  }
+ }
+}

@@ -1,0 +1,187 @@
+{
+ "tipo": "historia",
+ "resumen": "En el balcón del Castillo Doom, el Dios Emperador Doom conversa con Sue Storm sobre su incapacidad para curar las cicatrices de su rostro a pesar de poseer un poder divino. Sue lo reconforta amorosamente y lo insta a mostrarse tal cual es ante su pueblo. Al revelar su rostro profundamente desfigurado bajo la capucha, Sue le asegura que ve en él a un dios dedicado a su gente.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible"
+ ],
+ "eventos_clave": [
+  "Doom muestra su rostro desfigurado a Sue Storm",
+  "Sue reconforta al Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    198,
+    1000
+   ],
+   "descripcion": "Vista panorámica del balcón del Castillo Doom, donde Victor von Doom y Sue Storm conversan contemplando el horizonte de Battleworld.",
+   "prompt_en": "Wide shot of a hooded figure in white robes talking to a blonde woman in white armor on a high stone balcony of a majestic castle.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "castillo-doom",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "And yet... I am flawed. All this power and still I cannot heal my face.",
+     "texto_es": "Y sin embargo... soy imperfecto. Todo este poder y aún así no puedo curar mi rostro."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom, Battleworld",
+   "tono": "Melancólico",
+   "recorte": "vinetas/page-098-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    198,
+    36,
+    372,
+    968
+   ],
+   "descripcion": "Plano medio corto de Sue Storm tocando delicadamente la capucha de Doom mientras le recuerda por qué lo eligió.",
+   "prompt_en": "Close up of a blonde woman tenderly touching the hood of a masked man in white robes, looking into his eyes with compassion.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "amor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Your face...",
+     "texto_es": "Tu rostro..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Oh, Victor... I remember when we found each other. I remember me... choosing you...",
+     "texto_es": "Oh, Víctor... Recuerdo cuando nos encontramos. Me recuerdo a mí misma... eligiéndote..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Not because of how you looked, but because of your mind and your heart. And then to find out what you had done to save us all...",
+     "texto_es": "No por cómo te veías, sino por tu mente y tu corazón. Y luego descubrir lo que habías hecho para salvarnos a todos..."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom, Battleworld",
+   "tono": "Íntimo",
+   "recorte": "vinetas/page-098-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    372,
+    36,
+    558,
+    968
+   ],
+   "descripcion": "Sue Storm le pide a Víctor que no se aísle del pueblo y que se quite la máscara para mostrar su verdadera fortaleza.",
+   "prompt_en": "Medium close-up of a blonde woman gesturing gently toward a hooded figure in white robes in a daylight setting.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom",
+    "mascara-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I know you better than anyone, and you couldn't be more wrong.",
+     "texto_es": "Te conozco mejor que nadie, y no podrías estar más equivocada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "You shouldn't remove yourself-- you should meet the people in the streets. They understand your perceived power, show them your real strength.",
+     "texto_es": "No deberías aislarte... deberías conocer a la gente en las calles. Ellos entienden tu poder percibido, muéstrales tu verdadera fuerza."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Take off your mask, Victor.",
+     "texto_es": "Quítate la máscara, Víctor."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom, Battleworld",
+   "tono": "Persuasivo",
+   "recorte": "vinetas/page-098-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    558,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Impresionante primer plano del rostro terriblemente cicatrizado y quemado del Dios Emperador Doom sin su máscara metálica, revelado bajo su capucha, mientras la mano con guante blanco de Sue acaricia amorosamente su mejilla destrozada.",
+   "prompt_en": "Extremely detailed close-up portrait of a hooded god-like figure with a horribly scarred, decayed face, tenderly touched by a woman's gloved hand.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "rostro-doom",
+    "doom-dios",
+    "revelacion-rostro",
+    "momento-clave"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "So they can see this?",
+     "texto_es": "¿Para que puedan ver esto?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "So they can see what I see...",
+     "texto_es": "Para que puedan ver lo que yo veo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...A god with great love for his people.",
+     "texto_es": "...Un dios con un gran amor por su pueblo."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom, Battleworld",
+   "tono": "Vulnerable, dramático",
+   "recorte": "vinetas/page-098-v4.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 98,
+ "archivo": "paginas/page-098.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6020,
+ "_seg": 21.2
+}

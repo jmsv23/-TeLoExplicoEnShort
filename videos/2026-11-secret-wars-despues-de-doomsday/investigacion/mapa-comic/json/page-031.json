@@ -1,0 +1,204 @@
+{
+ "tipo": "historia",
+ "resumen": "Los héroes supervivientes de la Tierra-616 se aseguran a bordo de la balsa de salvamento mientras el planeta se destruye por la incursión final. Reed Richards y Black Panther pilotean la nave a través del colapso del universo mientras Star-Lord y la Capitana Marvel sufren las sacudidas de la balsa.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards)",
+  "Black Panther (T'Challa)",
+  "Capitana Marvel (Carol Danvers)",
+  "Star-Lord",
+  "Sue Storm / Mujer Invisible",
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Antorcha Humana",
+  "Valeria Richards",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Evacuación de los héroes en la balsa de salvamento",
+  "Incursión final de la Tierra-616",
+  "Piloto automático y escudo de la balsa soportando la colisión universal"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    460,
+    1000
+   ],
+   "descripcion": "Vista general del puente de mando de la balsa de salvamento. Reed Richards está al volante mientras Black Panther le advierte del estado del planeta. Detrás de ellos, la familia de los Cuatro Fantásticos y otros héroes buscan asiento.",
+   "prompt_en": "Interior shot of a futuristic spaceship cockpit, superheroes boarding and strapping in, high panic atmosphere, detailed comic book style by Esad Ribic",
+   "personajes": [
+    "Mister Fantástico (Reed Richards)",
+    "Black Panther (T'Challa)",
+    "Sue Storm / Mujer Invisible",
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Antorcha Humana",
+    "Valeria Richards",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "ultima-incursion",
+    "cuatro-fantasticos",
+    "evacuacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "The planet's surface is fracturing. I think this is everyone we're going to get, Reed.",
+     "texto_es": "La superficie del planeta se está fracturando. Creo que estos son todos los que vamos a poder rescatar, Reed."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards)",
+     "texto": "Okay! Everyone, strap in!",
+     "texto_es": "¡De acuerdo! ¡Todos, abróchense los cinturones!"
+    }
+   ],
+   "lugar": "Balsa de salvamento (Life Raft)",
+   "tono": "urgente",
+   "recorte": "vinetas/page-031-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    450,
+    31,
+    672,
+    970
+   ],
+   "descripcion": "Primer plano en ángulo oblicuo del perfil de Reed Richards y Black Panther observando los controles de navegación mientras la nave tiembla.",
+   "prompt_en": "Close up profile of bearded Mister Fantastic and Black Panther inside a spaceship cockpit, dramatic lighting, comic art",
+   "personajes": [
+    "Mister Fantástico (Reed Richards)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "piloto",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Are we going to make it?",
+     "texto_es": "¿Vamos a lograrlo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Yes. Barely.",
+     "texto_es": "Sí. Apenas."
+    }
+   ],
+   "lugar": "Balsa de salvamento (Life Raft)",
+   "tono": "tenso",
+   "recorte": "vinetas/page-031-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    565,
+    33,
+    980,
+    715
+   ],
+   "descripcion": "La Capitana Marvel grita desorientada mientras Star-Lord se sostiene preocupado ante el temblor violento de la estructura de la nave.",
+   "prompt_en": "Captain Marvel yelling in distress and Star-Lord reacting to a violent tremor inside a spaceship, dynamic comic panel",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Star-Lord"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "turbulencia",
+    "star-lord",
+    "captain-marvel"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "RRUMMMBLE",
+     "texto_es": "RRUMMMBLE"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "That doesn't sound good.",
+     "texto_es": "Eso no suena bien."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "I dunno what's going on, but should that be happening? Should we be shaking like this?",
+     "texto_es": "No sé qué está pasando, pero ¿debería estar pasando eso? ¿Deberíamos estar sacudiéndonos así?"
+    }
+   ],
+   "lugar": "Balsa de salvamento (Life Raft)",
+   "tono": "caótico",
+   "recorte": "vinetas/page-031-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    580,
+    605,
+    985,
+    995
+   ],
+   "descripcion": "Primer plano de Reed Richards muy concentrado ajustando los parámetros de la balsa mientras Black Panther monitorea los niveles de energía del escudo protector.",
+   "prompt_en": "Close up of Reed Richards looking intense and Black Panther monitoring screens in cockpit, cinematic comic art",
+   "personajes": [
+    "Mister Fantástico (Reed Richards)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "incursion",
+    "escudos",
+    "supervivencia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Where are we?",
+     "texto_es": "¿Dónde estamos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Ninety-two percent. Still in the raft's safety threshold.",
+     "texto_es": "Noventa y dos por ciento. Aún dentro del umbral de seguridad de la balsa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards)",
+     "texto": "The shield is holding... the center point of the incursion gives us our best chance to--",
+     "texto_es": "El escudo está aguantando... el punto central de la incursión nos da nuestra mejor oportunidad de--"
+    }
+   ],
+   "lugar": "Balsa de salvamento (Life Raft)",
+   "tono": "dramático",
+   "recorte": "vinetas/page-031-v4.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento (Life Raft)",
+ "numero_comic": 1,
+ "pagina": 31,
+ "archivo": "paginas/page-031.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6701,
+ "_seg": 25.3
+}

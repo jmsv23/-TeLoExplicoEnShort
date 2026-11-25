@@ -1,0 +1,159 @@
+{
+ "tipo": "historia",
+ "resumen": "Cíclope emerge renovado y manifestando el poder de la Fuerza Fénix en el interior de la balsa de salvamento, sorprendiendo a los héroes sobrevivientes como Spider-Man, Thor, Capitana Marvel y Star-Lord.",
+ "personajes": [
+  "Cíclope",
+  "Spider-Man (Peter Parker)",
+  "Thor (Jane Foster)",
+  "Capitana Marvel (Carol Danvers)",
+  "Star-Lord"
+ ],
+ "eventos_clave": [
+  "Revelación de Cíclope como portador del poder del Fénix dentro de la balsa de salvamento"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    166,
+    1000
+   ],
+   "descripcion": "Un rostro resplandeciente envuelto en energía dorada grita furiosamente mientras resuena la entidad del Fénix.",
+   "prompt_en": "Close-up of a glowing yellow face screaming with bright laser optic beams and golden aura, comic style.",
+   "personajes": [
+    "Cíclope"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fuerza-fenix",
+    "resurreccion",
+    "ciclope"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Cíclope",
+     "texto": "AARRGGHHH!",
+     "texto_es": "¡AARRGGHHH!"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "It always comes back.",
+     "texto_es": "Siempre regresa."
+    }
+   ],
+   "lugar": "Plano astral / Dimensión del Fénix",
+   "tono": "épico",
+   "recorte": "vinetas/page-030-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    166,
+    0,
+    330,
+    1000
+   ],
+   "descripcion": "Una figura incandescente flota con los brazos extendidos en postura triunfante rodeada de llama dorada.",
+   "prompt_en": "Golden glowing superhero figure floating in T-pose surrounded by bright yellow cosmic aura.",
+   "personajes": [
+    "Cíclope"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fuerza-fenix",
+    "resurreccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope",
+     "texto": "Resurrected.",
+     "texto_es": "Resucitado."
+    }
+   ],
+   "lugar": "Plano astral / Dimensión del Fénix",
+   "tono": "místico",
+   "recorte": "vinetas/page-030-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    330,
+    0,
+    492,
+    1000
+   ],
+   "descripcion": "El destello de energía se condensa tomando la silueta de la cara de Cíclope antes de manifestarse físicamente.",
+   "prompt_en": "Burst of blinding golden light framing a fading glowing face silhouette.",
+   "personajes": [
+    "Cíclope"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "fuerza-fenix",
+    "renacimiento"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Or reborn...",
+     "texto_es": "O renace..."
+    }
+   ],
+   "lugar": "Plano astral / Dimensión del Fénix",
+   "tono": "místico",
+   "recorte": "vinetas/page-030-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    492,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Cíclope aparece envuelto en humo y fuego en el centro de la balsa de salvamento, ante la mirada de Spider-Man, Thor, Capitana Marvel y Star-Lord.",
+   "prompt_en": "Comic page panel showing Cyclops emerging with glowing flames and smoke in the center, surrounded by Spider-Man, Thor Jane Foster, Captain Marvel, and Star-Lord inside a metallic futuristic capsule.",
+   "personajes": [
+    "Cíclope",
+    "Spider-Man (Peter Parker)",
+    "Thor (Jane Foster)",
+    "Capitana Marvel (Carol Danvers)",
+    "Star-Lord"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "fuerza-fenix",
+    "ciclope",
+    "superheroes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope",
+     "texto": "...into a different form.",
+     "texto_es": "...en una forma diferente."
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "revelador",
+   "recorte": "vinetas/page-030-v4.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento",
+ "numero_comic": 2,
+ "pagina": 30,
+ "archivo": "paginas/page-030.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4659,
+ "_seg": 14.9
+}

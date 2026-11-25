@@ -1,0 +1,189 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hacedor despliega la balsa de salvamento del Universo Ultimate justo cuando la incursion final destruye el mundo. A bordo, conversa con Thanos sobre el fin del mundo y la supervivencia de sus ideales.",
+ "personajes": [
+  "El Hacedor",
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Lanzamiento de la balsa de salvamento de la Cábala / El Hacedor",
+  "Destrucción del Universo Ultimate durante la Incursión Final"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    35,
+    451,
+    267
+   ],
+   "descripcion": "Vista exterior de la torre del Hacedor emergiendo entre la niebla y la atmósfera contaminada del planeta.",
+   "prompt_en": "A tall futuristic metallic tower extending up into hazy golden sky, wide exterior comic book panel",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "incursion-final",
+    "universo-ultimate",
+    "torre-del-hacedor"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "\"BEFORE IT'S TOO LATE.\"",
+     "texto_es": "\"ANTES DE QUE SEA DEMASIADO TARDE.\""
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "dramático",
+   "recorte": "vinetas/page-029-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    269,
+    451,
+    501
+   ],
+   "descripcion": "La parte superior de la estructura de la torre se abre para liberar una nave circular, la balsa de salvamento.",
+   "prompt_en": "A circular sci-fi life raft spaceship being launched from the top opening of a futuristic tower shaft, comic panel",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "lanzamiento",
+    "universo-ultimate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "LIFE RAFT AWAY!",
+     "texto_es": "¡BALSA DE SALVAMENTO EN CAMINO!"
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "épico",
+   "recorte": "vinetas/page-029-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    28,
+    502,
+    451,
+    747
+   ],
+   "descripcion": "Vista cenital hacia el interior del pozo mecánico de la estructura mientras la balsa despega.",
+   "prompt_en": "Looking down into a huge open mechanical round shaft of a sci-fi structure, dramatic perspective, comic book style",
+   "personajes": [
+    "El Hacedor",
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "cabala",
+    "dialogo",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Some people call it theft, Thanos, but if you take something and make it better... well, I've always believed a bit of appreciation and no small bit of gratitude are in order.",
+     "texto_es": "Algunos lo llaman robo, Thanos, pero si tomas algo y lo mejoas... bueno, siempre he creído que un poco de apreciación y no poca gratitud son oportunas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "AND WHAT LESSON WOULD YOU SAY THE APOCALYPSE HAS TAUGHT YOU, MAKER?",
+     "texto_es": "¿Y QUÉ LECCIÓN DIRÍAS QUE TE HA ENSEÑADO EL APOCALIPSIS, HACEDOR?"
+    }
+   ],
+   "lugar": "Balsa de salvamento del Hacedor",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-029-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    28,
+    748,
+    451,
+    968
+   ],
+   "descripcion": "El Hacedor está dentro de una cápsula de estasis biológica azul, mientras Thanos lo contempla desde abajo con expresión adusta.",
+   "prompt_en": "Close up of Maker in a liquid stasis pod looking down and Thanos wearing golden armor and helmet looking up, detailed comic art",
+   "personajes": [
+    "El Hacedor",
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "thanos",
+    "estasis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "After all, it's not every day that you really learn something.",
+     "texto_es": "Después de todo, no todos los días aprendes algo de verdad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "That some things refuse to die.",
+     "texto_es": "Que algunas cosas se niegan a morir."
+    }
+   ],
+   "lugar": "Balsa de salvamento del Hacedor",
+   "tono": "intenso",
+   "recorte": "vinetas/page-029-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    451,
+    0,
+    995,
+    1000
+   ],
+   "descripcion": "Gran viñeta apocalíptica de ciudades colapsando y una gran nave espacial envuelta en una explosión masiva de fuego durante el cataclismo de la incursion.",
+   "prompt_en": "Huge explosion tearing apart a massive spaceship over collapsing futuristic skyscrapers in an apocalyptic firestorm, comic splash page art",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "incursion-final",
+    "destruccion",
+    "apocalipsis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "LISTEN TO ME...YOU CAN'T KILL AN IDEA.",
+     "texto_es": "ESCUCHAME... NO PUEDES MATAR UNA IDEA."
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "apocalíptico",
+   "recorte": "vinetas/page-029-v5.jpg"
+  }
+ ],
+ "lugar": "Tierra-1610 / Balsa de salvamento",
+ "numero_comic": 1,
+ "pagina": 29,
+ "archivo": "paginas/page-029.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6146,
+ "_seg": 22.9
+}

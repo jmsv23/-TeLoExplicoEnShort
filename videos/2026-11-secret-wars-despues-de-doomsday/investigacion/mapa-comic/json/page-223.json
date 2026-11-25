@@ -1,0 +1,148 @@
+{
+ "tipo": "historia",
+ "resumen": "Namor y Black Panther presencian cómo un ataque masivo destruye a una criatura colosal de piedra, pero la figura gigante rápidamente comienza a levantarse del suelo tras sobrevivir al golpe.",
+ "personajes": [
+  "Namor",
+  "Black Panther (T'Challa)",
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "Destruccion de la figura gigante de piedra",
+  "Namor y Black Panther observan la batalla",
+  "La Cosa se recupera del ataque"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    483,
+    1000
+   ],
+   "descripcion": "Una enorme lanza o tridente dorado impacta violentamente destruyendo una colosal figura de piedra clara con una gran onomatopeya.",
+   "prompt_en": "A giant golden spear smashing a massive white stone colossus into pieces, sound effect text KRSSSHHH, high action comic panel",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "destruccion",
+    "onomatopeya",
+    "accion"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "KRSSSHHH",
+     "texto_es": "KRSSSHHH"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-223-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    483,
+    34,
+    715,
+    966
+   ],
+   "descripcion": "Namor y Black Panther observan serios el campo de batalla mientras se disipa el humo.",
+   "prompt_en": "Namor and Black Panther standing side by side looking at the aftermath of an explosion, comic panel",
+   "personajes": [
+    "Namor",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "namor",
+    "black-panther",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "It can't be that easy.",
+     "texto_es": "No puede ser tan fácil."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "It won't be.",
+     "texto_es": "No lo será."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tension",
+   "recorte": "vinetas/page-223-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    726,
+    36,
+    968,
+    338
+   ],
+   "descripcion": "Plano en detalle de las rocas blancas destruidas en el suelo.",
+   "prompt_en": "Close up of shattered white stone pieces lying on muddy ground, comic panel",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "escombros",
+    "detalle"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "misterio",
+   "recorte": "vinetas/page-223-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    726,
+    347,
+    968,
+    966
+   ],
+   "descripcion": "El gigante de piedra se apoya en el suelo para levantarse lentamente del impacto.",
+   "prompt_en": "A giant stone colossus pushing himself up from the dirt and rubble, comic art panel",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "la-cosa",
+    "resistencia",
+    "recomposicion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "That. Hurt.",
+     "texto_es": "Eso. Dolió."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-223-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 223,
+ "archivo": "paginas/page-223.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4998,
+ "_seg": 18.4
+}

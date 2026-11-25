@@ -1,0 +1,153 @@
+{
+ "tipo": "historia",
+ "resumen": "Thanos desafía la autoridad de Victor von Doom, pero el Dios Emperador le arranca la columna vertebral y el cráneo sin esfuerzo, reduciéndolo a cenizas al instante. Tras matar a Thanos, Doom le ordena a Annihilus que pague su penitencia ayudando a defender su castillo de los herejes que lo atacan.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Thanos",
+  "[Annihilus]"
+ ],
+ "eventos_clave": [
+  "Muerte de Thanos a manos de Dios Emperador Doom",
+  "Doom somete a Annihilus"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    40,
+    235,
+    960
+   ],
+   "descripcion": "El Dios Emperador Doom le clava el puño armado directo al pecho a Thanos.",
+   "prompt_en": "God Emperor Doom in white hooded armor driving his gauntleted hand directly into Thanos' chest, close-up comic panel.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "god-emperor-doom",
+    "thanos",
+    "muerte-de-thanos",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Hurk!",
+     "texto_es": "¡Hurk!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "brutal",
+   "recorte": "vinetas/page-217-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    238,
+    0,
+    780,
+    1000
+   ],
+   "descripcion": "Doom alza victorioso la columna vertebral y el cráneo desollado de Thanos mientras el resto del cuerpo de Thanos se desintegra por completo en una nube de polvo verde.",
+   "prompt_en": "God Emperor Doom holding aloft Thanos' ripped-out skull and spine, with Thanos' body crumbling into dust and ash, wide epic splash panel.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Thanos"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "god-emperor-doom",
+    "thanos",
+    "muerte-de-thanos",
+    "escena-iconica"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "That appears...",
+     "texto_es": "Eso parece..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...untrue.",
+     "texto_es": "...falso."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-217-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    780,
+    40,
+    975,
+    970
+   ],
+   "descripcion": "Doom sostiene el cráneo calcinado de Thanos ante Annihilus y le ordena someterse y servir en la batalla contra los rebeldes.",
+   "prompt_en": "God Emperor Doom holding Thanos' burnt skull in front of Annihilus, comic panel shot.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "[Annihilus]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "god-emperor-doom",
+    "annihilus",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Annihilus...",
+     "texto_es": "Annihilus..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Annihilus]",
+     "texto": "Ssssss.",
+     "texto_es": "Ssssss."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I am owed penance for this indulgence.",
+     "texto_es": "Me debes una penitencia por esta indulgencia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Annihilus]",
+     "texto": "Yesssss, God. Yesssss. Whatever you wissssh.",
+     "texto_es": "Sísssss, Dios. Sísssss. Lo que deseeeees."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "There are heretics attacking my castle...",
+     "texto_es": "Hay herejes atacando mi castillo..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-217-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 217,
+ "archivo": "paginas/page-217.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4669,
+ "_seg": 15.8
+}

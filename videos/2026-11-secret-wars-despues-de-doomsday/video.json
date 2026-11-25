@@ -1,0 +1,115 @@
+{
+ "titulo": "¿Qué pasa después de Doomsday? Secret Wars",
+ "fecha": "2026-11-20",
+ "formato": "largo",
+ "estilo": "comic",
+ "voz": null,
+ "serie": "camino-a-doomsday",
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo",
+   "comic": {
+    "partes": [
+     [
+      "p1",
+      [
+       "hook",
+       "aviso",
+       "c1"
+      ]
+     ],
+     [
+      "p2",
+      [
+       "c2",
+       "c3"
+      ]
+     ],
+     [
+      "p3",
+      [
+       "c4"
+      ]
+     ],
+     [
+      "p4",
+      [
+       "c5",
+       "c6"
+      ]
+     ],
+     [
+      "p5",
+      [
+       "c7",
+       "c8"
+      ]
+     ],
+     [
+      "p6",
+      [
+       "epilogo",
+       "cine",
+       "cierre"
+      ]
+     ]
+    ],
+    "dias": null,
+    "placa": [
+     "c(\\d+)",
+     "CAPÍTULO",
+     8
+    ]
+   },
+   "partes": true
+  }
+ ],
+ "musica": {
+  "comic": {
+   "hook": "hook",
+   "aviso": "misterio",
+   "c1": "accion",
+   "c2": "doom",
+   "c3": "misterio",
+   "c4": "doom",
+   "c5": "misterio",
+   "c6": "accion",
+   "c7": "accion",
+   "c8": "doom",
+   "epilogo": "misterio",
+   "cine": "misterio",
+   "cierre": "hook"
+  }
+ },
+ "pronunciacion": [
+  [
+   "T'Challa",
+   "Chalá"
+  ],
+  [
+   "Hickman",
+   "Jíkman"
+  ],
+  [
+   "Groot",
+   "Grut"
+  ],
+  [
+   "Star Lord",
+   "Star Lord"
+  ]
+ ],
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/_motion/compositions/camino-a-doomsday/_lf (lf03)"
+}

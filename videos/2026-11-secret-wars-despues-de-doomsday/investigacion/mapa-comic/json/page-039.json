@@ -1,0 +1,50 @@
+{
+ "tipo": "historia",
+ "resumen": "Una página completamente negra con las palabras 'IN NOTHING.' impresas en el centro, representando el vacío absoluto tras el fin de todo y la destrucción del Multiverso.",
+ "personajes": [],
+ "eventos_clave": [
+  "Destrucción del Multiverso",
+  "El fin de todo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página completamente negra con un pequeño texto centrado entre comillas que dice 'IN NOTHING.'",
+   "prompt_en": "A completely pitch-black panel with tiny white centered text in quotes reading 'IN NOTHING.'",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "la-nada",
+    "fin-del-multiverso",
+    "secret-wars-2015"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"IN NOTHING.\"",
+     "texto_es": "\"EN LA NADA.\""
+    }
+   ],
+   "lugar": "La nada",
+   "tono": "desolador",
+   "recorte": "vinetas/page-039-v1.jpg"
+  }
+ ],
+ "lugar": "La nada",
+ "numero_comic": 1,
+ "pagina": 39,
+ "archivo": "paginas/page-039.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2898,
+ "_seg": 7.6
+}

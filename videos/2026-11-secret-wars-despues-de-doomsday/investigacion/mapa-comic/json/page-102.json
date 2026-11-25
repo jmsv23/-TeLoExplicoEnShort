@@ -1,0 +1,275 @@
+{
+ "tipo": "historia",
+ "resumen": "Los héroes supervivientes de la balsa de salvamento de la Tierra-616 despiertan y se reencuentran. Spider-Man (Peter Parker) y Miles Morales se reconocen mutuamente, mientras la Capitana Marvel (Carol Danvers) cuestiona al Doctor Strange sobre lo que ocurrió con el mundo y cómo es que están vivos.",
+ "personajes": [
+  "Spider-Man (Miles Morales)",
+  "Spider-Man (Peter Parker)",
+  "Capitana Marvel (Carol Danvers)",
+  "Doctor Strange (Sheriff Strange)",
+  "Thor (Jane Foster)",
+  "Thor"
+ ],
+ "eventos_clave": [
+  "Reencuentro entre Miles Morales y Peter Parker tras la destrucción de sus universos",
+  "La Capitana Marvel confronta al Doctor Strange exigiendo explicaciones sobre Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    35,
+    284,
+    317
+   ],
+   "descripcion": "Miles Morales se gira sorprendido hacia atrás al escuchar a alguien hablar.",
+   "prompt_en": "Comic panel showing Spider-Man Miles Morales turning his head in surprise, close-up shot.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reencuentro",
+    "sorpresa",
+    "miles-morales"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "HEY!",
+     "texto_es": "¡Oye!"
+    }
+   ],
+   "lugar": "Cámara del Sheriff Strange, Battleworld",
+   "tono": "asombro",
+   "recorte": "vinetas/page-102-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    322,
+    284,
+    969
+   ],
+   "descripcion": "Miles Morales y Peter Parker se reconocen sorprendidos y confundidos de volver a verse.",
+   "prompt_en": "Comic panel showing Miles Morales in his black spider suit looking up at Peter Parker in classic red and blue Spider-Man suit crouching on a ledge.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reencuentro-spidermen",
+    "peter-parker",
+    "miles-morales"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Peter, is that you?",
+     "texto_es": "Peter, ¿eres tú?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "MILES?",
+     "texto_es": "¿MILES?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Yeah.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "NO WAY.",
+     "texto_es": "NO PUEDE SER."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "WHAT'RE... I MEAN, HOW ARE YOU... HERE?",
+     "texto_es": "¿CÓMO... QUIERO DECIR, CÓMO ESTÁS... AQUÍ?"
+    }
+   ],
+   "lugar": "Cámara del Sheriff Strange, Battleworld",
+   "tono": "confusión",
+   "recorte": "vinetas/page-102-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    292,
+    36,
+    659,
+    969
+   ],
+   "descripcion": "Vista grupal de los héroes supervivientes reunidos: Thor, Doctor Strange, Miles Morales, Peter Parker, Capitana Marvel y Jane Foster Thor.",
+   "prompt_en": "Comic panel wide shot of a group of superhero survivors including Thor, Doctor Strange, Spider-Man, Captain Marvel and Jane Foster Thor standing together in discussion.",
+   "personajes": [
+    "Thor",
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)",
+    "Capitana Marvel (Carol Danvers)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "supervivientes",
+    "reunion-heroes",
+    "balsa-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "FOR THAT MATTER... HOW ARE ANY OF US HERE?",
+     "texto_es": "Para el caso... ¿cómo es que cualquiera de nosotros está aquí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "LAST THING I REMEMBER, THE WORLD WAS ENDING... AND YOU'RE HERE, DOCTOR STRANGE...",
+     "texto_es": "Lo último que recuerdo es que el mundo se estaba acabando... y tú estás aquí, Doctor Strange..."
+    }
+   ],
+   "lugar": "Cámara del Sheriff Strange, Battleworld",
+   "tono": "misterio",
+   "recorte": "vinetas/page-102-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    668,
+    35,
+    971,
+    362
+   ],
+   "descripcion": "La Capitana Marvel continúa cuestionando al Doctor Strange sobre qué sucedió.",
+   "prompt_en": "Comic panel showing Doctor Strange looking thoughtful as Captain Marvel speaks to him.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "interrogatorio",
+    "doctor-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "...A MAN WHO DISAPPEARED MONTHS AGO. WHAT'S GOING ON, STEPHEN?",
+     "texto_es": "...Un hombre que desapareció hace meses. ¿Qué está pasando, Stephen?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "THAT DEPENDS ON YOUR ANSWER TO THE QUESTION OF WORLDS. ARE YOU REALLY MY CAPTAIN MARVEL? OR SOME OTHER UNIVERSE'S VERSION OF THE CAROL I ONCE KNEW?",
+     "texto_es": "Eso depende de tu respuesta a la pregunta de los mundos. ¿Eres realmente mi Capitana Marvel? ¿O la versión de otro universo de la Carol que una vez conocí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "BETTER PUT, AM I REALLY WHO YOU THINK I AM? ARE YOU REALLY YOU?",
+     "texto_es": "Mejor dicho, ¿soy realmente quien crees que soy? ¿Eres tú realmente tú?"
+    }
+   ],
+   "lugar": "Cámara del Sheriff Strange, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-102-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    668,
+    368,
+    971,
+    664
+   ],
+   "descripcion": "Plano desde la espalda de Capitana Marvel hablando fijamente con Doctor Strange.",
+   "prompt_en": "Comic panel over the shoulder of Captain Marvel looking at Doctor Strange.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "dialogo",
+    "duda"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "WELL, YOU SOUND LIKE AN IDIOT... WHICH SEEMS FAMILIAR ENOUGH.",
+     "texto_es": "Bueno, me suenas a idiota... lo cual parece bastante familiar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "EVEN IF THAT WERE TRUE... ARE YOU REALLY THE ONLY ONES WHO SURVIVED?",
+     "texto_es": "Incluso si eso fuera cierto... ¿somos realmente los únicos que sobrevivieron?"
+    }
+   ],
+   "lugar": "Cámara del Sheriff Strange, Battleworld",
+   "tono": "irónico",
+   "recorte": "vinetas/page-102-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    668,
+    671,
+    971,
+    969
+   ],
+   "descripcion": "Doctor Strange responde mientras Carol se gira con sorpresa al percibir algo nuevo.",
+   "prompt_en": "Comic panel close-up on Doctor Strange speaking while Captain Marvel turns in surprise.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "supervivientes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "NO. THERE ARE A FEW MORE OF US...",
+     "texto_es": "No. Hay unos cuantos más de nosotros..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "OH!",
+     "texto_es": "¡OH!"
+    }
+   ],
+   "lugar": "Cámara del Sheriff Strange, Battleworld",
+   "tono": "expectativa",
+   "recorte": "vinetas/page-102-v6.jpg"
+  }
+ ],
+ "lugar": "Cámara del Sheriff Strange, Battleworld",
+ "numero_comic": 3,
+ "pagina": 102,
+ "archivo": "paginas/page-102.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6808,
+ "_seg": 23.9
+}

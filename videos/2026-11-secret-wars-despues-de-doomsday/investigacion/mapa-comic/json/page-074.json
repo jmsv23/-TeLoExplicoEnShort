@@ -1,0 +1,72 @@
+{
+ "tipo": "historia",
+ "resumen": "En las desoladas y peligrosas Tierras Muertas más allá del Muro del Escudo, un héroe (Capitán Britania) enfrenta y descuartiza con una espada de energía a una horda de zombis y monstruos encabezados por un Venom zombi.",
+ "personajes": [
+  "Capitán Britania / James Braddock",
+  "[Venom zombi]",
+  "[zombis / monstruos de las Tierras Muertas]"
+ ],
+ "eventos_clave": [
+  "Presentación de las Tierras Muertas",
+  "Combate contra zombis tras el Escudo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Splash page a todo color que muestra a Capitán Britania realizando un corte limpio con su espada de energía deslumbrante, bisecando el cuerpo de un Venom infectado por el virus zombi. A su alrededor acechan más criaturas grotescas y no muertas en el ambiente desolado de The Deadlands.",
+   "prompt_en": "Full page comic splash of a hero in British armored suit slicing a zombie Venom in half with a glowing blue energy blade, dramatic action pose, surrounded by creepy monsters in a dark rocky landscape.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "[Venom zombi]",
+    "[zombis / monstruos de las Tierras Muertas]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "deadlands",
+    "el-escudo",
+    "battleworld",
+    "capitan-britania",
+    "zombies"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "This is the horror that lies beyond the wall.",
+     "texto_es": "Este es el horror que yace más allá del muro."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The Deadlands.",
+     "texto_es": "Las Tierras Muertas."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "desconocido",
+     "texto": "SWOOOOOSH",
+     "texto_es": "SWOOOOOSH"
+    }
+   ],
+   "lugar": "Las Tierras Muertas (The Deadlands)",
+   "tono": "violento, épico, oscuro",
+   "recorte": "vinetas/page-074-v1.jpg"
+  }
+ ],
+ "lugar": "Las Tierras Muertas (The Deadlands)",
+ "numero_comic": 2,
+ "pagina": 74,
+ "archivo": "paginas/page-074.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3489,
+ "_seg": 10.9
+}

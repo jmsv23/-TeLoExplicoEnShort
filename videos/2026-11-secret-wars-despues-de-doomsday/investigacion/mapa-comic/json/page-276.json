@@ -1,0 +1,74 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración panorámica masiva que combina las portadas alternativas de los números 1 al 8 de Secret Wars, realizadas por Simone Bianchi y Simone Peruzzi. Muestra un collage gigantesco con numerosos héroes y villanos del Universo Marvel y Battleworld, incluyendo al Capitán América, Spider-Man, Iron Man, Thanos, Doctor Doom, Thor, Wolverine, Hulk, Loki y la Cosa, entre otros.",
+ "personajes": [
+  "Capitán América",
+  "Thanos",
+  "Doctor Doom / Dios Emperador Doom",
+  "Spider-Man (Peter Parker)",
+  "Thor",
+  "Iron Man",
+  "Hulk",
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Loki",
+  "Deadpool"
+ ],
+ "eventos_clave": [
+  "Mosaico de portadas alternativas combinadas de Secret Wars #1-8 por Simone Bianchi y Simone Peruzzi"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Una composición épica en collage que reúne múltiples personajes del Universo Marvel y el evento Secret Wars, dibujada por Simone Bianchi y coloreada por Simone Peruzzi. En el centro destaca el Capitán América en pose dinámica, rodeado por Thanos, Thor, Spider-Man, Doctor Doom, Loki, Iron Man, Hulk, la Cosa, Deadpool, Wolverine y decenas de otros héroes y villanos enfrentándose y posando en un montaje detallado.",
+   "prompt_en": "Epic dynamic Marvel Secret Wars comic collage illustration featuring Captain America, Thanos, Doctor Doom, Spider-Man, Thor, Iron Man, Hulk, and dozens of superhero and supervillain characters in an intricate montage, full color, detailed lineart by Simone Bianchi.",
+   "personajes": [
+    "Capitán América",
+    "Thanos",
+    "Doctor Doom / Dios Emperador Doom",
+    "Spider-Man (Peter Parker)",
+    "Thor",
+    "Iron Man",
+    "Hulk",
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Loki",
+    "Deadpool"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "portada-alternativa",
+    "secret-wars",
+    "battleworld",
+    "simone-bianchi",
+    "marvel-multiverse",
+    "heroes-vs-villains"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1-8 Combined Variants by Simone Bianchi & Simone Peruzzi",
+     "texto_es": "#1-8 Portadas alternativas combinadas por Simone Bianchi y Simone Peruzzi"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-276-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 276,
+ "archivo": "paginas/page-276.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3647,
+ "_seg": 13.3
+}

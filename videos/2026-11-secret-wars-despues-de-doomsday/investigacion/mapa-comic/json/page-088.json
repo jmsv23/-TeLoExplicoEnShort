@@ -1,0 +1,243 @@
+{
+ "tipo": "historia",
+ "resumen": "El Doctor Strange conversa con el Dios Emperador Doom en los jardines de su castillo en Battleworld. Strange le recuerda a Doom que ambos recuerdan el mundo de antes y que Strange tuvo la oportunidad de ser Dios pero la rechazó, comprometiéndose a proteger lo que han salvado.",
+ "personajes": [
+  "Doctor Strange",
+  "Doctor Doom"
+ ],
+ "eventos_clave": [
+  "Conversación entre Doctor Strange y Doctor Doom sobre el origen de Battleworld",
+  "Strange le recuerda a Doom que él pudo ser Dios pero rehusó el cargo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    233,
+    502
+   ],
+   "descripcion": "Primer plano del rostro del Doctor Strange mirando fijamente con expresión seria.",
+   "prompt_en": "Close-up portrait of Doctor Strange looking serious with a mustache and dark high-collared uniform.",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doctor-strange",
+    "primer-plano"
+   ],
+   "textos": [],
+   "lugar": "Castillo Doom",
+   "tono": "serio",
+   "recorte": "vinetas/page-088-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    513,
+    233,
+    967
+   ],
+   "descripcion": "Primer plano del Doctor Strange hablando con mirada severa.",
+   "prompt_en": "Close-up of Doctor Strange speaking with a stern expression.",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doctor-strange",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "You're in a damn tricky mood today, aren't you?",
+     "texto_es": "Estás de un humor endiabladamente difícil hoy, ¿no es así?"
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "intrigado",
+   "recorte": "vinetas/page-088-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    243,
+    36,
+    508,
+    967
+   ],
+   "descripcion": "Doctor Strange camina detrás de Doctor Doom a través de un pasillo geométrico de bloques de piedra que da al exterior.",
+   "prompt_en": "Doctor Strange in dark tunic walking behind Doctor Doom in white armor cape through a blocky geometric stone corridor leading outside.",
+   "personajes": [
+    "Doctor Strange",
+    "Doctor Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-strange",
+    "doctor-doom",
+    "battleworld",
+    "origen-battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "The troubles of gods are infinite and beyond man's understanding...",
+     "texto_es": "Los problemas de los dioses son infinitos y están más allá de la comprensión del hombre..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "But it wouldn't take a god to divine that, THIS DAY, the same is true of you.",
+     "texto_es": "Pero no haría falta un dios para adivinar que, HOY MISMO, lo mismo se aplica a ti."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "What's wrong, old friend?",
+     "texto_es": "¿Qué pasa, viejo amigo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Like everyone on this world, I know that you are God. But UNLIKE them, I remember what was...",
+     "texto_es": "Como todos en este mundo, sé que eres Dios. Pero A DIFERENCIA de ellos, yo recuerdo lo que fue..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I remember you and I MAKING all of this. Saving what we could. Creating what we could not.",
+     "texto_es": "Recuerdo que tú y yo HICIMOS todo esto. Salvando lo que pudimos. Creando lo que no pudimos salvar."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-088-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    516,
+    20,
+    638,
+    502
+   ],
+   "descripcion": "Plano medio de perfil de Doctor Strange dirigiéndose al encapuchado Doctor Doom.",
+   "prompt_en": "Side profile close-up of Doctor Strange talking to Doctor Doom wearing a white hood.",
+   "personajes": [
+    "Doctor Strange",
+    "Doctor Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doctor-strange",
+    "doctor-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "And when we disagree...",
+     "texto_es": "Y cuando no estamos de acuerdo..."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-088-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    516,
+    513,
+    638,
+    967
+   ],
+   "descripcion": "Plano medio de perfil donde Strange continúa su afirmación seria frente a Doom.",
+   "prompt_en": "Profile shot of Doctor Strange looking intense while speaking to Doctor Doom in white hood.",
+   "personajes": [
+    "Doctor Strange",
+    "Doctor Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-strange",
+    "doctor-doom",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "...I remember that I could have been God and not you.",
+     "texto_es": "...recuerdo que yo pude haber sido Dios y no tú."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "solemne",
+   "recorte": "vinetas/page-088-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    648,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica elevada de los majestuosos jardines del castillo con un lago, puente de piedra y pabellón, mientras Strange y Doom caminan juntos abajo.",
+   "prompt_en": "High angle panoramic view looking down at a castle garden with arched stone bridge over water, lush trees, and two tiny figures walking below.",
+   "personajes": [
+    "Doctor Strange",
+    "Doctor Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "battleworld",
+    "castillo-doom",
+    "paisaje",
+    "doctor-strange",
+    "doctor-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "And I remember that you did not want it.",
+     "texto_es": "Y recuerdo que no lo quisiste."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I still don't...",
+     "texto_es": "Aún no lo quiero..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "But I do remember... and know how precious what we have left is. So I guard it fiercely.",
+     "texto_es": "Pero sí recuerdo... y sé lo valioso que es lo poco que nos queda. Así que lo protejo ferozmente."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-088-v6.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 88,
+ "archivo": "paginas/page-088.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7235,
+ "_seg": 26.8
+}

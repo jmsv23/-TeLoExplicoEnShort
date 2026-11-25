@@ -1,0 +1,187 @@
+{
+ "tipo": "historia",
+ "resumen": "Hombre Molécula relata cómo él y Doctor Doom intentaron evitar la destrucción del multiverso asesinando a sus variantes en distintas realidades y fundando la orden de las Cisnes Negros, hasta que Doctor Strange se les unió justo antes del colapso final.",
+ "personajes": [
+  "Hombre Molécula (Owen Reece)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)",
+  "Cisne Negro (Black Swan)"
+ ],
+ "eventos_clave": [
+  "Hombre Molécula explica el asesinato de sus versiones alternativas a través del multiverso",
+  "Creación del culto de las Cisnes Negros",
+  "Doctor Strange se une a Doctor Doom y Hombre Molécula antes del final del multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    37,
+    312,
+    501
+   ],
+   "descripcion": "Una versión del Hombre Molécula desintegrándose violentamente en destellos de energía y luz rosada.",
+   "prompt_en": "Comic book panel showing a man disintegrating in bright pink mystical energy flare, dramatic comic art style",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "multiverso",
+    "incursiones"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "We had to kill me. Lots and lots of me's.",
+     "texto_es": "Tuvimos que matarme. A muchos y muchos de mí."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "At first, it was a cost I was willing to pay...",
+     "texto_es": "Al principio, era un costo que estaba dispuesto a pagar..."
+    }
+   ],
+   "recorte": "vinetas/page-141-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    509,
+    312,
+    969
+   ],
+   "descripcion": "Filas de mujeres idénticas vestidas con trajes negros y blancos, pertenecientes a la orden de las Cisnes Negros.",
+   "prompt_en": "Comic book panel depicting an army of identical pale women in black latex bodysuits standing in formation, blue tint",
+   "personajes": [
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "cisnes-negros",
+    "multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "And we built a religion of Black Swans around that idea.",
+     "texto_es": "Y construimos una religión de Cisnes Negros alrededor de esa idea."
+    }
+   ],
+   "recorte": "vinetas/page-141-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    312,
+    185,
+    483,
+    894
+   ],
+   "descripcion": "Rostro en primer plano y boca abajo de Owen Reece con cicatrices faciales, hablando con globos de texto a la derecha.",
+   "prompt_en": "Comic panel close-up of an upside-down man's scarred face illuminated by yellow glowing light",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "With each me that was killed, I lost a bit of what made me...me. It's a cost I was willing to pay...",
+     "texto_es": "Con cada yo que moría, perdía un poco de lo que me hacía... yo. Era un costo que estaba dispuesto a pagar..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "...But the madness wasn't worth it. We weren't going to prevent the early death of the multiverse. The Beyonders had built me too well...",
+     "texto_es": "...Pero la locura no valía la pena. No íbamos a prevenir la muerte prematura del multiverso. Los Beyonders me habían construido demasiado bien..."
+    }
+   ],
+   "recorte": "vinetas/page-141-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    484,
+    34,
+    977,
+    307
+   ],
+   "descripcion": "Doctor Doom agarrando por el cuello y emboscando por la espalda a otra versión del Hombre Molécula.",
+   "prompt_en": "Doctor Doom ambushing and grabbing a man from behind in dim blue lighting, comic art",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "hombre-molecula",
+    "emboscada"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "So we got tricky.",
+     "texto_es": "Así que nos pusimos astutos."
+    }
+   ],
+   "recorte": "vinetas/page-141-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    483,
+    314,
+    976,
+    968
+   ],
+   "descripcion": "Doctor Doom con capa verde, Hombre Molécula y Doctor Strange observando mientras humo místico emerge ante una figura con cuernos.",
+   "prompt_en": "Doctor Doom standing in armor with Doctor Strange and another figure in a dimly lit temple chamber filled with pink and purple magic smoke",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)",
+    "Hombre Molécula (Owen Reece)",
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "doctor-strange",
+    "hombre-molecula",
+    "origen-battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "And that's when Stephen joined us--right before the end.",
+     "texto_es": "Y ahí fue cuando Stephen se nos unió, justo antes del final."
+    }
+   ],
+   "recorte": "vinetas/page-141-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom / Multiverso",
+ "numero_comic": 4,
+ "pagina": 141,
+ "archivo": "paginas/page-141.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5810,
+ "_seg": 20.4
+}

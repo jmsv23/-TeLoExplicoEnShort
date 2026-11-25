@@ -1,0 +1,212 @@
+{
+ "tipo": "historia",
+ "resumen": "Desde el Castillo de Doom, Dios Emperador Doom, Valeria Richards y Sue Storm observan mediante un proyector holográfico el enfrentamiento desatado tras la apertura de la balsa de salvamento. Mientras Sue muestra preocupación por el poder de los invasores y Thor, Doom se muestra indiferente hasta que nota la llegada del Sheriff Strange (Doctor Strange).",
+ "personajes": [
+  "Doctor Doom",
+  "Valeria Richards",
+  "Sue Storm",
+  "Doctor Strange",
+  "Thanos",
+  "Thor (Jane Foster)",
+  "Capitana Marvel (Carol Danvers)",
+  "Black Panther (T'Challa)",
+  "Spider-Man (Peter Parker)"
+ ],
+ "eventos_clave": [
+  "Doom y su familia observan el conflicto en la zona de impacto de la balsa",
+  "Sue Storm sugiere a Doom intervenir ante la amenaza",
+  "Doctor Strange llega al campo de batalla"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    30,
+    429,
+    498
+   ],
+   "descripcion": "Valeria Richards analiza los datos holográficos de la batalla en presencia de Doctor Doom.",
+   "prompt_en": "Comic panel showing Valeria Richards, a young woman with blonde hair, analyzing floating energy projections of giant figures while speaking to a armored hooded figure of God Emperor Doom.",
+   "personajes": [
+    "Doctor Doom",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "castillo-doom",
+    "holograma",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Valeria?",
+     "texto_es": "¿Valeria?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "First thoughts? The Thor is right. The outcome is difficult to predict. I mean, we've seen this before. I'm showing recorded occurrences of multiple Titans of this designation.",
+     "texto_es": "¿Primeras impresiones? Thor tiene razón. El resultado es difícil de predecir. Es decir, ya hemos visto esto antes. Estoy mostrando registros de múltiples Titanes de esta designación."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "But it's worth noting that none of those extrapolate out to the energy levels this one is giving off.",
+     "texto_es": "Pero vale la pena señalar que ninguno de ellos se extrapola a los niveles de energía que este está emitiendo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "What do you see, Father?",
+     "texto_es": "¿Qué ves tú, padre?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "analítico",
+   "recorte": "vinetas/page-119-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    509,
+    429,
+    970
+   ],
+   "descripcion": "Doom desestima la batalla holográfica que ve frente a él mientras Sue Storm le advierte de la gravedad de la situación.",
+   "prompt_en": "Comic panel showing Doctor Doom standing tall in hood and mask beside Sue Storm in light clothing, looking at bright glowing holographic figures of heroes fighting.",
+   "personajes": [
+    "Doctor Doom",
+    "Sue Storm"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "familia-doom",
+    "holograma"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Mortals fighting mortals. Irritants that do not rise to the level of my consideration...",
+     "texto_es": "Mortales luchando contra mortales. Irritantes que no se elevan al nivel de mi consideración..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "I see gnats that do not concern me.",
+     "texto_es": "Veo mosquitos que no me conciernen."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm",
+     "texto": "I think you might be underestimating what we're looking at here, Victor.",
+     "texto_es": "Creo que podrías estar subestimando lo que estamos viendo aquí, Víctor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm",
+     "texto": "Even my force-fields could not withstand the repeated hammering of a Mjolnir. Perhaps you should reconsider intervening?",
+     "texto_es": "Ni siquiera mis campos de fuerza podrían resistir el martilleo repetido de un Mjolnir. ¿Tal vez deberías reconsiderar intervenir?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-119-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    431,
+    0,
+    597,
+    1000
+   ],
+   "descripcion": "Plano medio cerrado del rostro de Sue Storm y la máscara metalizada de Doctor Doom observando la pantalla.",
+   "prompt_en": "Close up comic panel showing blonde Sue Storm facing towards the side beside Doctor Doom in his metal mask and cloth cowl.",
+   "personajes": [
+    "Doctor Doom",
+    "Sue Storm"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "sue-storm",
+    "plano-detalle"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "That won't be necessary, Susan.",
+     "texto_es": "Eso no será necesario, Susan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Look...",
+     "texto_es": "Mira..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-119-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    597,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica holográfica que muestra la llegada de Stephen Strange a la caótica batalla entre los héroes de la balsa y otras entidades entre humo y explosiones de energía.",
+   "prompt_en": "Wide comic panel of a battle scene engulfed in yellow smoke and fire, featuring Thanos, Thor, Captain Marvel, Spider-Man and Doctor Strange appearing in a flash of light.",
+   "personajes": [
+    "Doctor Doom",
+    "Sue Storm",
+    "Doctor Strange",
+    "Thanos",
+    "Thor (Jane Foster)",
+    "Capitana Marvel (Carol Danvers)",
+    "Black Panther (T'Challa)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-strange",
+    "battleworld",
+    "balsa",
+    "cabala",
+    "batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Stephen has arrived.",
+     "texto_es": "Stephen ha llegado."
+    }
+   ],
+   "lugar": "Castillo de Doom / Campo de batalla, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-119-v4.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 119,
+ "archivo": "paginas/page-119.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5445,
+ "_seg": 17.4
+}

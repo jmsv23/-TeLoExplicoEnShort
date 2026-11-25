@@ -1,0 +1,267 @@
+{
+ "tipo": "historia",
+ "resumen": "La Cosa, personificando la colosal muralla del Escudo en Battleworld, entabla un brutal combate contra Galactus y Franklin Richards. Tras conectar un certero puñetazo al gigante cósmico, la Cosa advierte a Franklin que una fuerza mucho mayor se aproxima, mientras Sue Storm observa aterrorizada junto al Doctor Doom.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Galactus",
+  "Franklin Richards",
+  "Sue Storm / Mujer Invisible",
+  "Doctor Doom / Dios Emperador Doom"
+ ],
+ "eventos_clave": [
+  "La Cosa asesta un poderoso puñetazo a Galactus",
+  "Sue Storm suplica desesperadamente a Doom que intervenga en la batalla",
+  "La Cosa advierte a Franklin Richards sobre la inminente llegada de más rebeldes"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    415,
+    1000
+   ],
+   "descripcion": "La Cosa, convertido en un coloso de piedra del Escudo, se enfrenta cara a cara contra Galactus y Franklin Richards.",
+   "prompt_en": "The giant rocky colossus Ben Grimm facing off against Galactus shrouded in dust clouds in a comic book panel.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Galactus",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "el-escudo",
+    "galactus",
+    "franklin-richards",
+    "la-cosa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Want to save yourself some trouble and give up?",
+     "texto_es": "¿Quieres ahorrarte problemas y rendirte?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "You wish, squirt. Time for bed.",
+     "texto_es": "Ya quisieras, enano. Hora de ir a la cama."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-205-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    378,
+    0,
+    622,
+    1000
+   ],
+   "descripcion": "La Cosa le propina un terrible golpe directo en el rostro a Galactus, haciendo salir despedido a Franklin Richards.",
+   "prompt_en": "A massive stone fist punches a colossal cosmic entity in the face with an explosive sound effect in comic style.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Galactus",
+    "Franklin Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "punetazo",
+    "combate",
+    "galactus",
+    "la-cosa",
+    "el-escudo"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "THWOOOMM",
+     "texto_es": "THWOOOMM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Whoooaa!",
+     "texto_es": "¡Uaaaah!"
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "explosivo",
+   "recorte": "vinetas/page-205-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    594,
+    161,
+    755,
+    750
+   ],
+   "descripcion": "Sue Storm observa el desastre consternada, mientras el Doctor Doom permanece impertérrito a su lado.",
+   "prompt_en": "Close-up of a blonde woman with bright blue eyes looking shocked, with Doctor Doom in his armored mask behind her.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-richards",
+    "doom-dios",
+    "sue-storm",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Franklin!",
+     "texto_es": "¡Franklin!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "It's... It's like a nightmare, Victor...",
+     "texto_es": "Es... Es como una pesadilla, Victor..."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-205-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    752,
+    34,
+    981,
+    290
+   ],
+   "descripcion": "Sue Storm le exige al Doctor Doom que intervenga, pero Doom mantiene la calma calculando las consecuencias de la caída del Escudo.",
+   "prompt_en": "A blonde woman shouting frantically at Doctor Doom in his green hooded cloak and steel mask.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "sue-storm",
+    "estrategia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "What are you waiting for?! Put an end to this!",
+     "texto_es": "¿¡Qué estás esperando!? ¡Pon fin a esto!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I will... But not just yet.",
+     "texto_es": "Lo haré... Pero aún no."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Grimm was the Shield... And if the Shield has fallen...",
+     "texto_es": "Grimm era el Escudo... Y si el Escudo ha caído..."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-205-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    753,
+    293,
+    982,
+    597
+   ],
+   "descripcion": "Franklin Richards se sostiene flotando en una plataforma de energía, indemne ante el impacto.",
+   "prompt_en": "A young boy sitting calmly suspended inside a glowing yellow energy field against a fiery backdrop.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "franklin-richards",
+    "poderes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Nice punch, but it's gonna take more than that--more than just you--to knock me out.",
+     "texto_es": "Buen puñetazo, pero hará falta más que eso... más que solo tú... para noquearme."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "I'm tougher than that.",
+     "texto_es": "Soy más resistente que eso."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "confiado",
+   "recorte": "vinetas/page-205-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    753,
+    597,
+    982,
+    970
+   ],
+   "descripcion": "La Cosa le asegura a Franklin que una horda inmensa de guerreros viene justo detrás de él.",
+   "prompt_en": "The giant stone head of Ben Grimm speaking while tiny silhouettes leap from his body into battle.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "la-cosa",
+    "el-escudo",
+    "rebelion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "Well, then... I got bad news for you, sport...",
+     "texto_es": "Bueno, entonces... tengo malas noticias para ti, campeón..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "There's a whole lot more than just me comin'.",
+     "texto_es": "Vienen muchísimos más aparte de mí."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "epico",
+   "recorte": "vinetas/page-205-v6.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Battleworld",
+ "numero_comic": 7,
+ "pagina": 205,
+ "archivo": "paginas/page-205.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7250,
+ "_seg": 24.2
+}

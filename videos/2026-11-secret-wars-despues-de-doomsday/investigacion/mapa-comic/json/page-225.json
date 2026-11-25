@@ -1,0 +1,243 @@
+{
+ "tipo": "historia",
+ "resumen": "Sue Storm y Valeria se encuentran con Reed Richards (Mister Fantástico) de la Tierra-616. Sue lo acusa de la muerte de Doctor Strange basándose en información de la batalla contra los Thors, pero Reed le revela que el verdadero asesino de Strange fue Victor von Doom.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Sue Storm confronta a Reed Richards sobre la muerte del Doctor Strange",
+  "Reed Richards revela a Sue Storm que Doom asesinó a Stephen Strange"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    331,
+    276
+   ],
+   "descripcion": "Primer plano del rostro de Sue Storm mirando fijamente con expresión de conmoción y enfado.",
+   "prompt_en": "Close-up of a blonde woman with blue eyes looking shocked and angry, dramatic comic book style.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "confrontacion",
+    "sue-storm",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "YOU!",
+     "texto_es": "¡TÚ!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-225-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    284,
+    331,
+    960
+   ],
+   "descripcion": "Sue Storm señala acusadoramente a Reed Richards mientras Valeria permanece a su lado. Reed, oculto parcialmente tras una roca, la mira atónito.",
+   "prompt_en": "A blonde woman in a white suit points angrily at a bearded man in a blue costume standing near a rock structure, a young girl standing next to the woman.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "confrontacion",
+    "reencuentro",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I REMEMBER YOU.",
+     "texto_es": "Te recuerdo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "THAT CAN'T BE...",
+     "texto_es": "Eso no puede ser..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "FROM WHAT I UNDERSTOOD, YOU DIDN'T KNOW WHO I WAS. WHAT I WAS.",
+     "texto_es": "Por lo que entendí, no sabías quién era yo. Qué era yo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "DO YOU REALLY KNOW ME, SUSAN?",
+     "texto_es": "¿Realmente me conoces, Susan?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-225-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    344,
+    38,
+    638,
+    484
+   ],
+   "descripcion": "Sue Storm continúa señalando a Reed acusándole de haber matado a Stephen Strange, mientras Valeria intenta intervenir en la conversación.",
+   "prompt_en": "Blonde woman pointing accusedly at a bearded man off camera, while a young blonde girl tries to interrupt her.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "acusacion",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "YES. I SAW YOUR FACE. THERE WAS A HOLOGRAM OF A BATTLE. YOU WERE FROM THAT SHIP, AND WERE FIGHTING THE THORS. YOU PEOPLE MURDERED STEPHEN STRANGE.",
+     "texto_es": "Sí. Vi tu rostro. Había un holograma de una batalla. Eras de esa nave y estabas luchando contra los Thors. Ustedes asesinaron a Stephen Strange."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "ACTUALLY, MOM, I'M NOT SURE THAT'S WHAT--",
+     "texto_es": "En realidad, mamá, no estoy segura de que eso sea lo que--"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "acusatorio",
+   "recorte": "vinetas/page-225-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    344,
+    492,
+    638,
+    720
+   ],
+   "descripcion": "Plano medio de Reed Richards con barba y mirada triste desmintiendo la acusación de haber matado a Strange.",
+   "prompt_en": "Close up of a tired bearded man with grey temples looking down in sadness, realistic comic art.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "OF COURSE. YOU KNOW ME FROM A PICTURE...",
+     "texto_es": "Por supuesto. Me conoces por una foto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I HAD NOTHING TO DO WITH STEPHEN'S DEATH. IT WAS DOOM.",
+     "texto_es": "Yo no tuve nada que ver con la muerte de Stephen. Fue Doom."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-225-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    344,
+    728,
+    638,
+    960
+   ],
+   "descripcion": "Primer plano de Sue Storm mirando con desconfianza e incredulidad.",
+   "prompt_en": "Close up of a blonde woman's face looking serious and skeptical, framed by blonde hair.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "desconfianza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "YOU MEAN GOD.",
+     "texto_es": "Quieres decir Dios."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desconfiado",
+   "recorte": "vinetas/page-225-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    638,
+    38,
+    1000,
+    960
+   ],
+   "descripcion": "Gran primer plano de Reed Richards con mirada firme y decidida, corrigiendo la afirmación de Sue sobre Doom.",
+   "prompt_en": "Large portrait of a rugged bearded superhero with blue suit and grey hair on temples looking determined and stern.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "revelacion",
+    "confrontacion",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I MEAN VICTOR.",
+     "texto_es": "Quiero decir Victor."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "determinado",
+   "recorte": "vinetas/page-225-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 225,
+ "archivo": "paginas/page-225.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6198,
+ "_seg": 21.7
+}

@@ -1,0 +1,60 @@
+{
+ "tipo": "historia",
+ "resumen": "Una página completamente negra con dos breves frases que flotan en la oscuridad, expresando esperanza y fe ante el colapso del multiverso.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Monólogo de esperanza en medio de la oscuridad"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Una viñeta a página completa totalmente negra con dos cajas de texto minimalistamente distribuidas.",
+   "prompt_en": "A completely pitch black comic page with small floating white narration boxes containing short quotes.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "oscuridad",
+    "vacio",
+    "esperanza",
+    "incursion-final"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "AND I HOPE...",
+     "texto_es": "Y espero..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I BELIEVE...",
+     "texto_es": "Creo..."
+    }
+   ],
+   "lugar": "El vacío",
+   "tono": "trágico",
+   "recorte": "vinetas/page-038-v1.jpg"
+  }
+ ],
+ "lugar": "El vacío",
+ "numero_comic": 1,
+ "pagina": 38,
+ "archivo": "paginas/page-038.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3206,
+ "_seg": 8.7
+}

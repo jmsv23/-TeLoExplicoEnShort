@@ -15,14 +15,14 @@ import tempfile
 import zipfile
 from pathlib import Path
 
-from .proyecto import CONFIG, ROOT, die
+from .proyecto import CONFIG, ROOT, die, voicebox_url
 from .voz import vb, vb_profile
 
 VOCES = ROOT / "voces"
 
 
 def _curl_file(path_api, campo, archivo, extra=None):
-    url = CONFIG["voicebox"]["url"].rstrip("/") + path_api
+    url = voicebox_url() + path_api
     cmd = ["curl", "-s", "-f", "-X", "POST", url, "-F", f"{campo}=@{archivo}"]
     for k, val in (extra or {}).items():
         cmd += ["--form-string", f"{k}={val}"]

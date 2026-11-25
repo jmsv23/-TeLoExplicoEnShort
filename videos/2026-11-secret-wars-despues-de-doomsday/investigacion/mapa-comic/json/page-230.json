@@ -1,0 +1,206 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras Míster Fantástico (Reed Richards) se recupera en el suelo tras ser instado a levantarse, Black Panther (T'Challa) se enfrenta directamente a Dios Emperador Doom utilizando el Guantelete del Infinito. Sin embargo, Doom logra romper la muñeca de T'Challa y dominarlo físicamente, afirmando su absoluta superioridad.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Black Panther (T'Challa)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Black Panther lucha contra Dios Emperador Doom usando el Guantelete del Infinito",
+  "Doom destruye el guantelete de T'Challa y lo supera físicamente",
+  "Reed Richards se prepara para el enfrentamiento final con Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    36,
+    347,
+    363
+   ],
+   "descripcion": "El Hacedor le habla a Mister Fantástico, quien se encuentra herido e intentando levantarse del suelo.",
+   "prompt_en": "Comic book panel, close up on a hero kneeling beaten on the ground while another character in futuristic gear stands over him encouraging him to stand up.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reed-richards",
+    "el-hacedor",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Reed. Reed. Reed. You better buck up, cowboy... ...he's going to be here soon.",
+     "texto_es": "Reed. Reed. Reed. Más vale que te animes, vaquero... pronto estará aquí."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "urgente",
+   "recorte": "vinetas/page-230-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    363,
+    490,
+    1000
+   ],
+   "descripcion": "Black Panther ataca intensamente a Dios Emperador Doom con energía cósmica mientras Doom intenta resistir el embate.",
+   "prompt_en": "Comic book panel, epic battle scene, superhero in sleek black suit attacking a god-like emperor in white cloak with glowing cosmic magic energy.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "black-panther",
+    "doom-dios",
+    "guantelete-del-infinito",
+    "batalla-final"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And then we're going to see what's what.",
+     "texto_es": "Y entonces vamos a ver qué es qué."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-230-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    490,
+    36,
+    609,
+    963
+   ],
+   "descripcion": "Primer plano de Dios Emperador Doom apretando y rompiendo el guantelete metálico y el brazo de Black Panther.",
+   "prompt_en": "Comic panel close-up on armored hands crushing a metallic gauntlet wrist with intense force.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "violencia",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "AARGHHHH!",
+     "texto_es": "¡AARGHHHH!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "CRUNCH",
+     "texto_es": "CRUNCH"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "brutal",
+   "recorte": "vinetas/page-230-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    610,
+    0,
+    940,
+    1000
+   ],
+   "descripcion": "Doom patea violentamente a Black Panther lanzándolo contra el suelo tras romper su ataque.",
+   "prompt_en": "Comic action panel, white cloaked villain kicking superhero in black suit down onto shattered ground.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "combate",
+    "doom-dios",
+    "black-panther"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And now we're done, T'Challa... and what have you gained? Nothing.",
+     "texto_es": "Y ahora hemos terminado, T'Challa... ¿y qué has ganado? Nada."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "BOFF",
+     "texto_es": "BOFF"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dominante",
+   "recorte": "vinetas/page-230-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    735,
+    456,
+    1000,
+    1000
+   ],
+   "descripcion": "Doctor Doom somete brutalmente a Black Panther en el suelo, mostrando la máscara de Doom y el rostro desgastado de T'Challa.",
+   "prompt_en": "Comic panel close-up, villain standing over beaten superhero, crushing him to the ground while speaking down to him.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "derrota",
+    "doom-dios",
+    "black-panther"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes, you tested me... ...reduced me to this--wanton physical violence... but I remain Doom. And you, something beneath me...",
+     "texto_es": "Sí, me pusiste a prueba... me redujiste a esto: violencia física desmedida... pero sigo siendo Doom. Y tú, algo por debajo de mí..."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "CRACK",
+     "texto_es": "CRACK"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "arrogante",
+   "recorte": "vinetas/page-230-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 230,
+ "archivo": "paginas/page-230.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5673,
+ "_seg": 19.9
+}

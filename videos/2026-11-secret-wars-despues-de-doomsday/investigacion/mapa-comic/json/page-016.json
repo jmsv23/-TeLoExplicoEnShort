@@ -1,0 +1,251 @@
+{
+ "tipo": "historia",
+ "resumen": "En medio del caos del choque entre Tierras durante la incursión final, los héroes de la Tierra-616 y la Tierra-1610 luchan por sobrevivir. Luke Cage e Iron Fist rescatan civiles entre los escombros; los Guardianes de la Galaxia intentan derribar el Helicarrier gigante de Stark; Storm y Thor unifican sus poderes elementales de rayo; mientras que Capitán América (Sam Wilson) e Iceman observan la llegada de Centinelas desplegados por Nación X.",
+ "personajes": [
+  "Luke Cage",
+  "Iron Fist",
+  "Star-Lord",
+  "Rocket",
+  "Drax",
+  "Storm",
+  "Thor (Jane Foster)",
+  "Capitán América",
+  "Iceman"
+ ],
+ "eventos_clave": [
+  "Incursión final entre la Tierra-616 y la Tierra-1610",
+  "Ataque aéreo de los Guardianes de la Galaxia",
+  "Aparición de los Centinelas de Nación X"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    365,
+    608
+   ],
+   "descripcion": "Luke Cage levanta una gran pieza de concreto dañado mientras Iron Fist busca sobrevivientes abajo.",
+   "prompt_en": "Superhero Luke Cage lifting a massive heavy rock debris with superhuman strength while Iron Fist assists underneath in a ruined urban battleground.",
+   "personajes": [
+    "Luke Cage",
+    "Iron Fist"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ultima-incursion",
+    "heroes",
+    "rescate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Luke Cage",
+     "texto": "Danny?",
+     "texto_es": "¿Danny?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Fist",
+     "texto": "Almost done, Luke. Last one...",
+     "texto_es": "Casi termino, Luke. El último..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Fist",
+     "texto": "Come on. That's it.",
+     "texto_es": "Vamos. Eso es todo."
+    }
+   ],
+   "lugar": "Ciudad devastada",
+   "tono": "urgente",
+   "recorte": "vinetas/page-016-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    605,
+    381,
+    1000
+   ],
+   "descripcion": "Star-Lord apunta hacia una gran nave robótica roja y dorada mientras Rocket Raccoon y Drax se preparan para disparar.",
+   "prompt_en": "Star-Lord in his mask pointing forward next to Rocket Raccoon holding a massive heavy weapon aboard a sci-fi spaceship.",
+   "personajes": [
+    "Star-Lord",
+    "Rocket",
+    "Drax"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "guardianes-de-la-galaxia",
+    "combate-aereo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Okay, Guardians...",
+     "texto_es": "Bien, Guardianes..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "See that big robot thing in the sky? That's the one you and Drax want to focus on, Rocket.",
+     "texto_es": "¿Ven esa gran cosa robótica en el cielo? En esa es en la que tú y Drax deben enfocarse, Rocket."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "What? Where? Oh, you mean the massive, tacky red-and-gold thing that basically says, \"Hello. I was built by a giant tool, please, oh God please, shoot me out of the sky\"?",
+     "texto_es": "¿Qué? ¿Dónde? Ah, ¿te refieres a la enorme y ordinaria cosa roja y dorada que básicamente dice: \"Hola. Fui construido por un engreído gigante, por favor, oh Dios por favor, derríbenme del cielo\"?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "No. Problem.",
+     "texto_es": "Sin. Problema."
+    }
+   ],
+   "lugar": "Cielo / Nave espacial",
+   "tono": "comico",
+   "recorte": "vinetas/page-016-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    361,
+    23,
+    680,
+    357
+   ],
+   "descripcion": "Storm y Thor (Jane Foster) alzan sus manos y el martillo Mjolnir invocando una gran tormenta eléctrica.",
+   "prompt_en": "Storm with glowing blue lightning eyes and Thor holding up Mjolnir, summoning lightning from the sky.",
+   "personajes": [
+    "Storm",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor",
+    "storm",
+    "rayos",
+    "poder"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Storm",
+     "texto": "Our enemy fades and the wind is shifting in our favor, Thor. Now! With me...",
+     "texto_es": "Nuestro enemigo se desvanece y el viento cambia a nuestro favor, Thor. ¡Ahora! Conmigo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "Aye, Storm. If this is the end, let us call forth the power of the heavens themselves...",
+     "texto_es": "Sí, Storm. Si este es el final, invoquemos el poder de los mismos cielos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "...and strike!",
+     "texto_es": "...¡y ataquemos!"
+    }
+   ],
+   "lugar": "Cielo",
+   "tono": "epico",
+   "recorte": "vinetas/page-016-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    365,
+    305,
+    870,
+    995
+   ],
+   "descripcion": "Una enorme explosión destruye las naves en el cielo rodeada de fuego y humo.",
+   "prompt_en": "A massive explosive destruction of futuristic aircraft and helicarriers in mid-air with giant fireballs and smoke clouds.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "explosion",
+    "guerra",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "desconocido",
+     "texto": "BOOOM",
+     "texto_es": "¡BOOOM!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "desconocido",
+     "texto": "KRAK-ATHOOM",
+     "texto_es": "¡KRAK-ATHOOM!"
+    }
+   ],
+   "lugar": "Cielo de la ciudad",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-016-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    770,
+    460,
+    1000,
+    1000
+   ],
+   "descripcion": "El Capitán América (Sam Wilson) e Iceman observan a los grandes robots Centinelas descendiendo.",
+   "prompt_en": "Captain America Sam Wilson shield on arm pointing upward next to Iceman, watching giant Sentinel robots in the distance.",
+   "personajes": [
+    "Capitán América",
+    "Iceman"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "centinelas",
+    "capitan-america",
+    "iceman",
+    "x-men"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán América",
+     "texto": "Iceman, look!",
+     "texto_es": "¡Iceman, mira!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán América",
+     "texto": "Sentinels! Are they friend or foe?",
+     "texto_es": "¡Centinelas! ¿Son amigos o enemigos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iceman",
+     "texto": "Complicated question, Cap. They're from Nation X...",
+     "texto_es": "Pregunta complicada, Cap. Vienen de Nación X..."
+    }
+   ],
+   "lugar": "Calle / Campo de batalla",
+   "tono": "tenso",
+   "recorte": "vinetas/page-016-v5.jpg"
+  }
+ ],
+ "lugar": "Nueva York / Incursión entre Tierras",
+ "numero_comic": 1,
+ "pagina": 16,
+ "archivo": "paginas/page-016.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6145,
+ "_seg": 24.4
+}

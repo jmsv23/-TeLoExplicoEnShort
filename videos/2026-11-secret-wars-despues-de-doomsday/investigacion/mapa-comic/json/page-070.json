@@ -1,0 +1,193 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards presenta a Sheriff Strange los hallazgos sobre un objeto misterioso descubierto bajo la superficie de Battleworld. Valeria revela que la datación por carbono ubica la antigüedad del objeto antes de la creación del planeta por Dios Emperador Doom, lo que resulta una peligrosa herejía. Consciente de las consecuencias, Doctor Strange ordena detener las investigaciones de inmediato y decreta la cuarentena del sitio.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Valeria Richards",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "Descubrimiento de la balsa de salvamento anterior a Battleworld",
+  "Valeria informa a Sheriff Strange sobre el hallazgo herético",
+  "Sheriff Strange invoca la cuarentena inmediata sobre el sitio de excavación"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    705,
+    706
+   ],
+   "descripcion": "Vista panorámica de la colosal estatua o armadura mecánica de Galactus envuelta en llamas sobre un castillo, con Valeria flotando en su palma.",
+   "prompt_en": "A giant reddish mechanical suit of Galactus engulfed in flames, looming over a stone castle balcony",
+   "personajes": [
+    "Galactus",
+    "Valeria Richards",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "galactus",
+    "battleworld",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I've looked over the findings in Alex's initial report.",
+     "texto_es": "He revisado los hallazgos del informe inicial de Alex."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Like much of what lies below the surface of this planet, the 'object' is made of some fairly exotic stuff.",
+     "texto_es": "Como mucho de lo que yace bajo la superficie de este planeta, el 'objeto' está hecho de un material bastante exótico."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Structurally different than what we've encountered before, but well within what I would call the realm of 'possible matter.'",
+     "texto_es": "Estructuralmente diferente a todo lo que hemos encontrado antes, pero dentro de lo que yo llamaría el reino de la 'materia posible'."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Valeria, I'm not sure what--",
+     "texto_es": "Valeria, no estoy seguro de qué--"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-070-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    51,
+    706,
+    642,
+    965
+   ],
+   "descripcion": "Recuadro vertical a la derecha donde Valeria Richards flota plácidamente con las piernas cruzadas.",
+   "prompt_en": "A young blonde girl in a white uniform floating cross-legged in a vertical panel inset over giant robot arm",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "herejia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Keep reading. Third paragraph of the analysis, after the design schematic of the object. It's something you--and the law--might call impossible.",
+     "texto_es": "Sigue leyendo. Tercer párrafo del análisis, después del esquema de diseño del objeto. Es algo que tú, y la ley, podrían llamar imposible."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Possibly heretical...",
+     "texto_es": "Posiblemente herético..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "revelador",
+   "recorte": "vinetas/page-070-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    705,
+    30,
+    978,
+    654
+   ],
+   "descripcion": "Sheriff Strange conversa en el balcón del castillo con Valeria Richards mientras observan las proyecciones.",
+   "prompt_en": "Sheriff Strange in a dark uniform talking to young Valeria Richards on a castle balcony overlooking giant Galactus hand",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sheriff-strange",
+    "discusion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "As the carbon dating of the object puts its age somewhere well before the creatio--",
+     "texto_es": "Dado que la datación por carbono del objeto ubica su antigüedad mucho antes de la creaci--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "That's quite enough, Valeria.",
+     "texto_es": "Es más que suficiente, Valeria."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-070-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    705,
+    668,
+    978,
+    965
+   ],
+   "descripcion": "Primer plano de Sheriff Strange con rostro severo sosteniendo las fichas luminosas amarillas de investigación.",
+   "prompt_en": "Close up of Sheriff Strange with mustache looking severe and serious while holding glowing yellow translucent tablet",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "sheriff-strange",
+    "cuarentena",
+    "cisma"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "If true...this is schism.",
+     "texto_es": "Si es verdad... esto es un cisma."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I will send agents to seal off the site, and you will recall your team--suspending all research activities immediately.",
+     "texto_es": "Enviaré agentes para sellar el sitio, y tú retirarás a tu equipo, suspendiendo todas las actividades de investigación de inmediato."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I am invoking... quarantine.",
+     "texto_es": "Estoy invocando... la cuarentena."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom",
+   "tono": "grave",
+   "recorte": "vinetas/page-070-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 70,
+ "archivo": "paginas/page-070.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6325,
+ "_seg": 23.7
+}

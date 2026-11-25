@@ -1,0 +1,223 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards explica a los miembros de la Fundación Futuro cómo sus nuevos instrumentos pueden rastrear la energía divina del Dios Emperador Doom y monitorear las firmas de energía únicas que ocurren cuando se despliega a un miembro de los Thor Corps.",
+ "personajes": [
+  "Valeria Richards",
+  "Bentley-23",
+  "[criatura alada de la Fundación Futuro]",
+  "[guardia de la Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Valeria Richards presenta el sistema de detección de energía divina de Doom a la Fundación Futuro.",
+  "Se demuestra cómo rastrean los picos de energía generados cuando operan los Thors."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    350,
+    612
+   ],
+   "descripcion": "Valeria Richards habla frente a sus compañeros de la Fundación Futuro explicando el desarrollo de equipos especializados para detectar firmas de energía.",
+   "prompt_en": "Valeria Richards with short blonde hair speaking to members of the Future Foundation in a high-tech lab, medium shot, comic style by Esad Ribic",
+   "personajes": [
+    "Valeria Richards",
+    "Bentley-23",
+    "[guardia de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "fundacion-futuro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Well, as you guys know we've developed some pretty specialized equipment for detecting and differentiating specific energy signatures.",
+     "texto_es": "Bueno, como todos saben, hemos desarrollado un equipo bastante especializado para detectar y diferenciar firmas de energía específicas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I mean, it's always been hard, because our world naturally gives off so much background radiation. You know, God particles...",
+     "texto_es": "Quiero decir, siempre ha sido difícil, porque nuestro mundo emite naturalmente tanta radiación de fondo. Ya saben, partículas de Dios..."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro, Castillo Doom",
+   "tono": "explicativo",
+   "recorte": "vinetas/page-146-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    621,
+    350,
+    963
+   ],
+   "descripcion": "Primer plano de Valeria Richards explicando cómo la energía se irradia desde la concentración máxima en el Castillo Doom.",
+   "prompt_en": "Close up of Valeria Richards speaking with a holographic energy map in the background showing Castle Doom, comic art style",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM",
+     "texto_es": "CASTILLO DOOM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "The stuff of Doom.",
+     "texto_es": "La materia de Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Which, as you also know, radiates out from the point of its highest concentration: Castle Doom.",
+     "texto_es": "La cual, como también saben, se irradia desde el punto de su mayor concentración: el Castillo Doom."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "serio",
+   "recorte": "vinetas/page-146-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    363,
+    38,
+    631,
+    963
+   ],
+   "descripcion": "Valeria Richards muestra un holograma gigante que proyecta la figura de una criatura alada e ilustra el mapa energético del planeta entero.",
+   "prompt_en": "Valeria Richards standing in front of a giant holographic energy projection of a winged figure and planet diagram, comic book page panel",
+   "personajes": [
+    "Valeria Richards",
+    "Bentley-23",
+    "[criatura alada de la Fundación Futuro]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "fundacion-futuro",
+    "battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Now, this is the basic energy found at the heart of everything on our planet. We're all made of this stuff--which is why until we built our equipment we couldn't tell any of it apart.",
+     "texto_es": "Ahora, esta es la energía básica que se encuentra en el corazón de todo en nuestro planeta. Todos estamos hechos de esta materia, razón por la cual hasta que construimos nuestro equipo no podíamos distinguir nada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Obviously, now we can.",
+     "texto_es": "Obviamente, ahora sí podemos."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM",
+     "texto_es": "CASTILLO DOOM"
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "analítico",
+   "recorte": "vinetas/page-146-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    644,
+    38,
+    946,
+    508
+   ],
+   "descripcion": "Plano medio de la criatura alada de perfil mientras Valeria continúa explicando los picos de energía detectados.",
+   "prompt_en": "Close up profile of a gargoyle winged creature listening intently in a sci-fi room, comic art",
+   "personajes": [
+    "[criatura alada de la Fundación Futuro]"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "fundacion-futuro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "And since we've been recording the readings, we've noticed there are always tiny energy spikes popping up when one of his agents--",
+     "texto_es": "Y desde que hemos estado registrando las lecturas, hemos notado que siempre hay pequeños picos de energía que aparecen cuando uno de sus agentes--"
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-146-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    644,
+    517,
+    946,
+    963
+   ],
+   "descripcion": "Bentley-23 interviene molesto mencionando su odio por los Thors mientras la criatura alada observa la lectura holográfica.",
+   "prompt_en": "Bentley-23 complaining emotionally with an annoyed expression next to a gargoyle creature in front of a futuristic energy diagram, comic style",
+   "personajes": [
+    "Bentley-23",
+    "[criatura alada de la Fundación Futuro]",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "bentley-23",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley-23",
+     "texto": "Thors. God, I hate the Thors!",
+     "texto_es": "Thors. ¡Dios, cómo odio a los Thors!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "--Any time one of his agents is deployed. These are pretty easy to pick out.",
+     "texto_es": "--Cada vez que uno de sus agentes es desplegado. Estos son bastante fáciles de identificar."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "revelador",
+   "recorte": "vinetas/page-146-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom / Laboratorio de la Fundación Futuro, Battleworld",
+ "numero_comic": 5,
+ "pagina": 146,
+ "archivo": "paginas/page-146.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6848,
+ "_seg": 21.2
+}

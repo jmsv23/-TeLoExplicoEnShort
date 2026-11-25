@@ -1,0 +1,221 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther (como Rey de los Muertos) y Maximus el Profeta reclutan al ejército de zombis y monstruos de las Tierras Muertas para marchar contra el Dios Emperador Doom. Tras silenciar a un disidente, la horda de muertos vivientes aclama con fervor a su nuevo rey.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Maximus / El Profeta",
+  "Capitán Britania",
+  "[zombis]"
+ ],
+ "eventos_clave": [
+  "Black Panther utiliza su poder de Rey de los Muertos para comandar a la horda zombi",
+  "Las hordas de las Tierras Muertas juran lealtad para la batalla contra Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    36,
+    321,
+    574
+   ],
+   "descripcion": "Una criatura zombi flotante habla de manera impertinente hasta que una lanza la atraviesa bruscamente con un sonido sordo, ante la mirada de un Capitán Britania zombi.",
+   "prompt_en": "Comic panel showing a small zombie creature being impaled in the head by a spear with action text THUNK, next to a zombie Captain Britain",
+   "personajes": [
+    "Capitán Britania",
+    "[zombis]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "deadlands",
+    "zombies",
+    "impacto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[zombi]",
+     "texto": "Put them together and you just love it ssso much tha--",
+     "texto_es": "Pónlos juntos y te encanta taaanto que--"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "THUNK",
+     "texto_es": "THUNK"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "violento",
+   "recorte": "vinetas/page-187-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    586,
+    321,
+    966
+   ],
+   "descripcion": "Black Panther, imponente en su traje negro, contempla severamente a la muchedumbre de monstruos y zombis cuestionando su vacilación.",
+   "prompt_en": "Black Panther standing tall looking at a crowd of undead horde and zombie Captain Britain in Battleworld",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Capitán Britania",
+    "[zombis]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "black-panther",
+    "king-of-the-dead",
+    "deadlands"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Why the hesitation, monsters?",
+     "texto_es": "¿A qué se debe la duda, monstruos?"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-187-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    333,
+    33,
+    617,
+    355
+   ],
+   "descripcion": "Maximus (el Profeta) permanece de pie con los brazos cruzados frente a una estructura dorada, exigiendo una respuesta para su rey.",
+   "prompt_en": "Maximus the Prophet standing with arms crossed on a hill in front of a glowing golden archway",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "maximus",
+    "el-profeta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus / El Profeta",
+     "texto": "Your king is waiting for an answer.",
+     "texto_es": "Su rey está esperando una respuesta."
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-187-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    333,
+    360,
+    617,
+    652
+   ],
+   "descripcion": "Primer plano del Capitán Britania zombi con cara de duda y aprensión dando una respuesta temblorosa.",
+   "prompt_en": "Close up of zombie Captain Britain with wide scared eyes responding nervously",
+   "personajes": [
+    "Capitán Britania"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "capitan-britania",
+    "zombies"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania",
+     "texto": "Uhhh... Glory and honor?",
+     "texto_es": "Ehhh... ¿Gloria y honor?"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "humoristico",
+   "recorte": "vinetas/page-187-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    333,
+    658,
+    617,
+    966
+   ],
+   "descripcion": "Un zombi decrépito alza la mano entusiasmado secundando la frase de su líder.",
+   "prompt_en": "Decayed zombie raising arm and shouting with wide open mouth",
+   "personajes": [
+    "[zombis]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "zombies",
+    "rebelion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[zombis]",
+     "texto": "Glory and honor!",
+     "texto_es": "¡Gloria y honor!"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "epico",
+   "recorte": "vinetas/page-187-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    626,
+    7,
+    994,
+    993
+   ],
+   "descripcion": "Vista panorámica desde atrás de la masa infinita de zombis y monstruos alzando sus puños y garras al aire, aclamando al Rey de los Muertos y a Maximus.",
+   "prompt_en": "Wide perspective shot of thousands of zombies raising arms towards Black Panther and Maximus standing on a hill",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Maximus / El Profeta",
+    "[zombis]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ejercito-zombi",
+    "king-of-the-dead",
+    "battleworld",
+    "gloria-y-honor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[zombis]",
+     "texto": "Glory and honor! Glory and honor! Glory and honor! Glory and honor! Glory and honor! Glory and honor! Glory and honor!",
+     "texto_es": "¡Gloria y honor! ¡Gloria y honor! ¡Gloria y honor! ¡Gloria y honor! ¡Gloria y honor! ¡Gloria y honor! ¡Gloria y honor!"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "epico",
+   "recorte": "vinetas/page-187-v6.jpg"
+  }
+ ],
+ "lugar": "Tierras Muertas (Deadlands)",
+ "numero_comic": 7,
+ "pagina": 187,
+ "archivo": "paginas/page-187.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5778,
+ "_seg": 20.8
+}

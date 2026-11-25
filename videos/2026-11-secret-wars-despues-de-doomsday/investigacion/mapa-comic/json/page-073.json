@@ -1,0 +1,192 @@
+{
+ "tipo": "historia",
+ "resumen": "Tras ser desterrado más allá del Escudo hacia las peligrosas Tierras Muertas (Deadlands), Capitán Britania se prepara para luchar contra una acechante amenaza. Desde la niebla y las sombras emerge una horda de criaturas simbióticas liderada por Venom, dispuesta a devorarlo.",
+ "personajes": [
+  "Capitán Britania / James Braddock",
+  "[Venom]"
+ ],
+ "eventos_clave": [
+  "Capitán Britania se adentra en las Tierras Muertas (Deadlands).",
+  "Venom y las criaturas simbióticas emboscan a Capitán Britania."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    207,
+    1000
+   ],
+   "descripcion": "Un paisaje oscuro y brumoso donde una figura amenazante se perfila a lo lejos entre las rocas.",
+   "prompt_en": "Dark atmospheric comic panel, foggy silhouette of a monster lurking in rocky wasteland, muted dark color palette",
+   "personajes": [
+    "[Venom]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "deadlands",
+    "battleworld",
+    "emboscada"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "[Venom]",
+     "texto": "SNIFF",
+     "texto_es": "SNIFF"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Venom]",
+     "texto": "What's that I smell?",
+     "texto_es": "¿Qué es eso que huelo?"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "tenso",
+   "recorte": "vinetas/page-073-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    207,
+    0,
+    407,
+    1000
+   ],
+   "descripcion": "Capitán Britania desenvaina su espada de energía azul brillante que zumba intensamente mientras escucha voces en la oscuridad.",
+   "prompt_en": "Comic panel of Captain Britain holding a glowing blue sci-fi energy sword in a dark cave",
+   "personajes": [
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "espada-de-energia",
+    "deadlands",
+    "capitan-britania"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Venom]",
+     "texto": "Fresh meat, so sweet.",
+     "texto_es": "Carne fresca, tan dulce."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "FZZZZZZ",
+     "texto_es": "FZZZZZZ"
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-073-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    407,
+    0,
+    603,
+    1000
+   ],
+   "descripcion": "Siluetas de criaturas simbióticas acechando en medio de la densa niebla roja y oscura.",
+   "prompt_en": "Comic panel showing shadowy silhouettes of symbiote monsters creeping through reddish fog",
+   "personajes": [
+    "[Venom]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "deadlands",
+    "simbiontes",
+    "amenaza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Venom]",
+     "texto": "Carve you up. Pass you out.",
+     "texto_es": "Cortarte en pedazos. Dejarte inconsciente."
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "oscuro",
+   "recorte": "vinetas/page-073-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    603,
+    0,
+    800,
+    1000
+   ],
+   "descripcion": "Plano medio de Capitán Britania con expresión preocupada pero firme, sosteniendo la luz azul de su espada cerca de su rostro.",
+   "prompt_en": "Close-up comic panel of Captain Britain looking tense, illuminated by glowing blue light from his sword",
+   "personajes": [
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "capitan-britania",
+    "resistencia",
+    "deadlands"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Venom]",
+     "texto": "Yeah, I'm gonna share you with the others. But only on one condition...",
+     "texto_es": "Sí, te voy a compartir con los demás. Pero solo con una condición..."
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "suspenso",
+   "recorte": "vinetas/page-073-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    800,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Venom se lanza hacia adelante con la boca abierta, lengua afuera y garras extendidas, respaldado por una horda de criaturas en la penumbra.",
+   "prompt_en": "Dynamic comic panel of Venom lunging forward with open mouth and tongue out, monstrous horde behind him in darkness",
+   "personajes": [
+    "[Venom]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "venom",
+    "simbiontes",
+    "ataque",
+    "deadlands"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Venom]",
+     "texto": "I'm keepin' your brains for myself.",
+     "texto_es": "Me quedaré con tus cerebros para mí."
+    }
+   ],
+   "lugar": "Tierras Muertas (Deadlands)",
+   "tono": "terrorífico",
+   "recorte": "vinetas/page-073-v5.jpg"
+  }
+ ],
+ "lugar": "Tierras Muertas (Deadlands) / Battleworld",
+ "numero_comic": 2,
+ "pagina": 73,
+ "archivo": "paginas/page-073.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5233,
+ "_seg": 17.7
+}

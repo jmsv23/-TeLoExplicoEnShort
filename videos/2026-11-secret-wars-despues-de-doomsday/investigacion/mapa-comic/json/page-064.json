@@ -1,0 +1,207 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Siniestro decapita brutalmente al Capitán Britania (Lord Brian) durante un combate en la arena de Battleworld, burlándose del héroe caído y de su hijo nonato frente a los espectadores angustiados.",
+ "personajes": [
+  "Mister Siniestro",
+  "Capitán Britania"
+ ],
+ "eventos_clave": [
+  "Mister Siniestro decapita al Capitán Britania",
+  "Mister Siniestro se burla del legado del Capitán Britania"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    34,
+    385,
+    501
+   ],
+   "descripcion": "Mister Siniestro ataca velozmente con su báculo a un Capitán Britania que intenta esquivar desesperadamente.",
+   "prompt_en": "Comic panel showing Mister Sinister attacking Captain Britain with a glowing scythe-like weapon in a swift motion.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "combate",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "For... curiosity...",
+     "texto_es": "Por... curiosidad..."
+    }
+   ],
+   "lugar": "Arena de Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-064-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    510,
+    385,
+    970
+   ],
+   "descripcion": "Mister Siniestro ejecuta un corte limpio que decapita al Capitán Britania en pleno movimiento.",
+   "prompt_en": "Dynamic comic panel of a villain decapitating a superhero wearing a Union Jack suit with a swift weapon slash.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "decapitacion",
+    "muerte",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Quenched!",
+     "texto_es": "¡Satisfecha!"
+    }
+   ],
+   "lugar": "Arena de Battleworld",
+   "tono": "brutal",
+   "recorte": "vinetas/page-064-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    395,
+    34,
+    638,
+    970
+   ],
+   "descripcion": "El cuerpo decapitado del Capitán Britania cae al suelo helado mientras Siniestro se aleja con calma hablando de la esposa embaraza de Brian.",
+   "prompt_en": "Wide comic panel showing the decapitated body and head of a hero on the ground while a pale villain walks away holding a glowing staff.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "derrota",
+    "muerte",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Do you know yet, Lord Brian... The child your wife carries--is it a boy or a girl?",
+     "texto_es": "¿Ya sabes, lord Brian... el hijo que lleva tu esposa es un niño o una niña?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "I wonder, will the Lady name it Brian if it's boy and, perhaps...Brianna if it's a girl?",
+     "texto_es": "Me pregunto si la dama lo llamará Brian si es niño y, tal vez... ¿Brianna si es niña?"
+    }
+   ],
+   "lugar": "Arena de Battleworld",
+   "tono": "cruel",
+   "recorte": "vinetas/page-064-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    650,
+    34,
+    973,
+    638
+   ],
+   "descripcion": "Mister Siniestro se gira sonriendo malévolamente, apoyado en su arma, mirando el cadáver del Capitán Britania.",
+   "prompt_en": "Medium shot of Mister Sinister in dark suit with red diamond emblem, smirking sinisterly with glowing weapon.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "villano",
+    "monologo",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "I would hope not. Sentimentality is sickening enough, but burdening a child with the name of their failed, dead father?",
+     "texto_es": "Espero que no. El sentimentalismo ya es bastante repugnante, ¿pero cargar a un niño con el nombre de su padre fallido y muerto?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "That's just so common.",
+     "texto_es": "Eso es simplemente tan común."
+    }
+   ],
+   "lugar": "Arena de Battleworld",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-064-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    650,
+    641,
+    973,
+    970
+   ],
+   "descripcion": "Mister Siniestro ruge de victoria alzando su arma mientras en el fondo los espectadores gritan horrorizados.",
+   "prompt_en": "Mister Sinister shouting in triumph while shocked spectators in the background react in horror.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "victoria",
+    "grito-de-guerra",
+    "espectadores"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Mister Siniestro",
+     "texto": "RRARRRRRRR!",
+     "texto_es": "¡RRARRRRRRR!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[espectador]",
+     "texto": "No!",
+     "texto_es": "¡No!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[espectador]",
+     "texto": "Brian!",
+     "texto_es": "¡Brian!"
+    }
+   ],
+   "lugar": "Arena de Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-064-v5.jpg"
+  }
+ ],
+ "lugar": "Arena de Battleworld",
+ "numero_comic": 2,
+ "pagina": 64,
+ "archivo": "paginas/page-064.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5135,
+ "_seg": 17.4
+}

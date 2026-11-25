@@ -1,0 +1,51 @@
+{
+ "tipo": "extra",
+ "resumen": "Página conmemorativa que marca el período de existencia del Universo Marvel (1961-2015) y del Universo Ultimate (2000-2015), indicando la destrucción y fin de ambos universos durante la incursión final de Secret Wars.",
+ "personajes": [],
+ "eventos_clave": [
+  "Final del Universo Marvel",
+  "Final del Universo Ultimate",
+  "Fin del Multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página minimalista en blanco con un emblema geométrico de calavera en la parte superior y texto en tono gris claro conmemorando las fechas de inicio y fin del Universo Marvel principal y el Universo Ultimate.",
+   "prompt_en": "Minimalist white page with a light gray geometric skull icon inside a square frame at the top, centered elegant gray typography reading 'THE MARVEL UNIVERSE 1961-2015' and 'THE ULTIMATE UNIVERSE 2000-2015'.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "universo-marvel",
+    "universo-ultimate",
+    "incursion-final",
+    "destruccion-multiverso",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE MARVEL UNIVERSE 1961-2015 • THE ULTIMATE UNIVERSE 2000-2015",
+     "texto_es": "EL UNIVERSO MARVEL 1961-2015 • EL UNIVERSO ULTIMATE 2000-2015"
+    }
+   ],
+   "recorte": "vinetas/page-040-v1.jpg"
+  }
+ ],
+ "lugar": "Ninguno",
+ "numero_comic": 1,
+ "pagina": 40,
+ "archivo": "paginas/page-040.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3041,
+ "_seg": 8.0
+}

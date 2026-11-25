@@ -40,7 +40,10 @@ La pregunta de debate en otra versión, con una opción polémica («¿será Cra
 
 - **Portada:** `portada-short-NN.png`. Se sube como miniatura; en móvil se elige el fotograma más parecido.
 - **Descripción:** 1-2 líneas, la pregunta y 3 hashtags.
-- **Video relacionado:** siempre el largo del mismo tema. Si es una serie sin largo, el Short siguiente o anterior de la serie.
+- **Video relacionado:** siempre el largo del mismo tema. Si es una serie sin largo, el Short siguiente o anterior de la serie. Es el único puente al largo, porque la voz ya no lo menciona.
+- **Comentario fijado:** la pregunta de debate y el enlace al largo.
+- **Ritmo de publicación:** de 1 a 3 Shorts al día, con al menos 3 h entre uno y otro. Nunca en ráfaga: los 9-10 Shorts que se subieron en una misma hora en noviembre de 2026 compitieron entre ellos por el primer grupo de espectadores.
+- **Qué medir:** en Studio, «Se vio vs. se deslizó» de cada Short (la API no lo da). Como referencia de la comunidad, a partir de ~70 % YouTube suele empezar a empujarlo. Compáralo contra los Shorts anteriores.
 
 ## Miniaturas
 

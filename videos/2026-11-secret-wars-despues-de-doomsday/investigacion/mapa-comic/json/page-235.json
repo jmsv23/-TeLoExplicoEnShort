@@ -1,0 +1,201 @@
+{
+ "tipo": "historia",
+ "resumen": "En el duelo final de Secret Wars, Mister Fantástico (Reed Richards) y el Dios Emperador Doom luchan cuerpo a cuerpo mientras discuten apasionadamente. Doom justifica sus acciones alegando que el poder no facilita las decisiones difíciles y que él salvó lo que pudo, mientras Reed le echa en cara haber sido borrado de la existencia y el haberle robado a su familia.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Confrontación personal entre Reed Richards y Victor von Doom",
+  "Doom justifica la creación de Battleworld como la única salvación posible",
+  "Reed recrimina a Doom haberle robado a su familia"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    10,
+    0,
+    350,
+    600
+   ],
+   "descripcion": "Mister Fantástico usa sus brazos elásticos para inmovilizar la cabeza y el torso de Doctor Doom mientras este intenta zafarse enfurecido.",
+   "prompt_en": "Comic book panel showing a superhero with stretching powers wrapping his elongated gray arm tightly around a hooded villain wearing a white mask and armor.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "pelea-final",
+    "reed-vs-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "RRAAAAR!",
+     "texto_es": "¡RRAAAAR!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "EASY? YOU THINK ANY OF THIS HAS BEEN EASY?",
+     "texto_es": "¿Fácil? ¿Crees que algo de esto ha sido fácil?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-235-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    5,
+    560,
+    400,
+    985
+   ],
+   "descripcion": "Doom le asesta un fuerte golpe a Mister Fantástico en la cara, proyectando energía luminosa y apartándolo bruscamente.",
+   "prompt_en": "Comic panel of a hooded armored villain delivering a powerful punch to a stretching hero's chin, bright flash effect.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "golpe",
+    "pelea-final",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "YOU THINK POWER MAKES IMPOSSIBLE CHOICES MORE PALATABLE?",
+     "texto_es": "¿Crees que el poder hace que las decisiones imposibles sean más aceptables?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I HAVE ALWAYS HAD POWER, REED. NOTHING HAS EVER BEEN EASY.",
+     "texto_es": "Siempre he tenido poder, Reed. Nada ha sido jamás fácil."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-235-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    355,
+    0,
+    750,
+    580
+   ],
+   "descripcion": "Mister Fantástico se contorsiona en el aire extendiendo sus extremidades para volver a enroscar a Doom.",
+   "prompt_en": "Comic panel showing a stretched superhero twisting around a hooded warrior, surreal body movement.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "elasticidad",
+    "reed-vs-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "YOU KNOW WHAT'S NOT EASY? HAVING YOUR LIFE ERASED BECAUSE SOMEONE WANTS TO INDULGE THEMSELVES.",
+     "texto_es": "¿Sabes qué no es fácil? Que te borren la vida porque alguien quiere darse un gusto a sí mismo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "YOU MADE YOURSELF GOD AND THE FIRST THING YOU DID WAS REPLACE ME.",
+     "texto_es": "Te hiciste un dios y lo primero que hiciste fue reemplazarme."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "conflictivo",
+   "recorte": "vinetas/page-235-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    385,
+    575,
+    690,
+    960
+   ],
+   "descripcion": "Primer plano de Doctor Doom casi completamente apresado por el cuerpo elástico de Reed Richards.",
+   "prompt_en": "Close-up comic panel of a metallic masked villain wrapped tightly in elastic coils.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "atrapado",
+    "salvacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "THE FIRST THING I OFFERED WAS SALVATION.",
+     "texto_es": "Lo primero que ofrecí fue la salvación."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-235-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    710,
+    35,
+    980,
+    965
+   ],
+   "descripcion": "Mister Fantástico inmoviliza totalmente a Doom envolviendo todo su cuerpo y encarándolo muy de cerca con rabia.",
+   "prompt_en": "Wide comic panel showing a man stretching around a fallen hooded villain, looking at him with intense anger.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "familia-doom",
+    "momento-clave",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "YOU STOLE MY FAMILY.",
+     "texto_es": "Me robaste a mi familia."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "emocional",
+   "recorte": "vinetas/page-235-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 235,
+ "archivo": "paginas/page-235.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5067,
+ "_seg": 17.3
+}

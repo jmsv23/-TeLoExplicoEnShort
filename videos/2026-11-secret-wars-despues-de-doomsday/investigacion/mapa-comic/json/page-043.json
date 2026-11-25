@@ -1,0 +1,177 @@
+{
+ "tipo": "historia",
+ "resumen": "Un joven aspirante a la Thor Corps logra levantar a Mjolnir de su pedestal en Battleworld, rodeado de rayos e iluminación divina, demostrando ser digno y experimentando su despertar como Thor.",
+ "personajes": [
+  "Thor Corps",
+  "[joven Thor]"
+ ],
+ "eventos_clave": [
+  "Levantamiento de Mjolnir",
+  "Iniciación en la Thor Corps"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    57,
+    148,
+    948
+   ],
+   "descripcion": "Primer plano horizontal de los ojos bien abiertos de un joven mirando con determinación el martillo.",
+   "prompt_en": "Extreme close-up shot of a young man's wide, blue eyes filled with determination, comic book style, digital painting.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir",
+    "despertares"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "He created the hammer as a crucible for the unworthy.",
+     "texto_es": "Él creó el martillo como un crisol para los indignos."
+    }
+   ],
+   "lugar": "Salón del Martillo, Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-043-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    131,
+    35,
+    399,
+    970
+   ],
+   "descripcion": "El joven tira con ambas manos del mango de Mjolnir mientras potentes rayos celestes comienzan a brotar con la onomatopeya KRAKA-BOOM.",
+   "prompt_en": "Young blonde man struggling to lift a magical war hammer from a stone pedestal, electric lightning bolts bursting around him, dramatic angle, comic art.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir",
+    "trueno"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "But for those who are more...",
+     "texto_es": "Pero para aquellos que son más..."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "[onomatopeya]",
+     "texto": "KRAKA-BOOM",
+     "texto_es": "KRAKA-BOOM"
+    }
+   ],
+   "lugar": "Salón del Martillo, Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-043-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    396,
+    0,
+    846,
+    1000
+   ],
+   "descripcion": "El nuevo Thor alza victorioso el martillo Mjolnir con una mano, rodeado por deslumbrantes rayos y luz celestial dentro del gran salón del templo.",
+   "prompt_en": "Muscular blonde man lifting a glowing magical hammer aloft, light and energy surging from his chest and body, dramatic low angle in a monolithic hall, comic book splash panel.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir",
+    "dios-del-trueno",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "It is an awakening.",
+     "texto_es": "Es un despertar."
+    }
+   ],
+   "lugar": "Salón del Martillo, Battleworld",
+   "tono": "triumphant",
+   "recorte": "vinetas/page-043-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    846,
+    33,
+    975,
+    438
+   ],
+   "descripcion": "Plano detalle de la mano del joven sujetando firmemente la empuñadura del martillo Mjolnir.",
+   "prompt_en": "Close up of a hand gripping the leather-wrapped handle of Mjolnir, steel hammerhead visible, comic illustration.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "mjolnir",
+    "thor-corps"
+   ],
+   "textos": [],
+   "lugar": "Salón del Martillo, Battleworld",
+   "tono": "asombro",
+   "recorte": "vinetas/page-043-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    846,
+    563,
+    975,
+    966
+   ],
+   "descripcion": "Plano medio corto del rostro del joven Thor, mirando asombrado e incrédulo tras haber logrado levantar el martillo.",
+   "prompt_en": "Close up face shot of young blonde man with open mouth in shock and awe, high quality comic art.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "despertares"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "I... I did it.",
+     "texto_es": "Yo... lo hice."
+    }
+   ],
+   "lugar": "Salón del Martillo, Battleworld",
+   "tono": "asombro",
+   "recorte": "vinetas/page-043-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 43,
+ "archivo": "paginas/page-043.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4629,
+ "_seg": 16.4
+}

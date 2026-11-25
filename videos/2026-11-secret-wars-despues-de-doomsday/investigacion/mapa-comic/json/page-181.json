@@ -1,0 +1,228 @@
+{
+ "tipo": "historia",
+ "resumen": "Desde lo alto de la plataforma en Castle Doom, el Dios Emperador Doom observa Battleworld mientras Cisne Negro le informa sobre la marcha del ejército del Profeta. Acompañado por Sue Storm y Valeria, Doom decide quedarse a juzgar la rebelión y ordena convocar al Thor Corps.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Cisne Negro (Black Swan)",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "Cisne Negro reporta el avance del ejército del Profeta a Dios Emperador Doom.",
+  "Doom decide observar la batalla desde su trono elevado sobre Battleworld.",
+  "Valeria Richards percibe que esta amenaza es distinta a las anteriores.",
+  "Doom da la orden de convocar al Thor Corps."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    203,
+    970
+   ],
+   "descripcion": "Cisne Negro vista desde atrás habla respetuosamente con Dios Emperador Doom y Sue Storm en una plataforma elevada.",
+   "prompt_en": "Back view of a sleek pale-haired female warrior in black outfit speaking to a hooded emperor in white cloak and a blonde woman in white armor on a futuristic balcony.",
+   "personajes": [
+    "Cisne Negro (Black Swan)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "familia-doom",
+    "el-profeta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "The armies of your kingdoms gather to repel the army of the prophet, my Lord.",
+     "texto_es": "Los ejércitos de tus reinos se reúnen para repeler al ejército del profeta, mi Señor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "If you want--if you wish it--I will hurry now to join your loyalists.",
+     "texto_es": "Si lo deseas... si así lo quieres... me apresuraré ahora a unirme a tus leales."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-181-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    203,
+    0,
+    746,
+    1000
+   ],
+   "descripcion": "Vista panorámica masiva de Battleworld con estructuras cúbicas flotantes y la gigantesca cabeza y torso de Galactus sirviendo de estatua/trono con una figura meditando dentro de su llama.",
+   "prompt_en": "Wide architectural shot of floating white geometric cubical structures and a massive ancient statue of Galactus with fire inside its head, high fantasy cosmic scale.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Cisne Negro (Black Swan)",
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "galactus"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "No, Swan...",
+     "texto_es": "No, Cisne..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "As, like myself, I fear that once among those who take my grace for granted, you would lose yourself to anger.",
+     "texto_es": "Porque, al igual que yo, temo que una vez entre aquellos que dan por sentada mi gracia, te dejarías llevar por la ira."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "So we will watch from here...",
+     "texto_es": "Así que observaremos desde aquí..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...As I sit in judgment of those who dare stand against me.",
+     "texto_es": "...Mientras me siento a juzgar a quienes se atreven a oponerse a mí."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-181-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    746,
+    36,
+    974,
+    502
+   ],
+   "descripcion": "Plano medio de Doctor Doom con capucha blanca y la sombra en su rostro, junto a Sue Storm y Valeria Richards.",
+   "prompt_en": "Close up of hooded armored emperor in white cape and glowing mask standing next to blonde woman and child in futuristic white clothes.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "No need to take it personally, Victor. It's what free people always do when faced with authority. You can't fight how things are, my love.",
+     "texto_es": "No hay necesidad de tomártelo como algo personal, Victor. Es lo que la gente libre siempre hace ante la autoridad. No puedes luchar contra cómo son las cosas, mi amor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'm confident this will end no differently than all the other times.",
+     "texto_es": "Confío en que esto no terminará de manera diferente a todas las demás veces."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-181-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    746,
+    506,
+    974,
+    775
+   ],
+   "descripcion": "Primer plano del rostro de Valeria Richards con expresión preocupada e insatisfecha.",
+   "prompt_en": "Close up portrait of a young blonde girl with blue eyes looking worried and serious.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "You're wrong, Mom. This feels different.",
+     "texto_es": "Te equivocas, mamá. Esto se siente diferente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "This is something more.",
+     "texto_es": "Esto es algo más."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-181-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    746,
+    781,
+    974,
+    970
+   ],
+   "descripcion": "Primer plano extremo de la máscara de Doctor Doom con sus ojos oscuros brillando a través de la rejilla.",
+   "prompt_en": "Extreme close up of Dr Doom metal faceplate and menacing eye glowing through eyehole, comic art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Summon my Thors.",
+     "texto_es": "Convoquen a mis Thors."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-181-v5.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Battleworld",
+ "numero_comic": 4,
+ "pagina": 181,
+ "archivo": "paginas/page-181.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5739,
+ "_seg": 19.8
+}

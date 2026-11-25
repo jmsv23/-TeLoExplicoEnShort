@@ -1,0 +1,228 @@
+{
+ "tipo": "historia",
+ "resumen": "Sue Storm y Valeria Richards confrontan a Dios Emperador Doom sobre la muerte del Dr. Stephen Strange y las mentiras en las que ha mantenido a su familia en Battleworld. Pese a los intentos de Doom por justificarse, la desilusión de Sue es absoluta, dejándolo arrepentido.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Sue Storm confronta a Doom tras descubrir la verdad sobre Stephen Strange",
+  "Doom es incapaz de defenderse ante las acusaciones de Sue y pide disculpas"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    32,
+    331,
+    330
+   ],
+   "descripcion": "Primer plano del Dios Emperador Doom mirando con consternación e incertidumbre al percatarse de la presencia de Sue y Valeria.",
+   "prompt_en": "Close-up shot of Doctor Doom wearing a white hood and metallic mask, looking surprised and shocked.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "...",
+     "texto_es": "..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-232-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    355,
+    331,
+    960
+   ],
+   "descripcion": "Vista panorámica de Sue Storm y Valeria en trajes blancos encarando a Victor von Doom, quien aparece al fondo tras una entrada rocosa.",
+   "prompt_en": "Wide panel showing Susan Storm and Valeria Richards in sleek futuristic white suits facing Doctor Doom who stands in the distance under a stone archway.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "confrontacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Susan. Valeria...",
+     "texto_es": "Susan. Valeria..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "What are you--",
+     "texto_es": "¿Qué están--?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "tension",
+   "recorte": "vinetas/page-232-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    344,
+    34,
+    636,
+    408
+   ],
+   "descripcion": "Plano medio de Sue Storm hablando con seriedad y dolor hacia Victor, mientras Valeria observa en silencio.",
+   "prompt_en": "Medium shot of Susan Storm with blonde hair in a white suit questioning Doctor Doom with a stern expression.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "confrontacion",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Is it true, Victor?",
+     "texto_es": "¿Es verdad, Victor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Is all of it true?",
+     "texto_es": "¿Es todo verdad?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "confrontativo",
+   "recorte": "vinetas/page-232-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    344,
+    417,
+    636,
+    960
+   ],
+   "descripcion": "Doom encoge sus hombros e intenta excusarse mientras Sue lo interrumpe recordando a Stephen Strange.",
+   "prompt_en": "Doctor Doom in a white cloak bowing his head in explanation to Susan Storm seen from the side inside a dimly lit cavernous room.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "muerte-strange",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Susan, there are complexities beyond even my ability to explain. If you will just trust me as you always have--",
+     "texto_es": "Susan, hay complejidades más allá incluso de mi capacidad de explicar. Si tan solo confiaras en mí como siempre lo has hecho--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Like Stephen trusted you?",
+     "texto_es": "¿Como Stephen confió en ti?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-232-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    649,
+    32,
+    975,
+    368
+   ],
+   "descripcion": "Plano medio de Doom mirando hacia abajo con una mezcla de tristeza, culpa y arrepentimiento.",
+   "prompt_en": "Low-angle panel of Doctor Doom looking down remorsefully in silence, illuminated by subtle lighting inside a cave.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "arrepentimiento"
+   ],
+   "textos": [],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "sombrio",
+   "recorte": "vinetas/page-232-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    649,
+    375,
+    975,
+    960
+   ],
+   "descripcion": "Sue Storm le da la espalda a Victor mientras él empieza a desvanecerse en un fulgor dorado tras pedir disculpas.",
+   "prompt_en": "Susan Storm seen from behind standing resolute in her white suit, as Doctor Doom glows faintly and apologizes in the background.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "despedida",
+    "arrepentimiento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I'm sorry, Susan. I tried.",
+     "texto_es": "Lo siento, Susan. Lo intenté."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-232-v6.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 8,
+ "pagina": 232,
+ "archivo": "paginas/page-232.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5948,
+ "_seg": 21.6
+}

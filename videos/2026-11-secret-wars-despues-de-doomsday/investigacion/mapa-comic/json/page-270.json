@@ -1,0 +1,52 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración artística de portada por Alex Ross para Secret Wars #9, donde el rostro y la máscara del Dios Emperador Doom se resquebrajan y desgarran en grietas de luz y realidad, revelando múltiples rostros del Hombre Molécula (Owen Reece) que forman la fuente de su poder divino.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Revelación del poder del Hombre Molécula",
+  "Caída de la realidad de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración hiperrealista a toda página. En el lado derecho se observa el perfil del Doctor Doom portando su icónica máscara metálica remachada y capucha verde, con su ojo derecho mirando de forma penetrante. El resto de la composición muestra una grieta explosiva en la realidad que desgarra la figura de Doom, revelando múltiples repeticiones de la cara del Hombre Molécula (Owen Reece) con ojos blancos resplandecientes, así como una diminuta figura humana en la apertura de su boca.",
+   "prompt_en": "Alex Ross comic art painting, macro shot, right side shows Doctor Doom in iron metal mask and green hood with an intense human eye visible, left side violently tears open like paper and burning flesh into reality shards showing multiple faces of Molecule Man with glowing white eyes",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "hombre-molecula",
+    "secret-wars",
+    "alex-ross",
+    "battleworld",
+    "portada-alternativa"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-270-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 270,
+ "archivo": "paginas/page-270.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3659,
+ "_seg": 12.6
+}

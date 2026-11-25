@@ -1,0 +1,145 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther se recupera tras una devastadora ráfaga de luz divina en el campo de batalla de Battleworld y procede a colocarse el Guantelete del Infinito para hacer frente al Dios Emperador Doom.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Thor Corps (varios Thors)"
+ ],
+ "eventos_clave": [
+  "Black Panther se coloca el Guantelete del Infinito"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    305,
+    1000
+   ],
+   "descripcion": "Una enorme oleada de luz cegadora y dorada arrasa el campo de batalla, lanzando por los aires y desintegrando a numerosos guerreros y miembros de los Thor Corps mientras Namor y Black Panther resisten el impacto.",
+   "prompt_en": "Wide comic panel showing a blinding golden wave of light sweeping across a battlefield, blowing away warriors and superhero silhouettes.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "luz-dorada",
+    "explosion",
+    "thor-corps",
+    "batalla-final"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-240-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    305,
+    34,
+    495,
+    412
+   ],
+   "descripcion": "Black Panther se encuentra inclinado sobre sus rodillas en el suelo rocoso, tratando de recuperarse del fuerte destello de energía.",
+   "prompt_en": "Comic panel of Black Panther crouched on his knees on a rocky ground, recovering from a bright blast.",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "black-panther",
+    "recuperacion"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-240-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    305,
+    420,
+    495,
+    960
+   ],
+   "descripcion": "Black Panther se arrodilla y comienza a ponerse con determinación el Guantelete del Infinito mientras es rodeado por escombros flotantes y una intensa luz dorada.",
+   "prompt_en": "Medium shot of Black Panther kneeling down while putting on the golden Infinity Gauntlet, illuminated by bright magical light.",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "black-panther",
+    "preparacion"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-240-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    501,
+    37,
+    613,
+    547
+   ],
+   "descripcion": "Detalle en primer plano de la mano con el Guantelete del Infinito ajustado, destacando el brillo de una de las Gemas del Infinito.",
+   "prompt_en": "Close up shot of the Infinity Gauntlet glove glowing warmly with a prominent yellow Infinity Stone.",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "gema-del-infinito"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "místico",
+   "recorte": "vinetas/page-240-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    636,
+    495,
+    747,
+    963
+   ],
+   "descripcion": "Primer plano del rostro de Black Panther completamente bañado por el resplandor cósmico del Guantelete, mostrando una mirada firme y decidida.",
+   "prompt_en": "Extreme close up of Black Panther's face illuminated by bright glowing divine energy, eyes shining with resolve.",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "black-panther",
+    "determinacion",
+    "poder-cosmico"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-240-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 240,
+ "archivo": "paginas/page-240.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4731,
+ "_seg": 16.1
+}

@@ -1,0 +1,230 @@
+{
+ "tipo": "historia",
+ "resumen": "El Sheriff Strange encarga a un experimentado miembro de los Thor Corps investigar una brecha recién detectada en Battleworld, entregándole órdenes para poner en cuarentena un misterioso objeto que ha aparecido.",
+ "personajes": [
+  "Doctor Strange",
+  "[Thor de los Thor Corps]"
+ ],
+ "eventos_clave": [
+  "Sheriff Strange detecta una brecha en Battleworld",
+  "Strange encomienda al Thor veterano que investigue y ponga en cuarentena el objeto encontrado"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    33,
+    348,
+    355
+   ],
+   "descripcion": "El Sheriff Strange, vistiendo su atuendo oscuro con un símbolo dorado, revisa documentos sobre su escritorio mientras se dirige a un interlocutor fuera de plano.",
+   "prompt_en": "Comic book panel, close up of Doctor Strange wearing a dark tunic with a gold trim standing behind a desk, looking down at papers in a high-tech medieval chamber, detailed linework, moody lighting.",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Unfortunately, there's one more thing I need before you're done for the day.",
+     "texto_es": "Desafortunadamente, hay una cosa más que necesito antes de que termines por hoy."
+    }
+   ],
+   "lugar": "Despacho del Sheriff Strange en Doomstadt",
+   "tono": "serio",
+   "recorte": "vinetas/page-077-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    363,
+    348,
+    771
+   ],
+   "descripcion": "Strange habla desde el otro lado del escritorio con un Thor veterano que viste armadura y sostiene un pergamino enrollado.",
+   "prompt_en": "Comic book panel, medium shot showing Doctor Strange in shadow talking to a tall warrior wearing winged helmet and armor holding a scroll, inside a majestic stone hall.",
+   "personajes": [
+    "Doctor Strange",
+    "[Thor de los Thor Corps]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor de los Thor Corps]",
+     "texto": "What could there possibly--",
+     "texto_es": "¿Qué podría haber posiblemente--?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I need an old hand at the wheel for what is a very old problem.",
+     "texto_es": "Necesito una mano experta al mando para lo que es un problema muy antiguo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Schism.",
+     "texto_es": "Cisma."
+    }
+   ],
+   "lugar": "Despacho del Sheriff Strange en Doomstadt",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-077-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    27,
+    770,
+    329,
+    986
+   ],
+   "descripcion": "Primer plano del rostro del Sheriff Strange, con mirada severa e intensa y bigote, sobre un fondo blanco.",
+   "prompt_en": "Comic book panel, tight close up of Doctor Strange's face with short haircut and mustache, intense stern gaze directly at the camera, stark light and shadow.",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sheriff-strange",
+    "retrato"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "We've suffered a breach...and it must be contained.",
+     "texto_es": "Hemos sufrido una brecha... y debe ser contenida."
+    }
+   ],
+   "lugar": "Despacho del Sheriff Strange en Doomstadt",
+   "tono": "urgente",
+   "recorte": "vinetas/page-077-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    362,
+    33,
+    686,
+    968
+   ],
+   "descripcion": "El Sheriff Strange frente al Thor veterano en su oficina illuminated por una cálida luz. El Thor sostiene un martillo y un cilindro con sello.",
+   "prompt_en": "Comic book panel, wide shot of Doctor Strange standing near a illuminated desk facing a heavily armored Thor warrior holding a hammer and scroll, wide window in background showing plants.",
+   "personajes": [
+    "Doctor Strange",
+    "[Thor de los Thor Corps]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sheriff-strange",
+    "thor-corps",
+    "aim"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor de los Thor Corps]",
+     "texto": "Sheriff, if the heretics of A.I.M. have once again started--",
+     "texto_es": "Sheriff, si los herejes de A.I.M. han comenzado una vez más--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "No. This has nothing to do with seditious conspiracy stories spun by Advanced Idea Mythologies, old friend. This is real.",
+     "texto_es": "No. Esto no tiene nada que ver con historias de conspiración sediciosa urdidas por Mitologías de Ideas Avanzadas, viejo amigo. Esto es real."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "This is concrete. There is an object...",
+     "texto_es": "Esto es concreto. Hay un objeto..."
+    }
+   ],
+   "lugar": "Despacho del Sheriff Strange en Doomstadt",
+   "tono": "revelador",
+   "recorte": "vinetas/page-077-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    700,
+    33,
+    999,
+    492
+   ],
+   "descripcion": "Primer plano de la mano sosteniendo el tubo con la orden sellada con la insignia del ojo.",
+   "prompt_en": "Comic book panel, close up of a hand holding a cylindrical scroll sealed with a red ribbon and an eye badge emblem, a helmeted warrior visible in background.",
+   "personajes": [
+    "Doctor Strange",
+    "[Thor de los Thor Corps]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "orden",
+    "ojo-de-agamotto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I need it quarantined...",
+     "texto_es": "Necesito que lo pongan en cuarentena..."
+    }
+   ],
+   "lugar": "Despacho del Sheriff Strange en Doomstadt",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-077-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    700,
+    492,
+    999,
+    968
+   ],
+   "descripcion": "Una bandera verde flameando en una colina desértica con el símbolo de un ojo impreso, bajo un cielo crepuscular.",
+   "prompt_en": "Comic book panel, serene landscape showing a green flag with an eye symbol waving on a pole atop a desert hill against a pale sky.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "paisaje"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange",
+     "texto": "“And later... examined.”",
+     "texto_es": "“Y más tarde... examinado.”"
+    }
+   ],
+   "lugar": "Fronteras de Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-077-v6.jpg"
+  }
+ ],
+ "lugar": "Doomstadt, Battleworld",
+ "numero_comic": 2,
+ "pagina": 77,
+ "archivo": "paginas/page-077.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5669,
+ "_seg": 19.5
+}

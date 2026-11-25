@@ -1,0 +1,215 @@
+{
+ "tipo": "historia",
+ "resumen": "Nick Fury y las fuerzas del Universo Ultimate perecen en una explosión masiva durante la incursión final entre la Tierra-616 y la Tierra-1610. Mientras Nick Fury exige al Hacedor que termine el trabajo, el Hacedor transmite un frío monólogo sobre la inevitabilidad de la destrucción y su intención de construir algo nuevo sobre las ruinas.",
+ "personajes": [
+  "Nick Fury",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Coloso",
+  "Hulk"
+ ],
+ "eventos_clave": [
+  "Destrucción del Triskelion y del ejército Ultimate",
+  "Última transmisión de Nick Fury al Hacedor",
+  "Monólogo del Hacedor sobre el fin del mundo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    420,
+    675
+   ],
+   "descripcion": "Varios superhéroes del universo Ultimate son envueltos por una enorme explosión de fuego y energía mientras las defensas caen.",
+   "prompt_en": "Comic book panel showing superhero figures engulfed by a massive fiery explosion with shockwaves and debris.",
+   "personajes": [
+    "Coloso"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "explosion",
+    "tierra-1610"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "KBROOOM",
+     "texto_es": "KBROOOM"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Nick Fury",
+     "texto": "\"We've failed.\"",
+     "texto_es": "\"Hemos fallado.\""
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "trágico",
+   "recorte": "vinetas/page-020-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    15,
+    655,
+    385,
+    1000
+   ],
+   "descripcion": "Primer plano de Nick Fury herido en una consola de control, comunicándose con el Hacedor por una pantalla antes del impacto final.",
+   "prompt_en": "Close up of an injured Nick Fury with an eyepatch speaking into a comm screen amidst alarms and destruction.",
+   "personajes": [
+    "Nick Fury",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "nick-fury",
+    "el-hacedor",
+    "transmision"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Nick Fury",
+     "texto": "Darkest moments of a dark life, and I swear, I never once thought I'd go out like this.",
+     "texto_es": "Los momentos más oscuros de una vida oscura, y juro que nunca pensé que caería así."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nick Fury",
+     "texto": "Make sure you finish the job, Maker!",
+     "texto_es": "¡Asegúrate de terminar el trabajo, Hacedor!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "\"Finish\" implies that your task was uncompleted, General.",
+     "texto_es": "\"Terminar\" implica que tu tarea no estaba completada, General."
+    }
+   ],
+   "lugar": "Centro de mando del Triskelion",
+   "tono": "dramático",
+   "recorte": "vinetas/page-020-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    390,
+    0,
+    565,
+    1000
+   ],
+   "descripcion": "Vista en sombra de Hulk cayendo en la penumbra en medio de escombros voladores, con cajas de texto del Hacedor.",
+   "prompt_en": "Silhouetted giant green figure falling through dark sky with floating rubble.",
+   "personajes": [
+    "Hulk"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hulk",
+    "caida",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "\"It implies a failure of action or understanding of purpose. Let me assure you...\"",
+     "texto_es": "\"Implica un fallo de acción o de comprensión del propósito. Déjame asegurarte...\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "\"This was always how it was going to end.\"",
+     "texto_es": "\"Así era como siempre iba a terminar.\""
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-020-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    540,
+    0,
+    1000,
+    795
+   ],
+   "descripcion": "Vista panorámica de la bahía donde la gran estructura del Triskelion explota cataclísmicamente sobre el agua, con un barco militar en primer plano.",
+   "prompt_en": "Panoramic wide shot of a massive futuristic fortress exploding on the ocean coast with fireballs and shockwaves.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "explosion-cataclismica",
+    "incursión",
+    "destrucción"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "KKKRRRMM",
+     "texto_es": "KKKRRRMM"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "\"You bought us no little bit of time...\"",
+     "texto_es": "\"Nos ganaste una cantidad no insignificante de tiempo...\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "\"And that was remarkable for one whose time had long passed.\"",
+     "texto_es": "\"Y eso fue notable para alguien cuyo tiempo había pasado hace mucho.\""
+    }
+   ],
+   "lugar": "Bahía de Nueva York / Triskelion",
+   "tono": "apocalíptico",
+   "recorte": "vinetas/page-020-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    540,
+    795,
+    1000,
+    1000
+   ],
+   "descripcion": "Varios espectadores aterrados observan boquiabiertos la devastadora explosión desde un malecón.",
+   "prompt_en": "Close up of shocked group of onlookers staring in horror at a distant destruction.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "reaccion",
+    "horror",
+    "testigos"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "\"Let me show you what I'll build on your ruins.\"",
+     "texto_es": "\"Déjame mostrarte lo que construiré sobre tus ruinas.\""
+    }
+   ],
+   "lugar": "Malecón de la ciudad",
+   "tono": "Desesperanzador",
+   "recorte": "vinetas/page-020-v5.jpg"
+  }
+ ],
+ "lugar": "Tierra-1610 / Triskelion",
+ "numero_comic": 1,
+ "pagina": 20,
+ "archivo": "paginas/page-020.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5548,
+ "_seg": 16.1
+}

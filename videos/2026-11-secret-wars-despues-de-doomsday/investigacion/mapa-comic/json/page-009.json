@@ -1,0 +1,256 @@
+{
+ "tipo": "historia",
+ "resumen": "En La Ciudad de Manhattan, el Hacedor (el Reed Richards del universo Ultimate) le revela al General Nick Fury y a Hawkeye que la Incursión final entre su Tierra y el universo 616 es inminente. Aunque Fury no confía en el Hacedor, concluye que deben atacar el otro mundo para garantizar la supervivencia del suyo.",
+ "personajes": [
+  "El Hacedor (Reed Richards Ultimate)",
+  "[General Nick Fury (Ultimate)]",
+  "[Hawkeye (Ultimate Clint Barton)]"
+ ],
+ "eventos_clave": [
+  "El Hacedor advierte que la Incursión final comenzará en cuestión de minutos",
+  "Nick Fury decide liderar el ataque contra la otra Tierra para salvar su propio universo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    360,
+    968
+   ],
+   "descripcion": "El gigantesco rostro del Hacedor se dirige a Nick Fury y Hawkeye explicándoles que el multiverso está colapsando y solo quedan dos universos.",
+   "prompt_en": "Giant high-tech helmeted villain face floating over futuristic console talking to two soldiers in a sci-fi chamber.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "[General Nick Fury (Ultimate)]",
+    "[Hawkeye (Ultimate Clint Barton)]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "el-hacedor",
+    "multiverso",
+    "amenaza-existencial"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The City. Home of the Cabal and the Children of Tomorrow. Currently residing in Manhattan.",
+     "texto_es": "La Ciudad. Hogar de la Cábala y los Niños del Mañana. Actualmente ubicada en Manhattan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Everything dies, General Fury. In fact, much of what could be defined as existence already has. Now all that remains is our universe...and theirs.",
+     "texto_es": "Todo muere, General Fury. De hecho, gran parte de lo que podría definirse como existencia ya lo ha hecho. Ahora todo lo que queda es nuestro universo... y el de ellos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "What follows--this...Incursion between our Earth and their Earth will begin very soon. In minutes, perhaps. How long will it last? That, General, depends on no small number of variables...",
+     "texto_es": "Lo que sigue... esta... Incursión entre nuestra Tierra y su Tierra comenzará muy pronto. En minutos, tal vez. ¿Cuánto durará? Eso, General, depende de una cantidad no pequeña de variables..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "And how good you are at eliminating them.",
+     "texto_es": "Y de qué tan bueno seas eliminándolas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[General Nick Fury (Ultimate)]",
+     "texto": "So this is it? We destroy their world and our universe lives? You're sure this is the last one?",
+     "texto_es": "¿Así que esto es todo? ¿Destruimos su mundo y nuestro universo vive? ¿Estás seguro de que esta es la última?"
+    }
+   ],
+   "lugar": "La Ciudad, Manhattan",
+   "tono": "tenso",
+   "recorte": "vinetas/page-009-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    365,
+    36,
+    686,
+    390
+   ],
+   "descripcion": "Primer plano del Hacedor con su casco cibernético asegurando que no quedan más mundos.",
+   "prompt_en": "Close up of futuristic villain wearing a round blue helmet with single glowing eye lens.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "monologo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "This City has many machines. One of which scours all of space and time. Observing... recording...",
+     "texto_es": "Esta Ciudad tiene muchas máquinas. Una de las cuales explora todo el espacio y el tiempo. Observando... registrando..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Witnessing the collapse of our once infinite multiverse.",
+     "texto_es": "Presenciando el colapso de nuestro otrora infinito multiverso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Am I sure this is all there is left? More than I am of any other thing.",
+     "texto_es": "¿Estoy seguro de que esto es todo lo que queda? Más seguro que de cualquier otra cosa."
+    }
+   ],
+   "lugar": "La Ciudad, Manhattan",
+   "tono": "frenetico",
+   "recorte": "vinetas/page-009-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    365,
+    390,
+    686,
+    968
+   ],
+   "descripcion": "Nick Fury y Hawkeye escuchan las órdenes finales del Hacedor frente a las pantallas tácticas de La Ciudad.",
+   "prompt_en": "Two male soldiers from behind facing a large blue digital screen showing a villain visage.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "[General Nick Fury (Ultimate)]",
+    "[Hawkeye (Ultimate Clint Barton)]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mision",
+    "preparacion-guerra"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "So go, General Fury... Save our world one last time. Save us all.",
+     "texto_es": "Así que ve, General Fury... Salva nuestro mundo una última vez. Sálvanos a todos."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "desconocido",
+     "texto": "BE-DOOP!",
+     "texto_es": "¡BE-DOOP!"
+    }
+   ],
+   "lugar": "La Ciudad, Manhattan",
+   "tono": "epico",
+   "recorte": "vinetas/page-009-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    686,
+    36,
+    980,
+    432
+   ],
+   "descripcion": "Hawkeye con gafas rojas le cuestiona a Nick Fury sobre si pueden confiar en el Hacedor.",
+   "prompt_en": "Comic panel close-up of soldier with red glasses asking a question to a commander in a dark control room.",
+   "personajes": [
+    "[General Nick Fury (Ultimate)]",
+    "[Hawkeye (Ultimate Clint Barton)]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "desconfianza",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Hawkeye (Ultimate Clint Barton)]",
+     "texto": "Can we trust him?",
+     "texto_es": "¿Podemos confiar en él?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[General Nick Fury (Ultimate)]",
+     "texto": "Reed Richards is a thousand-year-old megalomaniacal boy genius who wiped out most of Europe on a whim, Hawkeye.",
+     "texto_es": "Reed Richards es un niño genio megalómano de mil años que exterminó a la mayor parte de Europa por un capricho, Hawkeye."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[General Nick Fury (Ultimate)]",
+     "texto": "No. We most certainly cannot.",
+     "texto_es": "No. Definitivamente no podemos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Hawkeye (Ultimate Clint Barton)]",
+     "texto": "Then why the hell are we doing this, Nick?",
+     "texto_es": "Entonces, ¿por qué demonios estamos haciendo esto, Nick?"
+    }
+   ],
+   "lugar": "La Ciudad, Manhattan",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-009-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    686,
+    436,
+    980,
+    968
+   ],
+   "descripcion": "Primer plano intenso de Nick Fury afirmando con determinación que destruir la otra Tierra es su única opción.",
+   "prompt_en": "Dramatic close up of a tough military man with eyepatch speaking intently.",
+   "personajes": [
+    "[General Nick Fury (Ultimate)]",
+    "[Hawkeye (Ultimate Clint Barton)]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "decision-dramatica",
+    "ultima-incursion",
+    "nick-fury"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[General Nick Fury (Ultimate)]",
+     "texto": "Because it's also worth pointing out that he's not wrong, and my job--our job--is protecting the world.",
+     "texto_es": "Porque también vale la pena señalar que no se equivoca, y mi trabajo... nuestro trabajo... es proteger al mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[General Nick Fury (Ultimate)]",
+     "texto": "So if this comes down to them trying to kill us or us killing them... well, Clint...",
+     "texto_es": "Así que si esto se reduce a que ellos intenten matarnos o nosotros a ellos... bueno, Clint..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[General Nick Fury (Ultimate)]",
+     "texto": "That ain't no choice at all.",
+     "texto_es": "Eso no es ninguna opción."
+    }
+   ],
+   "lugar": "La Ciudad, Manhattan",
+   "tono": "sombrio",
+   "recorte": "vinetas/page-009-v5.jpg"
+  }
+ ],
+ "lugar": "La Ciudad, Manhattan",
+ "numero_comic": 0,
+ "pagina": 9,
+ "archivo": "paginas/page-009.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7024,
+ "_seg": 29.7
+}

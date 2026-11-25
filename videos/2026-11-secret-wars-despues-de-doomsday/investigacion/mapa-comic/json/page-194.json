@@ -1,0 +1,205 @@
+{
+ "tipo": "historia",
+ "resumen": "Jane Foster (Thor) convence a los miembros de los Thor Corps de que el Dios Emperador Doom les ha mentido y los lidera en una rebelión para unirse a la batalla contra su régimen.",
+ "personajes": [
+  "Thor (Jane Foster)",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Rebelion de los Thor Corps",
+  "Jane Foster convence a los Thors"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    30,
+    273,
+    509
+   ],
+   "descripcion": "Un Thor alienígena cae o es impulsado hacia atrás durante el caos del enfrentamiento previo en la gran sala.",
+   "prompt_en": "Comic panel showing an alien Thor getting knocked back in a hall during a battle.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "combate",
+    "battleworld"
+   ],
+   "textos": [],
+   "lugar": "Salón del Castillo de Doom",
+   "tono": "caótico",
+   "recorte": "vinetas/page-194-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    517,
+    273,
+    971
+   ],
+   "descripcion": "Thor (Jane Foster) ayuda a levantarse a otro guerrero Thor mientras planean dividir sus fuerzas.",
+   "prompt_en": "Jane Foster Thor helping another Thor stand up and talking in a hall.",
+   "personajes": [
+    "Thor (Jane Foster)",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "liderazgo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "Can you rise?",
+     "texto_es": "¿Puedes levantarte?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "I'll do more than that. I and some others will stay and hold the hall, while you take the rest and join the battle below.",
+     "texto_es": "Haré más que eso. Yo y algunos otros nos quedaremos a mantener el salón, mientras tú tomas al resto y te unes a la batalla de abajo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "We worthy outnumber Doom's faithful.",
+     "texto_es": "Nosotros, los dignos, superamos en número a los fieles de Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "As it should be...",
+     "texto_es": "Como debería ser..."
+    }
+   ],
+   "lugar": "Salón del Castillo de Doom",
+   "tono": "heroico",
+   "recorte": "vinetas/page-194-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    283,
+    30,
+    515,
+    687
+   ],
+   "descripcion": "Jane Foster alza su martillo y da un emotivo discurso a los Thor Corps rebeldes.",
+   "prompt_en": "Jane Foster Thor raising her hammer and shouting to a crowd of Thors.",
+   "personajes": [
+    "Thor (Jane Foster)",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "discurso",
+    "thor-corps",
+    "rebelion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "As it should be...",
+     "texto_es": "Como debería ser..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "Brothers! Sisters! You know in your hearts that my words are true!",
+     "texto_es": "¡Hermanos! ¡Hermanas! ¡Saben en sus corazones que mis palabras son ciertas!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "You have been deceived. God Doom is not great... he is not even good!",
+     "texto_es": "Han sido engañados. El Dios Doom no es grande... ¡ni siquiera es bueno!"
+    }
+   ],
+   "lugar": "Salón del Castillo de Doom",
+   "tono": "inspirador",
+   "recorte": "vinetas/page-194-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    283,
+    697,
+    515,
+    971
+   ],
+   "descripcion": "Primer plano del rostro determinado de Jane Foster gritando su llamado a las armas.",
+   "prompt_en": "Close up panel of female Thor yelling passionately in her helmet.",
+   "personajes": [
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "primer-plano",
+    "thor-jane-foster",
+    "llamado-a-las-armas"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "So who will come with me and do battle?",
+     "texto_es": "Así que, ¿quién vendrá conmigo a luchar?"
+    }
+   ],
+   "lugar": "Salón del Castillo de Doom",
+   "tono": "epico",
+   "recorte": "vinetas/page-194-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    518,
+    0,
+    976,
+    1000
+   ],
+   "descripcion": "Gran viñeta inferior con Jane Foster encabezando una horda voladora de diversos Thors (incluidos cerdos, humanos y alienígenas) descendiendo a la batalla.",
+   "prompt_en": "Epic wide comic splash showing dozens of different Thors flying down through the sky led by Jane Foster Thor.",
+   "personajes": [
+    "Thor (Jane Foster)",
+    "Thor Corps"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "splash-page",
+    "thor-corps",
+    "rebelion",
+    "vuelo"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Thor (Jane Foster)",
+     "texto": "WHO WILL COME WITH ME...",
+     "texto_es": "QUIÉN VENDRÁ CONMIGO..."
+    }
+   ],
+   "lugar": "Cielos sobre el Castillo de Doom",
+   "tono": "epico",
+   "recorte": "vinetas/page-194-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 7,
+ "pagina": 194,
+ "archivo": "paginas/page-194.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4897,
+ "_seg": 13.7
+}

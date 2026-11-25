@@ -1,0 +1,1147 @@
+{
+ "duracion": 48.72,
+ "coincidencia": 0.934,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.071,
+   "fin": 11.7
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 12.221,
+   "fin": 48.449
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 4.795
+  },
+  {
+   "id": "2",
+   "nombre": "La teoría",
+   "inicio": 4.795,
+   "fin": 10.599
+  },
+  {
+   "id": "3",
+   "nombre": "La respuesta",
+   "inicio": 10.599,
+   "fin": 13.182
+  },
+  {
+   "id": "4",
+   "nombre": "Empire",
+   "inicio": 13.182,
+   "fin": 15.624
+  },
+  {
+   "id": "5",
+   "nombre": "Victor von Doom",
+   "inicio": 15.624,
+   "fin": 17.265
+  },
+  {
+   "id": "6",
+   "nombre": "El ejemplo",
+   "inicio": 17.265,
+   "fin": 20.868
+  },
+  {
+   "id": "7",
+   "nombre": "Chris Evans",
+   "inicio": 20.868,
+   "fin": 23.99
+  },
+  {
+   "id": "8",
+   "nombre": "Cuentas",
+   "inicio": 23.99,
+   "fin": 26.855
+  },
+  {
+   "id": "9",
+   "nombre": "1961",
+   "inicio": 26.855,
+   "fin": 32.263
+  },
+  {
+   "id": "10",
+   "nombre": "Ojo",
+   "inicio": 32.263,
+   "fin": 37.391
+  },
+  {
+   "id": "11",
+   "nombre": "Otro personaje",
+   "inicio": 37.391,
+   "fin": 40.236
+  },
+  {
+   "id": "12",
+   "nombre": "Estreno",
+   "inicio": 40.236,
+   "fin": 43.821
+  },
+  {
+   "id": "13",
+   "nombre": "Cierre",
+   "inicio": 43.821,
+   "fin": 48.72
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.351,
+   "t_est": 0.4,
+   "ancla": "Faigui"
+  },
+  {
+   "id": "1.3",
+   "t": 1.452,
+   "t_est": 1.7,
+   "ancla": "matar"
+  },
+  {
+   "id": "2.1",
+   "t": 4.795,
+   "t_est": 4.1,
+   "ancla": "pregunta"
+  },
+  {
+   "id": "2.2",
+   "t": 6.836,
+   "t_est": 6.4,
+   "ancla": "Downey"
+  },
+  {
+   "id": "2.3",
+   "t": 8.218,
+   "t_est": 8.0,
+   "ancla": "Tony"
+  },
+  {
+   "id": "2.4",
+   "t": 8.838,
+   "t_est": 8.7,
+   "ancla": "malvado"
+  },
+  {
+   "id": "3.1",
+   "t": 10.599,
+   "t_est": 10.2,
+   "ancla": "respuesta"
+  },
+  {
+   "id": "3.2",
+   "t": 11.06,
+   "t_est": 11.0,
+   "ancla": "no"
+  },
+  {
+   "id": "4.1",
+   "t": 13.182,
+   "t_est": 13.0,
+   "ancla": "Empire"
+  },
+  {
+   "id": "4.2",
+   "t": 14.863,
+   "t_est": 14.6,
+   "ancla": "no"
+  },
+  {
+   "id": "5.1",
+   "t": 15.624,
+   "t_est": 16.5,
+   "ancla": "Victor"
+  },
+  {
+   "id": "5.2",
+   "t": 16.164,
+   "t_est": 17.3,
+   "ancla": "Doom"
+  },
+  {
+   "id": "6.1",
+   "t": 17.265,
+   "t_est": 19.3,
+   "ancla": "ejemplo"
+  },
+  {
+   "id": "6.2",
+   "t": 17.985,
+   "t_est": 20.4,
+   "ancla": "Steve"
+  },
+  {
+   "id": "6.3",
+   "t": 19.126,
+   "t_est": 21.6,
+   "ancla": "variante"
+  },
+  {
+   "id": "6.4",
+   "t": 19.727,
+   "t_est": 22.4,
+   "ancla": "Johnny"
+  },
+  {
+   "id": "7.1",
+   "t": 20.868,
+   "t_est": 24.2,
+   "ancla": "Evans"
+  },
+  {
+   "id": "7.2",
+   "t": 22.009,
+   "t_est": 25.3,
+   "ancla": "dos"
+  },
+  {
+   "id": "7.3",
+   "t": 22.649,
+   "t_est": 26.2,
+   "ancla": "nadie"
+  },
+  {
+   "id": "8.1",
+   "t": 23.99,
+   "t_est": 28.2,
+   "ancla": "actor"
+  },
+  {
+   "id": "8.2",
+   "t": 24.792,
+   "t_est": 29.1,
+   "ancla": "personajes"
+  },
+  {
+   "id": "8.3",
+   "t": 25.954,
+   "t_est": 30.3,
+   "ancla": "parentesco"
+  },
+  {
+   "id": "9.1",
+   "t": 26.855,
+   "t_est": 33.0,
+   "ancla": "Además"
+  },
+  {
+   "id": "9.2",
+   "t": 30.276,
+   "t_est": 34.0,
+   "ancla": "novecientos"
+  },
+  {
+   "id": "9.3",
+   "t": 30.841,
+   "t_est": 36.3,
+   "ancla": "antes"
+  },
+  {
+   "id": "9.4",
+   "t": 31.402,
+   "t_est": 36.9,
+   "ancla": "Iron"
+  },
+  {
+   "id": "10.1",
+   "t": 32.263,
+   "t_est": 38.0,
+   "ancla": "Ojo"
+  },
+  {
+   "id": "10.2",
+   "t": 34.807,
+   "t_est": 40.3,
+   "ancla": "aparecerá"
+  },
+  {
+   "id": "10.3",
+   "t": 36.57,
+   "t_est": 42.0,
+   "ancla": "Tony"
+  },
+  {
+   "id": "11.1",
+   "t": 37.391,
+   "t_est": 43.4,
+   "ancla": "otro"
+  },
+  {
+   "id": "11.2",
+   "t": 39.655,
+   "t_est": 44.8,
+   "ancla": "actor"
+  },
+  {
+   "id": "12.1",
+   "t": 40.236,
+   "t_est": 47.0,
+   "ancla": "Avengers"
+  },
+  {
+   "id": "12.2",
+   "t": 42.099,
+   "t_est": 48.0,
+   "ancla": "dieciocho"
+  },
+  {
+   "id": "13.1",
+   "t": 43.821,
+   "t_est": 50.0,
+   "ancla": "revelación"
+  },
+  {
+   "id": "13.2",
+   "t": 45.844,
+   "t_est": 51.8,
+   "ancla": "fans"
+  },
+  {
+   "id": "13.3",
+   "t": 46.485,
+   "t_est": 53.6,
+   "ancla": "Suscríbete"
+  },
+  {
+   "id": "13.4",
+   "t": 47.848,
+   "t_est": 55.2,
+   "ancla": "curiosidades"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Kevin",
+   "seg": "S1",
+   "inicio": 0.071,
+   "fin": 0.311
+  },
+  {
+   "w": "Faigui",
+   "seg": "S1",
+   "inicio": 0.351,
+   "fin": 0.732
+  },
+  {
+   "w": "acaba",
+   "seg": "S1",
+   "inicio": 1.052,
+   "fin": 1.292
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 1.332,
+   "fin": 1.412
+  },
+  {
+   "w": "matar",
+   "seg": "S1",
+   "inicio": 1.452,
+   "fin": 1.692
+  },
+  {
+   "w": "la",
+   "seg": "S1",
+   "inicio": 1.732,
+   "fin": 1.792
+  },
+  {
+   "w": "teoría",
+   "seg": "S1",
+   "inicio": 1.832,
+   "fin": 2.153
+  },
+  {
+   "w": "más",
+   "seg": "S1",
+   "inicio": 2.173,
+   "fin": 2.233
+  },
+  {
+   "w": "grande",
+   "seg": "S1",
+   "inicio": 2.533,
+   "fin": 2.773
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 2.813,
+   "fin": 2.893
+  },
+  {
+   "w": "Avengers:",
+   "seg": "S1",
+   "inicio": 2.933,
+   "fin": 3.414
+  },
+  {
+   "w": "Doomsday.",
+   "seg": "S1",
+   "inicio": 3.834,
+   "fin": 4.314
+  },
+  {
+   "w": "La",
+   "seg": "S1",
+   "inicio": 4.695,
+   "fin": 4.755
+  },
+  {
+   "w": "pregunta:",
+   "seg": "S1",
+   "inicio": 4.795,
+   "fin": 5.135
+  },
+  {
+   "w": "¿el",
+   "seg": "S1",
+   "inicio": 5.155,
+   "fin": 5.676
+  },
+  {
+   "w": "Doctor",
+   "seg": "S1",
+   "inicio": 5.756,
+   "fin": 6.056
+  },
+  {
+   "w": "Doom",
+   "seg": "S1",
+   "inicio": 6.136,
+   "fin": 6.336
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 6.396,
+   "fin": 6.496
+  },
+  {
+   "w": "Robert",
+   "seg": "S1",
+   "inicio": 6.576,
+   "fin": 6.796
+  },
+  {
+   "w": "Downey",
+   "seg": "S1",
+   "inicio": 6.836,
+   "fin": 7.157
+  },
+  {
+   "w": "Junior",
+   "seg": "S1",
+   "inicio": 7.197,
+   "fin": 7.577
+  },
+  {
+   "w": "es",
+   "seg": "S1",
+   "inicio": 7.877,
+   "fin": 7.977
+  },
+  {
+   "w": "un",
+   "seg": "S1",
+   "inicio": 8.037,
+   "fin": 8.117
+  },
+  {
+   "w": "Tony",
+   "seg": "S1",
+   "inicio": 8.218,
+   "fin": 8.418
+  },
+  {
+   "w": "Stark",
+   "seg": "S1",
+   "inicio": 8.458,
+   "fin": 8.738
+  },
+  {
+   "w": "malvado",
+   "seg": "S1",
+   "inicio": 8.838,
+   "fin": 9.258
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 9.298,
+   "fin": 9.399
+  },
+  {
+   "w": "otro",
+   "seg": "S1",
+   "inicio": 9.479,
+   "fin": 9.619
+  },
+  {
+   "w": "universo?",
+   "seg": "S1",
+   "inicio": 9.659,
+   "fin": 10.079
+  },
+  {
+   "w": "Su",
+   "seg": "S1",
+   "inicio": 10.439,
+   "fin": 10.539
+  },
+  {
+   "w": "respuesta:",
+   "seg": "S1",
+   "inicio": 10.599,
+   "fin": 11.04
+  },
+  {
+   "w": "no.",
+   "seg": "S1",
+   "inicio": 11.06,
+   "fin": 11.7
+  },
+  {
+   "w": "Se",
+   "seg": "S2",
+   "inicio": 12.221,
+   "fin": 12.301
+  },
+  {
+   "w": "lo",
+   "seg": "S2",
+   "inicio": 12.341,
+   "fin": 12.401
+  },
+  {
+   "w": "dijo",
+   "seg": "S2",
+   "inicio": 12.441,
+   "fin": 12.641
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 12.661,
+   "fin": 12.701
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 12.741,
+   "fin": 12.801
+  },
+  {
+   "w": "revista",
+   "seg": "S2",
+   "inicio": 12.861,
+   "fin": 13.162
+  },
+  {
+   "w": "Empire:",
+   "seg": "S2",
+   "inicio": 13.182,
+   "fin": 13.722
+  },
+  {
+   "w": "«La",
+   "seg": "S2",
+   "inicio": 14.122,
+   "fin": 14.202
+  },
+  {
+   "w": "respuesta",
+   "seg": "S2",
+   "inicio": 14.262,
+   "fin": 14.643
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 14.723,
+   "fin": 14.783
+  },
+  {
+   "w": "no.",
+   "seg": "S2",
+   "inicio": 14.863,
+   "fin": 14.983
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 15.423,
+   "fin": 15.543
+  },
+  {
+   "w": "Victor",
+   "seg": "S2",
+   "inicio": 15.624,
+   "fin": 15.904
+  },
+  {
+   "w": "von",
+   "seg": "S2",
+   "inicio": 15.984,
+   "fin": 16.124
+  },
+  {
+   "w": "Doom».",
+   "seg": "S2",
+   "inicio": 16.164,
+   "fin": 16.424
+  },
+  {
+   "w": "Y",
+   "seg": "S2",
+   "inicio": 16.764,
+   "fin": 16.804
+  },
+  {
+   "w": "puso",
+   "seg": "S2",
+   "inicio": 16.885,
+   "fin": 17.105
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 17.145,
+   "fin": 17.225
+  },
+  {
+   "w": "ejemplo:",
+   "seg": "S2",
+   "inicio": 17.265,
+   "fin": 17.625
+  },
+  {
+   "w": "¿Steve",
+   "seg": "S2",
+   "inicio": 17.985,
+   "fin": 18.246
+  },
+  {
+   "w": "Rogers",
+   "seg": "S2",
+   "inicio": 18.326,
+   "fin": 18.666
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 18.826,
+   "fin": 18.926
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 18.966,
+   "fin": 19.066
+  },
+  {
+   "w": "variante",
+   "seg": "S2",
+   "inicio": 19.126,
+   "fin": 19.507
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 19.547,
+   "fin": 19.647
+  },
+  {
+   "w": "Johnny",
+   "seg": "S2",
+   "inicio": 19.727,
+   "fin": 19.947
+  },
+  {
+   "w": "Storm?",
+   "seg": "S2",
+   "inicio": 19.967,
+   "fin": 20.287
+  },
+  {
+   "w": "Chris",
+   "seg": "S2",
+   "inicio": 20.628,
+   "fin": 20.848
+  },
+  {
+   "w": "Evans",
+   "seg": "S2",
+   "inicio": 20.868,
+   "fin": 21.128
+  },
+  {
+   "w": "interpretó",
+   "seg": "S2",
+   "inicio": 21.268,
+   "fin": 21.728
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 21.748,
+   "fin": 21.788
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 21.829,
+   "fin": 21.929
+  },
+  {
+   "w": "dos,",
+   "seg": "S2",
+   "inicio": 22.009,
+   "fin": 22.149
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 22.169,
+   "fin": 22.189
+  },
+  {
+   "w": "nadie",
+   "seg": "S2",
+   "inicio": 22.649,
+   "fin": 22.869
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 22.909,
+   "fin": 23.009
+  },
+  {
+   "w": "confunde.",
+   "seg": "S2",
+   "inicio": 23.049,
+   "fin": 23.47
+  },
+  {
+   "w": "Un",
+   "seg": "S2",
+   "inicio": 23.87,
+   "fin": 23.95
+  },
+  {
+   "w": "actor,",
+   "seg": "S2",
+   "inicio": 23.99,
+   "fin": 24.271
+  },
+  {
+   "w": "dos",
+   "seg": "S2",
+   "inicio": 24.631,
+   "fin": 24.752
+  },
+  {
+   "w": "personajes,",
+   "seg": "S2",
+   "inicio": 24.792,
+   "fin": 25.333
+  },
+  {
+   "w": "cero",
+   "seg": "S2",
+   "inicio": 25.713,
+   "fin": 25.913
+  },
+  {
+   "w": "parentesco.",
+   "seg": "S2",
+   "inicio": 25.954,
+   "fin": 26.534
+  },
+  {
+   "w": "Además,",
+   "seg": "S2",
+   "inicio": 26.855,
+   "fin": 27.175
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 27.656,
+   "fin": 27.856
+  },
+  {
+   "w": "apareció",
+   "seg": "S2",
+   "inicio": 27.877,
+   "fin": 28.237
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 28.297,
+   "fin": 28.337
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 28.377,
+   "fin": 28.457
+  },
+  {
+   "w": "cómics",
+   "seg": "S2",
+   "inicio": 28.518,
+   "fin": 29.82
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 30.02,
+   "fin": 30.18
+  },
+  {
+   "w": "mil",
+   "seg": "S2",
+   "inicio": 30.22,
+   "fin": 30.276
+  },
+  {
+   "w": "novecientos",
+   "seg": "S2",
+   "inicio": 30.276,
+   "fin": 30.332
+  },
+  {
+   "w": "sesenta",
+   "seg": "S2",
+   "inicio": 30.332,
+   "fin": 30.389
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 30.389,
+   "fin": 30.445
+  },
+  {
+   "w": "uno,",
+   "seg": "S2",
+   "inicio": 30.445,
+   "fin": 30.501
+  },
+  {
+   "w": "antes",
+   "seg": "S2",
+   "inicio": 30.841,
+   "fin": 31.041
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 31.082,
+   "fin": 31.202
+  },
+  {
+   "w": "Iron",
+   "seg": "S2",
+   "inicio": 31.402,
+   "fin": 31.562
+  },
+  {
+   "w": "Man.",
+   "seg": "S2",
+   "inicio": 31.602,
+   "fin": 31.823
+  },
+  {
+   "w": "Ojo:",
+   "seg": "S2",
+   "inicio": 32.263,
+   "fin": 32.524
+  },
+  {
+   "w": "Faigui",
+   "seg": "S2",
+   "inicio": 32.904,
+   "fin": 33.225
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 33.285,
+   "fin": 33.385
+  },
+  {
+   "w": "dijo",
+   "seg": "S2",
+   "inicio": 33.445,
+   "fin": 33.625
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 33.686,
+   "fin": 33.786
+  },
+  {
+   "w": "Iron",
+   "seg": "S2",
+   "inicio": 33.966,
+   "fin": 34.166
+  },
+  {
+   "w": "Man",
+   "seg": "S2",
+   "inicio": 34.186,
+   "fin": 34.367
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 34.627,
+   "fin": 34.767
+  },
+  {
+   "w": "aparecerá.",
+   "seg": "S2",
+   "inicio": 34.807,
+   "fin": 35.268
+  },
+  {
+   "w": "Dijo",
+   "seg": "S2",
+   "inicio": 35.609,
+   "fin": 35.809
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 35.849,
+   "fin": 35.929
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 35.989,
+   "fin": 36.149
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 36.35,
+   "fin": 36.43
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 36.47,
+   "fin": 36.53
+  },
+  {
+   "w": "Tony.",
+   "seg": "S2",
+   "inicio": 36.57,
+   "fin": 36.891
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 37.211,
+   "fin": 37.331
+  },
+  {
+   "w": "otro",
+   "seg": "S2",
+   "inicio": 37.391,
+   "fin": 37.532
+  },
+  {
+   "w": "personaje,",
+   "seg": "S2",
+   "inicio": 37.592,
+   "fin": 38.132
+  },
+  {
+   "w": "interpretado",
+   "seg": "S2",
+   "inicio": 38.533,
+   "fin": 39.094
+  },
+  {
+   "w": "por",
+   "seg": "S2",
+   "inicio": 39.154,
+   "fin": 39.254
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 39.274,
+   "fin": 39.354
+  },
+  {
+   "w": "mismo",
+   "seg": "S2",
+   "inicio": 39.394,
+   "fin": 39.595
+  },
+  {
+   "w": "actor.",
+   "seg": "S2",
+   "inicio": 39.655,
+   "fin": 39.915
+  },
+  {
+   "w": "Avengers:",
+   "seg": "S2",
+   "inicio": 40.236,
+   "fin": 40.797
+  },
+  {
+   "w": "Doomsday",
+   "seg": "S2",
+   "inicio": 41.177,
+   "fin": 41.638
+  },
+  {
+   "w": "llega",
+   "seg": "S2",
+   "inicio": 41.718,
+   "fin": 41.938
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 41.978,
+   "fin": 42.059
+  },
+  {
+   "w": "dieciocho",
+   "seg": "S2",
+   "inicio": 42.099,
+   "fin": 42.519
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 42.559,
+   "fin": 42.66
+  },
+  {
+   "w": "diciembre.",
+   "seg": "S2",
+   "inicio": 42.7,
+   "fin": 43.1
+  },
+  {
+   "w": "Esta",
+   "seg": "S2",
+   "inicio": 43.12,
+   "fin": 43.741
+  },
+  {
+   "w": "revelación",
+   "seg": "S2",
+   "inicio": 43.821,
+   "fin": 44.222
+  },
+  {
+   "w": "acaba",
+   "seg": "S2",
+   "inicio": 44.242,
+   "fin": 44.542
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 44.623,
+   "fin": 44.743
+  },
+  {
+   "w": "muchas",
+   "seg": "S2",
+   "inicio": 44.903,
+   "fin": 45.143
+  },
+  {
+   "w": "teorías",
+   "seg": "S2",
+   "inicio": 45.203,
+   "fin": 45.544
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 45.584,
+   "fin": 45.664
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 45.704,
+   "fin": 45.784
+  },
+  {
+   "w": "fans.",
+   "seg": "S2",
+   "inicio": 45.844,
+   "fin": 46.125
+  },
+  {
+   "w": "Suscríbete",
+   "seg": "S2",
+   "inicio": 46.485,
+   "fin": 46.986
+  },
+  {
+   "w": "al",
+   "seg": "S2",
+   "inicio": 47.026,
+   "fin": 47.086
+  },
+  {
+   "w": "canal",
+   "seg": "S2",
+   "inicio": 47.126,
+   "fin": 47.367
+  },
+  {
+   "w": "para",
+   "seg": "S2",
+   "inicio": 47.427,
+   "fin": 47.567
+  },
+  {
+   "w": "más",
+   "seg": "S2",
+   "inicio": 47.667,
+   "fin": 47.788
+  },
+  {
+   "w": "curiosidades.",
+   "seg": "S2",
+   "inicio": 47.848,
+   "fin": 48.449
+  }
+ ]
+}

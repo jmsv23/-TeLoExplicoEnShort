@@ -1,0 +1,68 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Galería de portadas alternativas para los números #3 y #4 de Secret Wars (2015), ilustradas por diversos artistas como Bob McLeod, Tomm Coker, Erica Henderson, Marguerite Sauvage, Nick Bradshaw, Chris Samnee y Jim Starlin.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible",
+  "Cíclope (con el Fénix)",
+  "Capitana Marvel (Carol Danvers)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Thanos",
+  "Namor",
+  "Cisne Negro (Black Swan)",
+  "Hulk",
+  "Iron Man",
+  "Capitán América"
+ ],
+ "eventos_clave": [
+  "Galería de portadas alternativas para Secret Wars #3 y #4"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Colección de ocho portadas alternativas para los números #3 y #4 de la saga Secret Wars, mostrando diferentes versiones artísticas de Doctor Doom, Cíclope con el poder del Fénix, Capitana Marvel, versiones alternativas de Gwen Stacy (Gwengers) y Thanos.",
+   "prompt_en": "A comic book gallery layout showing eight variant covers of Secret Wars #3 and #4 featuring characters like God Emperor Doom, Phoenix Cyclops, Captain Marvel, and Thanos in diverse artistic styles.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible",
+    "Cíclope (con el Fénix)",
+    "Capitana Marvel (Carol Danvers)",
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "portadas-alternativas",
+    "secret-wars",
+    "variantes",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "Secret Wars #3 & #4 Variant Covers",
+     "texto_es": "Portadas alternativas de Secret Wars #3 y #4"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-278-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 278,
+ "archivo": "paginas/page-278.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3695,
+ "_seg": 10.3
+}

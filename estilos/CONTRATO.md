@@ -49,3 +49,16 @@ def index_extra(total): ...       # opcional: capas globales en el index (marca 
 - Los elementos entran cuando la voz los nombra (`S.w`). Siempre hay algo nuevo cada 1.5-3 s.
 - Las fuentes y la música son genéricas: nada de logos, tipografías ni temas registrados de una franquicia.
 - Los planos y parámetros del estilo se pueden consultar con `./tl planos <slug>`.
+
+## Estilo con motor propio (p. ej. `comic`)
+
+Si las escenas no encajan en el modelo de planos, el estilo puede tomar el control. Define:
+
+```python
+def build_pieza(v, pieza, hf, parte=None): ...   # escribe hf/index.html + compositions/ y build/sfx-<pieza>.json
+                                                 # devuelve (hf, nº de partes); parte=i → solo esa parte (render por partes)
+def mezclar(v, pieza, video_mudo, salida): ...   # opcional: su propia mezcla (si no, la genérica de motor/mezcla.py)
+def catalogo(): ...                              # lo que imprime ./tl planos <slug>
+```
+
+La voz, el timeline (`./tl voz`), el render, la hoja a 1 fps, las miniaturas, el QA y la entrega siguen siendo del motor común. El formato de las escenas lo decide el estilo y lo documenta en su ESTILO.md.

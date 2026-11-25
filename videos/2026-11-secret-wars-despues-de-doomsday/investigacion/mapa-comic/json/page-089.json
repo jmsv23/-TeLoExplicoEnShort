@@ -1,0 +1,247 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom le expresa su total confianza al Sheriff Strange por su labor manteniendo el orden y los secretos en Battleworld. Mientras conversan en los jardines reales, Strange recibe un mensaje presagio desde Doomgard sobre un hallazgo imprevisto.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Doom encomienda y respalda el trabajo de Sheriff Strange",
+  "Strange recibe noticias inquietantes provenientes de Doomgard"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    32,
+    308,
+    306
+   ],
+   "descripcion": "Vista del pequeño pabellón o arquería en los jardines del palacio de Doom.",
+   "prompt_en": "Comic book panel showing a small ornate gazebo architecture in a lush royal garden.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "castillo-doom",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Which is why I am not concerned.",
+     "texto_es": "Por eso no estoy preocupado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I do not know everything, but I do know that you are out there...keeping what should be hidden secret, uncovering that which should be known.",
+     "texto_es": "No lo sé todo, pero sí sé que estás ahí fuera... manteniendo en secreto lo que debe ocultarse, descubriendo lo que debe saberse."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-089-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    316,
+    231,
+    714
+   ],
+   "descripcion": "Doom con su túnica blanca camina junto a Sheriff Strange por un sendero arbolado.",
+   "prompt_en": "Comic panel from wide angle showing Doctor Doom in white cape walking alongside Doctor Strange on a garden path surrounded by green foliage.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You have my faith in you... the trust of an all-powerful god.",
+     "texto_es": "Tienes mi fe en ti... la confianza de un dios todopoderoso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "The full favor of Doom.",
+     "texto_es": "El favor absoluto de Doom."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-089-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    231,
+    0,
+    685,
+    1000
+   ],
+   "descripcion": "Gran plano panorámico donde Doom contempla el paisaje montado en unas rocas mientras Strange se inclina con respeto ante la majestuosidad de la escena y una enorme estatua decorativa.",
+   "prompt_en": "Epic wide comic splash panel showing Doctor Strange looking up at Doctor Doom who stands on rocks amidst giant ancient statues under large tree branches.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    " doom-dios",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "...Thank you, Victor.",
+     "texto_es": "...Gracias, Victor."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "reverente",
+   "recorte": "vinetas/page-089-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    689,
+    32,
+    977,
+    324
+   ],
+   "descripcion": "Primer plano del rostro con máscara de metal de Dios Emperador Doom bajo su capucha blanca.",
+   "prompt_en": "Close up of God Emperor Doom wearing a silver iron mask beneath a white hood.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "mascara-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Of course.",
+     "texto_es": "Por supuesto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "So...do we have any other truly pressing business?",
+     "texto_es": "Así que... ¿tenemos algún otro asunto verdaderamente urgente?"
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "interrogativo",
+   "recorte": "vinetas/page-089-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    689,
+    332,
+    977,
+    775
+   ],
+   "descripcion": "Doctor Strange saca un pequeño amuleto o ficha brillante mientras responde a Doom.",
+   "prompt_en": "Comic panel showing Doctor Strange holding a glowing golden coin or token talking to Doctor Doom in white cape.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doomgard",
+    "sheriff-strange",
+    "objeto-mágico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Actually, there was one other--",
+     "texto_es": "En realidad, había una cosa más..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Hold on.",
+     "texto_es": "Espera."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "What is it?",
+     "texto_es": "¿Qué es?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "The unknown becoming known, I'm afraid...",
+     "texto_es": "Me temo que lo desconocido se está haciendo conocido..."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-089-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    689,
+    783,
+    977,
+    968
+   ],
+   "descripcion": "Primer plano del rostro de Sheriff Strange con expresión seria e inquietante.",
+   "prompt_en": "Close-up portrait of Sheriff Strange with a serious expression and mustache.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sheriff-strange",
+    "doomgard"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Foreboding news from Doomgard.",
+     "texto_es": "Noticias nefastas desde Doomgard."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom, Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-089-v6.jpg"
+  }
+ ],
+ "lugar": "Jardines del Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 89,
+ "archivo": "paginas/page-089.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6675,
+ "_seg": 25.5
+}

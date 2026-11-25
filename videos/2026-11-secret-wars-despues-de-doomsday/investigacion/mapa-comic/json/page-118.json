@@ -1,0 +1,143 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom y Sue Storm contemplan el mapa holográfico de Battleworld desde una terraza elevada. Doom le pide al Thor Jabalí que le muestre lo que sus fuerzas están viendo respecto al caos recién descubierto en el mundo.",
+ "personajes": [
+  "Doctor Doom",
+  "Sue Storm",
+  "[Thor Jabalí]"
+ ],
+ "eventos_clave": [
+  "Doctor Doom observa el mapa holográfico de Battleworld",
+  "Doom pide a Thor que le revele el caos detectado"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    448,
+    1000
+   ],
+   "descripcion": "Doctor Doom y Sue Storm caminan hacia la plataforma que domina la gran proyección holográfica del mapa global de Battleworld.",
+   "prompt_en": "Comic panel showing Doctor Doom and a blonde woman in white standing on stairs above a giant circular holographic map projection of a world, wide shot, architectural hall",
+   "personajes": [
+    "Doctor Doom",
+    "Sue Storm",
+    "[Thor Jabalí]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "mapa-battleworld",
+    "doom-dios",
+    "castillo-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "...or the ones I have available to me.",
+     "texto_es": "...o las que tengo disponibles para mí."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-118-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    448,
+    32,
+    735,
+    381
+   ],
+   "descripcion": "Primer plano del rostro de un Thor con cabeza de jabalí luciendo su yelmo y vestimenta divina.",
+   "prompt_en": "Close up comic panel of an anthropomorphic boar wearing a Thor helmet, glowing blue energy background",
+   "personajes": [
+    "[Thor Jabalí]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "thor-jabali"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Show me what you see, Thor.",
+     "texto_es": "Muéstrame lo que ves, Thor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Show me this chaos.",
+     "texto_es": "Muéstrame este caos."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "místico",
+   "recorte": "vinetas/page-118-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    448,
+    381,
+    735,
+    968
+   ],
+   "descripcion": "Sue Storm, Doctor Doom y el Thor Jabalí observan imágenes proyecciones holográficas de los Thors en pleno combate.",
+   "prompt_en": "Comic panel showing silhouettes of Doctor Doom and characters looking at glowing holographic projections of warriors fighting",
+   "personajes": [
+    "Doctor Doom",
+    "Sue Storm",
+    "[Thor Jabalí]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "vision-holografica",
+    "thor-corps"
+   ],
+   "textos": [],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "revelador",
+   "recorte": "vinetas/page-118-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    735,
+    32,
+    984,
+    968
+   ],
+   "descripcion": "Doctor Doom en el centro en primer plano con la máscara metálica iluminada mientras las visiones del Thor y la energía mística resplandecen a su alrededor.",
+   "prompt_en": "Comic panel featuring Doctor Doom wearing his silver metal mask and green hood, surrounded by bright glowing energy flashes and ethereal projections",
+   "personajes": [
+    "Doctor Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "retrato-doom"
+   ],
+   "textos": [],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-118-v4.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 118,
+ "archivo": "paginas/page-118.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4200,
+ "_seg": 14.3
+}

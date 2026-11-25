@@ -1,0 +1,68 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Una colección de ocho portadas alternativas estilo figuras de acción retro diseñadas por John Tyler Christopher para la serie Secret Wars, con personajes como Wolverine, Doctor Octopus, Daredevil, Magneto, Capitán América, Falcon, Doctor Doom e Iron Man.",
+ "personajes": [
+  "Wolverine",
+  "Doctor Octopus",
+  "Daredevil",
+  "Magneto",
+  "Capitán América",
+  "Falcon",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Iron Man"
+ ],
+ "eventos_clave": [
+  "Colección de portadas alternativas estilo figuras de acción vintage de Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Reopilación de ocho portadas alternativas variante 'Action Figure' dibujadas por John Tyler Christopher para los números 2, 3, 4, 5, 6, 7, 8 y 9 de Secret Wars. Cada portada simula un blister de juguete retro de los años 80 de Marvel Super Heroes Secret Wars con una figura de acción y su accesorio shield.",
+   "prompt_en": "A collage of eight retro vintage 1980s Marvel Super Heroes Secret Wars action figure variant comic covers in original toy blister packaging on blue backcards.",
+   "personajes": [
+    "Wolverine",
+    "Doctor Octopus",
+    "Daredevil",
+    "Magneto",
+    "Capitán América",
+    "Falcon",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Iron Man"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "portadas-alternativas",
+    "figuras-de-accion",
+    "secret-wars",
+    "merchandising"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "Marvel Super Heroes Secret Wars Action Figure Variants by John Tyler Christopher",
+     "texto_es": "Variantes de figuras de acción de Marvel Super Heroes Secret Wars por John Tyler Christopher"
+    }
+   ],
+   "lugar": "Ninguno",
+   "tono": "Nostálgico / Coleccionismo",
+   "recorte": "vinetas/page-281-v1.jpg"
+  }
+ ],
+ "lugar": "Ninguno",
+ "numero_comic": null,
+ "pagina": 281,
+ "archivo": "paginas/page-281.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2767,
+ "_seg": 30.7
+}

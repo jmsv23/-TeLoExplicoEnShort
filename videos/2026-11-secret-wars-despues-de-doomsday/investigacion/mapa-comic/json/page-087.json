@@ -1,0 +1,209 @@
+{
+ "tipo": "historia",
+ "resumen": "El Sheriff Stephen Strange le rinde un informe detallado sobre los acontecimientos y disputas menores en Battleworld al Dios Emperador Doom. Strange argumenta la necesidad de estar al tanto de todo para proteger el reino, recordando que Doom es omnipotente pero no omnisciente, mientras que Doom desestima la importancia de tales banalidades.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Sheriff Strange rinde informe de Battleworld a Dios Emperador Doom",
+  "Strange le recuerda a Doom que es omnipotente pero no omnisciente"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    35,
+    367,
+    352
+   ],
+   "descripcion": "El Sheriff Strange lee detenidamente un pergamino desplegado entre sus manos mientras relata los informes recibidos de las fronteras del reino.",
+   "prompt_en": "Comic book panel, medium shot of Sheriff Strange in dark tunic with gold sash holding a magical scroll scroll tube, reading reports thoughtfully inside Castle Doom",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "battleworld",
+    "el-escudo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Some good news to start: No reports of any major incidents from the Shield in the last week.",
+     "texto_es": "Algunas buenas noticias para empezar: No hay informes de incidentes mayores en el Escudo la semana pasada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "There were a few minor skirmishes in the kingdoms: The Inferno smolders as usual, the Green North rages...",
+     "texto_es": "Hubo algunas escaramuzas menores en los reinos: El Infierno arde como de costumbre, el Norte Verde enfurece..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "We have scattered reports of a traveler illegally crossing kingdom borders in mutant territory, but inquisitors have been dispatched and I await further information...",
+     "texto_es": "Tenemos informes dispersos de un viajero cruzando ilegalmente las fronteras del reino en territorio mutante, pero se han enviado inquisidores y aguardo más información..."
+    }
+   ],
+   "lugar": "Trono de Doom, Castillo Doom",
+   "tono": "formal",
+   "recorte": "vinetas/page-087-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    23,
+    360,
+    367,
+    965
+   ],
+   "descripcion": "Strange continúa su informe de pie frente al Dios Emperador Doom, quien descansa sobre su trono de raíces y metal.",
+   "prompt_en": "Wide shot of Sheriff Strange presenting a report scroll to God Emperor Doom seated in white hooded armor on a throne of intertwined tree roots",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sheriff-strange",
+    "doom-dios",
+    "baron-sinister",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Oh. And while Baron Sinister made good on the restitution he owed Higher Avalon, he could not resist taunting the Braddock clan on their recent loss.",
+     "texto_es": "Ah. Y aunque el Barón Siniestro cumplió con la restitución que debía a Ávalon Superior, no pudo resistirse a burlarse del clan Braddock por su reciente pérdida."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "He had a...most unflattering statue of Baron James constructed and delivered. I tell you this to simply note that, sooner or later, we're going to have to give that man the slap he deserves.",
+     "texto_es": "Hizo construir y entregar una estatua... muy poco favorecedora del Barón James. Te digo esto simplemente para señalar que, tarde o temprano, vamos a tener que darle a ese hombre la bofetada que se merece."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Why do you bother with this, Stephen?",
+     "texto_es": "¿Por qué te molestas con esto, Stephen?"
+    }
+   ],
+   "lugar": "Trono de Doom, Castillo Doom",
+   "tono": "tension",
+   "recorte": "vinetas/page-087-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    367,
+    35,
+    529,
+    965
+   ],
+   "descripcion": "Primer plano de los ojos de Stephen Strange mirando sorprendido por encima del tubo de su pergamino.",
+   "prompt_en": "Close up of Sheriff Strange looking directly ahead with intense eyes over the top of a scroll wooden casing",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "What do you mean?",
+     "texto_es": "¿A qué te refieres?"
+    }
+   ],
+   "lugar": "Trono de Doom, Castillo Doom",
+   "tono": "desconcertado",
+   "recorte": "vinetas/page-087-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    529,
+    35,
+    965,
+    965
+   ],
+   "descripcion": "Vista amplia de la sala del trono. Doom se yergue envuelto en su capa blanca y armadura plateada discutiendo la naturaleza de las amenazas en Battleworld con Strange ante un gigantesco mapa holographic o mural digital de cubos.",
+   "prompt_en": "Wide shot comic panel, God Emperor Doom in white cape and chrome metallic armor standing near a giant wall of glowing blue voxel digital structure speaking with Sheriff Strange",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "sheriff-strange",
+    "omnipotencia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You know full well what I mean. This banality...",
+     "texto_es": "Sabes muy bien a qué me refiero. Esta banalidad..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...this tedious record-keeping of minor transgressions.",
+     "texto_es": "...este tedioso registro de transgresiones menores."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "No more tedious than this disagreement we have had many, many times, my Lord. You know full well why I do it.",
+     "texto_es": "No más tedioso que este desacuerdo que hemos tenido muchas, muchas veces, mi Señor. Sabes muy bien por qué lo hago."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You are omnipotent, not omniscient. The danger to your throne, and this world--the last world--comes from what we do not know.",
+     "texto_es": "Eres omnipotente, no omnisciente. El peligro para tu trono, y para este mundo —el último mundo— viene de lo que no sabemos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes. But this is a world like any other world of old...",
+     "texto_es": "Sí. Pero este es un mundo como cualquier otro mundo del pasado..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...full of danger. And we will face such things as we always have: together, and in the order in which they present themselves.",
+     "texto_es": "...lleno de peligros. Y enfrentaremos tales cosas como siempre lo hemos hecho: juntos, y en el orden en que se presenten."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I remember all of our disagreements, Stephen. And your reports still concern me little.",
+     "texto_es": "Recuerdo todos nuestros desacuerdos, Stephen. Y tus informes todavía me preocupan poco."
+    }
+   ],
+   "lugar": "Trono de Doom, Castillo Doom",
+   "tono": "filosofico",
+   "recorte": "vinetas/page-087-v4.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 87,
+ "archivo": "paginas/page-087.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5963,
+ "_seg": 20.1
+}

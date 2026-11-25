@@ -1,0 +1,78 @@
+/* comic-h.css: variante HORIZONTAL (1920x1080) del tema cómic. Va DESPUÉS de comic.css.
+   Se activa con .com-h en .exp-stage (lo pone COM.chrome de comic-h.js).
+   Zonas seguras YouTube 16:9: contenido entre x 80–1840 e y 60–960; abajo a la derecha (x>1500, y>900)
+   queda libre para la pantalla final/tarjetas; la barra de progreso de YouTube tapa y>1040. */
+
+.com.com-h .kw { font-size: 150px; }
+.com.com-h .ttl { font-size: 120px; }
+.com.com-h .ono { font-size: 170px; }
+.com.com-h .kw--sm, .com.com-h .ttl--sm { font-size: 90px; }
+.com.com-h .kw--lg, .com.com-h .ttl--lg { font-size: 200px; }
+.com.com-h .ono--sm { font-size: 120px; }
+.com.com-h .cap { max-width: none; font-size: 48px; white-space: nowrap; }
+.com.com-h .globo, .com.com-h .nube { font-size: 48px; }
+.com.com-h .cinta { width: 2400px; height: 104px; font-size: 64px; }
+
+/* contador "FALTAN N DÍAS": arriba a la derecha */
+.com.com-h .contador {
+  left: auto; right: 54px; top: 40px; width: 340px;
+  font-size: 46px; padding: 10px 0; z-index: 55;
+}
+
+/* placa "DATO N / 15": abajo a la izquierda */
+.com.com-h .dato-c {
+  position: absolute; left: 50px; bottom: 58px; z-index: 55;
+  padding: 8px 22px 6px; background: var(--amarillo);
+  border: 6px solid var(--tinta); box-shadow: 8px 8px 0 var(--tinta);
+  font: 400 52px/1 var(--f-ttl); color: var(--tinta); white-space: nowrap;
+}
+.com.com-h .dato-c b { font-weight: 400; color: var(--rojo); -webkit-text-stroke: 2px var(--tinta); }
+
+/* barra de progreso global (abajo, sobre la de YouTube no: y 1028) */
+.com.com-h .prog { position: absolute; left: 0; right: 0; bottom: 0; height: 14px; background: var(--tinta); z-index: 56; }
+.com.com-h .prog > i { position: absolute; inset: 3px 0 3px 0; background: var(--amarillo); transform-origin: 0 50%; transform: scaleX(0); }
+
+/* marca del canal: abajo a la izquierda, discreta */
+.com.com-h .com-marca { display: block !important; top: auto; bottom: 26px; left: auto; right: 40px; transform: none; font-size: 30px; padding: 2px 14px; opacity: .8; }
+
+/* sello de estado (CONFIRMADO, TEORÍA…) */
+.com.com-h .sello {
+  position: absolute; padding: 10px 26px; border: 8px solid currentColor; border-radius: 10px;
+  font: 400 58px/1 var(--f-ttl); text-transform: uppercase; letter-spacing: .03em; white-space: nowrap;
+  background: rgba(255, 243, 214, .92); box-shadow: 8px 8px 0 var(--tinta); z-index: 20;
+}
+.com.com-h .sello--heroe { color: var(--heroe); }
+.com.com-h .sello--rojo { color: var(--rojo); }
+.com.com-h .sello--doom { color: var(--doom-osc); }
+.com.com-h .sello--multi { color: var(--multi); }
+.com.com-h .sello--ceniza { color: var(--ceniza); }
+.com.com-h .sello--tinta { color: var(--tinta); }
+
+/* clip de video dentro de viñeta: trama encima y tinte opcional */
+.com.com-h .vclip { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.com.com-h .vtrama { position: absolute; inset: 0; pointer-events: none; opacity: .35; }
+.com.com-h .vtag {
+  position: absolute; left: 0; top: 0; padding: 6px 16px; background: var(--rojo); color: var(--papel);
+  font: 400 36px/1 var(--f-ttl); border-right: 6px solid var(--tinta); border-bottom: 6px solid var(--tinta); z-index: 3;
+}
+
+/* PLACEHOLDER: asset pendiente (se reemplaza soltando el archivo en assets/images/camino-a-doomsday/lf/ph/) */
+.com.com-h .ph {
+  position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+  background: repeating-linear-gradient(45deg, #fff3d6 0 26px, #f1e3bf 26px 52px);
+  color: var(--tinta); text-align: center; padding: 20px;
+}
+.com.com-h .ph b { font: 400 54px/1 var(--f-ttl); text-transform: uppercase; }
+.com.com-h .ph span { font: 700 30px/1.1 var(--f-cap); opacity: .75; }
+.com.com-h .ph i { font: 400 34px/1 var(--f-ttl); background: var(--tinta); color: var(--amarillo); padding: 4px 12px; font-style: normal; }
+
+/* ficha de expediente (bonus Avengers) */
+.com.com-h .ficha { position: absolute; width: 400px; background: var(--papel); border: 8px solid var(--tinta); box-shadow: 12px 12px 0 var(--tinta); }
+.com.com-h .ficha .f-img { position: relative; height: 440px; overflow: hidden; border-bottom: 8px solid var(--tinta); background: var(--ceniza); }
+.com.com-h .ficha .f-img img { width: 100%; height: 100%; object-fit: cover; object-position: var(--pos, 50% 8%); display: block; }
+.com.com-h .ficha .f-n { padding: 10px 14px 4px; font: 400 54px/1 var(--f-ttl); text-transform: uppercase; color: var(--tinta); }
+.com.com-h .ficha .f-t { padding: 0 14px 14px; font: 700 30px/1.15 var(--f-cap); color: var(--tinta); }
+.com.com-h .ficha .sello { font-size: 34px; padding: 6px 14px; border-width: 6px; right: -26px; top: 360px; transform: rotate(-10deg); }
+
+/* líneas de velocidad a 16:9 */
+.com.com-h .speed { width: 1920px; height: 1080px; }

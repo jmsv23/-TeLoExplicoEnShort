@@ -1,0 +1,198 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Siniestro golpea a su oponente comentando críticamente sobre su vestimenta, pero de pronto la zona es sacudida por una gran explosión de energía. Al recuperarse del ataque entre los escombros, Siniestro hace una última observación sarcástica antes de ser repentinamente decapitado por un hacha.",
+ "personajes": [
+  "Mister Siniestro",
+  "Madelyne Pryor"
+ ],
+ "eventos_clave": [
+  "Mister Siniestro es atacado durante el caos de Battleworld",
+  "Decapitación de Mister Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    34,
+    303,
+    654
+   ],
+   "descripcion": "Mister Siniestro patea violentamente a una mujer de cabello rojo mientras se burla de su atuendo.",
+   "prompt_en": "Comic book panel showing Mister Sinister mid-air kicking a red-haired woman in the face with a purple crack sound effect.",
+   "personajes": [
+    "Mister Siniestro",
+    "Madelyne Pryor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "pelea",
+    "mister-siniestro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Like I just... can't... stand that tacky outfit you're wearing!",
+     "texto_es": "¡Es que simplemente... no puedo... soportar ese atuendo tan de mal gusto que llevas puesto!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "CRAK",
+     "texto_es": "CRAC"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-190-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    661,
+    303,
+    966
+   ],
+   "descripcion": "Mister Siniestro sonríe junto a una aliada con casco tras haber asestado el golpe.",
+   "prompt_en": "Comic panel close-up of Mister Sinister smiling sinisterly next to a female armored figure.",
+   "personajes": [
+    "Mister Siniestro",
+    "Madelyne Pryor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "dialogo",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "Feel better?",
+     "texto_es": "¿Te sientes mejor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "You have no idea.",
+     "texto_es": "No tienes idea."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-190-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    318,
+    0,
+    749,
+    1000
+   ],
+   "descripcion": "Una enorme explosión de luz brillante y energía devasta el campo de batalla, desintegrando y desplazando las figuras en pantalla.",
+   "prompt_en": "Wide comic panel showing a blinding blast of golden laser energy destroying figures on a battlefield with explosive sound effects.",
+   "personajes": [
+    "Mister Siniestro",
+    "Madelyne Pryor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "explosion",
+    "ataque-energia",
+    "caos"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "ZZZZAAAKKK",
+     "texto_es": "ZZZZAAAKKK"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BOOOOM",
+     "texto_es": "BUMMM"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-190-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    753,
+    33,
+    977,
+    627
+   ],
+   "descripcion": "Mister Siniestro se levanta con dificultad entre los escombros tras la explosión.",
+   "prompt_en": "Mister Sinister crawling out from smoke and rubble on a battlefield.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "escombros",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Obviously, someone doesn't appreciate good taste...",
+     "texto_es": "Obviamente, alguien no aprecia el buen gusto..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "irónico",
+   "recorte": "vinetas/page-190-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    753,
+    634,
+    977,
+    966
+   ],
+   "descripcion": "Un gran hacha de combate se abate bruscamente sobre el cuello de Mister Siniestro, decapitándolo de un solo golpe.",
+   "prompt_en": "Close up of Mister Sinister being decapitated by a heavy battle axe from behind.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "decapitacion",
+    "muerte",
+    "impactante"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "HURK!",
+     "texto_es": "¡HURK!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "shock",
+   "recorte": "vinetas/page-190-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 190,
+ "archivo": "paginas/page-190.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5117,
+ "_seg": 18.1
+}

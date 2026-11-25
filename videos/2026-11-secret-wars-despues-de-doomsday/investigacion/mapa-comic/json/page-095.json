@@ -1,0 +1,203 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Castillo Doom, Sue Storm y el Dios Emperador Doom conversan en una terraza sobre el control del Sheriff Strange y los extraños rumores que circulan en Doomstadt sobre el 'Hombre en el Sol'.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible"
+ ],
+ "eventos_clave": [
+  "Conversación privada entre Sue Storm y God Emperor Doom en el Castillo Doom",
+  "Sue menciona los rumores sobre el Hombre en el Sol que cantan las comitivas de los reinos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    508,
+    704
+   ],
+   "descripcion": "Vista panorámica del Castillo Doom. Sue Storm contempla la ciudad desde un balcón alto mientras Doom camina hacia ella. Al fondo destaca una gigantesca estructura/estatua metálica en construcción.",
+   "prompt_en": "Wide view of a grand fantasy castle balcony, a blonde woman in white standing by the ledge, a masked ruler in white cloak walking toward her, gigantic golden statue under construction in background.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "castillo-doom",
+    "battleworld",
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM.",
+     "texto_es": "CASTILLO DOOM."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Did you know there are tales of old--long-forgotten myths--of mortals building great towers so they could be closer to God?",
+     "texto_es": "¿Sabías que hay historias antiguas —mitos olvidados hace tiempo— sobre mortales que construían grandes torres para estar más cerca de Dios?"
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-095-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    703,
+    508,
+    985
+   ],
+   "descripcion": "Plano medio de Sue Storm de frente mirando de reojo, con Doom encapuchado detrás de ella.",
+   "prompt_en": "Medium close up of a blonde woman in white looking back, behind her stands a figure in a silver armor mask and white hood.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "The stairs are unnecessary, Susan, I would meet you wherever you choose.",
+     "texto_es": "Las escaleras son innecesarias, Susan, me reuniría contigo dondequiera que elijas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Hmm. It's the strangest thing. I was walking in the Great Square today--",
+     "texto_es": "Hmm. Es lo más extraño. Hoy estuve caminando por la Gran Plaza..."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "intimo",
+   "recorte": "vinetas/page-095-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    508,
+    38,
+    800,
+    626
+   ],
+   "descripcion": "Plano medio de Doom con su brillante armadura metálica y capa blanca hablando con Sue Storm a su lado.",
+   "prompt_en": "Medium shot of an armored masked man in white cloak beside a blonde woman in white attire on a castle balcony.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Alone, I assume? The good Sheriff Strange will have something to say about you, once again, leaving your royal escort behind.",
+     "texto_es": "¿A solas, supongo? El buen Sheriff Strange tendrá algo que decir sobre ti dejando, una vez más, a tu escolta real atrás."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "The Sheriff is a bleating old bore. He should concern himself with the kingdoms... or you. But certainly not me...",
+     "texto_es": "El Sheriff es un viejo aburrido y quejumbroso. Debería preocuparse por los reinos... o por ti. Pero ciertamente no por mí..."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "conversacional",
+   "recorte": "vinetas/page-095-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    508,
+    630,
+    800,
+    970
+   ],
+   "descripcion": "Primer plano dramático del rostro de Sue Storm con expresión seria y decidida.",
+   "prompt_en": "Close up of a blonde female character with blue eyes, looking intense and confident, high detail.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sue-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...as I am not seen if I don't want to be seen--and on the chance that I am, I'm more than capable of handling myself.",
+     "texto_es": "...ya que no me ven si no quiero que me vean, y en el caso de que me vean, soy más que capaz de cuidarme sola."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "confiado",
+   "recorte": "vinetas/page-095-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    808,
+    38,
+    986,
+    970
+   ],
+   "descripcion": "Plano general medio de Doom y Sue apoyados en el balcón circular contemplando el horizonte.",
+   "prompt_en": "Wide panel of two characters standing at a curved balcony terrace wall under clear skies.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-en-el-sol",
+    "doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Of course. Forgive me. You were saying something about the square?",
+     "texto_es": "Por supuesto. Perdóname. ¿Decías algo sobre la plaza?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "The retinues of the Upper and Lower Kingdoms were leaving Doomstadt this morning, and they were singing a song about the Man in the Sun. Do you know about this?",
+     "texto_es": "Las comitivas de los Reinos Superior e Inferior salían de Doomstadt esta mañana, y cantaban una canción sobre el Hombre en el Sol. ¿Sabes algo de esto?"
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-095-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 95,
+ "archivo": "paginas/page-095.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6126,
+ "_seg": 21.7
+}

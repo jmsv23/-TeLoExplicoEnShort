@@ -1,0 +1,57 @@
+{
+ "tipo": "portada",
+ "resumen": "Portada emblemática ilustrada por Alex Ross para Secret Wars #9, mostrando el enfrentamiento climático entre Mister Fantástico (Reed Richards) y el Doctor Doom (Dios Emperador Doom) en medio del colapso de la realidad, rodeados por fragmentos de cristal que reflejan momentos trascendentales del Universo Marvel.",
+ "personajes": [
+  "Mister Fantástico",
+  "Doctor Doom / Dios Emperador Doom",
+  "Galactus",
+  "Thanos",
+  "Spider-Man (Peter Parker)",
+  "Sue Storm / Mujer Invisible",
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "Enfrentamiento final entre Reed Richards y Victor von Doom",
+  "Colapso de Battleworld y restauración del multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración hiperrealista que muestra a Mister Fantástico estirando sus brazos para encarar cara a cara al Doctor Doom. La imagen está rodeada de ráfagas cósmicas y trozos de realidad rota que exhiben personajes e hitos históricos de Marvel.",
+   "prompt_en": "Epic painted comic cover art by Alex Ross depicting Mr Fantastic stretching his arms to fight face to face against Doctor Doom, surrounded by glowing white cracks and shattered glass shards reflecting iconic Marvel scenes and cosmic beings.",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "enfrentamiento-final",
+    "doom-dios",
+    "reed-richards",
+    "battleworld",
+    "multiverso",
+    "alex-ross"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-274-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 274,
+ "archivo": "paginas/page-274.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3452,
+ "_seg": 33.9
+}

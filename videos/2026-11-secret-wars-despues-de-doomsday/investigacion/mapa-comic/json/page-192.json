@@ -1,0 +1,123 @@
+{
+ "tipo": "historia",
+ "resumen": "Vista panorámica de Doomgard, la majestuosa ciudadela flotante y fortaleza de los Thor Corps en Battleworld. Desde una plataforma elevada, Franklin Richards señala la llegada de la comitiva de Thors a su padre adoptivo, el Dios Emperador Doom, y a Sue Storm.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Presentación de Doomgard, la ciudadela de los Thor Corps",
+  "Llegada de los Thors ante Doctor Doom y Sue Storm"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    755,
+    1000
+   ],
+   "descripcion": "Plano picado panorámico de Doomgard, un impresionante castillo de arquitectura nórdica medieval con altas torres y tejados rojos, flotando entre nubes ydestellos místicos en Battleworld.",
+   "prompt_en": "High angle panoramic view of a massive floating medieval fantasy castle with high towers and red roofs, clouds and magical motes of light surrounding it, comic book style by Esad Ribic",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "doomgard",
+    "thor-corps",
+    "battleworld",
+    "arquitectura-fantastica"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "...The worthy.",
+     "texto_es": "...Los dignos."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "Doomgard. Citadel of the Thors.",
+     "texto_es": "Doomgard. Ciudadela de los Thors."
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-192-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    755,
+    33,
+    988,
+    693
+   ],
+   "descripcion": "Franklin Richards sentado sobre una nube resplandeciente, señalando hacia el horizonte mientras habla.",
+   "prompt_en": "A young boy with short hair sitting on a glowing cloud, pointing into the distance, pastel lighting, comic book panel",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "franklin-richards",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Check it out. The Thors have arrived.",
+     "texto_es": "Miren esto. Los Thors han llegado."
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "asombrado",
+   "recorte": "vinetas/page-192-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    755,
+    698,
+    988,
+    977
+   ],
+   "descripcion": "Primer plano de perfil de Doctor Doom vistiendo su máscara metálica y capucha gris, junto a Sue Storm observando solemnemente.",
+   "prompt_en": "Close up of Doctor Doom in his metal mask and grey hood beside a blonde woman, serious expression, comic book panel",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "sue-storm",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Doomgard is here, Victor... ...but where is your host?",
+     "texto_es": "Doomgard está aquí, Victor... ...¿pero dónde está tu anfitrión?"
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "solemne",
+   "recorte": "vinetas/page-192-v3.jpg"
+  }
+ ],
+ "lugar": "Doomgard, Battleworld",
+ "numero_comic": 2,
+ "pagina": 192,
+ "archivo": "paginas/page-192.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4226,
+ "_seg": 13.7
+}

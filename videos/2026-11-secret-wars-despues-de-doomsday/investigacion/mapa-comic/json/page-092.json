@@ -1,0 +1,215 @@
+{
+ "tipo": "historia",
+ "resumen": "El Sheriff Strange y un novato del Thor Corps rinden homenaje a un Thor caído en las inmediaciones del Escudo. Strange le explica al joven Dios del Trueno el gran costo de mantener el orden en Battleworld y convierte el cuerpo del difunto Thor en una estatua de piedra que actuará como centinela. Una vez se retiran los demás, Strange le habla al polizón escondido en el área.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Thor Corps",
+  "[Thor novato]",
+  "[Thor caído]"
+ ],
+ "eventos_clave": [
+  "Homenaje al Thor caído en el Escudo",
+  "Transformación del Thor caído en estatua centinela por el Sheriff Strange",
+  "Strange detecta a un polizón oculto en las cercanías"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    429,
+    1000
+   ],
+   "descripcion": "Vista aérea en picado con varios miembros del Thor Corps volando sobre una zona desértica. Abajo se observan las pequeñas figuras del Sheriff Strange y un Thor novato.",
+   "prompt_en": "High angle comic book panel showing multiple Thor variants flying overhead in a rocky desert landscape, comic book style by Esad Ribic",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Thor Corps",
+    "[Thor novato]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "el-escudo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "...God will have questions.",
+     "texto_es": "...Dios tendrá preguntas."
+    }
+   ],
+   "lugar": "Cerca del Escudo, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-092-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    429,
+    33,
+    695,
+    373
+   ],
+   "descripcion": "El Sheriff Strange habla con el joven Thor novato que sostiene su martillo con nerviosismo.",
+   "prompt_en": "Comic book panel of Sheriff Strange talking to an anxious young Thor holding Mjolnir",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "[Thor novato]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Are you ready?",
+     "texto_es": "¿Estás listo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "I... I don't know. It's my first day. It wasn't supposed to be like this.",
+     "texto_es": "Yo... no lo sé. Es mi primer día. Se suponía que no sería así."
+    }
+   ],
+   "lugar": "Cerca del Escudo, Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-092-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    429,
+    381,
+    695,
+    967
+   ],
+   "descripcion": "Doctor Strange camina hacia la armadura y cuerpo petrificado del Thor caído mientras le da una lección al novato.",
+   "prompt_en": "Comic book panel showing Doctor Strange extending his hand toward a fallen Thor warrior covered in golden magic energy",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "[Thor caído]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "sacrificio",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Once, every day was dark like this. Bringing order to a thing takes great effort and has a high cost.",
+     "texto_es": "Antes, todos los días eran oscuros como este. Traer orden a las cosas requiere un gran esfuerzo y tiene un alto costo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "At the Shield, there are scores of these: your brothers before you who paid with their lives so that we all might inherit a better world.",
+     "texto_es": "En el Escudo hay decenas de ellos: tus hermanos antes que tú que pagaron con sus vidas para que todos pudiéramos heredar un mundo mejor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "We will all fall one day...",
+     "texto_es": "Todos caeremos algún día..."
+    }
+   ],
+   "lugar": "Cerca del Escudo, Battleworld",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-092-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    707,
+    33,
+    985,
+    706
+   ],
+   "descripcion": "Plano medio de Strange realizando un hechizo sobre el Thor caído que resplandece en energía dorada y se convierte en estatua de piedra.",
+   "prompt_en": "Doctor Strange performing magic on a fallen metallic Thor warrior, turning him into a stone statue, golden energy glowing",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "[Thor caído]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "magia",
+    "el-escudo",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "...but for you, even in death, you are a sentinel.",
+     "texto_es": "...pero para ti, incluso en la muerte, eres un centinela."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Rest well, loyal son. You have earned it.",
+     "texto_es": "Descansa bien, leal hijo. Te lo has ganado."
+    }
+   ],
+   "lugar": "Cerca del Escudo, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-092-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    707,
+    715,
+    985,
+    967
+   ],
+   "descripcion": "Primer plano del rostro de Doctor Strange hablando hacia la oscuridad, llamando a alguien oculto.",
+   "prompt_en": "Close up portrait of Doctor Strange with a stern expression speaking, realistic comic style",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "misterio",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "As for our hidden friend... you can come out now...",
+     "texto_es": "En cuanto a nuestro amigo oculto... ya puedes salir..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "We are alone.",
+     "texto_es": "Estamos solos."
+    }
+   ],
+   "lugar": "Cerca del Escudo, Battleworld",
+   "tono": "intriga",
+   "recorte": "vinetas/page-092-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld, cerca del Escudo",
+ "numero_comic": 2,
+ "pagina": 92,
+ "archivo": "paginas/page-092.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4820,
+ "_seg": 17.2
+}

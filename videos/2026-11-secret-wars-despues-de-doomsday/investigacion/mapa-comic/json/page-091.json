@@ -1,0 +1,237 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange (Sheriff de Battleworld) investiga junto a varios miembros de los Thor Corps el lugar del choque de la balsa de salvamento de la Tierra-616. Mediante su percepción mística, Strange detecta que los tripulantes no pertenecen a este mundo ni a esta época, y ordena una búsqueda masiva para capturar a algún superviviente con vida.",
+ "personajes": [
+  "Doctor Strange",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Investigación de la balsa de salvamento",
+  "Doctor Strange percibe la presencia de los supervivientes de la Tierra-616"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    327,
+    1000
+   ],
+   "descripcion": "Vista panorámica del desierto donde yace estrellada la enorme balsa de salvamento. Doctor Strange camina junto a miembros de los Thor Corps analizando la escena.",
+   "prompt_en": "Wide comic panel showing a crashed giant futuristic spaceship in a barren desert. Doctor Strange in dark robes with a cape, standing alongside Thor Corps warriors, searching the ground.",
+   "personajes": [
+    "Doctor Strange",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "investigacion",
+    "battleworld",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Once I had another eye, but it was lost some time ago. God Doom saw fit to give me a better one. All-seeing...",
+     "texto_es": "Una vez tuve otro ojo, pero lo perdí hace tiempo. Dios Doom creyó conveniente darme uno mejor. Todo lo ve..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "...and what I see here is not of this time. Not of this world.",
+     "texto_es": "...y lo que veo aquí no es de este tiempo. No es de este mundo."
+    }
+   ],
+   "lugar": "Desierto cerca de Utopopolis, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-091-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    334,
+    34,
+    638,
+    329
+   ],
+   "descripcion": "Plano medio corto de Doctor Strange reaccionando con sorpresa mientras un símbolo luminoso amarillo brilla sobre su cabeza.",
+   "prompt_en": "Medium close-up of Doctor Strange with neat black hair and gray temples, looking shocked, yellow magical energy glowing above his head like an eye.",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "magia",
+    "revelacion",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "And now I also see...",
+     "texto_es": "Y ahora también veo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "...we are not alone.",
+     "texto_es": "...que no estamos solos."
+    }
+   ],
+   "lugar": "Desierto cerca de Utopopolis, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-091-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    334,
+    334,
+    638,
+    970
+   ],
+   "descripcion": "Doctor Strange en perfil conversando con una mujer Thor de los Thor Corps, mientras otro Thor vuela en segundo plano.",
+   "prompt_en": "Comic panel showing Doctor Strange talking with a blonde female Thor in silver armor, another Thor floating in the background holding a golden hammer.",
+   "personajes": [
+    "Doctor Strange",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "interrogatorio",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "How many of them were there?",
+     "texto_es": "¿Cuántos de ellos eran?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I'm sorry, but I cannot say for sure. More than a few... more than enough.",
+     "texto_es": "Lo siento, pero no puedo decirlo con certeza. Más que unos pocos... más que suficientes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "We've completed our search of the immediate area, Sheriff.",
+     "texto_es": "Hemos completado la búsqueda en la zona inmediata, Sheriff."
+    }
+   ],
+   "lugar": "Desierto cerca de Utopopolis, Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-091-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    646,
+    34,
+    975,
+    715
+   ],
+   "descripcion": "Un Thor de aspecto alienígena (reptiliano) rinde su informe a Doctor Strange sobre las rastros dejados por los ocupantes de la balsa.",
+   "prompt_en": "Comic panel showing an alien Thor with orange skin and armor talking to Doctor Strange, detailed character design, desert background.",
+   "personajes": [
+    "Doctor Strange",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "estrategia",
+    "thor-corps",
+    "rastreo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Six, maybe seven, tracks leading south away from the vessel.",
+     "texto_es": "Seis, tal vez siete, huellas que van hacia el sur alejándose de la nave."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "How far could they have gotten?",
+     "texto_es": "¿Qué tan lejos podrían haber llegado?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "According to our young Thor here, this cowardly attack happened less than two hours ago. Our brother who fell was mighty, so assume they are fast. Assume they are strong.",
+     "texto_es": "Según nuestro joven Thor aquí presente, este cobarde ataque ocurrió hace menos de dos horas. Nuestro hermano caído era poderoso, así que asuman que son rápidos. Asuman que son fuertes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "If they walked or ran, one hundred leagues. If they could fly... four times that.",
+     "texto_es": "Si caminaron o corrieron, cien leguas. Si pudieron volar... cuatro veces eso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Call it five hundred then. It could be a feint... take everyone and cover the first fifty leagues.",
+     "texto_es": "Digamos quinientas entonces. Podría ser una finta... lleven a todos y cubran las primeras cincuenta leguas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "If you do not come across them, split your force and send half by glyph five hundred leagues out. Then work towards one another.",
+     "texto_es": "Si no los encuentran, dividan su fuerza y envíen a la mitad por glifo a quinientas leguas de distancia. Luego avancen el uno hacia el otro."
+    }
+   ],
+   "lugar": "Desierto cerca de Utopopolis, Battleworld",
+   "tono": "tactico",
+   "recorte": "vinetas/page-091-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    646,
+    729,
+    995,
+    968
+   ],
+   "descripcion": "Primer plano intenso de la cara de Doctor Strange dando la instrucción final de traer a algún superviviente con vida.",
+   "prompt_en": "Close-up dramatic portrait of Doctor Strange looking fierce and determined, dark eyes, moustache, thin streak of white hair.",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "orden",
+    "determinacion",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I know you are angry--I am angry--but bring me someone alive...",
+     "texto_es": "Sé que están enojados, yo estoy enojado, pero tráiganme a alguien vivo..."
+    }
+   ],
+   "lugar": "Desierto cerca de Utopopolis, Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-091-v5.jpg"
+  }
+ ],
+ "lugar": "Desierto cerca de Utopopolis, Battleworld",
+ "numero_comic": 3,
+ "pagina": 91,
+ "archivo": "paginas/page-091.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6014,
+ "_seg": 21.1
+}

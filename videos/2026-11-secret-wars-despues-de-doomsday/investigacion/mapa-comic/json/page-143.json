@@ -1,0 +1,196 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom, Doctor Strange y el Hombre Molécula enfrentan la destrucción del multiverso. Se muestra el plan para destruir a los Todopoderosos (Beyonders), robar su poder y almacenarlo usando al Hombre Molécula como conducto para salvar fragmentos de los mundos destruidos y crear Battleworld. Strange duda ante la magnitud de la responsabilidad, pero Doom lo insta a continuar.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Robo del poder de los Todopoderosos",
+  "Uso del Hombre Molécula como conducto de energía multiversal",
+  "Creación del plan para salvar fragmentos del multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    32,
+    431,
+    383
+   ],
+   "descripcion": "Vista en primer plano de una masa esférica de figuras atrapadas en una esfera de luz y energía rosa purpúrea en medio del espacio.",
+   "prompt_en": "Comic panel showing a sphere of glowing pink light containing countless human silhouettes floating in space with debris.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "todopoderosos",
+    "multiverso",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"DESTROY THEM...\"",
+     "texto_es": "\"Destruirlos...\""
+    }
+   ],
+   "lugar": "Espacio cósmico",
+   "tono": "épico",
+   "recorte": "vinetas/page-143-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    396,
+    489,
+    996
+   ],
+   "descripcion": "Gran destello deslumbrante de luz rosa y blanca donde una figura gigantesca de energía absorbe o canaliza el poder de la explosión cósmica.",
+   "prompt_en": "Comic panel showing a massive brilliant flash of pink white light with giant cosmic silhouette figure absorbing energy.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "energia-cosmica",
+    "todopoderosos"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"STEAL THEIR POWER...\"",
+     "texto_es": "\"Robar su poder...\""
+    }
+   ],
+   "lugar": "Espacio cósmico",
+   "tono": "dramático",
+   "recorte": "vinetas/page-143-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    489,
+    0,
+    788,
+    1000
+   ],
+   "descripcion": "Vista en picado de Doctor Doom, Doctor Strange y el Hombre Molécula frente a un enorme contenedor de almacenamiento de energía brillante en una plataforma.",
+   "prompt_en": "High angle shot of Doctor Doom, Doctor Strange and Molecule Man standing before a massive glowing open chamber structure emitting pink light.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "creacion-battleworld",
+    "hombre-molecula",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"AND STORE IT SOMEPLACE SAFE.\"",
+     "texto_es": "\"Y almacenarlo en un lugar seguro.\""
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "solemne",
+   "recorte": "vinetas/page-143-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    788,
+    190,
+    1000,
+    706
+   ],
+   "descripcion": "Doctor Doom habla con Stephen Strange mientras canalizan la enorme energía cósmica rosa que emana del Hombre Molécula.",
+   "prompt_en": "Comic panel showing Doctor Doom and Doctor Strange in dark silhouettes illuminated by intense violet energy.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "origen-battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"WHERE IT COULD BE USED TO PRESERVE SOME OF WHAT HAD BEEN LOST.\"",
+     "texto_es": "\"Donde pudiera usarse para conservar algo de lo que se había perdido.\""
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "The Molecule Man will serve as a conduit, Stephen. Together we can save the remnants of worlds...",
+     "texto_es": "El Hombre Molécula servirá como conducto, Stephen. Juntos podemos salvar los remanentes de los mundos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "The scale of it... the scope... how do you choose what lives and dies...?",
+     "texto_es": "La escala de esto... el alcance... ¿cómo eliges lo que vive y lo que muere...?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "tenso",
+   "recorte": "vinetas/page-143-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    759,
+    707,
+    1000,
+    977
+   ],
+   "descripcion": "Primer plano del rostro enmascarado de Doctor Doom mirando fijamente a Stephen Strange con firmeza.",
+   "prompt_en": "Close up panel of Doctor Doom's metal mask in soft shadow looking intensely at Doctor Strange.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "decision"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It's too much to fathom, Victor. It's too much. I... I can't...",
+     "texto_es": "Es demasiado para comprender, Victor. Es demasiado. Yo... no puedo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You have to do it.",
+     "texto_es": "Tienes que hacerlo."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "imperioso",
+   "recorte": "vinetas/page-143-v5.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula / Vacío multiversal",
+ "numero_comic": 4,
+ "pagina": 143,
+ "archivo": "paginas/page-143.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5116,
+ "_seg": 17.0
+}

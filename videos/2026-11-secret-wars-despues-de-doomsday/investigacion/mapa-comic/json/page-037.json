@@ -1,0 +1,166 @@
+{
+ "tipo": "historia",
+ "resumen": "Monólogo introspectivo y dramático acompañado por la ilustración en primer plano de la máscara de Doctor Doom, expresando cómo sus defensas y la esperanza que guardaba han colapsado finalmente.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom"
+ ],
+ "eventos_clave": [
+  "monologo-doom",
+  "reflexion-doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    193,
+    1000
+   ],
+   "descripcion": "Panel totalmente blanco con una caja de texto narrativo flotando en el centro.",
+   "prompt_en": "Minimalist white comic panel with a centered small narration box.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "monologo",
+    "pensamiento"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I believed in tomorrow.",
+     "texto_es": "Creía en el mañana."
+    }
+   ],
+   "lugar": "Plano mental",
+   "tono": "Melancólico",
+   "recorte": "vinetas/page-037-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    193,
+    0,
+    397,
+    1000
+   ],
+   "descripcion": "Panel de fondo blanco con un recuadro narrativo en el centro.",
+   "prompt_en": "Minimalist white comic panel with a centered narration text box.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "monologo",
+    "esperanza"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I hid that belief in my heart--a stronghold against a world that devours hope.",
+     "texto_es": "Escondí esa creencia en mi corazón: una fortaleza contra un mundo que devora la esperanza."
+    }
+   ],
+   "lugar": "Plano mental",
+   "tono": "Solemne",
+   "recorte": "vinetas/page-037-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    397,
+    0,
+    601,
+    1000
+   ],
+   "descripcion": "Ilustración panorámica en primer plano de la icónica máscara metálica de Doctor Doom, enfocado en los ojos y el visor de metal.",
+   "prompt_en": "Close-up line art drawing of Doctor Doom's iconic metal mask eyes and helmet visor, comic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mascara-doom",
+    "doctor-doom",
+    "primer-plano"
+   ],
+   "textos": [],
+   "lugar": "Plano mental",
+   "tono": "Dramático",
+   "recorte": "vinetas/page-037-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    601,
+    0,
+    797,
+    1000
+   ],
+   "descripcion": "Panel blanco con un texto narrativo central.",
+   "prompt_en": "Minimalist white panel with a centered text box.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "monologo"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "But now the walls have fallen.",
+     "texto_es": "Pero ahora los muros han caído."
+    }
+   ],
+   "lugar": "Plano mental",
+   "tono": "Sombrío",
+   "recorte": "vinetas/page-037-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    797,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Panel inferior con textura negra/oscura sombreada y un cuadro de texto pequeño al centro.",
+   "prompt_en": "Dark textured black comic panel with a small centered text box.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "monologo",
+    "derrota"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I have been overrun.",
+     "texto_es": "He sido invadido."
+    }
+   ],
+   "lugar": "Plano mental",
+   "tono": "Desesperanzado",
+   "recorte": "vinetas/page-037-v5.jpg"
+  }
+ ],
+ "lugar": "Plano mental",
+ "numero_comic": 2,
+ "pagina": 37,
+ "archivo": "paginas/page-037.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5238,
+ "_seg": 14.0
+}

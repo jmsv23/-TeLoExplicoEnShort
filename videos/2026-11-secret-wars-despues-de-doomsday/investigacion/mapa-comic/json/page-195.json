@@ -1,0 +1,135 @@
+{
+ "tipo": "historia",
+ "resumen": "El Thor Corps lidera un ataque frontal contra los barones que defienden el Castillo Doom. Desde las murallas, Sue Storm contempla perpleja cómo sus aliados se han vuelto en su contra, mientras que Doctor Doom reconoce amargamente que ha sido traicionado una vez más.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Thor Corps",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "El Thor Corps ataca a los barones defensores del Castillo Doom",
+  "Doctor Doom descubre la rebelión del Thor Corps"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    742,
+    1000
+   ],
+   "descripcion": "Una multitud de miembros del Thor Corps desciende volando desde el cielo armados con martillos y rayos, embistiendo violentamente a los barones y fuerzas defensivas frente a la fortaleza de Doom.",
+   "prompt_en": "Wide epic comic battle scene, many different Thors flying down with glowing hammers attacking armored defenders in front of a dark fantasy fortress, dynamic action, drawn by Esad Ribic",
+   "personajes": [
+    "Thor Corps",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "battleworld",
+    "thor-corps",
+    "rebelion",
+    "castillo-doom",
+    "batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Thor (Jane Foster)",
+     "texto": "\"...so that we might smite God?\"",
+     "texto_es": "\"...¿para que podamos golpear a Dios?\""
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "epico",
+   "recorte": "vinetas/page-195-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    742,
+    0,
+    977,
+    715
+   ],
+   "descripcion": "Sue Storm, vestida de blanco y con cabello claro, observa horrorizada la batalla desde el balcón del castillo, acompañada por Valeria Richards, y le exige una explicación a Victor.",
+   "prompt_en": "Medium shot of white-haired Sue Storm looking shocked, looking back at Doctor Doom, with Valeria Richards standing beside her on a castle balcony",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "castillo-doom",
+    "familia-doom",
+    "traicion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Well... that's not right...",
+     "texto_es": "Bueno... eso no está bien..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "The Thors are attacking the barons defending the castle!",
+     "texto_es": "¡Los Thors están atacando a los barones que defienden el castillo!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Why would they do that, Victor?",
+     "texto_es": "¿Por qué harían eso, Victor?"
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom",
+   "tono": "tension",
+   "recorte": "vinetas/page-195-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    742,
+    715,
+    977,
+    974
+   ],
+   "descripcion": "Plano detalle en primer plano del ojo de Doctor Doom dentro de su máscara de hierro, expresando amargura y furia fría al comprender la traición.",
+   "prompt_en": "Extreme close up of Doctor Doom's eye through his steel mask, intense cold angry glare",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "traicion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I am betrayed. Again.",
+     "texto_es": "He sido traicionado. Otra vez."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-195-v3.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 7,
+ "pagina": 195,
+ "archivo": "paginas/page-195.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4955,
+ "_seg": 16.2
+}

@@ -1,0 +1,41 @@
+{
+ "tipo": "extra",
+ "numero_comic": null,
+ "resumen": "Póster promocional de Secret Wars: Mister Fantástico contra Doctor Doom rodeados de fragmentos del multiverso.",
+ "lugar": "",
+ "personajes": [
+  "Mister Fantástico",
+  "Doctor Doom"
+ ],
+ "eventos_clave": [],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Póster promocional: Reed Richards frente a Doom entre fragmentos del multiverso.",
+   "prompt_en": "Promotional poster, hero facing armored masked villain amid shattered multiverse fragments",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reed-vs-doom",
+    "poster"
+   ],
+   "textos": [],
+   "recorte": "vinetas/page-282-v1.jpg"
+  }
+ ],
+ "pagina": 282,
+ "archivo": "paginas/page-282.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "manual"
+}

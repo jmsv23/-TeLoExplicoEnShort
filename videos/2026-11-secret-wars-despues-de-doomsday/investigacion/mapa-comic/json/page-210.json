@@ -1,0 +1,223 @@
+{
+ "tipo": "historia",
+ "resumen": "Star-Lord se encuentra reparando su nave entre los escombros de Battleworld cuando es abordado por Cisne Negro, una leal sirviente del Dios Emperador Doom. Cisne Negro declara su intención de eliminar a los opositores de Doom, pero Star-Lord intenta intimidarla y convencerla de retirarse antes de pelear.",
+ "personajes": [
+  "Star-Lord",
+  "Cisne Negro"
+ ],
+ "eventos_clave": [
+  "Encuentro de Star-Lord con Cisne Negro en las ruinas de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    260,
+    488
+   ],
+   "descripcion": "Star-Lord examina el casco de su nave espacial dañada usando una linterna.",
+   "prompt_en": "Comic panel of a man in a trench coat using a flashlight to inspect a damaged metallic spaceship hull at night.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "star-lord",
+    "battleworld",
+    "nave-espacial"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"I NEED TO SHOW YOU SOMETHING.\"",
+     "texto_es": "\"Tengo que mostrarte algo.\""
+    }
+   ],
+   "recorte": "vinetas/page-210-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    497,
+    260,
+    960
+   ],
+   "descripcion": "Star-Lord alza la luz de la linterna sorprendido tras escuchar a alguien acercarse.",
+   "prompt_en": "Comic panel of a man shining a flashlight upwards in surprise while looking at a mysterious figure off-screen.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "star-lord",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "WHAT DO YOU THINK YOU ARE DOING?",
+     "texto_es": "¿Qué crees que estás haciendo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "HUH?",
+     "texto_es": "¿Eh?"
+    }
+   ],
+   "recorte": "vinetas/page-210-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    270,
+    0,
+    638,
+    1000
+   ],
+   "descripcion": "Vista general de Star-Lord mirando hacia arriba a Cisne Negro, quien está sobre unas ruinas cerca de la nave estrellada.",
+   "prompt_en": "Wide comic panel showing a man in a coat from behind, looking up at a dark female figure standing atop ruinous debris near a crashed ship.",
+   "personajes": [
+    "Star-Lord",
+    "Cisne Negro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "star-lord",
+    "cisne-negro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "WELL, RIGHT NOW I'M FIXING MY SHIP SO THAT WHEN MY PALS TAKE CARE OF THIS DOOM PERSON, WE CAN GET OUT OF HERE.",
+     "texto_es": "Bueno, en este momento estoy arreglando mi nave para que cuando mis amigos se encarguen de este tal Doom, podamos salir de aquí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "WHAT ARE YOU DOING?",
+     "texto_es": "¿Qué estás haciendo tú?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "SERVING MY GOD.",
+     "texto_es": "Sirviendo a mi Dios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "DESTROYING THOSE WHO STAND AGAINST HIM.",
+     "texto_es": "Destruyendo a quienes se oponen a él."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "OH, I SEE...",
+     "texto_es": "Oh, ya veo..."
+    }
+   ],
+   "recorte": "vinetas/page-210-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    650,
+    36,
+    975,
+    417
+   ],
+   "descripcion": "Plano medio de Star-Lord mirando fijamente y con actitud desafiante hacia arriba.",
+   "prompt_en": "Comic panel close-up of a man looking up defiantly while talking to an enemy.",
+   "personajes": [
+    "Star-Lord",
+    "Cisne Negro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "star-lord",
+    "desafio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "YOU'RE ONE OF THOSE PEOPLE.",
+     "texto_es": "Tú eres una de esas personas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "YOU THINK IF YOU SAY SCARY THINGS, I'M THE TYPE OF GUY WHO'D TAKE IT TO HEART. LIKE A SHEEP.",
+     "texto_es": "Crees que si dices cosas aterradoras, soy el tipo de sujeto que se lo tomaría a pecho. Como una oveja."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "WELL, LISTEN UP, LADY...",
+     "texto_es": "Bueno, escúchame bien, señorita..."
+    }
+   ],
+   "recorte": "vinetas/page-210-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    650,
+    426,
+    975,
+    960
+   ],
+   "descripcion": "Star-Lord advierte enérgicamente a Cisne Negro mientras levanta una mano defensiva.",
+   "prompt_en": "Comic panel showing a man gesturing dramatically while speaking to a dark figure in the foreground.",
+   "personajes": [
+    "Star-Lord",
+    "Cisne Negro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "star-lord",
+    "cisne-negro",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "I'M A BIG BAD WOLF WHO DOES BIG BAD THINGS. I DON'T NECESSARILY LIKE IT-- AND I CERTAINLY DON'T RELISH IT-- BUT I JUST CAN'T HELP MY NATURE.",
+     "texto_es": "Soy un lobo feroz que hace cosas feroces. No necesariamente me gusta... y ciertamente no lo disfruto... pero simplemente no puedo evitar mi naturaleza."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "SO WHY DON'T YOU GO ON BACK TO WHEREVER YOU CAME FROM, BEFORE THIS TURNS INTO ONE OF THOSE \"I TOLD YOU SO\" KINDA THINGS.",
+     "texto_es": "Así que ¿por qué no te vuelves por donde viniste, antes de que esto se convierta en una de esas situaciones de \"te lo dije\"?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "OKAY?",
+     "texto_es": "¿De acuerdo?"
+    }
+   ],
+   "recorte": "vinetas/page-210-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 210,
+ "archivo": "paginas/page-210.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6043,
+ "_seg": 18.8
+}

@@ -1,0 +1,169 @@
+{
+ "tipo": "historia",
+ "resumen": "Las fuerzas del Profeta (Maximus) sucumben ante la horda demoníaca en Castle Doom. Mientras tanto, la Capitana Marvel coordina una alianza estratégica con Mister Siniestro y sus clones para cambiar de bando y desatar la rebelión contra Doom.",
+ "personajes": [
+  "Maximus / El Profeta",
+  "Capitana Marvel",
+  "Mister Siniestro"
+ ],
+ "eventos_clave": [
+  "Ataque a Castle Doom",
+  "Caída del ejército del Profeta",
+  "Alianza entre la Capitana Marvel y Mister Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    33,
+    345,
+    595
+   ],
+   "descripcion": "Maximus, proclamándose el Profeta de los últimos días, incita a sus hombres a luchar activamente mientras las criaturas demoníacas de color verde caen sobre ellos.",
+   "prompt_en": "Comic panel showing a man in a green cloak pointing a spear upwards while green gargoyle monsters attack warriors in medieval armor, high detail comic book style",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "castle-doom",
+    "batalla",
+    "el-profeta"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM.",
+     "texto_es": "CASTILLO DOOM."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus / El Profeta",
+     "texto": "Fight until you fall! Believe in me! I am the true prophet of these... the last days!",
+     "texto_es": "¡Luchen hasta caer! ¡Crean en mí! ¡Soy el verdadero profeta de estos... los últimos días!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus / El Profeta",
+     "texto": "There's no escaping what's coming!",
+     "texto_es": "¡No hay escapatoria de lo que se avecina!"
+    }
+   ],
+   "lugar": "Castle Doom",
+   "tono": "caótico y desesperado",
+   "recorte": "vinetas/page-188-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    600,
+    345,
+    969
+   ],
+   "descripcion": "Un grupo de gárgolas verdes aplasta agresivamente a los guerreros defensores contra el suelo.",
+   "prompt_en": "Green goblins and gargoyles violently overwhelming human soldiers on a battlefield, dark atmosphere, comic art",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "demonios",
+    "asalto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[demonio verde]",
+     "texto": "You have to embrace the end! Embrace it!",
+     "texto_es": "¡Tienen que aceptar el fin! ¡Aceptenlo!"
+    }
+   ],
+   "lugar": "Castle Doom",
+   "tono": "violento",
+   "recorte": "vinetas/page-188-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    358,
+    33,
+    590,
+    969
+   ],
+   "descripcion": "Una horda de monstruos con garras y colmillos despedazan violentamente las líneas enemigas entre gritos de dolor.",
+   "prompt_en": "Close up of monstrous winged creatures roaring and attacking with claws in a battle haze, detailed comic illustration",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "monstruos",
+    "violencia"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "[soldado atacado]",
+     "texto": "AARGGHHH!",
+     "texto_es": "¡AARGGHHH!"
+    }
+   ],
+   "lugar": "Castle Doom",
+   "tono": "brutal",
+   "recorte": "vinetas/page-188-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    606,
+    0,
+    963,
+    998
+   ],
+   "descripcion": "Capitana Marvel se encuentra en el campo de batalla dialogando con Mister Siniestro y una multitud de sus clones, dándoles la orden de cambiar de bando y unirse al caos.",
+   "prompt_en": "Captain Marvel wearing a helmet talking to Mister Sinister surrounded by numerous clones of Mister Sinister on a battlefield under a pale sky, comic art",
+   "personajes": [
+    "Capitana Marvel",
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "estragia",
+    "traición",
+    "clones"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel",
+     "texto": "The army of the Prophet is breaking. We don't have much time.",
+     "texto_es": "El ejército del Profeta se está rompiendo. No tenemos mucho tiempo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Well, don't tease me, sister... If you wanna cause a riot, someone needs to give somebody Sinister some kind of order.",
+     "texto_es": "Bueno, no me des esperanzas, hermana... Si quieres provocar un motín, alguien necesita darle a alguien Siniestro algún tipo de orden."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel",
+     "texto": "All right. You've got it. Tell your clones we're switching sides...",
+     "texto_es": "Está bien. Concedido. Dile a tus clones que cambiamos de bando..."
+    }
+   ],
+   "lugar": "Castle Doom",
+   "tono": "táctico y astuto",
+   "recorte": "vinetas/page-188-v4.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Battleworld",
+ "numero_comic": 6,
+ "pagina": 188,
+ "archivo": "paginas/page-188.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4658,
+ "_seg": 15.4
+}

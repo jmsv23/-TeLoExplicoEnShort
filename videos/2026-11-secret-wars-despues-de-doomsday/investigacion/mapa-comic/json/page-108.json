@@ -1,0 +1,56 @@
+{
+ "tipo": "historia",
+ "resumen": "Thanos contempla el cielo mientras una multitud de miembros del Thor Corps desciende armados con sus martillos para enfrentarlo en Battleworld.",
+ "personajes": [
+  "Thanos",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Llegada del Thor Corps",
+  "Desafío de Thanos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista en contrapicado de Thanos parado sobre unas rocas en Battleworld, mirando fijamente hacia el cielo donde decenas de Thors del Thor Corps vuelan hacia él con martillos en alto.",
+   "prompt_en": "Low-angle shot of Thanos standing on a rocky cliff, looking up at dozens of Thors from the Thor Corps flying down from a dark sky holding hammers, comic book style.",
+   "personajes": [
+    "Thanos",
+    "Thor Corps"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "thanos",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "...I am looking up.",
+     "texto_es": "...Estoy mirando hacia arriba."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-108-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 108,
+ "archivo": "paginas/page-108.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3534,
+ "_seg": 10.8
+}

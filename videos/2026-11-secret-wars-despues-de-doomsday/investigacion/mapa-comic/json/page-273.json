@@ -1,0 +1,52 @@
+{
+ "tipo": "historia",
+ "resumen": "El colosal Ben Grimm (la Cosa), liberado de su forma como el Muro del Escudo, se enfrenta en un combate titanico contra Galactus cerca de las fortalezas de Battleworld.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "La Cosa gigante lucha contra Galactus en Battleworld",
+  "Destrucción en las inmediaciones del bastión de Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    968,
+    1000
+   ],
+   "descripcion": "Ilustración a página completa en la que Ben Grimm, convertido en un coloso de piedra viviente que formaba el Escudo, asesta un tremendo impacto y se enfrenta cara a cara a Galactus, rompiendo estructuras y provocando grandes explosiones de fuego frente al paisaje de castillos de Battleworld.",
+   "prompt_en": "Epic comic book art by Esad Ribic, full shot of a gigantic stone monster resembling the Thing battling the cosmic giant Galactus amidst fiery explosions and crashing debris, high fantasy castle background, grand scale, painted art style.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "secret-wars",
+    "el-escudo",
+    "ben-grimm",
+    "galactus",
+    "battleworld",
+    "batalla-epica"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-273-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 273,
+ "archivo": "paginas/page-273.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3554,
+ "_seg": 12.4
+}

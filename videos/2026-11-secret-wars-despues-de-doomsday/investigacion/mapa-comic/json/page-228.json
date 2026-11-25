@@ -1,0 +1,228 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico y El Hacedor descubren la fuente del poder del Dios Emperador Doom (el Hombre Molécula). Inmediatamente después, El Hacedor traiciona a Reed Richards encerrándolos a ambos en una burbuja temporal para atacarlo.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Descubrimiento de la fuente de poder de Doom",
+  "El Hacedor traiciona a Mister Fantástico",
+  "Activación del dispositivo de burbuja temporal"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    260,
+    499
+   ],
+   "descripcion": "Mister Fantástico y El Hacedor conversan frente a la cámara del Hombre Molécula.",
+   "prompt_en": "Bearded shirtless superhero Mister Fantastic talking with the helmeted Ultimate Reed Richards in a bright glowing room.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "hombre-molecula",
+    "reunion-reeds"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I'm sure. An infinite number of missing mouths not being fed will do that. But I think we can help.",
+     "texto_es": "Estoy seguro. Un número infinito de bocas faltantes sin alimentar hará eso. Pero creo que podemos ayudar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "So this is the battery? The repository for all of Doom's power?",
+     "texto_es": "¿Así que esta es la batería? ¿El repositorio de todo el poder de Doom?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "YES.",
+     "texto_es": "SÍ."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Castillo Doom",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-228-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    506,
+    260,
+    967
+   ],
+   "descripcion": "El Hacedor saca un pequeño dispositivo mientras habla de manera condescendiente.",
+   "prompt_en": "The Maker holding a small futuristic device in profile, illuminated in warm orange light.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "traicion",
+    "dispositivo-temporal"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "HELLO. HELLO. HELLO.",
+     "texto_es": "HOLA. HOLA. HOLA."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Hello, yourself.",
+     "texto_es": "Hola a ti también."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "And if you don't mind, please excuse us for a moment...",
+     "texto_es": "Y si no les importa, por favor excúsenos un momento..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "OKAY.",
+     "texto_es": "OKAY."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Castillo Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-228-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    273,
+    38,
+    509,
+    499
+   ],
+   "descripcion": "El Hacedor apunta con su dispositivo brillante directamente a Reed Richards.",
+   "prompt_en": "The Maker pointing a glowing energy device towards Mister Fantastic, close up shot.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ataque",
+    "traicion",
+    "el-hacedor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "...I need to show Reed something.",
+     "texto_es": "...necesito mostrarle algo a Reed."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "WHAT IS--?",
+     "texto_es": "¿QUÉ ES--?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Oh, this is something I've been saving...",
+     "texto_es": "Oh, esto es algo que he estado guardando..."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Castillo Doom",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-228-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    273,
+    506,
+    509,
+    967
+   ],
+   "descripcion": "Una esfera de fuerza aislante encierra a ambos Reeds en una burbuja temporal.",
+   "prompt_en": "Two characters trapped inside a glowing spherical temporal forcefield bubble.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "burbuja-temporal",
+    "campo-de-fuerza"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "Z Z Z Z Z Z",
+     "texto_es": "Z Z Z Z Z Z"
+    }
+   ],
+   "lugar": "Burbuja temporal",
+   "tono": "dramático",
+   "recorte": "vinetas/page-228-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    509,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista impactante en tonos dorados donde El Hacedor desata el poder del dispositivo contra Reed Richards dentro de la burbuja temporal.",
+   "prompt_en": "Dramatic golden splash panel of energy blast striking a character inside a bright temporal field.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "traicion",
+    "burbuja-temporal",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "You have no idea how hard it was to construct a device capable of creating a proper temporal bubble out of available materials on this retrograde world.",
+     "texto_es": "No tienes idea de lo difícil que fue construir un dispositivo capaz de crear una burbuja temporal adecuada con los materiales disponibles en este mundo retrógrado."
+    }
+   ],
+   "lugar": "Burbuja temporal",
+   "tono": "epico",
+   "recorte": "vinetas/page-228-v5.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula, Castillo Doom, Battleworld",
+ "numero_comic": 9,
+ "pagina": 228,
+ "archivo": "paginas/page-228.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6461,
+ "_seg": 24.3
+}

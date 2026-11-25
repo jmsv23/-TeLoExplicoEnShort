@@ -1,0 +1,159 @@
+{
+ "tipo": "historia",
+ "resumen": "Un ejército de Hulks se lanza desde un Helicarrier volador hacia el campo de batalla en Battleworld, gritando su icónico lema 'SMASH!' mientras caen al vacío e impactan brutalmente contra el suelo.",
+ "personajes": [
+  "Hulk"
+ ],
+ "eventos_clave": [
+  "Despliegue del ejército de Hulks desde el Helicarrier",
+  "Aterrizaje masivo del ejército de Hulks en el campo de batalla"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    277,
+    1000
+   ],
+   "descripcion": "Un gigantesco ejército de Hulks corre a toda velocidad a lo largo de la pista de un Helicarrier volador sobre los cielos de Battleworld.",
+   "prompt_en": "Wide shot of a massive army of green Hulks sprinting across the flight deck of a futuristic helicarrier flying over a misty fantasy landscape.",
+   "personajes": [
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ejercito-hulk",
+    "helicarrier",
+    "battleworld",
+    "invasion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Break the world.",
+     "texto_es": "Rompan el mundo."
+    }
+   ],
+   "lugar": "Helicarrier, sobre Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-198-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    277,
+    0,
+    664,
+    1000
+   ],
+   "descripcion": "Docenas de Hulks saltan al aire desde el borde del Helicarrier sosteniendo garrotes con picos y gritando furiosamente mientras caen en picado.",
+   "prompt_en": "Dynamic mid-air shot of muscular green Hulks leaping down through the air, carrying spiked wooden clubs and screaming in fury.",
+   "personajes": [
+    "Hulk"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ejercito-hulk",
+    "salto-libre",
+    "accion-caotica"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    }
+   ],
+   "lugar": "Cielo sobre Battleworld",
+   "tono": "caotico",
+   "recorte": "vinetas/page-198-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    664,
+    0,
+    968,
+    1000
+   ],
+   "descripcion": "Los Hulks aterrizan pesadamente en el terreno rocoso levantando grandes nubes de polvo y rocas despedazadas con un violento impacto.",
+   "prompt_en": "Ground level impact shot of green Hulks landing hard on rocky ground, shattering stones and causing massive shockwaves.",
+   "personajes": [
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "impacto",
+    "destruccion",
+    "terremoto"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Hulk",
+     "texto": "SMASHHH!",
+     "texto_es": "¡SMASHHH!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Smash!",
+     "texto_es": "¡Aplastad!"
+    }
+   ],
+   "lugar": "Campo de batalla, Battleworld",
+   "tono": "destructivo",
+   "recorte": "vinetas/page-198-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 198,
+ "archivo": "paginas/page-198.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4906,
+ "_seg": 15.7
+}

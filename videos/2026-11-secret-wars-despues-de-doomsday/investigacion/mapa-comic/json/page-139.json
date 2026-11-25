@@ -1,0 +1,216 @@
+{
+ "tipo": "historia",
+ "resumen": "El Doctor Doom conversa con el Hombre Molécula (Owen Reece) tras haber matado al Doctor Strange. Ambos discuten la naturaleza del fallecimiento de Strange y el verdadero origen de la catástrofe multiversal: los Beyonders (Todopoderosos), entes alienígenas omnipotentes que crearon y manipularon la vida a escala cósmica.",
+ "personajes": [
+  "Hombre Molécula (Owen Reece)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Doom reflexiona sobre la muerte de Stephen Strange junto al Hombre Molécula.",
+  "Se revela el origen y la naturaleza cósmica de los Beyonders (Todopoderosos)."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    34,
+    279,
+    630
+   ],
+   "descripcion": "El Hombre Molécula cuelga boca abajo, reaccionando sorprendido a las noticias que le da Doom sobre Strange.",
+   "prompt_en": "Close-up of a man upside down with light brown hair, talking with an intense expression in comic style.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Well, well, now. Isn't that a surprise?",
+     "texto_es": "Vaya, vaya. ¿No es eso una sorpresa?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Was it cancer? It's always cancer.",
+     "texto_es": "¿Fue cáncer? Siempre es cáncer."
+    }
+   ],
+   "lugar": "Cámara oculta del Hombre Molécula",
+   "tono": "Misterioso",
+   "recorte": "vinetas/page-139-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    639,
+    279,
+    966
+   ],
+   "descripcion": "El Doctor Doom viste su capucha y máscara blancas de Dios Emperador, respondiendo sobriamente sobre la muerte de Strange.",
+   "prompt_en": "Side profile of Doctor Doom wearing a white hood and metallic mask, speaking solemnly.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "No. It was inner decay of a different sort.",
+     "texto_es": "No. Fue una decadencia interna de otro tipo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "His doubt killed him.",
+     "texto_es": "Su duda lo mató."
+    }
+   ],
+   "lugar": "Cámara oculta del Hombre Molécula",
+   "tono": "Sombrío",
+   "recorte": "vinetas/page-139-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    292,
+    34,
+    508,
+    966
+   ],
+   "descripcion": "El Hombre Molécula flota boca abajo frente a la deslumbrante figura blanca del Doctor Doom.",
+   "prompt_en": "Full shot of a man floating upside down facing a figure in a glowing white hooded cloak.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Interesting. Surprising. Unexpected, even. How is that possible? Because he knew. He was there. He saw it. But then, our eyes are like our ears. They lie too, don't they?",
+     "texto_es": "Interesante. Sorprendente. Inesperado, incluso. ¿Cómo es eso posible? Porque él lo sabía. Estaba allí. Lo vio. Pero claro, nuestros ojos son como nuestros oídos. También mienten, ¿no?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "He was only there at the end, Mister Reece.",
+     "texto_es": "Él solo estuvo allí al final, Señor Reece."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And even I was not there at the start.",
+     "texto_es": "Y ni siquiera yo estaba allí al principio."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "In the beginning, it was just you and them.",
+     "texto_es": "Al principio, solo eran tú y ellos."
+    }
+   ],
+   "lugar": "Cámara oculta del Hombre Molécula",
+   "tono": "Filosófico",
+   "recorte": "vinetas/page-139-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    520,
+    34,
+    642,
+    966
+   ],
+   "descripcion": "Primer plano detallado de los ojos del Hombre Molécula mientras corrige el relato de Doom.",
+   "prompt_en": "Extreme close-up on an old man's wrinkled face and eyes, rendered in soft watercolor lines.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "beyonders"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "No. It was just them.",
+     "texto_es": "No. Solo eran ellos."
+    }
+   ],
+   "lugar": "Cámara oculta del Hombre Molécula",
+   "tono": "Enigmático",
+   "recorte": "vinetas/page-139-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    653,
+    34,
+    977,
+    966
+   ],
+   "descripcion": "Los Beyonders emergen entre un destello cegador de luz blanca y violeta, mostrando sus armaduras alienígenas de aspecto cósmico.",
+   "prompt_en": "Powerful alien cosmic beings known as Beyonders in blue-purple mechanical armor emerging from brilliant white light in outer space.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "beyonders",
+    "origen-universo",
+    "lords-of-the-white-light"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"The Lords of the White Light. Those from Beyond.\"",
+     "texto_es": "\"Los Señores de la Luz Blanca. Aquellos del Más Allá.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"Beyonders. Omnipotent. All-powerful. More curious than a cat.\"",
+     "texto_es": "\"Beyonders (Todopoderosos). Omnipotentes. Todopoderosos. Más curiosos que un gato.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"They built whole universes. Random ideas given form. They tested them. They twisted life into every shape possible, they pushed it as far as it could go...\"",
+     "texto_es": "\"Construyeron universos enteros. Ideas aleatorias cobrando forma. Los probaron. Retorcieron la vida en todas las formas posibles, la llevaron tan lejos como pudo llegar...\""
+    }
+   ],
+   "lugar": "El Más Allá",
+   "tono": "Épico",
+   "recorte": "vinetas/page-139-v5.jpg"
+  }
+ ],
+ "lugar": "La cámara oculta de Battleworld / El Más Allá",
+ "numero_comic": 5,
+ "pagina": 139,
+ "archivo": "paginas/page-139.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7181,
+ "_seg": 25.2
+}

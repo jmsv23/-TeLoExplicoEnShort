@@ -1,0 +1,59 @@
+{
+ "tipo": "historia",
+ "resumen": "Una gigantesca manifestación de energía y luz cósmica ilumina la penumbra del vacío cósmico mientras tres figuras observan solemnemente desde una plataforma flotante.",
+ "personajes": [
+  "Doctor Doom",
+  "Doctor Strange",
+  "Hombre Molécula"
+ ],
+ "eventos_clave": [
+  "Revelación de la luz divina / cósmica",
+  "Observación de la inmensidad del Multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    960,
+    1000
+   ],
+   "descripcion": "Una enorme grieta de energía y luz cegadora semejante a un rayo se despliega en el azul del espacio profundo. En la parte inferior, tres figuras contemplan el fenómeno de pie sobre la plataforma de una nave espacial futurista.",
+   "prompt_en": "A massive, blinding pink and white cosmic energy rift spreading across deep blue space, with three silhouetted figures standing on a sleek futuristic platform looking up at the light, atmospheric comic book illustration style.",
+   "personajes": [
+    "Doctor Doom",
+    "Doctor Strange",
+    "Hombre Molécula"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "luz-cosmica",
+    "dios",
+    "multiverso",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"THAT BRILLIANT, BLINDING LIGHT IS GOD...\"",
+     "texto_es": "\"Esa luz brillante y cegadora es Dios...\""
+    }
+   ],
+   "lugar": "Espacio profundo / Vacío cósmico",
+   "tono": "epico, contemplativo, solemne",
+   "recorte": "vinetas/page-005-v1.jpg"
+  }
+ ],
+ "lugar": "Vacío cósmico",
+ "numero_comic": 0,
+ "pagina": 5,
+ "archivo": "paginas/page-005.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3416,
+ "_seg": 13.9
+}

@@ -1,0 +1,260 @@
+{
+ "tipo": "historia",
+ "resumen": "Spider-Man (Peter Parker) y Spider-Man (Miles Morales) se infiltran en el Castillo Doom guiados por un rastreador. Al llegar a una gran estatua de Doom, descubren una trampilla oculta donde se encuentran con Valeria Richards, quien también está investigando la misteriosa fuente de poder.",
+ "personajes": [
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Infiltración en el Castillo Doom",
+  "Descubrimiento de la trampilla secreta debajo de la estatua",
+  "Encuentro entre los Spider-Men y Valeria Richards"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    30,
+    357,
+    630
+   ],
+   "descripcion": "Vista aérea del Castillo Doom y sus alrededores con estatuas de guardias de Doom alineadas en los muros de piedra.",
+   "prompt_en": "High angle shot of a castle courtyard with statues of Doctor Doom armor guards surrounded by trees and stone walls",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "castillo-doom",
+    "estatuas",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom",
+     "texto": "\"...I'VE GOT MY BEST PEOPLE WORKING ON IT.\"",
+     "texto_es": "\"...Tengo a mi mejor gente trabajando en ello.\""
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM.",
+     "texto_es": "CASTILLO DOOM."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-161-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    630,
+    357,
+    966
+   ],
+   "descripcion": "Spider-Man (Peter Parker) agazapado en el muro del castillo mientras observa a Miles Morales trepar por arriba.",
+   "prompt_en": "Two Spider-Man figures crouching stealthily on the rooftop ledges of a stone castle at night",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "spider-man",
+    "infiltracion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "What's the gizmo say?",
+     "texto_es": "¿Qué dice el aparato?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "I DON'T THINK IT'S WORKING RIGHT...",
+     "texto_es": "No creo que esté funcionando bien..."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "sigiloso",
+   "recorte": "vinetas/page-161-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    357,
+    30,
+    986,
+    452
+   ],
+   "descripcion": "Miles Morales baja saltando entre los árboles mientras habla con Peter Parker, quien señala hacia abajo.",
+   "prompt_en": "Miles Morales in black Spider-Man suit descending downwards next to Peter Parker Spider-Man jumping in the woods",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "spider-man",
+    "busqueda"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "IT SAYS IT'S OVER THERE SOMEWHERE, AROUND 60 TO 70 FEET IN THAT DIRECTION...BUT THE FOCAL POINT IS ABOUT 10 FEET DOWN.",
+     "texto_es": "Dice que está por allí en alguna parte, a unos 60 o 70 pies en esa dirección... pero el punto focal está a unos 10 pies hacia abajo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "WHICH DOESN'T MAKE SENSE.",
+     "texto_es": "Lo cual no tiene sentido."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "conversacional",
+   "recorte": "vinetas/page-161-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    357,
+    452,
+    630,
+    966
+   ],
+   "descripcion": "Ambos Spider-Men caminan cautelosamente bajo la enorme pierna de una estatua de Doctor Doom.",
+   "prompt_en": "Two Spider-Man heroes walking underneath the giant stone leg of a massive statue in a dark forest",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "estatua-doom",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Right. Because there's a giant statue in the way.",
+     "texto_es": "Claro. Porque hay una estatua gigante en el camino."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "humorístico",
+   "recorte": "vinetas/page-161-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    630,
+    452,
+    818,
+    986
+   ],
+   "descripcion": "Primer plano de Peter Parker y Miles Morales con sus máscaras puestas conversando sobre el terreno.",
+   "prompt_en": "Close up of Peter Parker Spider-Man and Miles Morales Spider-Man masked faces talking to each other",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "primer-plano",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "IT COULD BE BURIED UNDERNEATH.",
+     "texto_es": "Podría estar enterrado debajo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "ACTUALLY, THERE'S A TRAPDOOR.",
+     "texto_es": "En realidad, hay una trampilla."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "curioso",
+   "recorte": "vinetas/page-161-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    818,
+    452,
+    986,
+    986
+   ],
+   "descripcion": "Miles Morales se asoma a una trampilla debajo de la estatua, de la que sobresale la cabeza de la joven Valeria Richards.",
+   "prompt_en": "Miles Morales looking down into an open trapdoor where a young blonde girl named Valeria Richards looks up",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "trampilla-secreta",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "I FOUND IT EARLIER.",
+     "texto_es": "La encontré antes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "YOU'RE LOOKING FOR THE SOURCE TOO, AREN'T YOU?",
+     "texto_es": "¿Ustedes también están buscando la fuente, verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "HOLY EVIL PLANS. THE RUMORS ARE TRUE...",
+     "texto_es": "Santo cielo, planes malvados. Los rumores son ciertos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "IS THAT REALLY YOU, VAL?",
+     "texto_es": "¿De verdad eres tú, Val?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "AM I SUPPOSED TO KNOW YOU?",
+     "texto_es": "¿Se supone que debería conocerte?"
+    }
+   ],
+   "lugar": "Trampilla bajo la estatua de Doom",
+   "tono": "sorprendente",
+   "recorte": "vinetas/page-161-v6.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 5,
+ "pagina": 161,
+ "archivo": "paginas/page-161.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6869,
+ "_seg": 25.0
+}

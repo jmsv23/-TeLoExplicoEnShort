@@ -1,0 +1,306 @@
+/* Sistema visual de "Explicando". Fuente de verdad: ../../_base/estilo-visual.md
+   Tokens, escenas, tipografía y componentes comunes. Lo local de un video va en su <style>. */
+
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("fonts/BricolageGrotesque.ttf") format("truetype");
+  font-weight: 200 800;
+  font-stretch: 75% 100%;
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("fonts/JetBrainsMono.ttf") format("truetype");
+  font-weight: 100 800;
+}
+
+:root {
+  --crema: #fff6e5;
+  --tinta: #141414;
+  --verde: #1fcb7a;
+  --rojo: #ff4b4b;
+  --amarillo: #ffd23f;
+  --azul: #3d6bff;
+  --lila: #b48cff;
+  --rosa: #ff8fc7;
+  --blanco: #ffffff;
+  --f-display: "Bricolage Grotesque", sans-serif;
+  --f-mono: "JetBrains Mono", monospace;
+  --stroke: 8px;
+  --sombra: 10px 10px 0 var(--tinta);
+}
+
+/* ---------- escenario de cada video (hijo del root; el root no se estiliza por clase) ---------- */
+.exp-stage {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  background: var(--crema);
+  font-family: var(--f-display);
+  color: var(--tinta);
+}
+
+/* ---------- escenas ----------
+   .scene = capa a pantalla completa (NO es .clip: su visibilidad la controla EXP.scene con los
+   tiempos de timings). Adentro: .bg (color + patrón) y .cam (todo lo que la cámara mueve). */
+.scene {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+.scene > .bg {
+  position: absolute;
+  inset: -200px;
+  background-color: var(--crema);
+}
+.scene > .cam {
+  position: absolute;
+  inset: 0;
+  transform-origin: 50% 43%; /* centro óptico ≈ y 820 */
+}
+.scene > .cam > .rig {
+  position: absolute;
+  inset: 0;
+  transform-origin: 50% 43%;
+}
+/* zona de contenido segura: y 220–1450, x 80–940 */
+.safe {
+  position: absolute;
+  left: 80px;
+  right: 140px;
+  top: 220px;
+  height: 1230px;
+}
+.center {
+  position: absolute;
+  left: 50%;
+  top: 820px;
+  width: 0;
+  height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center > * {
+  flex: none;
+}
+
+.bg-crema { background-color: var(--crema) !important; }
+.bg-amarillo { background-color: var(--amarillo) !important; }
+.bg-azul { background-color: var(--azul) !important; }
+.bg-verde { background-color: var(--verde) !important; }
+.bg-lila { background-color: var(--lila) !important; }
+.bg-rosa { background-color: var(--rosa) !important; }
+.bg-rojo { background-color: var(--rojo) !important; }
+
+.pat-puntos {
+  background-image: radial-gradient(rgba(20, 20, 20, 0.08) 6px, transparent 7px);
+  background-size: 56px 56px;
+}
+.pat-rayas {
+  background-image: repeating-linear-gradient(45deg, rgba(20, 20, 20, 0.07) 0 18px, transparent 18px 52px);
+}
+
+/* ---------- tipografía ---------- */
+.kw {
+  font-family: var(--f-display);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  word-spacing: 0.2em;
+  line-height: 0.95;
+  font-size: 150px;
+  color: var(--crema);
+  -webkit-text-stroke: calc(var(--stroke) * 2) var(--tinta);
+  paint-order: stroke fill;
+  text-shadow: var(--sombra);
+  text-align: center;
+  display: block;
+}
+.kw--tinta { color: var(--tinta); -webkit-text-stroke: 0; text-shadow: none; }
+.kw--amarillo { color: var(--amarillo); }
+.kw--verde { color: var(--verde); }
+.kw--rojo { color: var(--rojo); }
+.kw--azul { color: var(--azul); }
+.kw--sm { font-size: 110px; }
+.kw--lg { font-size: 200px; }
+
+.num {
+  font-family: var(--f-display);
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-size: 260px;
+  line-height: 1;
+  color: var(--crema);
+  -webkit-text-stroke: 20px var(--tinta);
+  paint-order: stroke fill;
+  text-shadow: 12px 12px 0 var(--tinta);
+  display: block;
+  white-space: nowrap;
+}
+.label {
+  font-family: var(--f-display);
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 1.1;
+  color: var(--tinta);
+  display: block;
+}
+.mono {
+  font-family: var(--f-mono);
+  font-weight: 600;
+  font-size: 46px;
+  color: var(--tinta);
+}
+/* palabra partida en letras para JIGGLE-TEXT / WORD-POP */
+.kw .ch,
+.kw .wd {
+  display: inline-block;
+}
+
+/* ---------- componentes ---------- */
+/* Pieza flat: relleno + contorno tinta + sombra dura */
+.flat {
+  border: var(--stroke) solid var(--tinta);
+  border-radius: 36px;
+  box-shadow: var(--sombra);
+  background: var(--blanco);
+}
+.chip {
+  display: inline-block;
+  padding: 14px 30px;
+  border: 6px solid var(--tinta);
+  border-radius: 999px;
+  background: var(--blanco);
+  font-family: var(--f-display);
+  font-weight: 800;
+  font-size: 48px;
+  text-transform: uppercase;
+  box-shadow: 6px 6px 0 var(--tinta);
+}
+.tag-precio {
+  display: inline-block;
+  padding: 8px 22px;
+  border: 6px solid var(--tinta);
+  border-radius: 18px;
+  background: var(--rojo);
+  color: var(--crema);
+  font-family: var(--f-display);
+  font-weight: 800;
+  font-size: 64px;
+  box-shadow: 6px 6px 0 var(--tinta);
+}
+.tag-precio--verde { background: var(--verde); }
+
+/* resaltador (HIGHLIGHT): barra detrás de la palabra */
+.hl-wrap { position: relative; display: inline-block; isolation: isolate; }
+.hl-bar {
+  position: absolute;
+  left: -0.08em;
+  right: -0.08em;
+  bottom: 0.06em;
+  height: 0.42em;
+  background: var(--amarillo);
+  border-radius: 10px;
+  transform-origin: 0 50%;
+  z-index: -1;
+}
+/* tachón (STRIKE) */
+.strike-bar {
+  position: absolute;
+  left: -4%;
+  width: 108%;
+  top: 46%;
+  height: 22px;
+  background: var(--rojo);
+  border: 5px solid var(--tinta);
+  border-radius: 12px;
+  transform-origin: 0 50%;
+  transform: rotate(-6deg);
+}
+
+/* paso numerado de la ACCIÓN */
+.paso-num {
+  font-family: var(--f-display);
+  font-weight: 800;
+  font-size: 240px;
+  line-height: 1;
+  color: var(--amarillo);
+  -webkit-text-stroke: 20px var(--tinta);
+  paint-order: stroke fill;
+  text-shadow: 12px 12px 0 var(--tinta);
+  display: block;
+}
+.check {
+  width: 150px;
+  height: 150px;
+  display: block;
+}
+
+/* ---------- capa fija (EXP.chrome) ---------- */
+.exp-chrome {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 50;
+}
+.exp-marca {
+  position: absolute;
+  left: 80px;
+  top: 236px;
+  font-family: var(--f-display);
+  font-weight: 800;
+  font-size: 40px;
+  color: rgba(20, 20, 20, 0.6);
+  letter-spacing: -0.01em;
+}
+.exp-progress {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 1874px;
+  height: 12px;
+  background: rgba(20, 20, 20, 0.3);
+}
+.exp-progress > i {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--amarillo);
+  transform-origin: 0 50%;
+}
+.exp-grano {
+  position: absolute;
+  inset: 0;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+.exp-flash {
+  position: absolute;
+  inset: 0;
+  background: var(--blanco);
+  opacity: 0;
+}
+/* barrido de color entre escenas (WIPE-COLOR) */
+.exp-wipe {
+  position: absolute;
+  inset: 0;
+  clip-path: circle(0% at 50% 43%);
+}
+
+/* ---------- Moni ---------- */
+.moni {
+  width: 360px;
+  height: 360px;
+  display: block;
+  position: relative;
+}
+.moni svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  display: block;
+}
+.moni--sm { width: 160px; height: 160px; }
+.moni--md { width: 240px; height: 240px; }
+.moni--lg { width: 480px; height: 480px; }

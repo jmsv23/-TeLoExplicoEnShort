@@ -1,0 +1,68 @@
+{
+ "tipo": "extra",
+ "resumen": "Página recopilatoria de portadas alternativas para la serie Secret Wars (2015), ilustradas por Paul Gulacy, Siya Oum, Skottie Young, Sara Pichelli, Tomm Coker, Greg Hildebrandt, Fred Hembeck y John Tyler Christopher.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Capitán América",
+  "Viuda Negra",
+  "Bestia",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Galería de portadas alternativas de Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Grilla con ocho imágenes de portadas alternativas variantes para los cómics de Secret Wars, mostrando diferentes estilos artísticos y personajes como Spider-Man, Doctor Doom, la familia Richards y los Vengadores.",
+   "prompt_en": "A gallery grid showing eight different comic book variant covers for Marvel Secret Wars featuring diverse art styles and superheroes.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Capitán América",
+    "Viuda Negra",
+    "Bestia",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "portadas-alternativas",
+    "galeria-artistica",
+    "secret-wars",
+    "variantes"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "MARVEL SUPER HEROES SECRET WARS",
+     "texto_es": "MARVEL SUPER HÉROES SECRET WARS"
+    }
+   ],
+   "recorte": "vinetas/page-280-v1.jpg"
+  }
+ ],
+ "lugar": "Galería de portadas",
+ "numero_comic": null,
+ "pagina": 280,
+ "archivo": "paginas/page-280.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3304,
+ "_seg": 11.0
+}

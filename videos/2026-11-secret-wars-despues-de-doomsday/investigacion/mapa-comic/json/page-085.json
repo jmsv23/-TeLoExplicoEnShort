@@ -1,0 +1,52 @@
+{
+ "tipo": "extra",
+ "resumen": "Mapa ilustrado del planeta Battleworld con sus 41 dominios numerados y leyenda explicativa de territorios, perteneciente a la saga Secret Wars (2015).",
+ "personajes": [],
+ "eventos_clave": [
+  "Mapeo de los dominios de Battleworld",
+  "Estructura geográfica del planeta creado por Doctor Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Mapa pancarta de Battleworld que muestra la división política y geográfica del mundo en 41 regiones numeradas, con cuadrícula de coordenadas, leyendas a la izquierda y los títulos Secret Wars Battleworld.",
+   "prompt_en": "Detailed globe map of Battleworld with color coded territories numbered from 1 to 41, grid lines, side legend text boxes, and comic title banners standard format.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "battleworld",
+    "mapa",
+    "secret-wars",
+    "dominios",
+    "el-escudo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "SECRET WARS BATTLEWORLD",
+     "texto_es": "SECRET WARS BATTLEWORLD"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "informativo",
+   "recorte": "vinetas/page-085-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 85,
+ "archivo": "paginas/page-085.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3870,
+ "_seg": 11.4
+}

@@ -1,0 +1,151 @@
+{
+ "tipo": "historia",
+ "resumen": "En la sala del trono de Castillo Doom, Dios Emperador Doom impone su voluntad sobre los barones de Battleworld. Interrumpiendo el conflicto entre Mister Siniestro y Capitán Britania, Doom ordena a todos en la sala que se pongan de rodillas ante su presencia divina.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Mister Siniestro",
+  "Sue Storm / Mujer Invisible",
+  "Thor Corps",
+  "Doctor Strange (Sheriff Strange)",
+  "Capitán Britania"
+ ],
+ "eventos_clave": [
+  "Dios Emperador Doom exige sumisión absoluta a todos los presentes",
+  "Mister Siniestro y los Thors se arrodillan ante el trono de Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    34,
+    396,
+    370
+   ],
+   "descripcion": "Vista en contrapicado desde atrás, entre las piernas de Mister Siniestro, quien sostiene una lanza mística brillante dirigida a Capitán Britania, que yace derrotado en el suelo.",
+   "prompt_en": "Low angle view between a villain's legs holding a glowing spear over a defeated superhero lying face up on the stone floor, comic style.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "HMMMMMMM",
+     "texto_es": "HMMMMMMM"
+    }
+   ],
+   "lugar": "Sala del trono de Castillo Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-065-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    377,
+    396,
+    968
+   ],
+   "descripcion": "Mister Siniestro sostiene la lanza mientras la mano armada de Dios Emperador Doom apunta impositivamente hacia él con un resplandor en la punta del dedo.",
+   "prompt_en": "A villain with black cape and glowing spear looks surprised as a huge silver armor-clad hand points at him commanding silence, comic book page.",
+   "personajes": [
+    "Mister Siniestro",
+    "Doctor Doom / Dios Emperador Doom",
+    "Capitán Britania",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "MMMMMMMMMM",
+     "texto_es": "MMMMMMMMMM"
+    }
+   ],
+   "lugar": "Sala del trono de Castillo Doom",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-065-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    411,
+    35,
+    580,
+    968
+   ],
+   "descripcion": "Primer plano de Dios Emperador Doom portando su máscara metálica y capucha blanca, señalando con firmeza mientras emite una orden imponente.",
+   "prompt_en": "Close up of God Emperor Doom wearing a white hood over a steel mask, pointing a glowing finger forward with absolute authority, comic panel.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "frase-iconica"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "All of you... ...on your knees.",
+     "texto_es": "Todos ustedes... ...de rodillas."
+    }
+   ],
+   "lugar": "Sala del trono de Castillo Doom",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-065-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    583,
+    34,
+    964,
+    968
+   ],
+   "descripcion": "Plano general de la sala del trono donde Dios Emperador Doom se sienta en un majestuoso trono tejido de raíces gigantes junto a Sue Storm. Ante él, Mister Siniestro, los Thors y otros sirvientes se arrodillan sumisos.",
+   "prompt_en": "Wide shot of a majestic ruler in white seated on a massive wooden root throne with a blonde woman beside him, while warriors and villains bow down on their knees before him.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Mister Siniestro",
+    "Thor Corps",
+    "Doctor Strange (Sheriff Strange)",
+    "Capitán Britania"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "trono-doom",
+    "battleworld"
+   ],
+   "textos": [],
+   "lugar": "Sala del trono de Castillo Doom",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-065-v4.jpg"
+  }
+ ],
+ "lugar": "Sala del trono de Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 65,
+ "archivo": "paginas/page-065.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5235,
+ "_seg": 18.4
+}

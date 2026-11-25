@@ -1,0 +1,183 @@
+{
+ "tipo": "historia",
+ "resumen": "Dios Emperador Doom repele los ataques de los insectos gigantes mientras Thanos aterriza frente a él tras haber destruido el Escudo. Doom confronta tranquilamente a Thanos, preguntándole por qué destruyó la barrera protectora de Battleworld.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Confrontación entre Dios Emperador Doom y Thanos",
+  "Caída del Escudo de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    350,
+    1000
+   ],
+   "descripcion": "Dios Emperador Doom, de espaldas y con su capa blanca al viento, usa sus poderes divinos para pulverizar insectos gigantes de la Ola de Aniquilación mientras Thanos observa al fondo.",
+   "prompt_en": "God Emperor Doom wearing a white cloak seen from behind, shooting energy blasts to destroy giant alien insects, comic book style art by Esad Ribic.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "god-emperor-doom",
+    "thanos",
+    "el-escudo",
+    "ola-de-aniquilacion"
+   ],
+   "textos": [],
+   "lugar": "Battleworld, cerca del Escudo",
+   "tono": "épico",
+   "recorte": "vinetas/page-215-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    350,
+    37,
+    638,
+    393
+   ],
+   "descripcion": "Thanos salta furioso con el puño en alto gritando para llamar la atención.",
+   "prompt_en": "Thanos leaping forward furiously with fist raised, shouting loudly in dynamic comic action shot.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thanos",
+    "accion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "ENOUGH!",
+     "texto_es": "¡SUFICIENTE!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "agresivo",
+   "recorte": "vinetas/page-215-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    372,
+    396,
+    638,
+    963
+   ],
+   "descripcion": "Thanos aterriza pesadamente rompiendo el suelo frente a Doctor Doom, quien se mantiene firme e imperturbable.",
+   "prompt_en": "Thanos landing heavily on the ground creating dust and rocks, facing Doctor Doom standing stoically in a white cloak.",
+   "personajes": [
+    "Thanos",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "god-emperor-doom",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "THANOS.",
+     "texto_es": "THANOS."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-215-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    652,
+    35,
+    981,
+    496
+   ],
+   "descripcion": "Plano medio de Thanos mirando de reojo a Doom con actitud desafiante mientras dice su nombre.",
+   "prompt_en": "Close up panel of Thanos turning his head to look menacingly at God Emperor Doom.",
+   "personajes": [
+    "Thanos",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "god-emperor-doom",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "DOOM.",
+     "texto_es": "DOOM."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-215-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    652,
+    505,
+    981,
+    963
+   ],
+   "descripcion": "Dios Emperador Doom, visto desde atrás con su capa blanca, recrimina a Thanos por haber destruido la muralla del Escudo.",
+   "prompt_en": "God Emperor Doom standing calmly face-to-face with Thanos, speaking with authority.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Thanos"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "god-emperor-doom",
+    "thanos",
+    "el-escudo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "YOU HAVE BROUGHT DOWN THE WALL--PIERCED THE SHIELD I SO CAREFULLY AND COSTLY BUILT--FOR WHAT?",
+     "texto_es": "Has derribado la muralla... perforado el escudo que construí con tanto cuidado y a tan alto precio... ¿para qué?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "THIS?",
+     "texto_es": "¿ESTO?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-215-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 215,
+ "archivo": "paginas/page-215.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5380,
+ "_seg": 18.3
+}

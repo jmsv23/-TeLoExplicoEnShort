@@ -1,0 +1,191 @@
+{
+ "tipo": "historia",
+ "resumen": "El Doctor Strange lleva a Thor (Jane Foster) y Spider-Man (Miles Morales) a su Sanctum Sanctorum secreto ubicado en la Isla Oculta de Agamotto. Strange les explica cómo Dios Doom ha moldeado Battleworld con restos del multiverso y les revela un gran secreto: él posee otra balsa de salvamento con refugiados del mundo anterior.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Thor (Jane Foster)",
+  "Spider-Man (Miles Morales)"
+ ],
+ "eventos_clave": [
+  "Doctor Strange lleva a Thor y Spider-Man a la Isla Oculta de Agamotto.",
+  "Strange explica la naturaleza de los reinos de Battleworld creados por Dios Doom.",
+  "Strange revela la existencia de una segunda balsa de salvamento con supervivientes del pasado."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    0,
+    502,
+    599
+   ],
+   "descripcion": "Vista panorámica aérea de la Oculta Isla de Agamotto, una isla rocosa rodeada de acantilados y vegetación con un gran edificio cilíndrico de cúpula blanca en el centro.",
+   "prompt_en": "Aerial view of a hidden island with steep rocky cliffs, lush green vegetation, and a white futuristic dome sanctuary in the center surrounded by calm sea, comic art style.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "isla-de-agamotto",
+    "sanctum-sanctorum",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE HIDDEN ISLE OF AGAMOTTO.",
+     "texto_es": "LA ISLA OCULTA DE AGAMOTTO."
+    }
+   ],
+   "lugar": "Isla de Agamotto",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-100-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    598,
+    432,
+    968
+   ],
+   "descripcion": "El Doctor Strange teletransporta a Thor y a Spider-Man al interior de su Sanctum Sanctorum, apareciendo entre humo y un brillo dorado.",
+   "prompt_en": "Superhero characters teleporting into a futuristic sanctuary chamber in a cloud of smoke and bright yellow magical light, comic book panel.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Thor (Jane Foster)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "teletransporte",
+    "sanctum-sanctorum",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "WHERE ARE WE?",
+     "texto_es": "¿Dónde estamos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "MY SANCTUM SANCTORUM. A SAFE HAVEN FROM THIS WORLD AND ITS PRYING EYES... AND A PLACE OF REMEMBRANCE OF ALL THAT HAS BEEN LOST.",
+     "texto_es": "Mi Sanctum Sanctorum. Un refugio seguro de este mundo y de sus ojos curiosos... y un lugar para recordar todo lo que se ha perdido."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "POFF",
+     "texto_es": "POFF"
+    }
+   ],
+   "lugar": "Sanctum Sanctorum",
+   "tono": "místico",
+   "recorte": "vinetas/page-100-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    498,
+    36,
+    680,
+    966
+   ],
+   "descripcion": "El Doctor Strange apoya la mano sobre un panel luminoso circular mientras platica con Spider-Man y Thor sobre cómo Doom construyó este mundo.",
+   "prompt_en": "Doctor Strange touching a glowing golden round panel on a metallic wall, speaking to Spider-Man and Thor, medium close shot, comic style.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Miles Morales)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "god-doom",
+    "battleworld",
+    "wakanda"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "GOD DOOM HAS MADE A WORLD OF MANY WONDERS. I HAVE SEEN MIRRORS OF THOSE I HAVE KNOWN-- LIVES LIVED DIFFERENTLY, OR EVEN STRANGER... THE UNRECOGNIZABLY SIMILAR.",
+     "texto_es": "Dios Doom ha creado un mundo de muchas maravillas. He visto reflejos de aquellos a quienes conocí: vidas vividas de manera diferente, o incluso más extraño... lo irreconociblemente similar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "FOR INSTANCE, MUCH OF WHAT WAS A PLACE CALLED WAKANDA CAN BE FOUND IN THE UPPER KINGDOM, BOTH IN DESIGN AND FUNCTION...",
+     "texto_es": "Por ejemplo, gran parte de lo que era un lugar llamado Wakanda se puede encontrar en el Reino Superior, tanto en diseño como en función..."
+    }
+   ],
+   "lugar": "Sanctum Sanctorum",
+   "tono": "explicativo",
+   "recorte": "vinetas/page-100-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    678,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica del gran salón subterráneo del Sanctum donde Strange les muestra a Thor y Spider-Man que custodia otra balsa de salvamento oculta.",
+   "prompt_en": "Wide perspective view of sci-fi underground hangar with heroes standing on a platform looking down at another hidden life raft capsule, comic book panel.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Thor (Jane Foster)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "refugiados",
+    "secret-wars",
+    "tierra-616"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "WHEN I SAW THE VESSEL YOU FOUND, I WAS NOT SURPRISED...",
+     "texto_es": "Cuando vi la nave que encontrasteis, no me sorprendí..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "BUT TO FIND THAT IT HELD REFUGEES FROM THE TIME BEFORE...",
+     "texto_es": "Pero descubrir que contenía refugiados del tiempo anterior..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "...WELL, THAT REQUIRES FULL UNDERSTANDING.",
+     "texto_es": "...bueno, eso requiere una comprensión completa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Oh, man... You've got another one.",
+     "texto_es": "Oh, vaya... Tienes otra."
+    }
+   ],
+   "lugar": "Sanctum Sanctorum",
+   "tono": "asombro",
+   "recorte": "vinetas/page-100-v4.jpg"
+  }
+ ],
+ "lugar": "Isla de Agamotto, Sanctum Sanctorum",
+ "numero_comic": 3,
+ "pagina": 100,
+ "archivo": "paginas/page-100.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6671,
+ "_seg": 24.7
+}

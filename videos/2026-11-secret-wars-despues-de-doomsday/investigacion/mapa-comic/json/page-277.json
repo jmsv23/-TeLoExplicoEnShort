@@ -1,0 +1,111 @@
+{
+ "tipo": "extra",
+ "resumen": "Galería de portadas alternativas de la serie Secret Wars y títulos relacionados, con trabajos artísticos de Simone Bianchi, Butch Guice, Skottie Young, Jim Cheung, Amanda Conner, Chip Zdarsky, Yasmin Putri y Kevin Nowlan.",
+ "personajes": [
+  "la Cosa",
+  "Antorcha Humana",
+  "Mujer Invisible",
+  "Mister Fantástico",
+  "Hulk",
+  "Capitán América",
+  "Thor",
+  "Spider-Man",
+  "Doctor Doom",
+  "Viuda Negra"
+ ],
+ "eventos_clave": [
+  "Muestra de portadas alternativas de Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Colección de ocho portadas alternativas en cuadrícula de dos filas por cuatro columnas mostrando distintos superhéroes de Marvel y estilos de ilustración.",
+   "prompt_en": "A grid gallery of eight Marvel comic book variant covers featuring diverse superhero characters such as Spider-Man, Hulk, Thor, and Doctor Doom in various artistic styles.",
+   "personajes": [
+    "la Cosa",
+    "Hulk",
+    "Thor",
+    "Spider-Man",
+    "Doctor Doom",
+    "Capitán América",
+    "Viuda Negra"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "portadas-alternativas",
+    "galeria",
+    "secret-wars",
+    "variant-covers"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#9 VARIANT BY SIMONE BIANCHI & SIMONE PERUZZI",
+     "texto_es": "VARIANTE #9 POR SIMONE BIANCHI Y SIMONE PERUZZI"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1 VARIANT BY BUTCH GUICE & ANDY TROY",
+     "texto_es": "VARIANTE #1 POR BUTCH GUICE Y ANDY TROY"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1 VARIANT BY SKOTTIE YOUNG",
+     "texto_es": "VARIANTE #1 POR SKOTTIE YOUNG"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1 VARIANT BY JIM CHEUNG & JUSTIN PONSOR",
+     "texto_es": "VARIANTE #1 POR JIM CHEUNG Y JUSTIN PONSOR"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1 VARIANT BY AMANDA CONNER & PAUL MOUNTS",
+     "texto_es": "VARIANTE #1 POR AMANDA CONNER Y PAUL MOUNTS"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1 VARIANT BY CHIP ZDARSKY",
+     "texto_es": "VARIANTE #1 POR CHIP ZDARSKY"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#2 VARIANT BY YASMIN PUTRI",
+     "texto_es": "VARIANTE #2 POR YASMIN PUTRI"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#2 VARIANT BY KEVIN NOWLAN",
+     "texto_es": "VARIANTE #2 POR KEVIN NOWLAN"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "artístico",
+   "recorte": "vinetas/page-277-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 277,
+ "archivo": "paginas/page-277.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4034,
+ "_seg": 12.5
+}

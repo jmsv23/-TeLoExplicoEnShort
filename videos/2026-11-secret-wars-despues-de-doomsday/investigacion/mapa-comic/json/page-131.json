@@ -1,0 +1,164 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante el funeral del difunto Sheriff Strange, un Thor anciano pronuncia un sermón ante los Thor Corps y relata cómo Dios Doom creó Battleworld de la nada con Strange como único testigo. Mientras habla, el Dios Emperador Doom camina solemnemente en procesión acompañado por Sue Storm, Valeria y Franklin Richards.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Franklin Richards",
+  "Thor Corps (varios Thors)"
+ ],
+ "eventos_clave": [
+  "Funeral y homenaje en memoria de Sheriff Strange",
+  "Sermón del Thor anciano sobre la creación de Battleworld",
+  "Procesión de la familia real encabezada por Dios Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    31,
+    266,
+    1000
+   ],
+   "descripcion": "Una pirámide tallada con un ojo estilizado sobre un campo de rosas rojas florecidas bajo un cielo sereno.",
+   "prompt_en": "A carved golden pyramid featuring a large stylized eye symbol sitting among lush red rose bushes, serene epic comic book style art by Esad Ribic.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "memorial-strange",
+    "creacion-battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Before the world, there was the ether...",
+     "texto_es": "Antes del mundo, existía el éter..."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-131-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    266,
+    31,
+    513,
+    970
+   ],
+   "descripcion": "Una fila de guerreros del Thor Corps formando una pasarela de honor solemnemente frente al palacio mientras avanza la procesión real.",
+   "prompt_en": "Rows of Thor warriors in armor standing in formation forming an honor guard path in front of a grand fantasy castle.",
+   "personajes": [
+    "Thor Corps (varios Thors)",
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "doom-dios",
+    "funeral-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "[Thor anciano]",
+     "texto": "We cannot call it heaven, or forever, or any other joyful thing...",
+     "texto_es": "No podemos llamarlo cielo, ni eternidad, ni ninguna otra cosa gozosa..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "[Thor anciano]",
+     "texto": "...For it was nothing. And in this ocean of absence, there was only God Doom and his first disciple: our fallen leader, Stephen Strange.",
+     "texto_es": "...Porque no había nada. Y en este océano de ausencia, solo existía Dios Doom y su primer discípulo: nuestro líder caído, Stephen Strange."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "ceremonial",
+   "recorte": "vinetas/page-131-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    524,
+    31,
+    972,
+    370
+   ],
+   "descripcion": "Un Thor anciano con túnica roja y parche en el ojo sosteniendo un martillo montado en un báculo de madera mientras predica a la multitud.",
+   "prompt_en": "An old bearded Thor warrior with an eyepatch holding a wooden staff topped with a war hammer, speaking passionately.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "sermon",
+    "creacion-battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Think on it, brothers and sisters: there was nothing. And then...there was everything.",
+     "texto_es": "Piensen en ello, hermanos y hermanas: no había nada. Y entonces... estuvo todo."
+    }
+   ],
+   "lugar": "Jardines de Castle Doom, Battleworld",
+   "tono": "religioso",
+   "recorte": "vinetas/page-131-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    524,
+    377,
+    972,
+    970
+   ],
+   "descripcion": "Dios Emperador Doom vistiendo túnica blanca camina solemnemente al lado de Sue Storm, Valeria Richards y Franklin Richards.",
+   "prompt_en": "God Emperor Doom in a white regal tunic and hood walking alongside Sue Storm, Valeria Richards and Franklin Richards in a solemn procession.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Franklin Richards",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "funeral-strange",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "And the only witness to the miracle of creation besides the All-Father himself was the good Sheriff Strange.",
+     "texto_es": "Y el único testigo del milagro de la creación además del mismísimo Padre de Todo fue el buen Alguacil Strange."
+    }
+   ],
+   "lugar": "Jardines de Castle Doom, Battleworld",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-131-v4.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Battleworld",
+ "numero_comic": 5,
+ "pagina": 131,
+ "archivo": "paginas/page-131.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5342,
+ "_seg": 18.0
+}

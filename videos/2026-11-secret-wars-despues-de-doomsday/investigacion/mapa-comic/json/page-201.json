@@ -1,0 +1,255 @@
+{
+ "tipo": "historia",
+ "resumen": "El Maestro proclama su intención de desafiar a Doom desde lo alto de la muralla del Escudo, pero de pronto la gigantesca muralla —que es en realidad Ben Grimm, la Cosa— se despierta y se levanta. Ben Grimm aplasta la enorme nave voladora del Maestro. Abajo, los miembros de los Thor Corps observan la caída de la nave e intentan escapar, mientras la cabeza decapitada de Mister Siniestro lamenta patéticamente no poder huir.",
+ "personajes": [
+  "Maestro",
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Thor (Jane Foster)",
+  "Mister Siniestro"
+ ],
+ "eventos_clave": [
+  "El despertar y levantamiento de la Cosa (Ben Grimm) que formaba el Escudo",
+  "Destrucción del helicarrier/nave de guerra del Maestro",
+  "Humillación de Mister Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    40,
+    276,
+    676
+   ],
+   "descripcion": "El Maestro contempla a lo lejos el castillo de Doom desde la cima del gran muro, levantando los brazos en señal de desafío.",
+   "prompt_en": "Comic panel wide view, muscular bearded Hulk-like warlord with green skin and shoulder armor standing on a ledge looking toward a distant white gothic castle over a snowy valley.",
+   "personajes": [
+    "Maestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "maestro",
+    "el-escudo",
+    "battleworld",
+    "desafio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "Can you see me from your castle, Doom?",
+     "texto_es": "¿Puedes verme desde tu castillo, Doom?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "For the Maestro is here. And I have brought the entire Green North to your lands.",
+     "texto_es": "Porque el Maestro está aquí. Y he traído a todo el Norte Verde a tus tierras."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-201-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    22,
+    683,
+    276,
+    994
+   ],
+   "descripcion": "Plano medio corto del Maestro barbudo con expresión desafiante que de pronto cambia a confusión.",
+   "prompt_en": "Comic panel close-up of an old green hulk with long hair and gray beard looking back surprised.",
+   "personajes": [
+    "Maestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "maestro",
+    "sorpresa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "I have waited a long time for this day! And when I am done with the armies below, I am coming for you, God...",
+     "texto_es": "¡He esperado mucho tiempo por este día! Y cuando termine con los ejércitos de abajo, iré por ti, Dios..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "I am--",
+     "texto_es": "Yo soy--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "Huh?",
+     "texto_es": "¿Eh?"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "sorpresivo",
+   "recorte": "vinetas/page-201-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    278,
+    40,
+    509,
+    994
+   ],
+   "descripcion": "Una cabeza gigantesca hecha de roca naranja (Ben Grimm) se alza sobre el muro justo enfrente del Maestro.",
+   "prompt_en": "Comic panel low angle, colossal orange stone giant head looming over a green armored warrior on a ledge.",
+   "personajes": [
+    "Maestro",
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "la-cosa",
+    "el-escudo",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "What is this?",
+     "texto_es": "¿Qué es esto?"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "impactante",
+   "recorte": "vinetas/page-201-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    513,
+    40,
+    755,
+    994
+   ],
+   "descripcion": "El gigante de piedra destruye violentamente la nave voladora de guerra del Maestro en una explosión masiva de fuego y escombros.",
+   "prompt_en": "Comic action panel, colossal stone giant smashing a futuristic flying warship in a massive orange explosion with sound effect FARBOOM.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "destruccion",
+    "explosion",
+    "la-cosa",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "Well, pal, clearly I'mma giant orange guy on his way to settle old scores...",
+     "texto_es": "Bueno, amigo, claramente soy un sujeto naranja gigante en camino a saldar cuentas pendientes..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "And you look like somethin' in my way.",
+     "texto_es": "Y tú pareces algo en mi camino."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "FARBOOM",
+     "texto_es": "FARBOOM"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "caótico",
+   "recorte": "vinetas/page-201-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    759,
+    40,
+    976,
+    688
+   ],
+   "descripcion": "En el suelo, entre la humareda, Thor (Jane Foster) y otros guerreros Thor avanzan mientras miran la nave cayendo en llamas.",
+   "prompt_en": "Comic panel, female Thor holding Mjolnir in smoky orange haze surrounded by fallen warriors watching fire in the sky.",
+   "personajes": [
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "campo-de-batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[soldado de Thor Corps]",
+     "texto": "Look! The Maestro's ship is coming down!",
+     "texto_es": "¡Miren! ¡La nave del Maestro se viene abajo!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[soldado de Thor Corps]",
+     "texto": "Run!",
+     "texto_es": "¡Corran!"
+    }
+   ],
+   "lugar": "Campo de batalla, Battleworld",
+   "tono": "urgente",
+   "recorte": "vinetas/page-201-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    759,
+    696,
+    976,
+    963
+   ],
+   "descripcion": "Primer plano de la cabeza cortada de Mister Siniestro yaciendo en el suelo entre escombros.",
+   "prompt_en": "Comic panel close-up of severed head of pale villain with red diamond on forehead lying on dusty ground.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "humor-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Alas, I cannot...",
+     "texto_es": "Lamentablemente, no puedo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "How embarrassing.",
+     "texto_es": "Qué vergonzoso."
+    }
+   ],
+   "lugar": "Campo de batalla, Battleworld",
+   "tono": "cómico",
+   "recorte": "vinetas/page-201-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld / El Escudo",
+ "numero_comic": 7,
+ "pagina": 201,
+ "archivo": "paginas/page-201.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6099,
+ "_seg": 19.4
+}

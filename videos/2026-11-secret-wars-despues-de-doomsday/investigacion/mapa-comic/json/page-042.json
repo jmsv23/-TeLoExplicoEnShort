@@ -1,0 +1,210 @@
+{
+ "tipo": "historia",
+ "resumen": "En un ritual del Cuerpo de Thors (Thor Corps) en Battleworld, un joven novicio intenta levantar el martillo sagrado tras el fracaso de su compañero. El martillo determina quién es digno de servir a Dios Emperador Doom como un Thor.",
+ "personajes": [
+  "[Thor de Higher Avalon]",
+  "[candidato a Thor]",
+  "[guardia de los Thor Corps]"
+ ],
+ "eventos_clave": [
+  "Prueba de dignidad para unirse a los Thor Corps",
+  "Un candidato falla al intentar levantar el martillo",
+  "El joven Thor de Higher Avalon da un paso adelante para tomar el martillo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    39,
+    196,
+    967
+   ],
+   "descripcion": "Un plano detalle del martillo sagrado Mjolnir clavado en un bloque de piedra, desprendiendo una luz verde mística mientras una mano se extiende hacia él.",
+   "prompt_en": "Close-up of a legendary war hammer embedded in a stone pedestal, emitting a magical green aura as a hand reaches towards it, digital comic book style.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir",
+    "battleworld",
+    "prueba-de-dignidad"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Do you see it, boy?",
+     "texto_es": "¿Lo ves, chico?"
+    }
+   ],
+   "lugar": "Salón de Pruebas de los Thor Corps",
+   "tono": "místico",
+   "recorte": "vinetas/page-042-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    201,
+    39,
+    388,
+    967
+   ],
+   "descripcion": "Un joven guerrero musculoso sin camiseta hace un gran esfuerzo físico intentando tirar del martillo para extraerlo del yunque de piedra.",
+   "prompt_en": "Muscular young warrior pulling with all his strength on a war hammer stuck in a stone block, green glowing background, dynamic action frame.",
+   "personajes": [
+    "[candidato a Thor]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "esfuerzo",
+    "prueba"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "This is a test.",
+     "texto_es": "Esto es una prueba."
+    }
+   ],
+   "lugar": "Salón de Pruebas de los Thor Corps",
+   "tono": "dramático",
+   "recorte": "vinetas/page-042-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    395,
+    39,
+    597,
+    574
+   ],
+   "descripcion": "Primer plano del rostro del candidato musculoso apretando los dientes con frustración mientras sostiene la empuñadura del martillo.",
+   "prompt_en": "Close-up of a blonde muscular male warrior gritting his teeth in frustration, holding a metal handle, epic comic lighting.",
+   "personajes": [
+    "[candidato a Thor]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "frustracion"
+   ],
+   "textos": [],
+   "lugar": "Salón de Pruebas de los Thor Corps",
+   "tono": "tenso",
+   "recorte": "vinetas/page-042-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    395,
+    590,
+    597,
+    967
+   ],
+   "descripcion": "Un muchacho joven y delgado en taparrabos observa atentamente mientras un imponente guardia Thor acorazado con hacha permanece de pie a su lado.",
+   "prompt_en": "A slender young blonde boy standing next to a heavily armored warrior holding a halberd, comic book art.",
+   "personajes": [
+    "[Thor de Higher Avalon]",
+    "[guardia de los Thor Corps]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "guardia"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Which is fitting, for God measures us all in some way.",
+     "texto_es": "Lo cual es apropiado, pues Dios nos mide a todos de alguna manera."
+    }
+   ],
+   "lugar": "Salón de Pruebas de los Thor Corps",
+   "tono": "solemne",
+   "recorte": "vinetas/page-042-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    607,
+    37,
+    971,
+    727
+   ],
+   "descripcion": "Vista aérea del salón donde el primer candidato se ha retirado derrotado y el joven novicio camina hacia el altar con el martillo.",
+   "prompt_en": "High angle wide shot of a circular ceremonial hall with glowing green lines on the floor, two young candidates near a stone pedestal with a hammer.",
+   "personajes": [
+    "[candidato a Thor]",
+    "[Thor de Higher Avalon]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "ritual"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "This day? Here and now?",
+     "texto_es": "¿Este día? ¿Aquí y ahora?"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The test is yours.",
+     "texto_es": "La prueba es tuya."
+    }
+   ],
+   "lugar": "Salón de Pruebas de los Thor Corps",
+   "tono": "ceremonial",
+   "recorte": "vinetas/page-042-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    607,
+    735,
+    971,
+    967
+   ],
+   "descripcion": "Primer plano del joven Thor de Higher Avalon poniendo su mano en la empuñadura del martillo con mirada decidida y serena.",
+   "prompt_en": "Close up of a young boy's hand wrapping around a leather-wrapped hammer handle, looking up with green eyes and resolute expression.",
+   "personajes": [
+    "[Thor de Higher Avalon]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "origen",
+    "destino"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Step forward and seek His favor.",
+     "texto_es": "Da un paso al frente y busca su favor."
+    }
+   ],
+   "lugar": "Salón de Pruebas de los Thor Corps",
+   "tono": "epico",
+   "recorte": "vinetas/page-042-v6.jpg"
+  }
+ ],
+ "lugar": "Salón de Pruebas de los Thor Corps, Battleworld",
+ "numero_comic": 2,
+ "pagina": 42,
+ "archivo": "paginas/page-042.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5413,
+ "_seg": 21.4
+}

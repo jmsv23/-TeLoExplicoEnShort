@@ -1,0 +1,191 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange explica a los supervivientes de la balsa de salvamento (Miles Morales, Peter Parker, T'Challa, Reed Richards y Thor) la nueva realidad de Battleworld gobernado por Dios Emperador Doom. Strange les revela que pequeños fragmentos de sus mundos originales, como partes de Nueva York y Wakanda, lograron sobrevivir en este nuevo mundo.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Spider-Man (Miles Morales)",
+  "Spider-Man (Peter Parker)",
+  "Black Panther (T'Challa)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "Doctor Strange revela que Doom reina como Dios en Battleworld",
+  "Strange confirma la existencia de fragmentos de la Tierra-616 y la Tierra-1610 (Nueva York y Wakanda)"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    30,
+    36,
+    303,
+    970
+   ],
+   "descripcion": "Doctor Strange camina dando la espalda mientras habla sobre el poder de Doom. A la derecha, Miles Morales y Peter Parker reaccionan conmocionados al enterarse de la destrucción de sus mundos.",
+   "prompt_en": "Comic panel showing Doctor Strange in a black and gold tunic from behind, talking to Miles Morales in black Spider-Man suit and Peter Parker in classic suit, looking shocked in a dark room.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "revelaciones",
+    "doom-dios",
+    "supervivientes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "And now you serve him.",
+     "texto_es": "Y ahora le sirves a él."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Now... he is God.",
+     "texto_es": "Ahora... él es Dios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Doubt him if you want. Defy him. Curse his very existence... it doesn't matter. He reigns.",
+     "texto_es": "Duda de él si quieres. Desafíalo. Maldice su propia existencia... No importa. Él reina."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "So... it's all gone? My world? My friends and family?",
+     "texto_es": "¿Entonces... todo se fue? ¿Mi mundo? ¿Mis amigos y mi familia?"
+    }
+   ],
+   "lugar": "Cámara de salvamento de Doctor Strange",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-114-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    317,
+    36,
+    639,
+    568
+   ],
+   "descripcion": "Vista desde la espalda de Miles Morales hacia Doctor Strange, quien levanta la mano junto a una esfera de luz explicando que fragmentos de Nueva York sobrevivieron.",
+   "prompt_en": "Medium shot of Doctor Strange with a streak of white hair, glowing energy near his hand, talking to Spider-Man Miles Morales viewed from behind.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "explicacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Not all of it. Some small bits remain. Some of your New York.",
+     "texto_es": "No todo. Quedan pequeñas partes. Algo de tu Nueva York."
+    }
+   ],
+   "lugar": "Cámara de salvamento de Doctor Strange",
+   "tono": "revelación",
+   "recorte": "vinetas/page-114-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    317,
+    575,
+    639,
+    970
+   ],
+   "descripcion": "Primer plano de Doctor Strange hablando hacia Black Panther y Mister Fantástico (Reed Richards), quien luce cansado y envejecido.",
+   "prompt_en": "Close up of Doctor Strange speaking to Black Panther in his suit and an aged Reed Richards with grey hair.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "wakanda",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "A small portion of Wakanda.",
+     "texto_es": "Una pequeña porción de Wakanda."
+    }
+   ],
+   "lugar": "Cámara de salvamento de Doctor Strange",
+   "tono": "serio",
+   "recorte": "vinetas/page-114-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    653,
+    36,
+    979,
+    970
+   ],
+   "descripcion": "Thor (Jane Foster) en primer plano portando a Mjolnir envuelto en llamas divinas, cuestionando la moralidad del nuevo mundo de Doctor Strange mientras los demás héroes observan.",
+   "prompt_en": "Dramatic shot of Thor Jane Foster holding a glowing flaming hammer in foreground, with Doctor Strange, Black Panther, and Spider-Man in background.",
+   "personajes": [
+    "Thor (Jane Foster)",
+    "Spider-Man (Miles Morales)",
+    "Black Panther (T'Challa)",
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "confrontacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "Is that enough? Is it enough to remind us of who we were in the face of where we are now?",
+     "texto_es": "¿Es eso suficiente? ¿Es suficiente para recordarnos quiénes éramos frente a dónde estamos ahora?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "There are times when this world falls far short of what I hoped it would be. But it is real--it exists--and that counts for something.",
+     "texto_es": "Hay momentos en que este mundo se queda muy corto de lo que esperaba que fuera. Pero es real, existe, y eso cuenta para algo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "Then I have to ask, Sorcerer...",
+     "texto_es": "Entonces tengo que preguntar, hechicero..."
+    }
+   ],
+   "lugar": "Cámara de salvamento de Doctor Strange",
+   "tono": "dramático",
+   "recorte": "vinetas/page-114-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 114,
+ "archivo": "paginas/page-114.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5796,
+ "_seg": 20.1
+}

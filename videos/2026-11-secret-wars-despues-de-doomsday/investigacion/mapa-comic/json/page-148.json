@@ -1,0 +1,181 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange imparte instrucciones a los sobrevivientes que ha esparcido a través de distintas provincias de Battleworld (Doomgard, Egyptia, Bar Sinister y Doomstadt), pidiéndoles discreción mientras él maneja las repercusiones con el Dios Emperador Doom.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Thor Corps (varios Thors)",
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Mister Siniestro",
+  "Capitana Marvel (Carol Danvers)",
+  "Cisne Negro (Black Swan)"
+ ],
+ "eventos_clave": [
+  "Doctor Strange dispersa a los héroes por Battleworld para buscar respuestas sobre la creación del mundo.",
+  "Panorama de las regiones de Doomgard, Egyptia, Bar Sinister y Doomstadt."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    368,
+    1000
+   ],
+   "descripcion": "En Doomgard, miembros de los Thor Corps beben hidromiel e interactúan en un banquete.",
+   "prompt_en": "Comic panel showing members of the Thor Corps drinking mead from wooden tankards in a hall in Doomgard.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "thor-corps",
+    "doomgard"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "We're going to take this all the way to the end of the line.",
+     "texto_es": "Vamos a llevar esto hasta las últimas consecuencias."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "DOOMGARD.",
+     "texto_es": "DOOMGARD."
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "epico",
+   "recorte": "vinetas/page-148-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    368,
+    38,
+    680,
+    370
+   ],
+   "descripcion": "En Egyptia, Black Panther y Namor observan juntos el paisaje helado y en ruinas.",
+   "prompt_en": "Comic panel showing Black Panther and Namor standing together in the cold ruins of Egyptia.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "egyptia",
+    "black-panther",
+    "namor"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "No matter where it goes.",
+     "texto_es": "Sin importar a dónde lleve."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "EGYPTIA.",
+     "texto_es": "EGYPTIA."
+    }
+   ],
+   "lugar": "Egyptia",
+   "tono": "tenso",
+   "recorte": "vinetas/page-148-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    368,
+    370,
+    680,
+    962
+   ],
+   "descripcion": "En Bar Sinister, Capitana Marvel forcejea con una figura encapuchada mientras Mister Siniestro observa desde el fondo.",
+   "prompt_en": "Comic panel showing Captain Marvel confronting a cloaked figure in Bar Sinister while Mister Sinister watches in the background.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "bar-sinister",
+    "mister-siniestro",
+    "capitana-marvel"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I'll handle any noise from the throne, but for now what we learn stays with us...",
+     "texto_es": "Yo me encargaré de cualquier ruido desde el trono, pero por ahora lo que aprendamos se queda entre nosotros..."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "BAR SINISTER.",
+     "texto_es": "BAR SINISTER."
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-148-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    690,
+    38,
+    975,
+    962
+   ],
+   "descripcion": "En Doomstadt, Cisne Negro se encuentra suspendida en el aire conectada a zarcillos o cables oscuros.",
+   "prompt_en": "Comic panel showing Black Swan suspended by dark tentacles against a greenish background in Doomstadt.",
+   "personajes": [
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "doomstadt",
+    "cisne-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Understand?",
+     "texto_es": "¿Entendido?"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "DOOMSTADT.",
+     "texto_es": "DOOMSTADT."
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-148-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 148,
+ "archivo": "paginas/page-148.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6260,
+ "_seg": 22.0
+}

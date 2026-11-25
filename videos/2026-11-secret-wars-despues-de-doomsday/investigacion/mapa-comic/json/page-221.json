@@ -1,0 +1,263 @@
+{
+ "tipo": "historia",
+ "resumen": "T'Challa (Black Panther) y Namor encarana al Dios Emperador Doom durante el caos final en Battleworld. T'Challa revela que lleva equipado el Guantelete del Infinito con todas las Gemas para desafiar la divinidad de Victor von Doom.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "[zombi]"
+ ],
+ "eventos_clave": [
+  "T'Challa y Namor confrontan a Doctor Doom en el campo de batalla",
+  "Doom ofrece restaurar Atlantis y Wakanda a cambio de su sumisión",
+  "T'Challa muestra el Guantelete del Infinito y rechaza la oferta de Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    21,
+    35,
+    278,
+    250
+   ],
+   "descripcion": "Un zombi deforme y demacrado ruge con furia mientras la masa de no-muertos avanza.",
+   "prompt_en": "Close up of a terrifying marvel zombie roaring with open mouth and glowing vacant eyes, gritty comic style.",
+   "personajes": [
+    "[zombi]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "zombies",
+    "deadlands",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "[zombi]",
+     "texto": "GRAW!",
+     "texto_es": "¡GRAW!"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"I see now...\"",
+     "texto_es": "\"Ahora lo veo...\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-221-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    260,
+    353,
+    1000
+   ],
+   "descripcion": "Vista en plano medio contra picado detrás de las piernas de T'Challa y Namor, mirando a la figura encapuchada en blanco del Dios Emperador Doom observando a las masas en el horizonte.",
+   "prompt_en": "Low angle view from behind two heroes facing God Emperor Doom in white robes on a vast apocalyptic battlefield.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld",
+    "enfrentamiento-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Gathered armies sprawling to the horizon...",
+     "texto_es": "Ejércitos reunidos desplegándose hasta el horizonte..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...All this structured chaos, it reeks of machination, T'Challa.",
+     "texto_es": "...Todo este caos estructurado apesta a maquinación, T'Challa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You orchestrated this, didn't you?",
+     "texto_es": "Tú orquestaste esto, ¿no es así?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-221-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    364,
+    38,
+    617,
+    388
+   ],
+   "descripcion": "Namor sosteniendo un tridente dorado detrás de Black Panther, ambos con miradas firmes y decididas.",
+   "prompt_en": "Namor holding a golden trident standing behind Black Panther looking determined in comic art style.",
+   "personajes": [
+    "Namor",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reyes",
+    "wakanda",
+    "atlantis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "He had some help.",
+     "texto_es": "Tuvo algo de ayuda."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "It's over, Victor. This madness has to end.",
+     "texto_es": "Se acabó, Victor. Esta locura tiene que terminar."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-221-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    364,
+    395,
+    617,
+    960
+   ],
+   "descripcion": "Doctor Doom extiende su mano abierta con tono paternalista intentando persuadir a los dos reyes.",
+   "prompt_en": "God Emperor Doom wearing a metallic mask and white cape extending his open hand in a persuasive gesture.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "negociacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Come now, Namor. The two of you know the expectations that come with being a ruler of men. I'm sure that if you try, you can imagine the ones a god must be burdened with.",
+     "texto_es": "Vamos, Namor. Ustedes dos conocen las expectativas que conlleva ser un gobernante de hombres. Estoy seguro de que si lo intentan, pueden imaginar aquellas con las que un dios debe cargar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And that has value. You could join me. I would raise a new Atlantis. I would remake Wakanda.",
+     "texto_es": "Y eso tiene valor. Podrían unirse a mí. Erigiría una nueva Atlantis. Rehacería Wakanda."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I can give you back everything you've lost.",
+     "texto_es": "Puedo devolverles todo lo que han perdido."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "manipulador",
+   "recorte": "vinetas/page-221-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    627,
+    0,
+    967,
+    705
+   ],
+   "descripcion": "Black Panther alza en alto su brazo portando el Guantelete del Infinito repleto de gemas brillantes.",
+   "prompt_en": "Black Panther raising his left arm wearing the complete Infinity Gauntlet with glowing gems, side angle shot.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "black-panther",
+    "gemas-del-infinito"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "And what good would that be? A fake kingdom, on a manufactured world, subjected to the whims of a vain fraud...",
+     "texto_es": "¿Y de qué serviría eso? Un reino falso, en un mundo fabricado, sujeto a los caprichos de un fraude vanidoso..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "You may have the power, Victor, but raising up a new Wakanda would require a vision you just don't possess.",
+     "texto_es": "Puede que tengas el poder, Victor, pero erigir una nueva Wakanda requeriría una visión que simplemente no posees."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-221-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    627,
+    715,
+    946,
+    960
+   ],
+   "descripcion": "Primer plano de la cara con máscara metálica del Dios Emperador Doom observando a T'Challa con incredulidad y desdén.",
+   "prompt_en": "Extreme close-up of Doctor Doom's iconic silver metal mask under a white hood.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "enfrentamiento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And you do? Is that your plan? You have an Infinity Gauntlet, and with it you're going to try to take my power for yourself?",
+     "texto_es": "¿Y tú sí? ¿Es ese tu plan? ¿Tienes un Guantelete del Infinito y con él vas a intentar tomar mi poder para ti?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "The fallen king of Wakanda... reborn as a messiah?",
+     "texto_es": "¿El rey caído de Wakanda... renacido como un mesías?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "burlon",
+   "recorte": "vinetas/page-221-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 221,
+ "archivo": "paginas/page-221.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7307,
+ "_seg": 25.0
+}

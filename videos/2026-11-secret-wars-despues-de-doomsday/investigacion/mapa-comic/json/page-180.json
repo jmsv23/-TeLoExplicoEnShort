@@ -1,0 +1,99 @@
+{
+ "tipo": "historia",
+ "resumen": "Maximus (conocido como El Profeta) se revela ante sus tropas alzando una calavera con cuernos y arenga a sus seguidores a avanzar hacia la batalla campal y el fin de todas las cosas.",
+ "personajes": [
+  "Maximus / El Profeta"
+ ],
+ "eventos_clave": [
+  "Maximus revela su verdadera identidad a sus seguidores",
+  "El ejército de Maximus se lanza al combate en Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    0,
+    313,
+    992
+   ],
+   "descripcion": "Maximus, furioso y desgreñado, alza la cabeza ósea con cuernos de un enemigo mientras grita a la multitud.",
+   "prompt_en": "Close shot of a chaotic wild-eyed man with dark hair holding up a horned alien skull in triumph and screaming with an open mouth, comic book style.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "maximus",
+    "el-profeta",
+    "rebelion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus / El Profeta",
+     "texto": "It's me, you idiots.",
+     "texto_es": "¡Soy yo, idiotas!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus / El Profeta",
+     "texto": "Maximus!",
+     "texto_es": "¡Maximus!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "violento, eufórico",
+   "recorte": "vinetas/page-180-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    313,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Plano general de una gran batalla campal a los pies de un místico árbol gigante y un castillo brumoso al fondo, con guerreros combatiendo ferozmente.",
+   "prompt_en": "Wide scene of a large fantasy army battle at the base of a colossal ethereal ancient tree and misty castle in the background, green skin warriors fighting.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "batalla",
+    "battleworld",
+    "rebelion",
+    "el-profeta"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Maximus / El Profeta",
+     "texto": "\"You followed me here to certain doom.",
+     "texto_es": "\"Me siguieron hasta aquí hacia una perdición segura."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Maximus / El Profeta",
+     "texto": "\"To the very end of all that is. And it's going to be so... much... fun.\"",
+     "texto_es": "\"Hasta el mismísimo final de todo lo que existe. Y va a ser... tan... divertido.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico, amenazante",
+   "recorte": "vinetas/page-180-v2.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 5,
+ "pagina": 180,
+ "archivo": "paginas/page-180.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4190,
+ "_seg": 14.2
+}

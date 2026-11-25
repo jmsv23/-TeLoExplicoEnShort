@@ -1,0 +1,236 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom encomienda a su hija Valeria Richards la búsqueda de los supervivientes de la balsa de salvamento que escaparon. Doom reconoce estar demasiado indignado como para buscarlos personalmente sin poner en riesgo la estabilidad del mundo, y le advierte a Valeria que obedezca sin hacer más preguntas.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Doom le encarga a Valeria la misión de localizar a los supervivientes de la balsa",
+  "Doom advierte a Valeria sobre los límites de su paciencia"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    33,
+    277,
+    627
+   ],
+   "descripcion": "Valeria Richards se inclina hacia adelante mientras habla con Doom, quien aparece de espaldas con su túnica blanca.",
+   "prompt_en": "Comic panel showing God Emperor Doom wearing a white cloaked outfit standing on the left, talking to Valeria Richards in a white sci-fi uniform kneeling in a blue glowing misty forest environment.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "But it is unwise for me to pursue them at this time. I'm upset. And in such a state... I just might break the world.",
+     "texto_es": "Pero no es sabio que yo los persiga en este momento. Estoy alterado. Y en tal estado... podría romper el mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "So you will find them, and then I will show you what real judgment looks like.",
+     "texto_es": "Así que tú los encontrarás, y luego les mostraré cómo se ve el juicio real."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Okay. But I still don't understand how they all escaped.",
+     "texto_es": "Está bien. Pero sigo sin entender cómo escaparon todos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-135-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    637,
+    277,
+    966
+   ],
+   "descripcion": "Primer plano de Valeria Richards pensativa, llevándose la mano a la boca.",
+   "prompt_en": "Close-up comic panel of young female character Valeria Richards with blonde hair, looking thoughtful and suspicious with her hand near her chin, blue color palette.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "If I'm going to find these people, I have to know everything about them.",
+     "texto_es": "Si voy a encontrar a estas personas, tengo que saber todo sobre ellas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I know something... unexpected happened out there, Father, and I want to know what it was.",
+     "texto_es": "Sé que algo... inesperado sucedió allá afuera, Padre, y quiero saber qué fue."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-135-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    288,
+    33,
+    493,
+    966
+   ],
+   "descripcion": "Plano general de Doom y Valeria bajo las grandes raíces de un árbol en un entorno azul místico.",
+   "prompt_en": "Wide comic shot of a tall cloaked figure God Emperor Doom standing opposite a smaller young girl under huge mystical giant tree roots, blue twilight lighting.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-135-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    504,
+    33,
+    756,
+    351
+   ],
+   "descripcion": "Primer plano del rostro enmascarado de Doctor Doom, enfocado en su ojo derecho lleno de determinación y amenaza.",
+   "prompt_en": "Extreme close-up comic shot of Doctor Doom's metal mask and piercing glowing eye staring intensely from beneath his hood.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "amenaza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Undying love and eternal patience are not the same thing, child.",
+     "texto_es": "El amor eterno y la paciencia eterna no son la misma cosa, hija."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Do not confuse them.",
+     "texto_es": "No los confundas."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-135-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    504,
+    360,
+    756,
+    966
+   ],
+   "descripcion": "Doom se agacha al nivel de Valeria, sosteniendo sus manos con tono paternal pero firme.",
+   "prompt_en": "Comic panel of God Emperor Doom kneeling down to hold hands with Valeria Richards, speaking sternly and intimately to her.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I need you to find these people. I need you to catch them. And I need you to do it without asking any more questions.",
+     "texto_es": "Necesito que encuentres a estas personas. Necesito que las atrapéis. Y necesito que lo hagas sin hacer más preguntas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Are you the Daughter of Doom? Capable of all things?",
+     "texto_es": "¿Eres la Hija de Doom? ¿Capaz de todas las cosas?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Yes, sir.",
+     "texto_es": "Sí, señor."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-135-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    767,
+    33,
+    976,
+    966
+   ],
+   "descripcion": "Valeria echa a correr acatando la orden mientras Doom señala el camino a seguir.",
+   "prompt_en": "Wide panel of Valeria running away to fulfill a command while God Emperor Doom in white cloak points his arm forward to order her.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Then find them.",
+     "texto_es": "Entonces encuéntralos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "decisivo",
+   "recorte": "vinetas/page-135-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 5,
+ "pagina": 135,
+ "archivo": "paginas/page-135.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5899,
+ "_seg": 21.4
+}

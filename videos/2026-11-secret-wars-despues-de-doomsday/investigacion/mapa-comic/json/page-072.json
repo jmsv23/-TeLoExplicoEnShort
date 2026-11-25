@@ -1,0 +1,201 @@
+{
+ "tipo": "historia",
+ "resumen": "El Barón Jamie Braddock es castigado al exilio al otro lado del Escudo por desafiar la ley de Dios Emperador Doom. Tras despedirse de los miembros de los Thor Corps, salta heroicamente hacia las desoladas tierras infestadas de monstruos para luchar hasta su último aliento.",
+ "personajes": [
+  "Capitán Britania / James Braddock",
+  "Thor (Thor Corps)",
+  "[Thor joven]"
+ ],
+ "eventos_clave": [
+  "Exilio de Jamie Braddock al otro lado del Escudo",
+  "Salto heroico de Jamie Braddock hacia las Deadlands"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    36,
+    351,
+    351
+   ],
+   "descripcion": "Un joven recluta de la Thor Corps observa a Jamie Braddock mientras este ajusta sus guanteletes de armadura.",
+   "prompt_en": "Comic panel showing a young Thor warrior and a dark-haired warrior preparing for exile on top of a massive wall.",
+   "personajes": [
+    "[Thor joven]",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "el-escudo",
+    "exilio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor joven]",
+     "texto": "I have absolutely no desire to see such a thing, my lord.",
+     "texto_es": "No tengo absolutamente ningún deseo de ver tal cosa, mi señor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "Then this will be a lesson for you--one you should learn now and remember for all your days.",
+     "texto_es": "Entonces esto será una lección para ti, una que deberías aprender ahora y recordar todos tus días."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "There are no great men above reproach, just God and his whims to which we are mercy.",
+     "texto_es": "No hay grandes hombres libres de culpa, solo Dios y sus antojos a cuya merced estamos."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-072-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    357,
+    351,
+    650
+   ],
+   "descripcion": "Un anciano Thor de barba blanca y parche en el ojo se despide solemnemente de Jamie Braddock mientras este sostiene su casco.",
+   "prompt_en": "An old bearded warrior with an eyepatch speaking somberly to a hero holding his Union Jack helmet.",
+   "personajes": [
+    "Thor (Thor Corps)",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "el-escudo",
+    "despedida"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Thor Corps)",
+     "texto": "I'm sorry... but it's time, Baron.",
+     "texto_es": "Lo siento... pero es la hora, Barón."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Thor Corps)",
+     "texto": "Have you any final words?",
+     "texto_es": "¿Tienes unas últimas palabras?"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "triste",
+   "recorte": "vinetas/page-072-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    26,
+    656,
+    351,
+    968
+   ],
+   "descripcion": "El viejo Thor le da unas últimas palabras de ánimo a Jamie Braddock, quien se coloca de espaldas en el borde del abismo.",
+   "prompt_en": "Close up of an old warrior encouraging a hero preparing to leap off a giant cliff edge.",
+   "personajes": [
+    "Thor (Thor Corps)",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "el-escudo",
+    "sacrificio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Thor Corps)",
+     "texto": "When they come to pull you down, don't let them drag you, son.",
+     "texto_es": "Cuando vengan a derribarte, no dejes que te arrastren, hijo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "You jump...",
+     "texto_es": "Tú saltas..."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "heroico",
+   "recorte": "vinetas/page-072-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    358,
+    36,
+    786,
+    968
+   ],
+   "descripcion": "Jamie Braddock salta heroicamente hacia el vacío de las tierras baldías armadas con dos dagas.",
+   "prompt_en": "A superhero in Union Jack themed armor diving heroically off a high ledge into a vast rocky wasteland with twin blades outstretched.",
+   "personajes": [
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-escudo",
+    "salto-heroico",
+    "deadlands",
+    "exilio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "...and take as many of the bastards with you as you can.",
+     "texto_es": "...y te llevas a tantos de los bastardos contigo como puedas."
+    }
+   ],
+   "lugar": "Las Tierras Baldías / Deadlands, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-072-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    787,
+    36,
+    980,
+    968
+   ],
+   "descripcion": "Jamie Braddock aterriza bruscamente contra el suelo rocoso del territorio prohibido.",
+   "prompt_en": "Comic panel of a futuristic armored warrior landing hard on dusty rocky ground, creating small cracks and impact dust.",
+   "personajes": [
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-escudo",
+    "aterrizaje",
+    "deadlands"
+   ],
+   "textos": [],
+   "lugar": "Las Tierras Baldías / Deadlands, Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-072-v5.jpg"
+  }
+ ],
+ "lugar": "El Escudo / Deadlands, Battleworld",
+ "numero_comic": 2,
+ "pagina": 72,
+ "archivo": "paginas/page-072.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6677,
+ "_seg": 24.4
+}

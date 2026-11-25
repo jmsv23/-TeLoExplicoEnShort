@@ -1,0 +1,216 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras la batalla final por Battleworld ocurre en la superficie entre las fuerzas de Doom y Black Panther con el Guantelete del Infinito, Reed Richards (Mister Fantástico) y El Hacedor (Maker) descienden a las profundidades para encontrar la fuente del poder de Doom: el Hombre Molécula (Owen Reece). Owen les pregunta si le llevaron comida, confesando que se está muriendo de hambre.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Hombre Molécula (Owen Reece)",
+  "Black Panther (T'Challa)"
+ ],
+ "eventos_clave": [
+  "Reed Richards y El Hacedor confrontan al Hombre Molécula",
+  "El Hombre Molécula pide comida a los Reeds"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    508,
+    1000
+   ],
+   "descripcion": "Ilustración mística y cósmica que muestra una sombra felina gigante (el espíritu de la Pantera Negra) y múltiples ojos brillantes sobre un fondo rosa y púrpura cargado de energía. En la parte inferior, cajas de narración de El Hacedor.",
+   "prompt_en": "Comic panel showing a giant cosmic panther spirit shadow surrounded by glowing mystic eyes and pink energy crackles, top down view of a surreal battle aspect",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "dios-pantera",
+    "bast",
+    "battleworld",
+    "batalla-final"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Well...that didn't seem to go as expected.",
+     "texto_es": "Bueno... eso no pareció salir como se esperaba."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "You know, they say you should never lie to the ones you love.",
+     "texto_es": "Sabes, dicen que nunca deberías mentirle a quienes amas."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Which is why I never lie to myself...",
+     "texto_es": "Por eso es que nunca me miento a mí mismo..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "místico",
+   "recorte": "vinetas/page-227-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    508,
+    32,
+    734,
+    493
+   ],
+   "descripcion": "Mister Fantástico y El Hacedor caminan por unas escaleras flotantes envueltas en una deslumbrante luz dorada y trozos de piedra rotos.",
+   "prompt_en": "Comic panel of two men in heroic suits walking up a floating staircase surrounded by golden light and floating debris",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "camara-del-hombre-molecula",
+    "reed-richards",
+    "hacedor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "You might want to consider that, Reed.",
+     "texto_es": "Quizás quieras considerar eso, Reed."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Be quiet, Maker. Listen... do you hear that?",
+     "texto_es": "Cállate, Hacedor. Escucha... ¿oyes eso?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Find the quietest place in the world--call it here, call it now--and if you close your eyes and listen, you can hear the screaming.",
+     "texto_es": "Encuentra el lugar más silencioso del mundo... llámalo aquí, llámalo ahora... y si cierras los ojos y escuchas, puedes oír los gritos."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "tenso",
+   "recorte": "vinetas/page-227-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    508,
+    503,
+    734,
+    963
+   ],
+   "descripcion": "Una diminuta silueta del Hombre Molécula acurrucado y flotando en el centro de una vasta nada blanca e iluminada.",
+   "prompt_en": "Comic panel of a tiny figure curled up suspended in a bright white empty void",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "vacio",
+    "prision"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Did you bring me something to eat, Reeds?",
+     "texto_es": "¿Me trajeron algo de comer, Reeds?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-227-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    744,
+    32,
+    974,
+    493
+   ],
+   "descripcion": "Plano medio de Mister Fantástico y El Hacedor parados juntos en la habitación dorada, mientras la cabeza del Hombre Molécula se asoma invertida en la esquina izquierda.",
+   "prompt_en": "Comic panel showing two science fiction heroes in white lighting while an inverted face peers from the side of the frame",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "encuentro",
+    "reed-richards",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I knew it--but I wasn't really prepared for it...",
+     "texto_es": "Lo sabía... pero no estaba realmente preparado para esto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I'm sorry, Owen. I don't have anything. How are you feeling?",
+     "texto_es": "Lo siento, Owen. No tengo nada. ¿Cómo te sientes?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "compasivo",
+   "recorte": "vinetas/page-227-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    744,
+    503,
+    974,
+    963
+   ],
+   "descripcion": "Primerísimo primer plano del rostro demacrado y envejecido del Hombre Molécula, mirando fijamente con ojos cansados.",
+   "prompt_en": "Extreme close-up comic panel of an elderly haggard man's face looking directly forward with tired eyes",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "hambre",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Oh...I'm starving.",
+     "texto_es": "Oh... me muero de hambre."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-227-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld, Cámara Secreta de Doom",
+ "numero_comic": 9,
+ "pagina": 227,
+ "archivo": "paginas/page-227.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6108,
+ "_seg": 23.3
+}

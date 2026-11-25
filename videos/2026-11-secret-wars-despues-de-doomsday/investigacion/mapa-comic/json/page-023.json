@@ -1,0 +1,156 @@
+{
+ "tipo": "historia",
+ "resumen": "La incursión final entre la Tierra-616 y la Tierra-1610 (Universo Ultimate) continúa. Una flota masiva de la Tierra Ultimate desata un devastador ataque sobre Manhattan. Medusa advierte a las fuerzas de la Tierra-616, Black Bolt es derribado durante el enfrentamiento y el Capitán América (Sam Wilson) observa con desolación la magnitud de la invasión.",
+ "personajes": [
+  "Black Bolt",
+  "Medusa",
+  "Capitán América",
+  "Iceman"
+ ],
+ "eventos_clave": [
+  "Ataque de la flota de la Tierra-1610 a Manhattan",
+  "Caída de Black Bolt durante el combate",
+  "Incursión final entre la Tierra-616 y la Tierra-1610"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    575,
+    1000
+   ],
+   "descripcion": "Una enorme armada de aeronaves de la Tierra Ultimate desciende destruyendo rascacielos en Nueva York mientras Black Bolt vuela directo al combate.",
+   "prompt_en": "A massive fleet of futuristic sci-fi war helicarriers attacking Manhattan, massive explosions destroying skyscrapers under a golden apocalyptic sky, a hero flying into battle.",
+   "personajes": [
+    "Black Bolt"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "incursion",
+    "tierra-1610",
+    "tierra-616",
+    "invasion",
+    "nueva-york"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "FOOM",
+     "texto_es": "FOOM"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "FOOM",
+     "texto_es": "FOOM"
+    }
+   ],
+   "recorte": "vinetas/page-023-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    550,
+    120,
+    785,
+    520
+   ],
+   "descripcion": "Medusa vista de espaldas con su extenso cabello rojo flotando, señalando al cielo y gritando advertencias a los héroes.",
+   "prompt_en": "A female hero with extremely long flowing red hair seen from behind in a purple suit, pointing towards a chaotic sky filled with explosions and battles.",
+   "personajes": [
+    "Medusa"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "medusa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Medusa",
+     "texto": "Prepare yourselves! The other Earth has launched a second attack!",
+     "texto_es": "¡Prepárense! ¡La otra Tierra ha lanzado un segundo ataque!"
+    }
+   ],
+   "recorte": "vinetas/page-023-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    720,
+    0,
+    1000,
+    480
+   ],
+   "descripcion": "Black Bolt cae derribado entre fuego y explosiones mientras héroes cercanos gritan alarmados por su caída.",
+   "prompt_en": "A hero falling defeated amidst explosions and lasers during an urban invasion, comic book style.",
+   "personajes": [
+    "Black Bolt"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "incursion",
+    "caida-black-bolt"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[héroe de fuego]",
+     "texto": "They got Black Bolt!",
+     "texto_es": "¡Le dieron a Black Bolt!"
+    }
+   ],
+   "recorte": "vinetas/page-023-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    535,
+    360,
+    1000,
+    1000
+   ],
+   "descripcion": "Una gigantesca nave enemiga se posiciona junto a la Torre Avengers mientras Iceman expresa su desconcierto y el Capitán América (Sam Wilson) responde impotente.",
+   "prompt_en": "Close up of Captain America (Sam Wilson) looking desperate and shocked, with a massive alien-like dreadnought hovering near a modern skyscraper in the background.",
+   "personajes": [
+    "Capitán América",
+    "Iceman"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "capitan-america",
+    "torre-avengers"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Iceman",
+     "texto": "Who are these guys? What are they?",
+     "texto_es": "¿Quiénes son estos tipos? ¿Qué son?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán América",
+     "texto": "I don't know...",
+     "texto_es": "No lo sé..."
+    }
+   ],
+   "recorte": "vinetas/page-023-v4.jpg"
+  }
+ ],
+ "lugar": "Nueva York (Tierra-616)",
+ "numero_comic": 1,
+ "pagina": 23,
+ "archivo": "paginas/page-023.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5863,
+ "_seg": 24.2
+}

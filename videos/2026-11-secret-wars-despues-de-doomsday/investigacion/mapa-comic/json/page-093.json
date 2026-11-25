@@ -1,0 +1,189 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange y Thor descubren a Miles Morales escondido en la balsa de supervivencia de la Tierra-1610 (Ultimate). Al interrogarlo, Strange se da cuenta con asombro de que Miles aún conserva sus recuerdos del mundo anterior y la incursión previa a la creación de Battleworld.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Spider-Man (Miles Morales)",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "Sheriff Strange descubre a Miles Morales a bordo de la balsa Ultimate",
+  "Miles Morales revela que recuerda el universo anterior y la incursión"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    241,
+    1000
+   ],
+   "descripcion": "Doctor Strange se encuentra en la entrada de la balsa de supervivencia ordenada que salgan los polizones.",
+   "prompt_en": "Doctor Strange wearing a purple cape and tunic standing outside an open sci-fi chamber hatchway, wide angle shot, comic book style.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa-de-supervivencia",
+    "sheriff-strange",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Let's go.",
+     "texto_es": "Vamos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Don't make me come in there.",
+     "texto_es": "No me hagan entrar allí."
+    }
+   ],
+   "lugar": "Balsa de supervivencia",
+   "tono": "serio",
+   "recorte": "vinetas/page-093-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    241,
+    0,
+    502,
+    1000
+   ],
+   "descripcion": "Miles Morales desciende boca abajo desde el marco de la escotilla con su traje de Spider-Man, levantando las manos.",
+   "prompt_en": "Spider-Man in black and red suit hanging upside down from a ceiling frame talking to Doctor Strange, comic book art.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "miles-morales",
+    "spider-man",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Okay. You got me. But, uh, I come in peace. Okay?",
+     "texto_es": "De acuerdo. Me atraparon. Pero, eh, vengo en paz. ¿Está bien?"
+    }
+   ],
+   "lugar": "Balsa de supervivencia",
+   "tono": "humorístico",
+   "recorte": "vinetas/page-093-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    510,
+    33,
+    836,
+    977
+   ],
+   "descripcion": "Miles Morales les explica gesticulando a Strange y a Thor cómo se coló en la nave antes de la destrucción del mundo.",
+   "prompt_en": "Spider-Man gesturing dramatically while talking to Doctor Strange and a armored Thor inside a metallic chamber, comic art.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Miles Morales)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "recuerdos-pre-battleworld",
+    "miles-morales",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Look, I have no idea what happened or what's going on, but the last thing I remember was sneaking on--",
+     "texto_es": "Miren, no tengo idea de qué pasó o qué está pasando, pero lo último que recuerdo fue colarme en..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You've been aboard the vessel this entire time?",
+     "texto_es": "¿Has estado a bordo de la nave todo este tiempo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Yeah. And like I said, I don't--",
+     "texto_es": "Sí. Y como dije, yo no..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Who were the others on your ship?",
+     "texto_es": "¿Quiénes eran los otros en tu nave?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "It wasn't my ship, and I have no idea who those guys are. All I know is I snuck in trying to figure out what these guys--bad guys, because who else dresses that way--were doing in that giant dome... Because, like, another world had appeared in the sky, and the dome opened, and--",
+     "texto_es": "No era mi nave, y no tengo idea de quiénes son esos tipos. Lo único que sé es que me colé intentando averiguar qué hacían esos tipos... tipos malos, porque ¿quién más se viste así?... en ese domo gigante... Porque, como que otro mundo había aparecido en el cielo, y el domo se abrió, y..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Wait. A world in the sky...",
+     "texto_es": "Espera. Un mundo en el cielo..."
+    }
+   ],
+   "lugar": "Balsa de supervivencia",
+   "tono": "revelación",
+   "recorte": "vinetas/page-093-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    847,
+    215,
+    960,
+    970
+   ],
+   "descripcion": "Primer plano dramático de los ojos de Doctor Strange al darse cuenta de que Miles recuerda el viejo universo.",
+   "prompt_en": "Extreme close-up shot of Doctor Strange's eyes filled with shock and intense curiosity, comic panel style.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "revelacion",
+    "recuerdos",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Are you telling me...you remember?",
+     "texto_es": "¿Me estás diciendo... que lo recuerdas?"
+    }
+   ],
+   "lugar": "Balsa de supervivencia",
+   "tono": "dramático",
+   "recorte": "vinetas/page-093-v4.jpg"
+  }
+ ],
+ "lugar": "Balsa de supervivencia de la Tierra-1610 (Ultimate), Battleworld",
+ "numero_comic": 3,
+ "pagina": 93,
+ "archivo": "paginas/page-093.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5771,
+ "_seg": 19.9
+}

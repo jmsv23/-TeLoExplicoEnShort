@@ -1,0 +1,162 @@
+{
+ "tipo": "historia",
+ "resumen": "Resumen narrativo del colapso de los Illuminati debido a las incursiones multiversales, la subsecuente ascensión de la violenta Cabal liderada por Thanos y el caótico enfrentamiento entre antiguos héroes y aliados antes de la destrucción definitiva de la realidad.",
+ "personajes": [
+  "Bestia",
+  "Hulk",
+  "Black Panther (T'Challa)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Namor",
+  "Black Bolt",
+  "Thanos",
+  "Proxima Midnight",
+  "Corvus Glaive",
+  "Cisne Negro (Black Swan)",
+  "Spider-Man (Peter Parker)",
+  "Capitana Marvel (Carol Danvers)",
+  "Capitán América"
+ ],
+ "eventos_clave": [
+  "Disolución de los Illuminati",
+  "Ascenso de la Cabal",
+  "Enfrentamiento entre Vengadores e Illuminati"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    40,
+    34,
+    346,
+    966
+   ],
+   "descripcion": "Los Illuminati (Bestia, Hulk, Black Panther, Mister Fantástico, Namor y Black Bolt) se rompen emocional e ideológicamente, distanciándose unos de otros en un ambiente sombrío.",
+   "prompt_en": "Comic panel showing members of the Illuminati superhero group turning away from each other in disappointment and sorrow, realistic painted comic art style by Esad Ribic.",
+   "personajes": [
+    "Bestia",
+    "Hulk",
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Namor",
+    "Black Bolt"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "illuminati",
+    "fractura",
+    "incursiones",
+    "fracaso"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "It was too much. And these great men who had done such great things...",
+     "texto_es": "Fue demasiado. Y estos grandes hombres que habían hecho tan grandes cosas..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "They all broke.",
+     "texto_es": "Todos se quebraron."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "They splintered.",
+     "texto_es": "Se dividieron."
+    }
+   ],
+   "lugar": "Sede de los Illuminati",
+   "tono": "trágico",
+   "recorte": "vinetas/page-262-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    352,
+    34,
+    656,
+    966
+   ],
+   "descripcion": "Thanos se alza con poder imponente emitiendo destellos dorados junto a la villana Cabal sobre un terreno en ruinas.",
+   "prompt_en": "Thanos standing triumphantly in the center surrounded by energy orbs, with Proxima Midnight and Corvus Glaive in the background on a destroyed landscape, comic art.",
+   "personajes": [
+    "Thanos",
+    "Proxima Midnight",
+    "Corvus Glaive",
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "cabal",
+    "thanos",
+    "villanos",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And in their absence, something worse took their place--the Cabal.",
+     "texto_es": "Y en su ausencia, algo peor ocupó su lugar: la Cabal."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Everything turned upside down and inside out...",
+     "texto_es": "Todo se puso patas arriba y al revés..."
+    }
+   ],
+   "lugar": "Tierra arruinada",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-262-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    663,
+    34,
+    968,
+    966
+   ],
+   "descripcion": "Batalla campal caótica en una ciudad en llamas donde antiguos compañeros de equipo como Hulk, Spider-Man, Capitana Marvel y Capitán América luchan desesperadamente entre sí.",
+   "prompt_en": "Action packed superhero brawl with Hulk, Spider-Man, Captain Marvel, and Captain America fighting amidst fiery explosions, Marvel comic panel.",
+   "personajes": [
+    "Hulk",
+    "Spider-Man (Peter Parker)",
+    "Capitana Marvel (Carol Danvers)",
+    "Capitán América",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "vengadores",
+    "batalla",
+    "conflicto-interno",
+    "caos"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Including these people who had once been colleagues and friends.",
+     "texto_es": "Incluidas estas personas que alguna vez fueron colegas y amigos."
+    }
+   ],
+   "lugar": "Ciudad en llamas",
+   "tono": "caótico",
+   "recorte": "vinetas/page-262-v3.jpg"
+  }
+ ],
+ "lugar": "Tierra-616 / Multiverso",
+ "numero_comic": 1,
+ "pagina": 262,
+ "archivo": "paginas/page-262.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4968,
+ "_seg": 17.4
+}

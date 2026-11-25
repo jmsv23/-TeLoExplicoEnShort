@@ -1,0 +1,192 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Castillo Doom, el Sheriff Strange atiende sus asuntos oficiales y escucha el informe de los miembros del Thor Corps tras los acontecimientos recientes en Battleworld.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Sheriff Strange administra la justicia y ley en Castle Doom",
+  "Reunión entre el Sheriff Strange y los miembros del Thor Corps"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    33,
+    676,
+    488
+   ],
+   "descripcion": "Vista exterior del Castillo Doom, una imponente fortaleza tecnológica construida y suspendida sobre las enormes ramas del Árbol del Mundo en Battleworld.",
+   "prompt_en": "Exterior wide view of Castle Doom built onto massive ancient tree branches in a misty sky, sci-fi fantasy architecture, comic style by Esad Ribic.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "castle-doom",
+    "battleworld",
+    "arbol-del-mundo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM.",
+     "texto_es": "CASTILLO DOOM."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-076-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    488,
+    608,
+    968
+   ],
+   "descripcion": "El gran vestíbulo de entrada del Castillo Doom con columnas altas, antorchas y guardias del Thor Corps custodiando la escalinata que lleva al escritorio del Sheriff Strange.",
+   "prompt_en": "Interior shot of a majestic castle hall with high arches, stone columns, warm torch light, two Thor warriors standing guard on a wide staircase.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "castle-doom",
+    "thor-corps"
+   ],
+   "textos": [],
+   "lugar": "Castillo Doom",
+   "tono": "solemne",
+   "recorte": "vinetas/page-076-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    678,
+    33,
+    977,
+    303
+   ],
+   "descripcion": "Plano detalle de un mapa o plano esquemático iluminado sobre el escritorio de Sheriff Strange.",
+   "prompt_en": "Close up of a glowing yellow architectural schematic diagram on a desk, soft warm lighting.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "plano",
+    "castle-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It's done.",
+     "texto_es": "Está hecho."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "He died well for someone who just this morning had the world at his feet.",
+     "texto_es": "Murió bien para ser alguien que justo esta mañana tenía el mundo a sus pies."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-076-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    678,
+    307,
+    977,
+    508
+   ],
+   "descripcion": "Primer plano del rostro de perfil de Sheriff Strange mientras reflexiona sombríamente.",
+   "prompt_en": "Close-up portrait of a dark-haired mustache man with a serious expression in profile, cinematic shadow.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Yes. Well...it was the will of God, wasn't it?",
+     "texto_es": "Sí. Bueno... era la voluntad de Dios, ¿no?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Who are we to question such a thing?",
+     "texto_es": "¿Quiénes somos nosotros para cuestionar tal cosa?"
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "serio",
+   "recorte": "vinetas/page-076-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    678,
+    511,
+    977,
+    968
+   ],
+   "descripcion": "Sheriff Strange sentado a su escritorio revisando documentos mientras habla con un veterano del Thor Corps con barba rosa que se retira con otro guardia.",
+   "prompt_en": "A man seated at a desk reading papers while talking to a armored warrior with a pink beard walking away with a young soldier, illuminated hall background.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "sheriff-strange",
+    "castle-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Providence...the crucible of the faithful.",
+     "texto_es": "Providencia... el crisol de los fieles."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "If that will be all for today, Sheriff-- the Great Hall of Doomgard calls...",
+     "texto_es": "Si eso es todo por hoy, Sheriff... el Gran Salón de Doomgard llama..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "And I long for the loving embrace of mead.",
+     "texto_es": "Y anhelo el cariñoso abrazo de la hidromiel."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "formal",
+   "recorte": "vinetas/page-076-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 76,
+ "archivo": "paginas/page-076.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5009,
+ "_seg": 17.5
+}

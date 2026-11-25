@@ -1,0 +1,216 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante la corte del Dios Emperador Doom en Battleworld, se dicta sentencia contra el Barón James Braddock por traición. Doom ordena la ejecución pública de toda la casa real, pero Sue Storm interviene pidiéndole misericordia, a lo que Doom cede cariñosamente.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Capitán Britania / James Braddock",
+  "[oficial de Battleworld]"
+ ],
+ "eventos_clave": [
+  "Juicio de James Braddock",
+  "Petición de misericordia de Sue Storm a Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    368,
+    351
+   ],
+   "descripcion": "El Barón James Braddock escucha en silencio con rostro sombrío mientras un oficial anuncia su arresto y culpabilidad ante la corte.",
+   "prompt_en": "Comic book panel showing a male superhero with black hair and Union Jack suit standing solemnly while an official in uniform shouts behind him.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "[oficial de Battleworld]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "juicio",
+    "battleworld",
+    "baron-braddock"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[oficial de Battleworld]",
+     "texto": "Then you are guilty, my lord. Thors, please place the Baron under arrest for his punishment to be--",
+     "texto_es": "Entonces eres culpable, mi señor. Thors, por favor arresten al Barón para que su castigo sea--"
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-067-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    358,
+    368,
+    634
+   ],
+   "descripcion": "El puño blindado de God Emperor Doom golpea fuertemente el reposabrazos de piedra de su trono con un sonoro impacto.",
+   "prompt_en": "Comic book panel close up of a silver armored gauntlet slamming onto a stone throne armrest with green sound effect graphics.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "onomatopeya",
+    "trono"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "FHOOM",
+     "texto_es": "FHOOM"
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-067-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    25,
+    641,
+    368,
+    968
+   ],
+   "descripcion": "Dios Emperador Doom, furioso tras su máscara de hierro, sentencia harshmente a la casa del barón hasta que Sue Storm pone una mano en su hombro.",
+   "prompt_en": "Comic book panel showing God Emperor Doom in white hood and metallic mask shouting angrily, while a blonde woman touches his shoulder.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "ira"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "No. A Baron of one of my kingdoms has betrayed me-- a cancer that cannot be allowed to remain. Pull the entire house down. The entire royal family is to be publicly--",
+     "texto_es": "No. Un barón de uno de mis reinos me ha traicionado... un cáncer al que no se le puede permitir permanecer. Derriben toda la casa. Toda la familia real debe ser públicamente--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Victor.",
+     "texto_es": "Victor."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-067-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    377,
+    36,
+    570,
+    968
+   ],
+   "descripcion": "Plano medio-corto del rostro con capucha blanca de Doom deteniéndose al escuchar la sutil petición de clemencia de Sue.",
+   "prompt_en": "Wide comic panel close-up on God Emperor Doom wearing a white hood, looking sideways thoughtfully as a hand touches his shoulder.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "misericordia",
+    "plano-detalle"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Mercy.",
+     "texto_es": "Misericordia."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-067-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    580,
+    36,
+    773,
+    968
+   ],
+   "descripcion": "Doom sostiene tiernamente la mano de Sue Storm que reposa sobre su hombro blindado, calmando su ira.",
+   "prompt_en": "Wide comic panel close up showing a metal gauntleted hand gently touching a woman's hand placed on a white cloak shoulder.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "afecto"
+   ],
+   "textos": [],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "intimo",
+   "recorte": "vinetas/page-067-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    783,
+    36,
+    974,
+    968
+   ],
+   "descripcion": "Doom, ya calmado, contempla a Susan Storm sentada a su lado en el trono de árbol viviente y acepta su petición.",
+   "prompt_en": "Wide comic panel showing God Emperor Doom lying back on a throne made of living roots beside blonde Susan Storm, accepting her request.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "misericordia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Yes, Susan. Of course.",
+     "texto_es": "Sí, Susan. Por supuesto."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-067-v6.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 67,
+ "archivo": "paginas/page-067.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6503,
+ "_seg": 20.6
+}

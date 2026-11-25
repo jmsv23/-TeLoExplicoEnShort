@@ -1,0 +1,208 @@
+{
+ "tipo": "historia",
+ "resumen": "El Sheriff Strange guía a los héroes supervivientes de la balsa a través de su Sanctum en la Isla Oculta de Agamotto, explicándoles cómo nació Battleworld y cómo Victor von Doom se convirtió en su dios. Capitana Marvel y Star-Lord reaccionan con escepticismo e ironía, mientras Reed Richards cuestiona seriamente cómo pudo ocurrir la tragedia.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Capitana Marvel (Carol Danvers)",
+  "Star-Lord",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Thor"
+ ],
+ "eventos_clave": [
+  "Doctor Strange revela la existencia de Battleworld y la divinidad de Doom a los supervivientes de la balsa.",
+  "Mister Fantástico cuestiona a Stephen Strange sobre el origen de Battleworld."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    468,
+    730
+   ],
+   "descripcion": "El Doctor Strange guía al grupo de héroes supervivientes por el Sanctum de la Isla Oculta de Agamotto. Al fondo se ven varios héroes caminando juntos mientras una figura en llamas camina a la izquierda.",
+   "prompt_en": "Interior shot of a futuristic sanctum balcony with heroes walking together in a line, comic art style, detailed shading.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Thor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sanctum-agamotto",
+    "battleworld",
+    "supervivientes-balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE HIDDEN ISLE OF AGAMOTTO. SANCTUM OF SHERIFF STRANGE.",
+     "texto_es": "LA ISLA OCULTA DE AGAMOTTO. SANCTUM DEL SHERIFF STRANGE."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "As such, it is a place of testing-- of constant conflict-- and it needs a god with a firm hand.",
+     "texto_es": "Como tal, es un lugar de pruebas-- de conflicto constante-- y necesita a un dios con mano firme."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "recorte": "vinetas/page-112-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    730,
+    393,
+    968
+   ],
+   "descripcion": "Plano medio corto del Doctor Strange hablando seriamente con expresión solemne.",
+   "prompt_en": "Medium close up of a wizard doctor with graying hair and a high collar looking serious, comic art style.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Thus, Battleworld.",
+     "texto_es": "Así pues, Battleworld."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Thus... Doom.",
+     "texto_es": "Así pues... Doom."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "recorte": "vinetas/page-112-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    468,
+    0,
+    616,
+    1000
+   ],
+   "descripcion": "Primer plano de los ojos y la frente del Doctor Strange con mirada firme e imperiosa.",
+   "prompt_en": "Close up panel of a man's stern eyes, focused portrait, comic book style.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Long may he wear his crown.",
+     "texto_es": "Que lleve su corona por mucho tiempo."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "recorte": "vinetas/page-112-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    616,
+    31,
+    946,
+    672
+   ],
+   "descripcion": "Capitana Marvel (Carol Danvers) y Star-Lord miran a Strange incrédulos mientras conversan.",
+   "prompt_en": "Superheroine in red and black suit next to a blonde man in pink jacket talking animatedly, comic art style.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Star-Lord",
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "dialogo-heroes",
+    "supervivientes-balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "Okay. When you talk like that... you do know you sound insane, right?",
+     "texto_es": "Bien. Cuando hablas así... sabes que suenas demente, ¿verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Exactly. The only thing more insane is that cape you're wearing and, let me tell you, it's fantastic.",
+     "texto_es": "Exacto. Lo único más demente es esa capa que llevas y, déjame decirte, es fantástica."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "I have to have one.",
+     "texto_es": "Tengo que tener una."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "recorte": "vinetas/page-112-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    616,
+    674,
+    946,
+    968
+   ],
+   "descripcion": "Primer plano de Mister Fantástico (Reed Richards con barba) junto a El Hacedor con su casco negro en sombras, haciendo una pregunta directa a Strange.",
+   "prompt_en": "Close up of a bearded man with intense eyes looking troubled next to a villain in a black helmet, comic style.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reed-richards",
+    "el-hacedor",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "How, Stephen... how did it happen?",
+     "texto_es": "¿Cómo, Stephen... cómo ocurrió?"
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "recorte": "vinetas/page-112-v5.jpg"
+  }
+ ],
+ "lugar": "Isla Oculta de Agamotto / Sanctum del Sheriff Strange",
+ "numero_comic": 3,
+ "pagina": 112,
+ "archivo": "paginas/page-112.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5694,
+ "_seg": 19.3
+}

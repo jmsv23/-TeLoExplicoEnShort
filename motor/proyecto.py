@@ -13,6 +13,32 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG = json.loads((ROOT / "config.json").read_text())
 if os.environ.get("VOICEBOX_URL"):
     CONFIG["voicebox"]["url"] = os.environ["VOICEBOX_URL"]
+    CONFIG["voicebox"]["url_local"] = None   # VOICEBOX_URL manda: sin respaldo
+
+_VB = []
+
+
+def voicebox_url():
+    """URL de Voicebox: primero la remota (config.json → voicebox.url); si no responde en
+    `probe_s` segundos, la local (voicebox.url_local). Se decide una vez por comando."""
+    if _VB:
+        return _VB[0]
+    import urllib.request
+    cfg = CONFIG["voicebox"]
+    candidatos = [u for u in (cfg.get("url"), cfg.get("url_local")) if u]
+    for u in candidatos:
+        try:
+            with urllib.request.urlopen(u.rstrip("/") + "/profiles", timeout=cfg.get("probe_s", 3)):
+                pass
+        except Exception:
+            print(f"· Voicebox no responde en {u}", file=sys.stderr)
+            continue
+        if u != candidatos[0]:
+            print(f"· usando Voicebox local: {u}", file=sys.stderr)
+        _VB.append(u.rstrip("/"))
+        return _VB[0]
+    _VB.append(candidatos[0].rstrip("/"))   # ninguno responde: que el error salga con la remota
+    return _VB[0]
 
 
 def die(msg):

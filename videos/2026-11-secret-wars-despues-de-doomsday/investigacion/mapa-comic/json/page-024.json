@@ -1,0 +1,199 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras la Tierra-616 sufre sus momentos finales durante la incursión final, Wilson Fisk (Kingpin) envía un correo electrónico invitando a varios supervillanos a un bar para celebrar el fin del mundo y el fracaso de los superhéroes. Sin embargo, la celebración es interrumpida por el Castigador (Frank Castle), quien llega armado para aprovechar los últimos momentos del planeta ejecutando a todos los villanos presentes.",
+ "personajes": [
+  "Wilson Fisk",
+  "[El Castigador (Frank Castle)]",
+  "[Bullseye]",
+  "[Escorpión]",
+  "[Hombre de Arena]"
+ ],
+ "eventos_clave": [
+  "Reunión de villanos previa al fin del mundo",
+  "Llegada del Castigador al bar de villanos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    584,
+    969
+   ],
+   "descripcion": "Una vista panorámica del cielo con una nave espacial explotando transmitida en las pantallas de un bar donde varios villanos (como Kingpin, Bullseye y Escorpión) celebran y brindan, acompañado por el texto en pantalla de un correo electrónico enviado por Wilson Fisk.",
+   "prompt_en": "Comic panel showing a futuristic spaceship exploding in mid-air viewed through a bar TV screen, while supervillains toast with beer bottles, overlaid with email text captions.",
+   "personajes": [
+    "Wilson Fisk",
+    "[Bullseye]",
+    "[Escorpión]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ultima-incursion",
+    "fin-del-mundo",
+    "kingpin",
+    "villanos"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "BUT I THINK WE'RE ABOUT TO FIND OU--",
+     "texto_es": "PERO CREO QUE ESTAMOS A PUNTO DE DESCUBRIR--"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Wilson Fisk",
+     "texto": "To: lizard@coldblooded.com, hitthatarget@hit.com, who@whocares.com, oz@amazinghair.net and 18 more.\nFrom: wfisk@fiskindustries.com\nRe: END OF WORLD.",
+     "texto_es": "Para: lizard@coldblooded.com, hitthatarget@hit.com, who@whocares.com, oz@amazinghair.net y 18 más.\nDe: wfisk@fiskindustries.com\nAsunto: FIN DEL MUNDO."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Wilson Fisk",
+     "texto": "Like all of you, I dreamed of a glorious end. Me, standing over the vanquished as the world looked up in envy. But it seems time, that fickle mistress, has robbed us all of such an opportunity.",
+     "texto_es": "Como todos ustedes, soñé con un final glorioso. Yo, de pie sobre los vencidos mientras el mundo miraba con envidia. Pero parece que el tiempo, esa voluble amante, nos ha robado a todos tal oportunidad."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Wilson Fisk",
+     "texto": "So I say this: If the world is truly ending, let it end thusly...",
+     "texto_es": "Así que digo esto: Si el mundo realmente se está acabando, que termine así..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Wilson Fisk",
+     "texto": "With drink, and joy, at the sight of our enemies' greatest failure.",
+     "texto_es": "Con bebida y alegría, ante la vista del mayor fracaso de nuestros enemigos."
+    }
+   ],
+   "lugar": "Bar de villanos en Nueva York",
+   "tono": "cínico",
+   "recorte": "vinetas/page-024-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    594,
+    33,
+    715,
+    969
+   ],
+   "descripcion": "Kingpin sentado en el bar junto a Bullseye y Escorpión, concluyendo su mensaje escrito, cuando una voz carraspea interrumpiendo la reunión.",
+   "prompt_en": "Medium shot of Kingpin sitting at a dimly lit bar counter next to other villains, looking sideways as someone coughs to get their attention.",
+   "personajes": [
+    "Wilson Fisk",
+    "[Bullseye]",
+    "[Escorpión]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "bar-de-villanos",
+    "kingpin",
+    "interrupcion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Wilson Fisk",
+     "texto": "Please join me for a most raucous celebration at that place where we met that time for the thing. I'm buying. Sincerely, Wilson Fisk",
+     "texto_es": "Por favor acompáñenme para una celebración estruendosa en ese lugar donde nos conocimos aquella vez para esa cosa. Yo invito. Atentamente, Wilson Fisk."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[El Castigador (Frank Castle)]",
+     "texto": "AHEM.",
+     "texto_es": "AJEM."
+    }
+   ],
+   "lugar": "Bar de villanos en Nueva York",
+   "tono": "tensión",
+   "recorte": "vinetas/page-024-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    726,
+    33,
+    976,
+    642
+   ],
+   "descripcion": "El Castigador aparece parado en la entrada del bar vistiendo su abrigo con la calavera en el pecho, sorprendiendo a todos los villanos que se giran a verlo.",
+   "prompt_en": "The Punisher standing menacingly at the doorway of a crowded bar, wearing his skull trench coat, as villains look back at him in shock.",
+   "personajes": [
+    "Wilson Fisk",
+    "[El Castigador (Frank Castle)]",
+    "[Hombre de Arena]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "punisher",
+    "enfrentamiento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[El Castigador (Frank Castle)]",
+     "texto": "GENTLEMEN. THEY SAY THAT WHEN YOU DIE, YOU CAN'T TAKE IT WITH YOU.",
+     "texto_es": "CABALLEROS. DICEN QUE CUANDO MUERES, NO TE PUEDES LLEVAR NADA CONTIGO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[El Castigador (Frank Castle)]",
+     "texto": "WHICH BEGS THE QUESTION:",
+     "texto_es": "LO CUAL PLANTEA LA PREGUNTA:"
+    }
+   ],
+   "lugar": "Bar de villanos en Nueva York",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-024-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    726,
+    650,
+    976,
+    969
+   ],
+   "descripcion": "Primer plano del rostro del Castigador recargando una escopeta/rifle automático con una ligera sonrisa siniestra.",
+   "prompt_en": "Close up portrait of the Punisher cocking a heavy shotgun with a grim determination and slight smirk on his face.",
+   "personajes": [
+    "Standard"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "punisher",
+    "armas",
+    "venganza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[El Castigador (Frank Castle)]",
+     "texto": "EXACTLY WHAT AM I GONNA DO WITH ALL THESE BULLETS?",
+     "texto_es": "¿EXACTAMENTE QUÉ VOY A HACER CON TODAS ESTAS BALAS?"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "CLAC CLAC",
+     "texto_es": "CLAC CLAC"
+    }
+   ],
+   "lugar": "Bar de villanos en Nueva York",
+   "tono": "violento",
+   "recorte": "vinetas/page-024-v4.jpg"
+  }
+ ],
+ "lugar": "Tierra-616, Bar de villanos en Nueva York",
+ "numero_comic": 1,
+ "pagina": 24,
+ "archivo": "paginas/page-024.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6656,
+ "_seg": 25.8
+}

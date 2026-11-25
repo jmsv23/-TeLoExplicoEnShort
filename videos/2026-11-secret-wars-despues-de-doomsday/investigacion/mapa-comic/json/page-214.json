@@ -1,0 +1,183 @@
+{
+ "tipo": "historia",
+ "resumen": "Sue Storm y su hija Valeria observan la destrucción del castillo de Doom y el avance de la gran batalla. Valeria intenta explicarle a su madre que les han estado mintiendo durante mucho tiempo. Al superar una colina de rocas, se encuentran cara a cara con Mister Fantástico (Reed Richards de la Tierra-616), dejando a Sue en shock.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Valeria le revela a Sue que Doom les ha mentido sobre la naturaleza de su mundo.",
+  "Sue Storm se reencuentra inesperadamente con su verdadero esposo, Mister Fantástico (Reed Richards Tierra-616)."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    292,
+    691
+   ],
+   "descripcion": "Sue Storm y Valeria caminan por los terrenos en ruinas de Battleworld mientras un gran edificio colapsa envuelto en fuego a lo lejos.",
+   "prompt_en": "Comic book panel showing Sue Storm and young Valeria Richards in white superhero suits walking through a rocky terrain, behind them a castle is exploding into flames.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "caida-de-doomstadt",
+    "valeria-richards",
+    "sue-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "A battle is raging as far as the eye can see and now the world tree is walking away from the castle!",
+     "texto_es": "¡Una batalla se libra hasta donde alcanza la vista y ahora el Árbol del Mundo se aleja del castillo!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I don't understand what you're doing, Val, but are you sure this is what we--",
+     "texto_es": "No entiendo qué estás haciendo, Val, ¿pero estás segura de que esto es lo que nosotros--?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Look, Mom. What I'm saying is that I think we've been lied to. For a very long time.",
+     "texto_es": "Mira, mamá. Lo que digo es que creo que nos han estado mintiendo. Durante mucho tiempo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "And it's much... well, it'll all make sense when you see it.",
+     "texto_es": "Y es mucho... bueno, todo tendrá sentido cuando lo veas."
+    }
+   ],
+   "lugar": "Battleworld / Doomstadt",
+   "tono": "tenso",
+   "recorte": "vinetas/page-214-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    697,
+    292,
+    962
+   ],
+   "descripcion": "Primer plano de Sue Storm y Valeria mirando fijamente con sorpresa algo repentino frente a ellas.",
+   "prompt_en": "Close up panel of a blond woman and a young girl looking forward in shock and surprise, white suits, comic book style.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "revelacion",
+    "sorpresa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "See what?",
+     "texto_es": "¿Ver qué?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "What Dad's been hid--",
+     "texto_es": "Lo que papá ha estado ocul--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Oh.",
+     "texto_es": "Oh."
+    }
+   ],
+   "lugar": "Battleworld / Doomstadt",
+   "tono": "revelador",
+   "recorte": "vinetas/page-214-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    304,
+    0,
+    778,
+    1000
+   ],
+   "descripcion": "Vista panorámica de Sue Storm y Valeria trepando por unas rocas y encontrándose con Mister Fantástico (Reed Richards con barba) parado frente a ellas en la cima.",
+   "prompt_en": "Wide comic book panel of two women in white suits climbing rocks looking up at a bearded man in a blue superhero suit standing heroically on top of the ridge.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reencuentro",
+    "reed-richards",
+    "familia-fantastic"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Valeria. I suppose I shouldn't be surprised.",
+     "texto_es": "Valeria. Supongo que no debería sorprenderme."
+    }
+   ],
+   "lugar": "Battleworld / Doomstadt",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-214-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    790,
+    0,
+    1000,
+    967
+   ],
+   "descripcion": "Primer plano del rostro con barba de Mister Fantástico (Reed Richards de la Tierra-616) mirando hacia abajo con ternura y gravedad.",
+   "prompt_en": "Close up shot of a bearded male superhero with grey temples looking directly at the camera with a calm, nostalgic expression.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reed-richards",
+    "sue-storm",
+    "reencuentro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Hello, Susan.",
+     "texto_es": "Hola, Susan."
+    }
+   ],
+   "lugar": "Battleworld / Doomstadt",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-214-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld / Alrededores de Doomstadt",
+ "numero_comic": 7,
+ "pagina": 214,
+ "archivo": "paginas/page-214.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5179,
+ "_seg": 19.9
+}

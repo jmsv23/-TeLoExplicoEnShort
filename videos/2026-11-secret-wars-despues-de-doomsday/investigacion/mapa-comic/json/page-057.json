@@ -1,0 +1,164 @@
+{
+ "tipo": "historia",
+ "resumen": "Integrantes de los Thor Corps vuelan hacia Bar Siniestro y hacen su entrada triunfal en el palacio para imponer la ley de Doom Emperador. Mientras reflexionan sobre el deber y la envidia entre los barones, llegan ante Mister Siniestro, quien los observa sentado en su trono con total desdén.",
+ "personajes": [
+  "Thor Corps",
+  "Mister Siniestro"
+ ],
+ "eventos_clave": [
+  "Llegada de los Thor Corps a Bar Siniestro",
+  "Confrontación inicial entre los Thor Corps y Mister Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    354,
+    1000
+   ],
+   "descripcion": "Vista panorámica de Bar Siniestro con grandes agujas de cristal rojo que se erigen sobre la costa. Dos miembros de los Thor Corps vuelan a baja altura sobre el agua dirigiéndose a la fortaleza.",
+   "prompt_en": "Establishing wide shot of a surreal fantasy landscape with towering red crystal spires near a sea on Battleworld, two superhero figures with capes flying across the water, comic book art style by Esad Ribic.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "bar-sinister",
+    "thor-corps",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "BAR SINISTER.",
+     "texto_es": "BAR SINIETRO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "You looked up at your baron with adoration as he waved at you. I tell you truly, others there in the crowd would have preferred to pull him down.",
+     "texto_es": "Miraste a tu barón con adoración mientras te saludaba. Te lo digo sinceramente, otros allí en la multitud habrían preferido derribarlo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "The envious forget to what station they are born. Their natural position chafes, and they crave to be something more.",
+     "texto_es": "Los envidiosos olvidan la condición en la que nacieron. Su posición natural les roza y anhelan ser algo más."
+    }
+   ],
+   "lugar": "Bar Siniestro",
+   "tono": "majestuoso y solemne",
+   "recorte": "vinetas/page-057-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    354,
+    32,
+    664,
+    395
+   ],
+   "descripcion": "Un Thor en armadura desembarca alzando su martillo Mjolnir con determinación mientras otro Thor lo acompaña.",
+   "prompt_en": "A muscular Thor with a helmet, red cape and Mjolnir hammer landing in a dramatic stance, red ambient light, comic book panel.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "It is a sickness, and we are but one of God's cures.",
+     "texto_es": "Es una enfermedad, y nosotros no somos más que una de las curas de Dios."
+    }
+   ],
+   "lugar": "Palacio de Bar Siniestro",
+   "tono": "determinado",
+   "recorte": "vinetas/page-057-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    354,
+    402,
+    664,
+    968
+   ],
+   "descripcion": "Los dos Thor caminan entre la multitud de sirvientes encapuchados en el pasillo hacia la sala del trono de Mister Siniestro.",
+   "prompt_en": "Two warriors in armor with red capes walking down a grand hall flanked by hooded figures towards a glowing throne room, comic art.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "bar-sinister"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Move aside. Make way for justice.",
+     "texto_es": "Apártense. Abran paso a la justicia."
+    }
+   ],
+   "lugar": "Palacio de Bar Siniestro",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-057-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    670,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Mister Siniestro reclinado arrogantemente en su trono rojo rodeado de sirvientes con capuchas rojas y azules que le sirven comida y bebida, sonriendo despectivamente.",
+   "prompt_en": "Mister Sinister reclining lazily on a red throne with a pale face, black suit with diamond logo, high red collar, surrounded by hooded servants, smug expression, detailed comic art.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "mister-siniestro",
+    "baron-sinister",
+    "bar-sinister"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Ah...the law.",
+     "texto_es": "Ah... la ley."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "How very trashy.",
+     "texto_es": "Qué vulgaridad."
+    }
+   ],
+   "lugar": "Sala del Trono de Mister Siniestro",
+   "tono": "burlón y arrogante",
+   "recorte": "vinetas/page-057-v4.jpg"
+  }
+ ],
+ "lugar": "Bar Siniestro, Battleworld",
+ "numero_comic": 2,
+ "pagina": 57,
+ "archivo": "paginas/page-057.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4844,
+ "_seg": 17.4
+}

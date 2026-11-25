@@ -1,0 +1,66 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther, portando el Guantelete del Infinito, emerge junto a Namor a través de un portal dorado iluminado para enfrentarse al Dios Emperador Doom en medio de la batalla.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "Llegada de Black Panther con el Guantelete del Infinito",
+  "Desafío al reinado de Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración a página completa de Black Panther avanzando hacia el frente mientras apunta con el Guantelete del Infinito resplandeciente. Detrás de él camina Namor portando su tridente, emergiendo de un marco portal dorado, con Thor al fondo sosteniendo a Mjolnir en alto entre humo y llamas de batalla.",
+   "prompt_en": "Full page comic art of Black Panther stepping through a radiant golden doorway wearing a glowing Infinity Gauntlet, pointing his hand forward, flanked by Namor holding a trident, epic lighting and battlefield haze in the background, illustrated by Esad Ribic.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "battleworld",
+    "tchalla",
+    "namor",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Your reign is over...",
+     "texto_es": "Tu reinado ha terminado..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "...And it ends with us.",
+     "texto_es": "...Y termina con nosotros."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-220-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 220,
+ "archivo": "paginas/page-220.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3787,
+ "_seg": 11.9
+}

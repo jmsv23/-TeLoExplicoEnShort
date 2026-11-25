@@ -1,0 +1,48 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título o separador con el diseño minimalista del logotipo de Doctor Doom y la palabra BATTLEWORLD.",
+ "personajes": [],
+ "eventos_clave": [
+  "Inicio de la sección Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página blanca de diseño minimalista con el emblema estilizado en gris del Doctor Doom y el texto BATTLEWORLD en mayúsculas.",
+   "prompt_en": "A clean, minimalist white title page featuring a stylized grey icon of Doctor Doom inside a geometric frame with the text BATTLEWORLD printed in sleek grey all-caps underneath.",
+   "personajes": [],
+   "valor_video": 1,
+   "etiquetas": [
+    "battleworld",
+    "titulo-capitulo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Título",
+     "texto": "BATTLEWORLD",
+     "texto_es": "BATTLEWORLD"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "neutro",
+   "recorte": "vinetas/page-084-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 84,
+ "archivo": "paginas/page-084.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3006,
+ "_seg": 8.6
+}

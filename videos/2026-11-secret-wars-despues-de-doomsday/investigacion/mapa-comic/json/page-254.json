@@ -1,0 +1,202 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico reflexiona a través de una narración sobre sus errores pasados, la aceptación del miedo y la creación del nuevo universo. Mientras tanto, se muestra una vista panorámica del castillo de Latveria donde Victor von Doom contempla el horizonte desde un balcón y sostiene su icónica máscara metálica tras habérsela quitado.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "reflexion-reed-richards",
+  "retorno-a-latveria",
+  "doom-sin-mascara"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    34,
+    226,
+    493
+   ],
+   "descripcion": "Un espacio blanco limpio con una caja de narración azul en la esquina superior izquierda.",
+   "prompt_en": "Minimalist white comic panel with a small blue caption box in the top left corner.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "narracion",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I had some help.",
+     "texto_es": "Tuve algo de ayuda."
+    }
+   ],
+   "lugar": "Desconocido / Plano metafísico",
+   "tono": "Melancólico",
+   "recorte": "vinetas/page-254-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    502,
+    226,
+    966
+   ],
+   "descripcion": "Primer plano dibujado bocetado e invertido boca abajo de un rostro en tono sepia tenue.",
+   "prompt_en": "Upside down close up pencil sketch of a human face in faint warm tones.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "boceto",
+    "rostro-invertido"
+   ],
+   "textos": [],
+   "lugar": "Desconocido",
+   "tono": "Misterioso",
+   "recorte": "vinetas/page-254-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    236,
+    34,
+    796,
+    493
+   ],
+   "descripcion": "Vista panorámica lejana de un gran castillo de piedra gótico situado sobre un pico rocoso entre la niebla.",
+   "prompt_en": "Wide view of a massive medieval stone castle perched atop a rocky mountain peak surrounded by soft mist and fog under a clear sky.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "castillo-doom",
+    "latveria",
+    "paisaje"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And that help bought me just enough time to fix so many things I've been wrong about.",
+     "texto_es": "Y esa ayuda me dio el tiempo suficiente para arreglar tantas cosas en las que estaba equivocado."
+    }
+   ],
+   "lugar": "Castillo Doom, Latveria",
+   "tono": "Reflexivo",
+   "recorte": "vinetas/page-254-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    236,
+    502,
+    796,
+    765
+   ],
+   "descripcion": "Plano medio-lejano de la muralla del castillo, mostrando una figura con túnica y capucha verde en un pequeño balcón de piedra.",
+   "prompt_en": "Medium long shot of a castle wall with Doctor Doom wearing a green hooded cloak standing alone on a stone balcony.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doctor-doom",
+    "balcon",
+    "castillo-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I learned that the difference between living and dying is managing fear.",
+     "texto_es": "Aprendí que la diferencia entre vivir y morir es gestionar el miedo."
+    }
+   ],
+   "lugar": "Castillo Doom, Latveria",
+   "tono": "Sereno",
+   "recorte": "vinetas/page-254-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    236,
+    775,
+    796,
+    966
+   ],
+   "descripcion": "Plano medio de Doctor Doom con túnica verde con capucha en el balcón del castillo mirando hacia el horizonte.",
+   "prompt_en": "Medium shot of Doctor Doom in a green hooded tunic standing on a stone balcony leaning forward.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "latveria"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Not being so afraid of losing the things you love that you hold them too tight.",
+     "texto_es": "No tener tanto miedo de perder las cosas que amas que las sujetas demasiado fuerte."
+    }
+   ],
+   "lugar": "Castillo Doom, Latveria",
+   "tono": "Introspectivo",
+   "recorte": "vinetas/page-254-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    796,
+    34,
+    988,
+    966
+   ],
+   "descripcion": "Plano corto de Doctor Doom visto de perfil, sosteniendo su máscara de metal plateado en la mano mientras la contempla.",
+   "prompt_en": "Close up shot of Doctor Doom holding his metal mask in his hand looking down at it, green hooded cloak draped over his shoulders.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "mascara-doom",
+    "doctor-doom",
+    "final"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I used to believe in universal contraction. Entropy and the end of all things.",
+     "texto_es": "Solía creer en la contracción universal. En la entropía y el fin de todas las cosas."
+    }
+   ],
+   "lugar": "Castillo Doom, Latveria",
+   "tono": "Emotivo",
+   "recorte": "vinetas/page-254-v6.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Latveria",
+ "numero_comic": 9,
+ "pagina": 254,
+ "archivo": "paginas/page-254.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5588,
+ "_seg": 21.5
+}

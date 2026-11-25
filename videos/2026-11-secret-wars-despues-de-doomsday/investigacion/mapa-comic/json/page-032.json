@@ -1,0 +1,91 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante el colapso multiversal de la incursión final, la balsa de salvamento que transporta a los héroes de la Tierra-616 es alcanzada por un potente rayo cósmico, provocando una peligrosa brecha en el casco de la nave.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "La balsa de salvamento es alcanzada por rayos cósmicos",
+  "Brecha en el casco de la balsa de salvamento"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    720,
+    1000
+   ],
+   "descripcion": "Vista exterior en el espacio donde la nave circular (la balsa de salvamento) vuela rodeada por una atmósfera anaranjada y es alcanzada violentamente por un enorme rayo de energía azul.",
+   "prompt_en": "Exterior space shot of a large circular ring-shaped spaceship being struck by massive energetic blue lightning bolts against a fiery orange apocalyptic sky, epic cosmic destruction scene, comic art style.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "incursion-final",
+    "destruccion-cosmica"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "KRAKK-BOOM",
+     "texto_es": "KRAKK-BOOM"
+    }
+   ],
+   "lugar": "Espacio / Incursión",
+   "tono": "caótico",
+   "recorte": "vinetas/page-032-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    628,
+    32,
+    957,
+    968
+   ],
+   "descripcion": "Vista interior de la cabina de la nave, inundada por una explosión de luz azul brillante provocada por la brecha en el casco. Black Panther se agarra a su asiento advirtiendo del impacto mientras la estructura colapsa.",
+   "prompt_en": "Interior of a spaceship cockpit in silhouette during a hull breach, illuminated by a blinding blue light explosion, superhero characters reacting in panic, comic panel.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "brecha-en-el-casco",
+    "cabina-balsa",
+    "emergencia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "We've been hit!",
+     "texto_es": "¡Nos han dado!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Hull breach!",
+     "texto_es": "¡Brecha en el casco!"
+    }
+   ],
+   "lugar": "Interior de la balsa de salvamento",
+   "tono": "dramático",
+   "recorte": "vinetas/page-032-v2.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento (Tierra-616)",
+ "numero_comic": 1,
+ "pagina": 32,
+ "archivo": "paginas/page-032.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3735,
+ "_seg": 12.4
+}

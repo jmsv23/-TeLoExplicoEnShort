@@ -1,0 +1,193 @@
+{
+ "tipo": "historia",
+ "resumen": "Star-Lord clava una pequeña astilla de Groot en el suelo del Castillo de Doom. Rápidamente, la astilla germina y da origen a un gigante e inmenso Groot que abruma por completo a Cisne Negro.",
+ "personajes": [
+  "Star-Lord",
+  "Cisne Negro",
+  "Groot"
+ ],
+ "eventos_clave": [
+  "Star-Lord planta la astilla de Groot",
+  "Groot brota de forma gigantesca en el Castillo de Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    38,
+    314,
+    347
+   ],
+   "descripcion": "Primer plano de Star-Lord mirando fijamente mientras sostiene una pequeña astilla de madera entre sus dedos.",
+   "prompt_en": "Close up of a blonde man with a smirking face holding a small toothpick-like wooden twig between his fingers, comic art style by Esad Ribic",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "star-lord",
+    "astilla-groot",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Say hello to my little friend.",
+     "texto_es": "Dile hola a mi pequeñín."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-212-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    355,
+    314,
+    609
+   ],
+   "descripcion": "Star-Lord estampa con fuerza la astilla contra la estructura de madera y piedra ante la mirada de Cisne Negro.",
+   "prompt_en": "A hand slamming a twig into the stone floor, dramatic angle, SFX SLAM, comic art style",
+   "personajes": [
+    "Star-Lord",
+    "Cisne Negro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "accion",
+    "slam"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Star-Lord",
+     "texto": "SLAM!",
+     "texto_es": "¡SLAM!"
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-212-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    25,
+    617,
+    314,
+    963
+   ],
+   "descripcion": "Detalle de gruesas raíces y ramas comenzando a brotar violentamente desde el suelo.",
+   "prompt_en": "Thick tree roots and vines bursting violently from the ground, close up view, comic art style",
+   "personajes": [
+    "Groot"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "crecimiento-groot",
+    "raices"
+   ],
+   "textos": [],
+   "lugar": "Castillo de Doom",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-212-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    330,
+    38,
+    492,
+    963
+   ],
+   "descripcion": "Cisne Negro observa desconcertada el crecimiento de las ramas a su alrededor mientras Star-Lord sonríe confiado.",
+   "prompt_en": "A pale white-haired woman in black outfit looking shocked surrounded by growing tree vines, next to a smirking man in red jacket, comic book panel",
+   "personajes": [
+    "Cisne Negro",
+    "Star-Lord"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sorpresa",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "What is happening...?",
+     "texto_es": "¿Qué está pasando...?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "What is that?",
+     "texto_es": "¿Qué es eso?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Wait for it.",
+     "texto_es": "Espera a verlo."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "tension",
+   "recorte": "vinetas/page-212-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    500,
+    38,
+    990,
+    963
+   ],
+   "descripcion": "Vista panorámica de dos inmensas manos hechas de ramas y madera de Groot alzándose y dominando toda la sala por encima de Cisne Negro y Star-Lord.",
+   "prompt_en": "Wide view of colossal tree monster hands made of intertwined wooden roots rising high above two tiny characters in a grand hall, epic scale, comic art style",
+   "personajes": [
+    "Groot",
+    "Cisne Negro",
+    "Star-Lord"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "groot-gigante",
+    "revelacion",
+    "plano-general",
+    "momento-epico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "I...",
+     "texto_es": "Yo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "I...",
+     "texto_es": "Yo..."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "epico",
+   "recorte": "vinetas/page-212-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 7,
+ "pagina": 212,
+ "archivo": "paginas/page-212.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4861,
+ "_seg": 17.5
+}

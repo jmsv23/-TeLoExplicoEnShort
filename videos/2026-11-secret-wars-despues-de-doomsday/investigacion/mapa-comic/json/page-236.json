@@ -1,0 +1,130 @@
+{
+ "tipo": "historia",
+ "resumen": "En una viñeta a página completa diseñada como un tablero de ajedrez compuesto por las caras entrelazadas de Doctor Doom y Mister Fantástico, ambos personajes sostienen un tenso debate filosófico sobre las acciones de Doom en Battleworld, sus motivaciones, inseguridades y su eterna rivalidad.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Confrontación ideológica final entre Reed Richards y Doctor Doom",
+  "Debate sobre la naturaleza del poder, la salvación de Battleworld y la búsqueda de la perfección"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Una ilustración a página completa compuesta por un patrón de tablero de ajedrez donde los cuadros alternos forman de manera entrelazada los rostros marcados del Doctor Doom y de Mister Fantástico (Reed Richards con barba). Cajas de diálogo cuadradas en tonos blancos y azules contienen el intercambio verbal entre ambos rivales.",
+   "prompt_en": "A full comic book splash page designed as an 8x8 checkerboard grid pattern, alternating squares seamlessly weaving together the close-up face of Doctor Doom in his metal mask and the bearded face of Reed Richards. Philosophical text boxes are placed over the tiles, comic art by Esad Ribic, dramatic lighting, epic scale.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "reed-vs-doom",
+    "climax",
+    "secret-wars-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You're wrong. They chose me.",
+     "texto_es": "Estás equivocado. Ellos me eligieron a mí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "...But they chose. She chose. She believed.",
+     "texto_es": "...Pero eligieron. Ella eligió. Ella creyó."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Can't you accept that I have done good things here?",
+     "texto_es": "¿No puedes aceptar que he hecho cosas buenas aquí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "If you wish to believe that they only did so in the absence of you, very well...",
+     "texto_es": "Si deseas creer que solo lo hicieron en tu ausencia, muy bien..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "All that I have done--all of this--and you still give me no credit.",
+     "texto_es": "Todo lo que he hecho... todo esto... y aún así no me das ningún crédito."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I'm not blind, Victor. I do accept it...but you could have done more.",
+     "texto_es": "No soy ciego, Victor. Lo acepto... pero podrías haber hecho más."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "You closed your hands around everything that was left and called it yours.",
+     "texto_es": "Cerraste tus manos alrededor de todo lo que quedaba y lo llamaste tuyo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "You're so afraid of losing the things you've saved that you hold them too tight.",
+     "texto_es": "Tienes tanto miedo de perder las cosas que has salvado que las sujetas demasiado fuerte."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Don't you see, Victor? A tree is just a seed in its realized state.",
+     "texto_es": "¿No lo ves, Victor? Un árbol es solo una semilla en su estado realizado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "This is what always causes your fall, Reed.",
+     "texto_es": "Esto es lo que siempre causa tu caída, Reed."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Abandoning the good because you desire the perfect.",
+     "texto_es": "Abandonar lo bueno porque deseas lo perfecto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I understand now--I know what this is.",
+     "texto_es": "Ahora lo entiendo... sé qué es esto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "It's the same thing it's always been between you and I...",
+     "texto_es": "Es lo mismo que siempre ha sido entre tú y yo..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "filosófico, intenso, dramático",
+   "recorte": "vinetas/page-236-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 236,
+ "archivo": "paginas/page-236.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6148,
+ "_seg": 22.0
+}

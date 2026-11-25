@@ -1,0 +1,217 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange le revela a Black Panther la verdad sobre la destrucción del multiverso y cómo él y Doctor Doom lograron enfrentarse a los Beyonders. Strange admite que tuvo miedo al poder omnipotente y renunció a él, mientras que Doom no dudó en tomarlo para reconstruir lo que quedaba del universo y crear Battleworld.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Black Panther (T'Challa)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Doctor Strange revela cómo él y Doom derrotaron a los Beyonders y absorbieron su poder omnipotente",
+  "Strange confiesa su temor ante la omnipotencia y reconoce que Doom fue quien tuvo el valor de salvar lo restante del multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    335,
+    1000
+   ],
+   "descripcion": "Doctor Strange habla solemnemente con la mano extendida. A la derecha, una visión o recuerdo muestra a tres figuras humanas sobre una plataforma flotante observando la inmensidad cósmica.",
+   "prompt_en": "Comic book panel: on the left, a close-up of Doctor Strange with a mustache and solemn expression, hand raised; on the right, three silhouettes standing on a futuristic floating platform in a dark cosmic void with glowing energy waves.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "explicacion-beyonders",
+    "incursiones",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Do you remember when our secret brotherhood couldn't understand why the early death of everything was happening?",
+     "texto_es": "¿Recuerdas cuando nuestra hermandad secreta no podía entender por qué estaba ocurriendo la muerte prematura de todo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Worlds--universes--crashing together... You believed that there was someone--or something--behind it.",
+     "texto_es": "Mundos... universos... chocando entre sí... Tú creías que había alguien... o algo... detrás de eso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Well, you were right.",
+     "texto_es": "Bueno, tenías razón."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "\"There was something behind it.\"",
+     "texto_es": "\"Había algo detrás de ello.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-113-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    345,
+    0,
+    642,
+    1000
+   ],
+   "descripcion": "A la izquierda, Doctor Strange conversa en persona con Black Panther. A la derecha, se muestra a Doctor Doom con su capa e impecable armadura caminando al lado de Strange en un recuerdo cósmico.",
+   "prompt_en": "Comic panel split composition: on the left, Doctor Strange chatting with Black Panther in a dark chamber; on the right, a majestic Doctor Doom in his iconic green hooded cloak and metallic armor walking forward beside Doctor Strange.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "derrota-beyonders",
+    "doom-omnipotente",
+    "el-plan"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Unfortunately, no one could stop the perfect annihilation plan that the Beyonders had put in motion...",
+     "texto_es": "Desafortunadamente, nadie pudo detener el plan de aniquilación perfecta que los Beyonders habían puesto en marcha..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "...but we could stop them. So we did.",
+     "texto_es": "...pero podíamos detenerlos a ellos. Así que lo hicimos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "How?",
+     "texto_es": "¿Cómo?"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "\"We killed them and took their power for ourselves.\"",
+     "texto_es": "\"Los matamos y tomamos su poder para nosotros.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-113-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    652,
+    0,
+    1000,
+    381
+   ],
+   "descripcion": "Primer plano medio de Doctor Strange agachando la mirada con aflicción y remordimiento.",
+   "prompt_en": "Comic panel close-up of Doctor Strange looking down thoughtfully with eyes closed, showing remorse and contemplation.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "arrepentimiento",
+    "temor-al-poder"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I looked into the abyss that was omnipotence and ran from it.",
+     "texto_es": "Miré al abismo que era la omnipotencia y hui de él."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-113-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    652,
+    388,
+    1000,
+    715
+   ],
+   "descripcion": "Vista en perfil de Strange hablando de frente a Black Panther, quien lo escucha atentamente con su máscara.",
+   "prompt_en": "Comic panel showing Doctor Strange looking towards Black Panther in profile, high tension dialogue shot.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "comparacion-doom-strange",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Doom did not.",
+     "texto_es": "Doom no lo hizo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-113-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    652,
+    720,
+    1000,
+    1000
+   ],
+   "descripcion": "Gran primer plano del rostro de Doctor Strange con una mirada seria y resuelta.",
+   "prompt_en": "Dramatic close-up comic panel focusing on Doctor Strange's face with a serious and intense glare.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "salvacion-battleworld",
+    "reconocimiento-a-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Then he saved all that there was left to save.",
+     "texto_es": "Luego salvó todo lo que quedaba por salvar."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "grave",
+   "recorte": "vinetas/page-113-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld / Recuerdo de la colisión multiversal",
+ "numero_comic": 3,
+ "pagina": 113,
+ "archivo": "paginas/page-113.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5591,
+ "_seg": 19.2
+}

@@ -1,0 +1,84 @@
+{
+ "tipo": "historia",
+ "resumen": "Ben Grimm (La Cosa), quien formaba la estructura viviente del gigante Escudo que protegía las tierras de Battleworld, comienza a romper la pared de piedra y a levantarse como un titán colosal tras ser incitado a actuar.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "La Cosa se despierta y se levanta del Escudo",
+  "Destrucción parcial del Escudo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    351,
+    1000
+   ],
+   "descripcion": "Una enorme grieta y explosión sacude la gran barrera de piedra del Escudo, lanzando escombros y polvo con un estruendo ensordecedor.",
+   "prompt_en": "A colossal ancient stone wall exploding and crumbling with massive dust clouds and rock debris under a hazy sky, dramatic comic book style.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "destruccion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "RRRRRUMMMBBBLEEE",
+     "texto_es": "RRRRRUMMMBBBLEEE"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "tension",
+   "recorte": "vinetas/page-177-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    242,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "La Cosa emerge como una criatura colosal hecha de bloques de piedra naranja, agachada entre el humo y las ruinas del muro antes de ponerse de pie por completo.",
+   "prompt_en": "The Thing from Fantastic Four depicted as a gargantuan rock titan standing up from a destroyed giant wall, surrounded by smoke and dust, low angle epic shot, painted comic art by Esad Ribic.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "la-cosa",
+    "el-escudo",
+    "battleworld",
+    "rebelion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "...or are you going to stand up?",
+     "texto_es": "...¿O vas a levantarte?"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-177-v2.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Battleworld",
+ "numero_comic": 6,
+ "pagina": 177,
+ "archivo": "paginas/page-177.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3992,
+ "_seg": 13.3
+}

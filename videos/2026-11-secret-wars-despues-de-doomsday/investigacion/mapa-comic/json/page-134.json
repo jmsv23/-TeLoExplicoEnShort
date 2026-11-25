@@ -1,0 +1,230 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom y Valeria Richards conversan tras la muerte del Sheriff Strange en los jardines de Battleworld. Doom honra la memoria de Strange mientras Valeria le cuestiona sobre las circunstancias de la aparición de la nave balsa y por qué los intrusos sobrevivientes aún no están muertos.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Duelo y duelo simulado por la muerte del Sheriff Strange",
+  "Valeria cuestiona el juicio de Doom respecto a los sobrevivientes de la balsa"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    36,
+    246,
+    969
+   ],
+   "descripcion": "Primer plano del Doctor Doom con su capucha y máscara blancas mirando reflexivamente hacia arriba en un entorno de jardines esculpidos iluminados en tonos azules.",
+   "prompt_en": "Comic book panel, close-up of Doctor Doom wearing a white hood and metallic mask looking upwards thoughtfully in a surreal blue garden, Esad Ribic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld",
+    "muerte-strange"
+   ],
+   "textos": [],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-134-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    261,
+    35,
+    672,
+    362
+   ],
+   "descripcion": "Doom camina de espaldas en los jardines cerca de la base de una enorme estatua en honor al Sheriff Strange.",
+   "prompt_en": "Comic book panel, full shot of Doctor Doom in white cloak walking near the colossal stone legs of a statue in a blue moonlit garden, Esad Ribic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You know, he and I didn't always see eye to eye...",
+     "texto_es": "Sabes, él y yo no siempre estuvimos de acuerdo..."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-134-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    261,
+    368,
+    672,
+    969
+   ],
+   "descripcion": "Valeria Richards sentada en las rocas a los pies de la estatua, sosteniendo un pergamino mientras habla con Doom a la distancia.",
+   "prompt_en": "Comic book panel, wide view showing blonde girl Valeria Richards sitting at the base of giant stone legs looking down, Doom in background, mystical blue lighting, Esad Ribic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...but there's no arguing whether or not the Sheriff was a great man. He was certainly that.",
+     "texto_es": "...pero no se puede discutir si el Sheriff era o no un gran hombre. Ciertamente lo era."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'm sorry, Dad.",
+     "texto_es": "Lo siento, papá."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "solemne",
+   "recorte": "vinetas/page-134-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    685,
+    30,
+    977,
+    484
+   ],
+   "descripcion": "Plano medio de Valeria sentada agachada a la izquierda y Doom parado a la derecha levantando una mano.",
+   "prompt_en": "Comic panel, medium close up of Doctor Doom in white hood reaching hand out towards a young blonde girl holding scrolls, Esad Ribic art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "We live our lives defined by the choices we make. And in the end, the high cost of living is death.",
+     "texto_es": "Vivimos nuestras vidas definidas por las elecciones que tomamos. Y al final, el alto costo de vivir es la muerte."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "We all deserve better.",
+     "texto_es": "Todos merecemos algo mejor."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-134-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    685,
+    492,
+    977,
+    759
+   ],
+   "descripcion": "Primer plano del rostro de Valeria Richards mirando hacia arriba con expresión inquisitiva.",
+   "prompt_en": "Comic panel, close-up face of young blonde female character Valeria Richards looking up with a serious questioning gaze, illuminated in blue, Esad Ribic style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Well, I'm the reason he was out there. My team found the vessel and he quarantined it.",
+     "texto_es": "Bueno, yo soy la razón por la que él estaba allí. Mi equipo encontró la nave y él la puso en cuarentena."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "So maybe this is all my fault and I should be smart enough to just keep my head down, but you know me... I have to ask... why are you now tasking my office with tracking down the people who did this?",
+     "texto_es": "Así que tal vez todo esto sea mi culpa y debería ser lo suficientemente lista como para quedarme callada, pero me conoces... tengo que preguntar... ¿por qué ahora le encargas a mi oficina rastrear a las personas que hicieron esto?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "More than that, Dad, why aren't they dead?",
+     "texto_es": "Más que eso, papá, ¿por qué no están muertos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I mean, really, who escapes the judgment of God in a situation like this?",
+     "texto_es": "Quiero decir, de verdad, ¿quién escapa al juicio de Dios en una situación como esta?"
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "inquisitivo",
+   "recorte": "vinetas/page-134-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    685,
+    769,
+    977,
+    969
+   ],
+   "descripcion": "Primer plano inclinado de la capucha y máscara metálica de Dios Emperador Doom respondiendo sombríamente.",
+   "prompt_en": "Comic panel, dramatic close-up of Doctor Doom's metal mask under a white hood looking down ominously, blue lighting, Esad Ribic art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "juicio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "No one has escaped anything, Valeria.",
+     "texto_es": "Nadie ha escapado de nada, Valeria."
+    }
+   ],
+   "lugar": "Jardines del Castillo Doom",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-134-v6.jpg"
+  }
+ ],
+ "lugar": "Jardines del Castillo Doom, Battleworld",
+ "numero_comic": 5,
+ "pagina": 134,
+ "archivo": "paginas/page-134.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5931,
+ "_seg": 19.7
+}

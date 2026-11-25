@@ -1,0 +1,1023 @@
+{
+ "_nota": "Migrado de Camino a Doomsday (motor _lf). Imágenes: fotogramas, recortes e ilustraciones propias (sin URL: respaldar con ./tl assets respaldar). Fuentes de video: los archivos originales del motor.",
+ "imagenes": [
+  {
+   "id": "a-ciclope",
+   "archivo": "img/a-ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-pedro",
+   "archivo": "img/a-pedro.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-tobey",
+   "archivo": "img/a-tobey.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-vanessa",
+   "archivo": "img/a-vanessa.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-001-v1",
+   "archivo": "img/lf/lf03/page-001-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-006-v1",
+   "archivo": "img/lf/lf03/page-006-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-006-v2",
+   "archivo": "img/lf/lf03/page-006-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-008-v1",
+   "archivo": "img/lf/lf03/page-008-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-009-v1",
+   "archivo": "img/lf/lf03/page-009-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-010-v4",
+   "archivo": "img/lf/lf03/page-010-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-020-v1",
+   "archivo": "img/lf/lf03/page-020-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-030-v4",
+   "archivo": "img/lf/lf03/page-030-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-031-v1",
+   "archivo": "img/lf/lf03/page-031-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-032-v2",
+   "archivo": "img/lf/lf03/page-032-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-034-v3",
+   "archivo": "img/lf/lf03/page-034-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-035-v3",
+   "archivo": "img/lf/lf03/page-035-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-044-v4",
+   "archivo": "img/lf/lf03/page-044-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-051-v3",
+   "archivo": "img/lf/lf03/page-051-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-053-v1",
+   "archivo": "img/lf/lf03/page-053-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-069-v5",
+   "archivo": "img/lf/lf03/page-069-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-071-v1",
+   "archivo": "img/lf/lf03/page-071-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-074-v1",
+   "archivo": "img/lf/lf03/page-074-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-080-v3",
+   "archivo": "img/lf/lf03/page-080-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-082-v1",
+   "archivo": "img/lf/lf03/page-082-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-083-v3",
+   "archivo": "img/lf/lf03/page-083-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-088-v1",
+   "archivo": "img/lf/lf03/page-088-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-091-v1",
+   "archivo": "img/lf/lf03/page-091-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-093-v2",
+   "archivo": "img/lf/lf03/page-093-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-095-v3",
+   "archivo": "img/lf/lf03/page-095-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-096-v4",
+   "archivo": "img/lf/lf03/page-096-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-096-v5",
+   "archivo": "img/lf/lf03/page-096-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-097-v4",
+   "archivo": "img/lf/lf03/page-097-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-098-v4",
+   "archivo": "img/lf/lf03/page-098-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-100-v4",
+   "archivo": "img/lf/lf03/page-100-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-101-v3",
+   "archivo": "img/lf/lf03/page-101-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-104-v1",
+   "archivo": "img/lf/lf03/page-104-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-105-v2",
+   "archivo": "img/lf/lf03/page-105-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-121-v1",
+   "archivo": "img/lf/lf03/page-121-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-122-v1",
+   "archivo": "img/lf/lf03/page-122-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-123-v4",
+   "archivo": "img/lf/lf03/page-123-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-125-v1",
+   "archivo": "img/lf/lf03/page-125-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-127-v1",
+   "archivo": "img/lf/lf03/page-127-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-127-v2",
+   "archivo": "img/lf/lf03/page-127-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-128-v6",
+   "archivo": "img/lf/lf03/page-128-v6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-128-v7",
+   "archivo": "img/lf/lf03/page-128-v7.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-129-v1",
+   "archivo": "img/lf/lf03/page-129-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-132-v1",
+   "archivo": "img/lf/lf03/page-132-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-136-v4",
+   "archivo": "img/lf/lf03/page-136-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-138-v1",
+   "archivo": "img/lf/lf03/page-138-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-139-v5",
+   "archivo": "img/lf/lf03/page-139-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-140-v4",
+   "archivo": "img/lf/lf03/page-140-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-142-v2",
+   "archivo": "img/lf/lf03/page-142-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-142-v5",
+   "archivo": "img/lf/lf03/page-142-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-143-v3",
+   "archivo": "img/lf/lf03/page-143-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-150-v1",
+   "archivo": "img/lf/lf03/page-150-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-155-v4",
+   "archivo": "img/lf/lf03/page-155-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-158-v2",
+   "archivo": "img/lf/lf03/page-158-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-161-v4",
+   "archivo": "img/lf/lf03/page-161-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-164-v3",
+   "archivo": "img/lf/lf03/page-164-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-169-v3",
+   "archivo": "img/lf/lf03/page-169-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-171-v3",
+   "archivo": "img/lf/lf03/page-171-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-172-v1",
+   "archivo": "img/lf/lf03/page-172-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-172-v5",
+   "archivo": "img/lf/lf03/page-172-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-175-v2",
+   "archivo": "img/lf/lf03/page-175-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-177-v2",
+   "archivo": "img/lf/lf03/page-177-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-179-v4",
+   "archivo": "img/lf/lf03/page-179-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-180-v1",
+   "archivo": "img/lf/lf03/page-180-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-184-v4",
+   "archivo": "img/lf/lf03/page-184-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-186-v1",
+   "archivo": "img/lf/lf03/page-186-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-187-v6",
+   "archivo": "img/lf/lf03/page-187-v6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-189-v4",
+   "archivo": "img/lf/lf03/page-189-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-193-v3",
+   "archivo": "img/lf/lf03/page-193-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-193-v4",
+   "archivo": "img/lf/lf03/page-193-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-194-v3",
+   "archivo": "img/lf/lf03/page-194-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-194-v5",
+   "archivo": "img/lf/lf03/page-194-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-197-v2",
+   "archivo": "img/lf/lf03/page-197-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-198-v1",
+   "archivo": "img/lf/lf03/page-198-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-200-v2",
+   "archivo": "img/lf/lf03/page-200-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-201-v4",
+   "archivo": "img/lf/lf03/page-201-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-202-v1",
+   "archivo": "img/lf/lf03/page-202-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-204-v2",
+   "archivo": "img/lf/lf03/page-204-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-205-v1",
+   "archivo": "img/lf/lf03/page-205-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-208-v1",
+   "archivo": "img/lf/lf03/page-208-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-208-v5",
+   "archivo": "img/lf/lf03/page-208-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-211-v3",
+   "archivo": "img/lf/lf03/page-211-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-213-v1",
+   "archivo": "img/lf/lf03/page-213-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-214-v1",
+   "archivo": "img/lf/lf03/page-214-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-214-v3",
+   "archivo": "img/lf/lf03/page-214-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-216-v6",
+   "archivo": "img/lf/lf03/page-216-v6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-217-v2",
+   "archivo": "img/lf/lf03/page-217-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-218-v3",
+   "archivo": "img/lf/lf03/page-218-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-220-v1",
+   "archivo": "img/lf/lf03/page-220-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-222-v3",
+   "archivo": "img/lf/lf03/page-222-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-222-v4",
+   "archivo": "img/lf/lf03/page-222-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-224-v1",
+   "archivo": "img/lf/lf03/page-224-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-227-v4",
+   "archivo": "img/lf/lf03/page-227-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-229-v7",
+   "archivo": "img/lf/lf03/page-229-v7.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-230-v4",
+   "archivo": "img/lf/lf03/page-230-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-230-v5",
+   "archivo": "img/lf/lf03/page-230-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-231-v2",
+   "archivo": "img/lf/lf03/page-231-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-233-v5",
+   "archivo": "img/lf/lf03/page-233-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-234-v2",
+   "archivo": "img/lf/lf03/page-234-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-235-v5",
+   "archivo": "img/lf/lf03/page-235-v5.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-237-v1",
+   "archivo": "img/lf/lf03/page-237-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-237-v4",
+   "archivo": "img/lf/lf03/page-237-v4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-238-v1",
+   "archivo": "img/lf/lf03/page-238-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-238-v2",
+   "archivo": "img/lf/lf03/page-238-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-239-v2",
+   "archivo": "img/lf/lf03/page-239-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-244-v1",
+   "archivo": "img/lf/lf03/page-244-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-247-v1",
+   "archivo": "img/lf/lf03/page-247-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-248-v2",
+   "archivo": "img/lf/lf03/page-248-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-250-v1",
+   "archivo": "img/lf/lf03/page-250-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-250-v3",
+   "archivo": "img/lf/lf03/page-250-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-252-v3",
+   "archivo": "img/lf/lf03/page-252-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-253-v6",
+   "archivo": "img/lf/lf03/page-253-v6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-254-v6",
+   "archivo": "img/lf/lf03/page-254-v6.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-255-v1",
+   "archivo": "img/lf/lf03/page-255-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-255-v3",
+   "archivo": "img/lf/lf03/page-255-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-259-v1",
+   "archivo": "img/lf/lf03/page-259-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-261-v1",
+   "archivo": "img/lf/lf03/page-261-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-261-v3",
+   "archivo": "img/lf/lf03/page-261-v3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-264-v2",
+   "archivo": "img/lf/lf03/page-264-v2.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-265-v1",
+   "archivo": "img/lf/lf03/page-265-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-266-v1",
+   "archivo": "img/lf/lf03/page-266-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-269-v1",
+   "archivo": "img/lf/lf03/page-269-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-274-v1",
+   "archivo": "img/lf/lf03/page-274-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-doom-cerca",
+   "archivo": "img/lf/tr-doom-cerca.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  }
+ ],
+ "fuentes_video": [],
+ "cortes": []
+}

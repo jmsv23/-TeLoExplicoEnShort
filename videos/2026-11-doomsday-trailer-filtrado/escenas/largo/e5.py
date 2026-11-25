@@ -1,0 +1,52 @@
+"""ESCENA 5 · Wolverine, Deadpool… y una telaraña."""
+from esc_largo._k import LFV, I, SV, tag
+
+
+def build(S):
+    s = S.scene(S.w("Escena cinco"), bg="tinta", enter="cut")
+    tag(s, "F", s.start + 0.1)
+    t = S.w("Magneto")
+    s.video("mg", LFV + "lf-t13-magneto.mp4", 0.0, s.start + 0.1, 1.0, 360, 140, 1200, 700, tag="TRÁILER OFICIAL")
+    s.img("mg2", "lf/tr-magneto.jpg", 360, 140, 1200, 700, s.start + 0.95, frm="B", pos="50% 35%")
+    s.text("mgt", "MAGNETO", "ttl", "rojo", 960, 920, t, size=120, rot=-4)
+    t = S.w("Wolverine")
+    s.img("dw", I + "deadpool.jpg", 160, 100, 1600, 860, t - 0.1, frm="R", pos="60% 30%")
+    s.text("sn", "¡SNIKT!", "ono", "amarillo", 1560, 860, t + 0.2, rot=-6, hold=0.8)
+    t = S.w("Juntos")
+    s.text("jt", "¡JUNTOS!", "ttl", "rojo", 520, 880, t, size=140, rot=-5, zoom=True)
+
+    s = S.scene(S.w("Que aparezcan"), bg="heroe", enter="halftone")
+    t = S.w("crédito")
+    tag(s, "C", t)
+    s.svg("cr", SV + "creditos.svg", 960, 540, 1920, 1080, s.start + 0.02, how="none")
+    s.code(f'tl.fromTo(q("#{s.id("cr")} [id$=resaltado]"), {{ scaleX: 0 }}, {{ scaleX: 1, duration: 0.4, ease: "power2.out" }}, {s.T(S.peek("material literario"))});')
+    t = S.w("Probablemente")
+    s.globo("ln", "¿SUS PROPIAS LÍNEAS?", 1380, 760, 480, 200, t, size=46, rot=3)
+
+    s = S.scene(S.w("Pero lo que va a romper"), bg="tinta", enter="cut")
+    tag(s, "F", s.start + 0.1)
+    s.text("ri", "LO QUE VA A ROMPER INTERNET", "kw", "amarillo", 960, 540, s.start + 0.1, size=96, rot=-3, out=S.peek("telarañas") - 0.6)
+    t = S.w("telarañas")
+    s.svg("web", SV + "telarana.svg", 960, 540, 1920, 1080, t - 0.6, how="none")
+    s.code(f'tl.fromTo(qa("#{s.id("web")} .hilo"), {{ strokeDasharray: 1, strokeDashoffset: 1 }}, {{ strokeDashoffset: 0, duration: 0.5, stagger: 0.03, ease: "power1.out" }}, {s.T(t - 0.6)});')
+    s.text("tl", "¡¿TELARAÑAS?!", "ono", "rojo", 1240, 620, t + 0.1, rot=-6, hold=1.2, zoom=True)
+    s.sfx("glitch", t, -4)
+
+    s = S.scene(S.w("El rumor"), bg="rojo", enter="whip", color="rojo")
+    tag(s, "R", s.start + 0.1)
+    s.text("rf", "EL RUMOR MÁS FUERTE", "kw", "papel", 960, 150, s.start + 0.1, size=84, rot=-3)
+    t = S.w("Equis Men")
+    s.img("xm", "a-ciclope.jpg", 100, 180, 620, 620, t, frm="L", label="X-MEN")
+    t = S.w("Tobey Maguire")
+    s.img("tb", "a-tobey.jpg", 1200, 180, 620, 620, t, frm="R", label="SPIDER-MAN DE TOBEY")
+    s.text("vs", "VS", "ono", "amarillo", 960, 480, t + 0.2, rot=-8, hold=1.2)
+    t = S.w("segunda filtración")
+    s.svg("2a", SV + "sello-2a-filtracion.svg", 960, 900, 700, 252, t, how="stamp", rot=-4)
+
+    s = S.scene(S.w("Ojo"), bg="tinta", enter="cut")
+    s.img("tb2", "a-tobey.jpg", 560, 100, 800, 760, s.start + 0.05, frm="B", pos="50% 30%")
+    t = S.w("no ha confirmado")
+    s.svg("nc", SV + "sello-no-confirmado.svg", 960, 520, 1000, 360, t, how="stamp", rot=-8)
+    s.sfx("stamp", t + 0.1, -2)
+    t = S.w("secreto")
+    s.cap("sec", "EL SECRETO MEJOR GUARDADO", t, left=560, top=900, width=800)

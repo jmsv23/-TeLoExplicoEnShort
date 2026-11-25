@@ -1,0 +1,226 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards y el Sheriff Strange caminan por los pasillos de Battleworld discutiendo las ideología divididas entre la Ciencia y la Religión de Doom. Valeria informa a Strange que han descubierto algo inusual que rompe con los protocolos ideológicos: la balsa de salvamento con supervivientes del antiguo universo.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Valeria Richards",
+  "[agente de Doom]"
+ ],
+ "eventos_clave": [
+  "Valeria Richards discute los protocolos ideológicos con el Sheriff Strange",
+  "Descubrimiento de la balsa de salvamento ancestral por parte del Ministerio"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    317,
+    1000
+   ],
+   "descripcion": "El Sheriff Strange y Valeria Richards caminan por una gran sala abovedada decorada con una estatua de Sue Storm.",
+   "prompt_en": "Comic panel wide shot of Doctor Strange in black and gold attire walking alongside young Valeria Richards in a white bodysuit inside a vast futuristic stone temple.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Valeria Richards",
+    "[agente de Doom]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "sheriff-strange",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I hope whatever news you have is mundane, Valeria...",
+     "texto_es": "Espero que cualquiera que sea la noticia que tengas sea mundana, Valeria..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I would rather be done with excitement for the day.",
+     "texto_es": "Prefiero terminar con las emociones por el día de hoy."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'm not sure I can promise you that, Stephen. As you know, the two offices we hold represent the dueling ideologies of my father...",
+     "texto_es": "No estoy segura de poder prometerte eso, Stephen. Como sabes, los dos cargos que ostentamos representan las ideologías enfrentadas de mi padre..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "You are the law, while I am his left hand--the Foundation.",
+     "texto_es": "Tú eres la ley, mientras que yo soy su mano izquierda: la Fundación."
+    }
+   ],
+   "lugar": "Castillo de Doom / Fundación Futuro, Battleworld",
+   "tono": "formal, serio",
+   "recorte": "vinetas/page-069-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    330,
+    35,
+    655,
+    342
+   ],
+   "descripcion": "Plano medio de Valeria Richards hablando con Strange mientras caminan.",
+   "prompt_en": "Medium shot comic panel of young blonde Valeria Richards talking to Stephen Strange.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Valeria Richards",
+    "[agente de Doom]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "dialogo",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Yes. Science called Discovery, and religion called Doom.",
+     "texto_es": "Sí. La ciencia llamada Descubrimiento, y la religión llamada Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Exactly. So in the past, our two independent branches--you and I--have had our fair share of disagreements...",
+     "texto_es": "Exactamente. Así que en el pasado, nuestras dos ramas independientes (tú y yo) hemos tenido nuestra buena ración de desacuerdos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Which is why Father created certain protocols to follow in the case of future ideological breaches.",
+     "texto_es": "Por eso el Padre creó ciertos protocolos a seguir en caso de futuras brechas ideológicas."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "explicativo",
+   "recorte": "vinetas/page-069-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    330,
+    347,
+    655,
+    529
+   ],
+   "descripcion": "Primer plano del rostro de Stephen Strange mirando sospechoso.",
+   "prompt_en": "Close up comic panel of Stephen Strange with a thin mustache looking suspicious.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "primer-plano",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Young lady... why do I feel like you're getting ready to tell me something I should already know?",
+     "texto_es": "Jovencita... ¿por qué siento que te estás preparando para decirme algo que ya debería saber?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "desconfiado",
+   "recorte": "vinetas/page-069-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    330,
+    537,
+    655,
+    966
+   ],
+   "descripcion": "Valeria le enseña un objeto misterioso al Sheriff Strange mientras le habla.",
+   "prompt_en": "Comic panel of Valeria Richards holding a small purple object to Sheriff Strange.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Actually... that's exactly the opposite of what's happening here. I'm bringing this to you immediately, as I believe we've just had such an incident.",
+     "texto_es": "En realidad... es exactamente lo opuesto a lo que está sucediendo aquí. Te traigo esto de inmediato, ya que creo que acabamos de tener un incidente así."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Minister Powers uncovered something... interesting.",
+     "texto_es": "El Ministro Powers ha descubierto algo... interesante."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-069-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    669,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Strange, Valeria y un agente caminan hacia un portal donde se divisa la enorme balsa de salvamento flotante recién descubierta.",
+   "prompt_en": "Comic panel low angle view of Stephen Strange and Valeria Richards walking towards a giant illuminated alien object inside a chamber.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Valeria Richards",
+    "[agente de Doom]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "descubrimiento",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[agente de Doom]",
+     "texto": "Couldn't help myself, sir. I just love bright, shiny things.",
+     "texto_es": "No pude evitarlo, señor. Me encantan las cosas brillantes y relucientes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Oh?",
+     "texto_es": "¿Ah, sí?"
+    }
+   ],
+   "lugar": "Cámara de la Balsa de Salvamento, Battleworld",
+   "tono": "revelador, asombro",
+   "recorte": "vinetas/page-069-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld, Castillo de Doom",
+ "numero_comic": 2,
+ "pagina": 69,
+ "archivo": "paginas/page-069.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5292,
+ "_seg": 18.2
+}

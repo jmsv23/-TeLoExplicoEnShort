@@ -1,0 +1,293 @@
+{
+ "tipo": "historia",
+ "resumen": "T'Challa mantiene una última conversación a distancia con Reed Richards mientras este prepara la Balsa de Salvamento antes de la Incursión Final. T'Challa contempla a su ejército de ancestros wakandianos y se despide de Reed, sufriendo la burla sarcástica de Namor tras colgar.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Última comunicación por radio entre T'Challa y Reed Richards antes de la incursión final.",
+  "T'Challa reúne y observa a las huestes espirituales de los guerreros ancestrales de Wakanda.",
+  "Namor comenta con ironía la emotiva despedida entre Reed y T'Challa."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    35,
+    273,
+    656
+   ],
+   "descripcion": "T'Challa con el traje de Black Panther agachado sobre una colina rocosa en Wakanda mientras habla por comunicador.",
+   "prompt_en": "Black Panther crouching on a rocky ridge under a pale blue sky, speaking into a communicator, comic panel art style",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "wakanda",
+    "incursion-final",
+    "comunicador"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Loud and clear, Reed. Like you're standing right here beside me.",
+     "texto_es": "Alto y claro, Reed. Como si estuvieras parado aquí a mi lado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "It's started?",
+     "texto_es": "¿Ha comenzado?"
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "tenso",
+   "recorte": "vinetas/page-183-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    661,
+    273,
+    966
+   ],
+   "descripcion": "Primer plano del rostro de Reed Richards usando un auricular con micrófono dentro de la nave Balsa de Salvamento.",
+   "prompt_en": "Close up of Reed Richards wearing a headset communicator, intense expression, detailed comic art style",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa-salvamento",
+    "incursion-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Yes. We're preparing to leave now. Are you ready?",
+     "texto_es": "Sí. Nos estamos preparando para partir ahora. ¿Estás listo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Almost. I wanted to wait until the last possible minute. This isn't really something you can put back in the box.",
+     "texto_es": "Casi. Quería esperar hasta el último minuto posible. Esto realmente no es algo que se pueda volver a guardar en la caja."
+    }
+   ],
+   "lugar": "Balsa de Salvamento",
+   "tono": "grave",
+   "recorte": "vinetas/page-183-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    284,
+    35,
+    502,
+    418
+   ],
+   "descripcion": "Primer plano frontal de la máscara de Black Panther.",
+   "prompt_en": "Front close-up of Black Panther's black helmet mask with glowing white eye slits, minimalistic background",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mascara",
+    "despedida"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Well, good luck.",
+     "texto_es": "Bueno, buena suerte."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "You too, Reed.",
+     "texto_es": "Tú también, Reed."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "solemne",
+   "recorte": "vinetas/page-183-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    284,
+    418,
+    502,
+    966
+   ],
+   "descripcion": "Reed Richards visto desde el hombro mientras habla por el comunicador con mirada reflexiva.",
+   "prompt_en": "Reed Richards wearing blue superhero suit with communicator headset looking down thoughtfully",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reflexion",
+    "despedida"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Listen, T'Challa, if this doesn't work... if we fail, then that will mean this is the end, and...",
+     "texto_es": "Escucha, T'Challa, si esto no funciona... si fallamos, eso significará que este es el final, y..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And...",
+     "texto_es": "Y..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And then I will see you on the other side, my friend.",
+     "texto_es": "Y entonces te veré en el otro lado, mi amigo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Trust me. Death is just a different kind of journey...",
+     "texto_es": "Confía en mí. La muerte es solo un tipo diferente de viaje..."
+    }
+   ],
+   "lugar": "Balsa de Salvamento",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-183-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    494,
+    0,
+    807,
+    1000
+   ],
+   "descripcion": "T'Challa de espaldas sobre una colina contemplando a una inmensa horda de guerreros ancestrales traslúcidos de Wakanda sostenidos con lanzas.",
+   "prompt_en": "Wide view of Black Panther from behind standing on a hill looking over a massive army of glowing ghostly Wakandan warriors holding spears under a yellow sunset sky",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ejercito-ancestros",
+    "wakanda",
+    "epic-shot"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "...to the land that I am king of.",
+     "texto_es": "...hacia la tierra de la que soy rey."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "epico",
+   "recorte": "vinetas/page-183-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    807,
+    33,
+    977,
+    432
+   ],
+   "descripcion": "Plano medio de Black Panther de perfil cortando la comunicación mientras suena el pitido del canal.",
+   "prompt_en": "Black Panther turned sideways cut out on communicator sound",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "comunicador",
+    "desconexion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Until then, Reed.",
+     "texto_es": "Hasta entonces, Reed."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Good luck.",
+     "texto_es": "Buena suerte."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "BE-DOOP",
+     "texto_es": "BE-DOOP"
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "serio",
+   "recorte": "vinetas/page-183-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    807,
+    444,
+    977,
+    966
+   ],
+   "descripcion": "T'Challa girando la cabeza hacia Namor, quien sostiene su tridente y sonríe sarcásticamente.",
+   "prompt_en": "Namor with trident leaning on his shoulder smiling sarcastically near Black Panther",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "namor",
+    "sarcasmo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "You know, just then...",
+     "texto_es": "Sabes, justo en ese momento..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "...I nearly started crying.",
+     "texto_es": "...casi me pongo a llorar."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "ironico",
+   "recorte": "vinetas/page-183-v7.jpg"
+  }
+ ],
+ "lugar": "Wakanda / Balsa de Salvamento",
+ "numero_comic": 1,
+ "pagina": 183,
+ "archivo": "paginas/page-183.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6548,
+ "_seg": 23.6
+}

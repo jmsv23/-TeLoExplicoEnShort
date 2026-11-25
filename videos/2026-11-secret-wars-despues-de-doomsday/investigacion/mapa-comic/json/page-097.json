@@ -1,0 +1,339 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom (Dios Emperador Doom) habla en privado con Sue Storm en Latverion sobre sus dudas como gobernante y dios de Battleworld. Doom expresa su vulnerabilidad, confesando sentirse la única imperfección en el mundo que ha creado, mientras Sue trata de reconfortarlo.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible"
+ ],
+ "eventos_clave": [
+  "Doom confiesa sus dudas sobre ser un dios a Sue Storm",
+  "Doom reconoce sus fallos en inspirar a la población de Battleworld",
+  "Sue reconforta a Doom sobre su papel en Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    34,
+    307,
+    349
+   ],
+   "descripcion": "Primer plano lateral de Sue Storm escuchando atentamente a Doctor Doom mientras este le habla.",
+   "prompt_en": "Close-up profile of a blonde woman named Sue Storm looking down thoughtfully while Doctor Doom wearing a white hood stands next to her, comic book art by Esad Ribic",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "It is no small thing to be worshipped, Susan.",
+     "texto_es": "No es cosa menor ser adorado, Susan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "There was a time, before all that fuss, when some believed the reason our world had no sun was because you were offended at the idea of something shining brighter than you in the sky.",
+     "texto_es": "Hubo un tiempo, antes de todo ese alboroto, en que algunos creían que la razón por la que nuestro mundo no tenía sol era porque te ofendía la idea de que algo brillara más que tú en el cielo."
+    }
+   ],
+   "lugar": "Castillo Doom, Latverion, Battleworld",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-097-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    355,
+    307,
+    650
+   ],
+   "descripcion": "Doctor Doom con túnica blanca conversando de frente con Sue Storm.",
+   "prompt_en": "Doctor Doom in a white hooded cape talking to blonde Sue Storm wearing white clothes in a sunlit castle interior",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    " battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "The idea is offensive.",
+     "texto_es": "La idea es ofensiva."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Oh?",
+     "texto_es": "¿Ah, sí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "But true. And truth is always the sharpest blade. It always cuts the deepest.",
+     "texto_es": "Pero cierta. Y la verdad siempre es la hoja más afilada. Siempre corta más hondo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Earlier, Stephen mentioned that I seemed troubled. He was right, but the strong man can show very few his wounds--Doom can show only one...",
+     "texto_es": "Más temprano, Stephen mencionó que me veía preocupado. Tenía razón, pero el hombre fuerte puede mostrar sus heridas a muy pocos... Doom solo puede mostrárselas a una..."
+    }
+   ],
+   "lugar": "Castillo Doom, Latverion, Battleworld",
+   "tono": "íntimo",
+   "recorte": "vinetas/page-097-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    28,
+    657,
+    307,
+    968
+   ],
+   "descripcion": "Doctor Doom mirando fijamente a Sue Storm mientras ella le responde con ternura.",
+   "prompt_en": "Doctor Doom in white armor looking closely at Sue Storm, who touches her hands together tenderly",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Look at me, Susan. I have changed.",
+     "texto_es": "Mírame, Susan. He cambiado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I know.",
+     "texto_es": "Lo sé."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "And you've changed for the better.",
+     "texto_es": "Y has cambiado para bien."
+    }
+   ],
+   "lugar": "Castillo Doom, Latverion, Battleworld",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-097-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    312,
+    355,
+    497,
+    968
+   ],
+   "descripcion": "Primer plano dramático de la máscara metálica de Doctor Doom bajo su capucha blanca.",
+   "prompt_en": "Close up dramatic shot of Doctor Doom's metal mask shaded under a white hood, looking down solemnly",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "confesion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I have told you my secrets. You know I was not always a god.",
+     "texto_es": "Te he contado mis secretos. Sabes que no siempre fui un dios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I believed in the... rightness of me. Given my gift to shape all of reality, I would make something better than the shapers of old.",
+     "texto_es": "Creía en la... rectitud de mi ser. Dado mi don para dar forma a toda la realidad, crearía algo mejor que los creadores de antaño."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And yet look at what it actually is...",
+     "texto_es": "Y sin embargo, mira lo que realmente es..."
+    }
+   ],
+   "lugar": "Castillo Doom, Latverion, Battleworld",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-097-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    498,
+    34,
+    808,
+    350
+   ],
+   "descripcion": "Sue Storm apoyando tranquilamente su mano en el pecho de Doom para consolarlo.",
+   "prompt_en": "Blonde woman in white outfit placing a hand gently on Doctor Doom's chest in a supportive gesture",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "We all make mistakes.",
+     "texto_es": "Todos cometemos errores."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You misunderstand...",
+     "texto_es": "Malinterpretas..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "There is no flaw in the world--it is the world I wanted. But my people are restless because I fail to properly inspire them.",
+     "texto_es": "No hay ningún defecto en el mundo... es el mundo que quería. Pero mi gente está inquieta porque no logro inspirarla adecuadamente."
+    }
+   ],
+   "lugar": "Castillo Doom, Latverion, Battleworld",
+   "tono": "confidencial",
+   "recorte": "vinetas/page-097-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    498,
+    355,
+    808,
+    650
+   ],
+   "descripcion": "Vista trasera de la capucha blanca de Doom mientras contempla el horizonte de Battleworld.",
+   "prompt_en": "Back view of Doctor Doom looking out over a fantastical castle landscape",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I am a poor god. I think now that once having made the world, I should have removed myself. Perhaps the gods of old had it right...",
+     "texto_es": "Soy un pobre dios. Ahora pienso que una vez creado el mundo, debí haberme retirado. Tal vez los dioses de antaño tenían razón..."
+    }
+   ],
+   "lugar": "Castillo Doom, Latverion, Battleworld",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-097-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    498,
+    657,
+    808,
+    968
+   ],
+   "descripcion": "Sue Storm consolando a Doom poniéndose a su lado mientras él mira hacia abajo apoyado en la barandilla.",
+   "prompt_en": "Sue Storm leaning comforting hand on Doctor Doom's shoulder as he leans over a balcony",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...It is better to be unseen--demanding faith, and beyond being defined by the mundane.",
+     "texto_es": "...Es mejor ser invisible, exigiendo fe, y estar más allá de ser definido por lo mundano."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom, Latverion",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-097-v7.jpg"
+  },
+  {
+   "n": 8,
+   "bbox": [
+    823,
+    34,
+    981,
+    968
+   ],
+   "descripcion": "Tomas de perfil de Doctor Doom expresando su sentimiento de imperfección, mientras Sue lo desmiente amorosamente.",
+   "prompt_en": "Wide profile shot of Doctor Doom speaking vulnerably with Sue Storm next to him, fantasy castle towers in background",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I'm beginning to think that in my perfect world... I am the one flawed thing.",
+     "texto_es": "Empiezo a pensar que en mi mundo perfecto... yo soy la única cosa defectuosa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Well, I disagree.",
+     "texto_es": "Bueno, no estoy de acuerdo."
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom, Latverion",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-097-v8.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Latverion, Battleworld",
+ "numero_comic": 3,
+ "pagina": 97,
+ "archivo": "paginas/page-097.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7697,
+ "_seg": 27.9
+}

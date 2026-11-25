@@ -1,0 +1,171 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther y Namor se preparan para enfrentarse directamente al Dios Emperador Doom en el campo de batalla. Black Panther empuña y alza el Guantelete del Infinito para iniciar el ataque final contra Doom.",
+ "personajes": [
+  "Black Panther",
+  "Namor",
+  "Doctor Doom / Dios Emperador Doom"
+ ],
+ "eventos_clave": [
+  "Black Panther alza el Guantelete del Infinito contra Doom",
+  "Enfrentamiento entre Black Panther, Namor y el Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    35,
+    282,
+    311
+   ],
+   "descripcion": "Primer plano del rostro de Namor mirando fijamente con expresión seria.",
+   "prompt_en": "Close up shot of Namor comic book character looking sternly forward",
+   "personajes": [
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "namor",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "Actually... ...I always assumed everyone would prefer it be me this time.",
+     "texto_es": "En realidad... ...siempre asumí que todos preferirían que fuera yo esta vez."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-222-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    18,
+    318,
+    290,
+    524
+   ],
+   "descripcion": "Plano detalle del ojo de Doctor Doom observando a través de la abertura de su máscara de hierro.",
+   "prompt_en": "Extreme close up on Doctor Doom's eye visible inside his textured metal mask",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "You thought wrong.",
+     "texto_es": "Pensaste mal."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-222-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    20,
+    524,
+    282,
+    960
+   ],
+   "descripcion": "Black Panther levanta el Guantelete del Infinito dorado con el puño cerrado mientras Namor permanece a su lado.",
+   "prompt_en": "Black Panther raising the golden Infinity Gauntlet high into the air with Namor beside him, heroic comic book pose",
+   "personajes": [
+    "Black Panther",
+    "Namor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "black-panther",
+    "namor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther",
+     "texto": "Goodbye, Victor.",
+     "texto_es": "Adiós, Victor."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-222-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    282,
+    0,
+    742,
+    1000
+   ],
+   "descripcion": "El Dios Emperador Doom con túnica y armadura brillante de pie en medio de un campo de batalla caótico rodeado por un ejército de criaturas y hordas.",
+   "prompt_en": "God Emperor Doom wearing glowing silver armor and cloak standing amidst a dusty chaotic battlefield surrounded by a horde of enemies",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld",
+    "gran-batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Nrrrrhhh...",
+     "texto_es": "Nrrrrhhh..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-222-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    742,
+    38,
+    970,
+    960
+   ],
+   "descripcion": "Namor realizando un movimiento con un arma brillante en medio de la batalla.",
+   "prompt_en": "Namor swinging a glowing weapon in dynamic action, comic book battle scene",
+   "personajes": [
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "namor",
+    "accion"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "accion",
+   "recorte": "vinetas/page-222-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 222,
+ "archivo": "paginas/page-222.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4658,
+ "_seg": 15.5
+}

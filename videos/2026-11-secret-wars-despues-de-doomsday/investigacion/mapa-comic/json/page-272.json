@@ -1,0 +1,66 @@
+{
+ "tipo": "portada",
+ "resumen": "Portada épica que ilustra la batalla final de Secret Wars, con una enorme representación divina de Dios Emperador Doom alzándose en el cosmos mientras una multitud de superhéroes se lanza a la carga contra él.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Capitana Marvel (Carol Danvers)",
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Cíclope (con el Fénix)",
+  "Thor (Jane Foster)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Star-Lord",
+  "Namor",
+  "Hulk"
+ ],
+ "eventos_clave": [
+  "Batalla final contra Dios Emperador Doom por el destino de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración panorámica y detallada donde la imponente figura cósmica de Dios Emperador Doom domina el fondo galáctico, rodeada por una estampida de héroes en pleno ataque, encabezados por Capitana Marvel, Thor Jane Foster, los Spider-Men, Cíclope con el poder del Fénix y Mister Fantástico.",
+   "prompt_en": "Epic painted comic book splash illustration depicting a gigantic celestial Doctor Doom looming in outer space, while a swarm of Marvel superheroes attack him in an all-out cosmic battle, dramatic lighting, detailed painterly art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Capitana Marvel (Carol Danvers)",
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Cíclope (con el Fénix)",
+    "Thor (Jane Foster)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Star-Lord",
+    "Namor",
+    "Hulk"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "secret-wars",
+    "battleworld",
+    "doom-dios",
+    "batalla-final",
+    "alex-ross"
+   ],
+   "textos": [],
+   "lugar": "Espacio cósmico / Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-272-v1.jpg"
+  }
+ ],
+ "lugar": "Espacio cósmico / Battleworld",
+ "numero_comic": 9,
+ "pagina": 272,
+ "archivo": "paginas/page-272.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3184,
+ "_seg": 9.4
+}

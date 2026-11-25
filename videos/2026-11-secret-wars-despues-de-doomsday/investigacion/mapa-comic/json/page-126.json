@@ -1,0 +1,195 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange prepara un hechizo de dispersión para poner a salvo a los héroes supervivientes mientras Cíclope, impulsado por la Fuerza Fénix, se enfrenta al Dios Emperador Doom.",
+ "personajes": [
+  "Cíclope (con el Fénix)",
+  "Doctor Strange (Sheriff Strange)",
+  "Black Panther (T'Challa)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Cíclope enfrenta a Doctor Doom usando la Fuerza Fénix",
+  "Doctor Strange inicia el hechizo para dispersar a los supervivientes por Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    30,
+    34,
+    308,
+    353
+   ],
+   "descripcion": "Primer plano de Cíclope ahogándose mientras emite energía del Fénix de su rostro y visor.",
+   "prompt_en": "Close up comic book illustration of Cyclops possessed by Phoenix force choking and glowing with yellow energy.",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fuerza-fenix",
+    "ciclope",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "Hurk!",
+     "texto_es": "¡Hurk!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-126-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    30,
+    356,
+    308,
+    966
+   ],
+   "descripcion": "Doctor Strange alza la mano canalizando magia mientras habla con Black Panther, quien lo observa desde una roca.",
+   "prompt_en": "Doctor Strange raising a glowing hand to cast magic while Black Panther watches from atop a rock behind him.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hechizo",
+    "magia",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "My eyes have seen things over the years, T'Challa... I have hidden many of them.",
+     "texto_es": "Mis ojos han visto cosas a lo largo de los años, T'Challa... He ocultado muchas de ellas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "What are you doing, Stephen?",
+     "texto_es": "¿Qué estás haciendo, Stephen?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-126-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    315,
+    33,
+    980,
+    966
+   ],
+   "descripcion": "Cíclope levita envuelto en la aura dorada del Fénix encarándose cara a cara con Doctor Doom.",
+   "prompt_en": "Comic book panel showing Cyclops floating in glowing golden Phoenix aura confronting Doctor Doom wearing a white cloak.",
+   "personajes": [
+    "Cíclope (con el Fénix)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ciclope-vs-doom",
+    "fuerza-fenix",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "The future?",
+     "texto_es": "¿El futuro?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-126-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    684,
+    32,
+    978,
+    260
+   ],
+   "descripcion": "Primer plano de la máscara metálica de Doctor Doom mirando fijamente con rabia contenida.",
+   "prompt_en": "Close up of Doctor Doom metal mask face looking menacingly.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "mascara"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "That future you speak of is a dream, boy.",
+     "texto_es": "Ese futuro del que hablas es un sueño, muchacho."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And the dream...",
+     "texto_es": "Y el sueño..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-126-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    684,
+    737,
+    978,
+    966
+   ],
+   "descripcion": "Doctor Strange realiza el gesto final con sus dedos para activar el hechizo de dispersión, con Black Panther al fondo.",
+   "prompt_en": "Doctor Strange pointing with glowing magic fingers, preparing to teleport, with Black Panther watching.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "magia",
+    "teletransporte",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Remember this.",
+     "texto_es": "Recuerda esto."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-126-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 126,
+ "archivo": "paginas/page-126.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4748,
+ "_seg": 16.6
+}

@@ -1,0 +1,153 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther (T'Challa) y Namor llegan a la Isla Oculta de Agamotto tras cruzar el Mar del Mundo. A pesar de su sangrienta rivalidad del pasado, reconocen que sus antiguos reinos ya no existen y deciden trabajar juntos para abrir el portal hacia lo que el Doctor Strange dejó oculto.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Llegada a la Isla Oculta de Agamotto",
+  "Reflexión y tregua entre Namor y Black Panther"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    0,
+    442,
+    1000
+   ],
+   "descripcion": "Vista panorámica monumental de los picos rocosos y torres de la Isla Oculta de Agamotto emergiendo del mar, donde una enorme criatura marina semejante a un pulpo gigante acecha entre las rocas.",
+   "prompt_en": "Wide epic panorama of massive rock pillars and ancient towers rising from foggy ocean, huge kraken sea monster wrapped around the cliff base, comic art style.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "isla-oculta-agamotto",
+    "battleworld",
+    "paisaje-epico"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE HIDDEN ISLE OF AGAMOTTO.",
+     "texto_es": "LA ISLA OCULTA DE AGAMOTTO."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-168-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    442,
+    35,
+    665,
+    969
+   ],
+   "descripcion": "Namor armado con su tridente y Black Panther emergen de la garganta dentada de una criatura marina gigante hacia una terraza de piedra pulida.",
+   "prompt_en": "Namor holding a golden trident and Black Panther walking out from the mouth of a giant sea beast shell onto a stone patio, medium shot.",
+   "personajes": [
+    "Namor",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "namor",
+    "black-panther",
+    "tregua"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "We only had to cross the World Sea several times before we finally found the Doctor's hidden isle.",
+     "texto_es": "Solo tuvimos que cruzar el Mar del Mundo varias veces antes de encontrar finalmente la isla oculta del Doctor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "Tell me, T'Challa, what's the greater miracle--that we actually found it, or that we found it without killing one another?",
+     "texto_es": "Dime, T'Challa, ¿cuál es el milagro más grande: que realmente la hayamos encontrado, o que la hayamos encontrado sin matarnos el uno al otro?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "The enormity of what we've been through... of all that led to this...",
+     "texto_es": "La enormidad de lo que hemos pasado... de todo lo que condujo a esto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "I think I eventually realized that there was no avoiding what happened to our world.",
+     "texto_es": "Creo que con el tiempo me di cuenta de que no había forma de evitar lo que le sucedió a nuestro mundo."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-168-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    681,
+    35,
+    981,
+    969
+   ],
+   "descripcion": "Plano desde atrás de Black Panther y Namor caminando hacia una imponente entrada de templo con el símbolo del Ojo de Agamotto brillando suavemente en el suelo.",
+   "prompt_en": "Back view of Black Panther and Namor walking together towards a closed ancient stone door with a glowing Eye of Agamotto symbol on the floor.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ojo-de-agamotto",
+    "tregua",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "You're a king of ashes now, Namor. I am king of the dead...there is nothing left to fight over.",
+     "texto_es": "Ahora eres un rey de cenizas, Namor. Yo soy el rey de los muertos... ya no queda nada por lo que luchar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Nothing behind us...and only this new world before us.",
+     "texto_es": "Nada detrás de nosotros... y solo este nuevo mundo ante nosotros."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "It's just a door, T'Challa.",
+     "texto_es": "Es solo una puerta, T'Challa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "And a locked one at that.",
+     "texto_es": "Y además está cerrada."
+    }
+   ],
+   "lugar": "Isla Oculta de Agamotto",
+   "tono": "solemne",
+   "recorte": "vinetas/page-168-v3.jpg"
+  }
+ ],
+ "lugar": "Isla Oculta de Agamotto",
+ "numero_comic": 7,
+ "pagina": 168,
+ "archivo": "paginas/page-168.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5798,
+ "_seg": 33.4
+}

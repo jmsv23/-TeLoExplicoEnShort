@@ -1,0 +1,236 @@
+{
+ "tipo": "historia",
+ "resumen": "Peter Parker y Miles Morales exploran las profundidades bajo el castillo de Doom y encuentran a Owen Reece, el Hombre Molécula. Owen les revela que está hambriento tras haber devorado realidades enteras. Miles busca en sus bolsillos y saca una hamburguesa guardada desde antes de la destrucción de las realidades.",
+ "personajes": [
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Peter y Miles encuentran al Hombre Molécula",
+  "Miles Morales saca una hamburguesa de su bolsillo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    15,
+    30,
+    375,
+    970
+   ],
+   "descripcion": "Peter Parker y Miles Morales caminan hacia la figura invertida y luminosa de Owen Reece en un paisaje surrealista de bloques flotantes.",
+   "prompt_en": "Two Spider-Men walking up floating stepping stones toward a glowing inverted figure in a surreal space, full body view from behind.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "hombre-molecula",
+    "spider-man",
+    "miles-morales"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Can you feel that?",
+     "texto_es": "¿Pueden sentir eso?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Tectonic plates grinding at the edges, like pieces from different puzzles trying to form a single picture, but they never will.",
+     "texto_es": "Placas tectónicas rozando en los bordes, como piezas de rompecabezas diferentes intentando formar una sola imagen, pero nunca lo lograrán."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Understand? They don't belong together.",
+     "texto_es": "¿Entienden? No pertenecen juntas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "It's going to fly apart... I know it is. I devoured everything--I ate it all--but I'm still hungry.",
+     "texto_es": "Va a hacerse pedazos... Sé que lo hará. Devoré todo... me lo comí todo... pero sigo teniendo hambre."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Hellooo, Spider-Men.",
+     "texto_es": "Holaaa, Spider-Men."
+    }
+   ],
+   "lugar": "Cimientos de Doomstadt",
+   "recorte": "vinetas/page-163-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    380,
+    32,
+    755,
+    382
+   ],
+   "descripcion": "Peter Parker reconoce al Hombre Molécula, cuya cabeza flotante e invertida brilla ante ellos.",
+   "prompt_en": "Spider-Man looking up at a glowing upside-down face floating in front of him in a comic panel.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "spider-man"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Who is--",
+     "texto_es": "Quién es--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Oh, boy. It's Owen Reece. The Molecule Man.",
+     "texto_es": "Vaya. Es Owen Reece. El Hombre Molécula."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "That's me.",
+     "texto_es": "Ese soy yo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Did you bring me something to eat?",
+     "texto_es": "¿Me trajeron algo de comer?"
+    }
+   ],
+   "lugar": "Cimientos de Doomstadt",
+   "recorte": "vinetas/page-163-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    380,
+    382,
+    755,
+    725
+   ],
+   "descripcion": "Peter le dice a Owen que no tiene comida, pero Miles recuerda que tiene algo en su traje.",
+   "prompt_en": "Spider-Man gesturing open-handed while Miles Morales stands behind him thinking in a comic panel.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "spider-man",
+    "miles-morales"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "I didn't actually know there would be someone down here...",
+     "texto_es": "La verdad no sabía que habría alguien aquí abajo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "I didn't... I'm sorry. No, Owen. I don't have anything.",
+     "texto_es": "Yo no... Lo siento. No, Owen. No tengo nada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Me eith--",
+     "texto_es": "Yo tampo--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Hey, wait... I forgot. I do have something.",
+     "texto_es": "Oigan, esperen... Lo olvidé. Sí tengo algo."
+    }
+   ],
+   "lugar": "Cimientos de Doomstadt",
+   "recorte": "vinetas/page-163-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    380,
+    725,
+    755,
+    968
+   ],
+   "descripcion": "Primer plano de la mano de Miles Morales sosteniendo una hamburguesa envuelta en papel.",
+   "prompt_en": "Close up of a black-and-red masked hero holding a wrapped double hamburger in his gloved hand.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "hamburguesa-miles",
+    "miles-morales"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "There's a hamburger in my pocket.",
+     "texto_es": "Hay una hamburguesa en mi bolsillo."
+    }
+   ],
+   "lugar": "Cimientos de Doomstadt",
+   "recorte": "vinetas/page-163-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    765,
+    36,
+    968,
+    968
+   ],
+   "descripcion": "Primer plano del rostro invertido y desesperado de Owen Reece al ver la hamburguesa.",
+   "prompt_en": "Dramatic close-up panel of an upside-down man's glowing face looking intensely hungry with wide eyes.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "I have to have it.",
+     "texto_es": "Tengo que tenerla."
+    }
+   ],
+   "lugar": "Cimientos de Doomstadt",
+   "recorte": "vinetas/page-163-v5.jpg"
+  }
+ ],
+ "lugar": "Cimientos de Doomstadt / Battleworld",
+ "numero_comic": 6,
+ "pagina": 163,
+ "archivo": "paginas/page-163.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5711,
+ "_seg": 19.1
+}

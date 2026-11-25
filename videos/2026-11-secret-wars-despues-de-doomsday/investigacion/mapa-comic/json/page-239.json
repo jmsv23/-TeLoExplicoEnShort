@@ -1,0 +1,72 @@
+{
+ "tipo": "historia",
+ "resumen": "Una gigantesca explosión sacude la superficie de Battleworld, haciendo volar enormes rocas y provocando una inmensa grieta incandescente que resquebraja el planeta desde la corteza vista desde el espacio exterior.",
+ "personajes": [],
+ "eventos_clave": [
+  "destruccion-de-battleworld",
+  "colapso-del-planeta"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    701,
+    1000
+   ],
+   "descripcion": "Una deslumbrante y masiva explosión en tonos amarillos llena la escena, haciendo volar por los aires gigantescas rocas sobre un terreno en ruinas.",
+   "prompt_en": "A blinding yellow massive explosion on a desolate landscape, giant boulders catapulted into the air, bright blinding light filling the scene with big comic book sound effect text on top.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "explosion",
+    "onomatopeya",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "BA DA DOOOOOMMMMM",
+     "texto_es": "BA DA DOOOOOMMMMM"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-239-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    701,
+    41,
+    955,
+    965
+   ],
+   "descripcion": "Vista desde el espacio exterior donde se observa Battleworld resquebrajándose por una gigantesca grieta incandescente que emite una luz brillante.",
+   "prompt_en": "View from space of a planet cracking open with a glowing brilliant white-hot fissure tearing through its crust into deep space.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "vista-espacial",
+    "destruccion-planeta",
+    "battleworld"
+   ],
+   "textos": [],
+   "lugar": "Espacio exterior / Battleworld",
+   "tono": "catastrofico",
+   "recorte": "vinetas/page-239-v2.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 239,
+ "archivo": "paginas/page-239.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3664,
+ "_seg": 12.0
+}

@@ -1,0 +1,65 @@
+{
+ "tipo": "historia",
+ "resumen": "Integrantes de los Thor Corps atacan violentamente a Thanos durante la batalla en Battleworld, mientras un cuadro de narración reflexiona sobre cómo este nuevo mundo difiere del anterior.",
+ "personajes": [
+  "Thanos",
+  "Thor Corps",
+  "Narrador"
+ ],
+ "eventos_clave": [
+  "Ataque de los Thor Corps contra Thanos",
+  "Reflexión sobre las diferencias entre Battleworld y el viejo universo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Viñeta a página completa que muestra a dos miembros de los Thor Corps sometiendo y atacando a Thanos con sus martillos envueltos en energía. A la izquierda se observa una explosión con destellos y a la derecha arriba un cuadro de narración.",
+   "prompt_en": "Full page comic splash showing two muscular Thor variants in armor with red capes brutally attacking Thanos, dynamic arc of blue hammer stroke, dramatic action lighting, hyper detailed, Marvel comic style by Esad Ribic.",
+   "personajes": [
+    "Thanos",
+    "Thor Corps"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "thanos",
+    "battleworld",
+    "secret-wars",
+    "accion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Here's the thing you need to understand about how this world is different from the old one...",
+     "texto_es": "Esto es lo que necesitas entender sobre cómo este mundo es diferente del anterior..."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Thor Corps",
+     "texto": "KRAK",
+     "texto_es": "KRAK"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-110-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 110,
+ "archivo": "paginas/page-110.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3739,
+ "_seg": 14.4
+}

@@ -1,0 +1,179 @@
+{
+ "tipo": "historia",
+ "resumen": "Tras la conclusión de las Guerras Secretas y la restauración de la Tierra, Miles Morales contempla la ciudad de Nueva York. El Hombre Molécula (Owen Reece) se comunica con él para agradecerle por la hamburguesa que le dio durante los eventos en Battleworld, prometiéndole que le debe una.",
+ "personajes": [
+  "Spider-Man (Miles Morales)",
+  "Spider-Man (Peter Parker)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "El Hombre Molécula le da las gracias a Miles Morales por la hamburguesa que le dio en Battleworld.",
+  "Se insinúa la integración de Miles Morales y su universo a la Tierra principal (Tierra-616)."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    163,
+    1000
+   ],
+   "descripcion": "Vista panorámica del horizonte de la ciudad de Nueva York al atardecer, con Miles Morales con su traje de Spider-Man observando desde la cornisa de un rascacielos.",
+   "prompt_en": "Panoramic view of New York City skyline at sunset, with Miles Morales Spider-Man standing on a skyscraper edge looking out.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "nueva-york",
+    "epilogo",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "NEW YORK CITY.",
+     "texto_es": "CIUDAD DE NUEVA YORK."
+    }
+   ],
+   "lugar": "Ciudad de Nueva York",
+   "tono": "esperanzador",
+   "recorte": "vinetas/page-246-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    163,
+    0,
+    329,
+    1000
+   ],
+   "descripcion": "Primer plano de la cara invertida (de cabeza) del Hombre Molécula (Owen Reece) sobre un fondo blanco brillante.",
+   "prompt_en": "Close-up of Molecule Man's face upside down against a bright white background, talking gently.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "hamburguesa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Hey, little Spider person... Before you go, I want to tell you something.",
+     "texto_es": "Oye, pequeño hombre araña... Antes de que te vayas, quiero decirte algo."
+    }
+   ],
+   "lugar": "Espacio extradimensional",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-246-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    329,
+    0,
+    497,
+    1000
+   ],
+   "descripcion": "Miles Morales voltea la vista confundido mientras Peter Parker se encuentra detrás de él con el traje clásico de Spider-Man.",
+   "prompt_en": "Miles Morales in black Spider-Man suit looking back over his shoulder, Peter Parker in classic Spider-Man suit standing behind him.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "spider-man",
+    "miles-morales",
+    "peter-parker"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Uh, okay... What?",
+     "texto_es": "Eh, bien... ¿Qué?"
+    }
+   ],
+   "lugar": "Ciudad de Nueva York",
+   "tono": "confuso",
+   "recorte": "vinetas/page-246-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    497,
+    0,
+    654,
+    1000
+   ],
+   "descripcion": "Acercamiento al rostro invertido de Owen Reece agradeciendo el gesto de comida.",
+   "prompt_en": "Close-up shot of Owen Reece upside down, speaking warmly.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "hombre-molecula",
+    "hamburguesa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Thanks for the burger...",
+     "texto_es": "Gracias por la hamburguesa..."
+    }
+   ],
+   "lugar": "Espacio extradimensional",
+   "tono": "agradecido",
+   "recorte": "vinetas/page-246-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    654,
+    0,
+    819,
+    1000
+   ],
+   "descripcion": "Primer plano del Hombre Molécula sonriendo levemente mientras concluye su pensamiento.",
+   "prompt_en": "Close up upside down face of Molecule Man smiling slightly while speaking.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "hombre-molecula",
+    "hamburguesa",
+    "multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "...I owe you one.",
+     "texto_es": "...Te debo una."
+    }
+   ],
+   "lugar": "Espacio extradimensional",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-246-v5.jpg"
+  }
+ ],
+ "lugar": "Ciudad de Nueva York",
+ "numero_comic": 9,
+ "pagina": 246,
+ "archivo": "paginas/page-246.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5524,
+ "_seg": 18.6
+}

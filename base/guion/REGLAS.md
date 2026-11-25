@@ -6,10 +6,28 @@ Las reglas editoriales (hook en 3-5 s, bucles abiertos, sellos, contador, pregun
 
 | Pieza | Duración | Palabras de voz | Ritmo visual |
 |---|---|---|---|
-| Short | 45-58 s (máximo 60) | 120-150 | cambio de plano cada ≤ 1.5-3 s |
+| Short | 20-35 s (máximo 45) | 55-95 | cambio de plano cada ≤ 1-1.5 s |
 | Largo | 6-15 min | ~140 por minuto (menos si hay escenas con sonido) | escena de 3-6 s con 2-3 cambios internos |
 
 `./tl estado <video>` cuenta las palabras de cada guion.
+
+## Shorts: pasar el primer filtro de YouTube
+
+YouTube enseña cada Short a un primer grupo de gente y solo lo empuja si ese grupo se queda, lo repite y lo comparte. Hasta el 20 de noviembre de 2026, los 46 Shorts del canal se quedaron en ese primer grupo: una mediana de 1,201 vistas, cualquiera que fuera el tema o la hora. Las señales fueron:
+
+- solo el 46 % de las vistas eran con permanencia;
+- la retención al 10 % del video estaba en 0.2-0.5 contra Shorts parecidos;
+- entre el 9 y el 35 % llegaba al final;
+- hubo 20 compartidos en 50,000 vistas.
+
+Las reglas salen de ese diagnóstico.
+
+1. **Una sola idea por Short**, no una lista de 6 datos. Si el tema da para varias ideas, haz varios Shorts o un largo.
+2. **El segundo 0 ya es el gancho.** La voz arranca en el primer fotograma con la promesa concreta («Rockstar escondió ESTO en GTA 6»), no con el tema («Tráiler final»). El texto en pantalla repite la promesa en grande. Prohibido abrir con un plano fijo u oscuro: algo se mueve o cambia antes de 1 s.
+3. **Imagen real y personas.** Usa clips en movimiento, caras y momentos humanos reconocibles. El Short que más jaló fue un streamer real borrando GTA 6 (2,576 vistas). Las fotos fijas con zoom son lo último que se usa.
+4. **El final regresa al inicio.** La última frase se conecta con la primera para que el Short se repita, sin despedida. **Prohibido cerrar con «en el video completo, en mi canal»**: avisa que ya terminó y la gente desliza. El largo se enlaza con «Video relacionado» y en el comentario fijado (`base/publicacion/REGLAS.md`), no con la voz.
+5. **Pregunta de debate a la mitad** o una opinión polémica. Los comentarios y compartidos son la señal que falta. El Top 5 de actrices, que tenía pregunta, sacó 4.4 % de likes y 7 comentarios.
+6. **Revisa los primeros 3 s a 1 fps** (`./tl hoja`) antes de dar el Short por bueno. Si los 3 primeros fotogramas son casi iguales, rehaz el gancho.
 
 ## guion/<pieza>.md
 

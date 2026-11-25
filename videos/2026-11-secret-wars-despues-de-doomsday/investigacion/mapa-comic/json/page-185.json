@@ -1,0 +1,114 @@
+{
+ "tipo": "historia",
+ "resumen": "Tras una fuerte explosión en el gran muro conocido como El Escudo, Namor le pregunta a Black Panther qué hay al otro lado. Black Panther observa la niebla donde emergen las siluetas de hordas de zombis y responde que 'los muertos'.",
+ "personajes": [
+  "Namor",
+  "Black Panther (T'Challa)",
+  "[zombis]"
+ ],
+ "eventos_clave": [
+  "brecha-en-el-escudo",
+  "revelacion-de-los-muertos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    317,
+    1000
+   ],
+   "descripcion": "Una enorme explosión amarilla y naranja retumba en El Escudo, lanzando escombros y mostrando una silueta entre las llamas.",
+   "prompt_en": "A massive comic book explosion with bright yellow and orange light, debris flying everywhere, a silhouette of a figure in the middle of the blast",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "explosion",
+    "el-escudo"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BA-BOOOM",
+     "texto_es": "¡BA-BOOOM!"
+    }
+   ],
+   "recorte": "vinetas/page-185-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    304,
+    28,
+    542,
+    250
+   ],
+   "descripcion": "Primer plano de Namor mirando hacia adelante con expresion seria y preocupada.",
+   "prompt_en": "Close up panel portrait of Namor looking intensely with sharp features and pointed ears, dramatic lighting",
+   "personajes": [
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "namor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "Okay... Exactly what is on the other side of that wall?",
+     "texto_es": "Bien... ¿Qué hay exactamente al otro lado de ese muro?"
+    }
+   ],
+   "recorte": "vinetas/page-185-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    317,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica de la muralla destruida cubierta por una espesa niebla de donde se distinguen las siluetas de zombis acercándose. En primer plano a la derecha se ve a Black Panther en silueta mirando hacia los muertos.",
+   "prompt_en": "Wide dramatic panel of a broken brick wall surrounded by gray mist, undead zombie silhouettes crawling out from the fog, Black Panther in silhouette in the right foreground looking at them",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[zombis]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-escudo",
+    "zombis",
+    "black-panther"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "RRR RRRRRRR RRR",
+     "texto_es": "RRR RRRRRRR RRR"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "The dead.",
+     "texto_es": "Los muertos."
+    }
+   ],
+   "recorte": "vinetas/page-185-v3.jpg"
+  }
+ ],
+ "lugar": "El Escudo (The Shield) / Battleworld",
+ "numero_comic": 6,
+ "pagina": 185,
+ "archivo": "paginas/page-185.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4617,
+ "_seg": 16.2
+}

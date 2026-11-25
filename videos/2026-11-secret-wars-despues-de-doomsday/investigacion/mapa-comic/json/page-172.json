@@ -1,0 +1,236 @@
+{
+ "tipo": "historia",
+ "resumen": "En Castle Doom, Sue Storm llama a su hijo Franklin para ir a dormir. Tras regresar volando de un día de pesca junto a Galactus, Franklin se mete en la cama y le pide a su madre que le cuente la historia de los Cuatro Fantásticos, confesándole que teme olvidarla si ella deja de contársela.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Franklin Richards regresa a Castle Doom tras pasar el día fuera",
+  "Franklin Richards le pide a Sue Storm que le cuente el cuento de los Cuatro Fantásticos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    336,
+    1000
+   ],
+   "descripcion": "Vista panorámica exterior de Castle Doom sostenido sobre inmensas raíces arbóreas bajo el cielo del atardecer. Desde lo alto del castillo surge el llamado de Sue.",
+   "prompt_en": "Wide exterior view of a giant fantasy castle built atop colossal tree roots under a twilight sky, speech bubble emanating from high towers.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "castle-doom",
+    "battleworld",
+    "doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Franklin!",
+     "texto_es": "¡Franklin!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Time for bed!",
+     "texto_es": "¡Hora de ir a la cama!"
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "tranquilo",
+   "recorte": "vinetas/page-172-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    336,
+    30,
+    680,
+    554
+   ],
+   "descripcion": "Franklin vuela hacia una ventana del castillo montado sobre una gigantesca mano robótica impulsada por propulsión de fuego.",
+   "prompt_en": "Young blonde boy flying toward a castle window riding a giant mechanical rocket gauntlet emitting fire.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "franklin-richards",
+    "castle-doom",
+    "vuelo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Coming, Mom.",
+     "texto_es": "Ya voy, mamá."
+    }
+   ],
+   "lugar": "Castle Doom, Battleworld",
+   "tono": "cotidiano",
+   "recorte": "vinetas/page-172-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    336,
+    560,
+    680,
+    970
+   ],
+   "descripcion": "Interior de la habitación de Franklin. Franklin camina entusiasmado hacia Sue Storm, quien lo espera sentada en el borde de la cama.",
+   "prompt_en": "Interior bedroom view, a blonde boy walking into a room toward a blonde woman sitting on the bed.",
+   "personajes": [
+    "Franklin Richards",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom",
+    "habitacion",
+    "galactus"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Did you have a good day?",
+     "texto_es": "¿Tuviste un buen día?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Yeah. Galactus and I went fishing and caught a leviathan. We even saw an entire school of them!",
+     "texto_es": "Sí. Galactus y yo fuimos a pescar y atrapamos un leviatán. ¡Hasta vimos un cardumen entero!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Really?",
+     "texto_es": "¿En serio?"
+    }
+   ],
+   "lugar": "Habitación de Franklin, Castle Doom",
+   "tono": "cálido",
+   "recorte": "vinetas/page-172-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    692,
+    30,
+    980,
+    467
+   ],
+   "descripcion": "Plano medio corto de Sue Storm acomodando con ternura a Franklin en la cama mientras conversan.",
+   "prompt_en": "Close up of a blonde mother in a sleek white futuristic suit tucking her young son into bed.",
+   "personajes": [
+    "Franklin Richards",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "cuarentena",
+    "arropando",
+    "historias"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Yeah. I've never seen that many so close to the shore. It was insane.",
+     "texto_es": "Sí. Nunca había visto tantos tan cerca de la orilla. Fue una locura."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Hey, Mom.",
+     "texto_es": "Oye, mamá."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Uh-huh.",
+     "texto_es": "Ajá."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Will you tell me a story before I go to bed?",
+     "texto_es": "¿Me cuentas un cuento antes de dormirme?"
+    }
+   ],
+   "lugar": "Habitación de Franklin, Castle Doom",
+   "tono": "afectuoso",
+   "recorte": "vinetas/page-172-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    692,
+    477,
+    980,
+    970
+   ],
+   "descripcion": "Primer plano de Sue Storm mirando con expresión dulce y nostálgica a su hijo Franklin.",
+   "prompt_en": "Medium shot of blonde woman in white superhero uniform giving a warm tender smile to her child.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "cuatro-fantasticos",
+    "nostalgia",
+    "recuerdos-perdidos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I'd love to. Any requests?",
+     "texto_es": "Me encantaría. ¿Alguna petición?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "I want to hear about the Fantastic Four.",
+     "texto_es": "Quiero oír sobre los Cuatro Fantásticos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I've told you that one a thousand times, Franklin.",
+     "texto_es": "Te he contado esa historia mil veces, Franklin."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Yeah. I know. But I'm scared one day I'll forget if you stop telling it.",
+     "texto_es": "Sí. Lo sé. Pero me da miedo que un día se me olvide si dejas de contarla."
+    }
+   ],
+   "lugar": "Habitación de Franklin, Castle Doom",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-172-v5.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 172,
+ "archivo": "paginas/page-172.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5901,
+ "_seg": 20.1
+}

@@ -1,0 +1,210 @@
+{
+ "tipo": "historia",
+ "resumen": "Miembros de los Thor Corps investigan un misterioso objeto enterrado (la balsa de salvamento). Mientras discuten sobre la naturaleza del mundo y la autoridad de Doom, la escotilla de la estructura se abre bruscamente liberando una gran fuerza.",
+ "personajes": [
+  "Thor Corps",
+  "[Thor anciano]",
+  "[Thor joven]"
+ ],
+ "eventos_clave": [
+  "Los Thor Corps encuentran la balsa de salvamento de la Incursión Final",
+  "La balsa de salvamento se abre repentinamente"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    34,
+    323,
+    350
+   ],
+   "descripcion": "El Thor anciano habla reflexivamente con el joven Thor mientras miran la extraña nave semienterrada.",
+   "prompt_en": "Comic book panel showing an old bearded Thor wearing ornate metallic armor talking to a younger muscular Thor, close-up shot.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor joven]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "discusion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "The question isn't are they real, it's do they matter.",
+     "texto_es": "La pregunta no es si son reales, sino si importan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "There is an order to this world, and that order has a name...",
+     "texto_es": "Hay un orden en este mundo, y ese orden tiene un nombre..."
+    }
+   ],
+   "recorte": "vinetas/page-079-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    355,
+    323,
+    967
+   ],
+   "descripcion": "El Thor anciano reafirma la supremacía de Doom, mientras observan asombrados la nave espacial que está comenzando a reaccionar.",
+   "prompt_en": "Comic book panel showing two Thors looking in shock at a glowing alien structure as a small green alien stands in the background.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor joven]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "doom-dios",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "It is Doom, and there is nothing lurking in the shadows that can threaten his reign.",
+     "texto_es": "Es Doom, y no hay nada alacecho en las sombras que pueda amenazar su reinado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "If there was, we would stand against--",
+     "texto_es": "Si lo hubiera, nos opondríamos a--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor joven]",
+     "texto": "God forgive me, it's just so--",
+     "texto_es": "Dios me perdone, es simplemente tan--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Oh, no...",
+     "texto_es": "Oh, no..."
+    }
+   ],
+   "recorte": "vinetas/page-079-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    329,
+    34,
+    471,
+    967
+   ],
+   "descripcion": "El Thor joven grita advirtiendo a su compañero cuando la nave empieza a abrirse con fuerza.",
+   "prompt_en": "Comic panel close-up of a young Thor shouting in panic with wide mouth open.",
+   "personajes": [
+    "[Thor joven]",
+    "[Thor anciano]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "alerta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor joven]",
+     "texto": "STOP!",
+     "texto_es": "¡DETENTE!"
+    }
+   ],
+   "recorte": "vinetas/page-079-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    475,
+    34,
+    630,
+    967
+   ],
+   "descripcion": "Una ráfaga de aire y energía sale expulsada violentamente de la nave mientras se abre, arrojando hacia atrás a las siluetas de los personajes.",
+   "prompt_en": "Panoramic comic panel showing figures blown back by a bright blast of wind and energy from an opening hatch.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor joven]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "explosion",
+    "apertura",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "ZWSSSHH",
+     "texto_es": "ZWSSSHH"
+    }
+   ],
+   "recorte": "vinetas/page-079-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    633,
+    34,
+    981,
+    967
+   ],
+   "descripcion": "Vista aérea desde el interior de la escotilla recién abierta; los dos Thors se asoman con cautela listos para pelear.",
+   "prompt_en": "High angle perspective from inside a dark metallic vault looking out at two Viking warriors with hammers looking down inside with surprise.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor joven]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "perspectiva",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor joven]",
+     "texto": "Ulp! It opened...",
+     "texto_es": "¡Ulp! Se abrió..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Stay back.",
+     "texto_es": "Mantente atrás."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor joven]",
+     "texto": "What is it? What's in there? What do you see?",
+     "texto_es": "¿Qué es? ¿Qué hay ahí dentro? ¿Qué ves?"
+    }
+   ],
+   "recorte": "vinetas/page-079-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 79,
+ "archivo": "paginas/page-079.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4712,
+ "_seg": 15.4
+}

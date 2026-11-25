@@ -1,0 +1,230 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom visita la cámara secreta donde habita el Hombre Molécula (Owen Reece), la fuente de su poder divino. Mientras Owen habla de su hambre insaciable y de la frágil estabilidad de Battleworld, Victor le revela una trágica noticia: Stephen Strange ha muerto.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Doom visita al Hombre Molécula",
+  "Doom revela la muerte del Sheriff Strange"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    34,
+    323,
+    608
+   ],
+   "descripcion": "El Hombre Molécula habla reflexivamente mientras Doom permanece de pie al fondo en un espacio blanco iluminado.",
+   "prompt_en": "A character floating in white space with a hooded figure standing far in the background, soft warm lighting, comic art style by Esad Ribic",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "But if you sit still--unmoving, at peace with your place in the universe--you can feel it. A slight rumbling in your stomach.",
+     "texto_es": "Pero si te quedas quieto... inmóvil, en paz con tu lugar en el universo... puedes sentirlo. Un ligero retumbar en tu estómago."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "A disturbance in the world. One resonating in your guts.",
+     "texto_es": "Una perturbación en el mundo. Una que resuena en tus entrañas."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "místico",
+   "recorte": "vinetas/page-138-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    617,
+    323,
+    971
+   ],
+   "descripcion": "El Hombre Molécula se encuentra flotando de cabeza frente a Doom y le pregunta si le trajo algo de comer.",
+   "prompt_en": "A man floating upside down in mid-air in front of a tall hooded figure standing in a white void",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "We have the appearance of peace... of being whole... but I think it all might just fly apart if we're not careful.",
+     "texto_es": "Tenemos la apariencia de paz... de estar completos... pero creo que todo podría desmoronarse si no tenemos cuidado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Did you bring me something to eat?",
+     "texto_es": "¿Me trajiste algo de comer?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-138-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    336,
+    35,
+    483,
+    969
+   ],
+   "descripcion": "Primer plano de la máscara metálica y la capucha blanca del Dios Emperador Doom respondiendo con seriedad.",
+   "prompt_en": "Close-up panel of Doctor Doom's metal mask and white hooded cloak, warm glowing light",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "mascara-de-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I'm sorry. I did not. It didn't occur to me.",
+     "texto_es": "Lo siento. No lo hice. No se me ocurrió."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I had other things on my mind.",
+     "texto_es": "Tenía otras cosas en mente."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "serio",
+   "recorte": "vinetas/page-138-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    496,
+    34,
+    633,
+    969
+   ],
+   "descripcion": "Primer plano del rostro invertido de Owen Reece explicando su hambre insaciable.",
+   "prompt_en": "Upside down close-up face shot of a man talking, soft orange light, detailed pencil art",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "hambre-infinita"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "I devoured everything, Victor. But I'm still hungry.",
+     "texto_es": "Devoré todo, Victor. Pero sigo con hambre."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "From the top of my head right down to my little toe bits. Countless microscopic cells swimming in the sea of Owen and each one craves nourishment.",
+     "texto_es": "Desde la cima de mi cabeza hasta las puntas de mis dedos del pie. Innumerables células microscópicas nadando en el mar de Owen y cada una anhela nutrición."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "inquietante",
+   "recorte": "vinetas/page-138-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    644,
+    34,
+    783,
+    969
+   ],
+   "descripcion": "El Hombre Molécula continúa hablando al revés mientras gesticula con la mano.",
+   "prompt_en": "Upside down portrait of Owen Reece with hand reaching out in comic panel",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "If I don't eat something soon, I'll just be skin and bones.",
+     "texto_es": "Si no como algo pronto, seré solo piel y huesos."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-138-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    794,
+    34,
+    946,
+    969
+   ],
+   "descripcion": "Primer plano de los ojos de Doom tras la máscara anunciando la muerte de Stephen Strange.",
+   "prompt_en": "Dramatic close up of Doctor Doom's metallic eye slit under white hood, announcing grave news",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Stephen Strange is dead.",
+     "texto_es": "Stephen Strange está muerto."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "dramático",
+   "recorte": "vinetas/page-138-v6.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula",
+ "numero_comic": 5,
+ "pagina": 138,
+ "archivo": "paginas/page-138.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5489,
+ "_seg": 18.9
+}

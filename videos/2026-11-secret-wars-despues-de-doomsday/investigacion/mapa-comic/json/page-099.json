@@ -1,0 +1,46 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título de capítulo para Secret Wars #4, con un diseño minimalista que muestra la frase 'God Doom loves all men but one' y el emblema gráfico de Doctor Doom.",
+ "personajes": [],
+ "eventos_clave": [
+  "titulo-capitulo-secret-wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de título minimalista sobre fondo blanco. Presenta el emblema estilizado gris de la máscara de Doctor Doom arriba y el texto en mayúsculas 'GOD DOOM LOVES ALL MEN BUT ONE' centrado.",
+   "prompt_en": "Minimalist chapter title page on a clean white background featuring a light gray geometric icon of Doctor Doom's mask inside a diamond frame, with bold gray text underneath reading 'GOD DOOM LOVES ALL MEN BUT ONE'.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "titulo-capitulo",
+    "god-doom",
+    "secret-wars-4"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "GOD DOOM LOVES ALL MEN BUT ONE",
+     "texto_es": "Dios Doom ama a todos los hombres excepto a uno"
+    }
+   ],
+   "recorte": "vinetas/page-099-v1.jpg"
+  }
+ ],
+ "numero_comic": 4,
+ "pagina": 99,
+ "archivo": "paginas/page-099.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3072,
+ "_seg": 9.2
+}

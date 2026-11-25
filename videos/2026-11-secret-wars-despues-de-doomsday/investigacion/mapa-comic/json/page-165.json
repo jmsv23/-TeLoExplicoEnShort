@@ -1,0 +1,237 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom cuestiona a sus Barones (Madelyne Pryor, Maestro, Mister Siniestro y Apocalipsis) sobre el origen de la rebelión del Profeta. Apocalipsis advierte a Doom sobre la gravedad del levantamiento popular que se expande por los reinos de Battleworld.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Madelyne Pryor",
+  "Maestro",
+  "Mister Siniestro",
+  "Apocalipsis",
+  "Doctor Strange (Sheriff Strange)",
+  "Maximus / El Profeta"
+ ],
+ "eventos_clave": [
+  "El Dios Emperador Doom exige cuentas a los Barones sobre El Profeta",
+  "Apocalipsis advierte sobre la caída de los reinos superior e inferior ante la turba de El Profeta"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    33,
+    328,
+    342
+   ],
+   "descripcion": "Vista exterior del castillo de Doomstadt en Battleworld.",
+   "prompt_en": "Establishing shot of Doomstadt castle in Battleworld under an ominous dark sky.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doomstadt",
+    "battleworld",
+    "castillo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Tell me, Baroness Pryor...",
+     "texto_es": "Dime, Baronesa Pryor..."
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "solemne",
+   "recorte": "vinetas/page-165-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    340,
+    328,
+    967
+   ],
+   "descripcion": "El Dios Emperador Doom cuestiona a la Baronesa Pryor, al Sheriff Strange, Apocalipsis y Maestro sobre quién respalda al Profeta.",
+   "prompt_en": "God Emperor Doom and Sheriff Strange questioning Barons Madelyne Pryor and Apocalypse in the throne room.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Madelyne Pryor",
+    "Doctor Strange (Sheriff Strange)",
+    "Apocalipsis",
+    "Maestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "barones",
+    "doom-dios",
+    "corte-real"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "...What does he call himself?",
+     "texto_es": "...¿Cómo se hace llamar?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "The Prophet.",
+     "texto_es": "El Profeta."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "And he is the sole person behind this uprising? If I look closely, I won't find one of you standing in the shadows...propping him up?",
+     "texto_es": "¿Y él es la única persona detrás de este levantamiento? Si miro de cerca, ¿no encontraré a alguno de ustedes parado en las sombras... respaldándolo?"
+    }
+   ],
+   "lugar": "Salón del trono de Doomstadt",
+   "tono": "tenso",
+   "recorte": "vinetas/page-165-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    334,
+    33,
+    577,
+    483
+   ],
+   "descripcion": "Madelyne Pryor proclama su lealtad ante Doom mientras el Maestro afirma con arrogancia que no necesita esconderse de nadie.",
+   "prompt_en": "Close up panel of Madelyne Pryor with long red hair beside the green bearded giant Maestro.",
+   "personajes": [
+    "Madelyne Pryor",
+    "Maestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "madelyne-pryor",
+    "maestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "It pains me that you think I might be capable of such treachery, my lord.",
+     "texto_es": "Me duele que pienses que puedo ser capaz de tal traición, mi señor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "Is my loyalty not apparent? Is my love not unconditional?",
+     "texto_es": "¿No es evidente mi lealtad? ¿No es incondicional mi amor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "And if I wanted your throne, God, I would take it.",
+     "texto_es": "Y si quisiera tu trono, Dios, lo tomaría."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "The Maestro hides from no one.",
+     "texto_es": "El Maestro no se esconde de nadie."
+    }
+   ],
+   "lugar": "Salón del trono de Doomstadt",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-165-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    334,
+    492,
+    577,
+    968
+   ],
+   "descripcion": "Mister Siniestro prefiere mantener la calma mientras Apocalipsis explica que las palabras del Profeta se han extendido rápidamente.",
+   "prompt_en": "Mister Sinister with red forehead diamond standing next to blue-skinned Apocalypse speaking seriously.",
+   "personajes": [
+    "Mister Siniestro",
+    "Apocalipsis"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "apocalipsis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "In moments like these, the less I say the better.",
+     "texto_es": "En momentos como estos, cuanto menos diga, mejor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "This Prophet is real. This uprising is real.",
+     "texto_es": "Este Profeta es real. Este levantamiento es real."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "His words ring true in the absence of your own, and they have spread like a fire through the kingdoms.",
+     "texto_es": "Sus palabras suenan verdaderas a falta de las tuyas, y se han extendido como un fuego por los reinos."
+    }
+   ],
+   "lugar": "Salón del trono de Doomstadt",
+   "tono": "serio",
+   "recorte": "vinetas/page-165-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    590,
+    0,
+    963,
+    990
+   ],
+   "descripcion": "Una muchedumbre salvaje de rebeldes marchan bajo el mando de El Profeta (Maximus) con cascos con cuernos y lanzas.",
+   "prompt_en": "A mob of tribal apocalyptic warriors with spears and horned helmets staging a violent uprising in a dusty wasteland.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "rebelion",
+    "el-profeta",
+    "maximus",
+    "ejercito"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Apocalipsis",
+     "texto": "\"He has raised an army--two days ago the upper and lower kingdoms fell to his mob...",
+     "texto_es": "\"Ha reunido un ejército; hace dos días los reinos superior e inferior cayeron ante su turba..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Apocalipsis",
+     "texto": "\"And it grows as he heads this way. Ignore him at your own peril, my lord.\"",
+     "texto_es": "\"Y crece a medida que se dirige hacia aquí. Ignóralo bajo tu propio riesgo, mi señor.\""
+    }
+   ],
+   "lugar": "Reinos inferiores de Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-165-v5.jpg"
+  }
+ ],
+ "lugar": "Doomstadt, Battleworld",
+ "numero_comic": 3,
+ "pagina": 165,
+ "archivo": "paginas/page-165.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7013,
+ "_seg": 31.3
+}

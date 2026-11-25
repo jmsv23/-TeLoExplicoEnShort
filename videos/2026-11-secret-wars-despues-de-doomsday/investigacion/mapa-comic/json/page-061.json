@@ -1,0 +1,274 @@
+{
+ "tipo": "historia",
+ "resumen": "En el tribunal de Doomstadt en Battleworld, el Sheriff Strange emite su juicio sobre Mister Siniestro. Sin embargo, Siniestro apela al derecho del juicio por combate invocando la ley de Doom, provocando al hermano del Barón Braddock, Brian, para que acepte el desafío en la arena.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Mister Siniestro",
+  "Capitán Britania / James Braddock",
+  "[Brian Braddock]"
+ ],
+ "eventos_clave": [
+  "Juicio a Mister Siniestro en el tribunal de Doomstadt",
+  "Siniestro exige un juicio por combate en la arena",
+  "Brian Braddock acepta luchar contra Mister Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    32,
+    388,
+    324
+   ],
+   "descripcion": "Sheriff Strange pronuncia la sentencia de culpabilidad sobre Mister Siniestro mientras los nobles escuchan atentamente.",
+   "prompt_en": "Comic book panel showing a dark court scene with nobles listening while an unseen judge passes sentence.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "[Barón de Battleworld]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "juicio-doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Truth is sometimes a malleable thing. Justice, on the other hand...",
+     "texto_es": "La verdad a veces es algo maleable. La justicia, por otro lado..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I have measured the evidence provided against your... predictable denials, Baron, and I find you guilty. You will pay restitution. Either in gold or territory.",
+     "texto_es": "He sopesado la evidencia presentada contra sus... predecibles desmentidos, Barón, y lo encuentro culpable. Pagará una restitución. Ya sea en oro o en territorio."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Barón de Battleworld]",
+     "texto": "I think not.",
+     "texto_es": "Pienso que no."
+    }
+   ],
+   "lugar": "Tribunal de Doomstadt, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-061-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    329,
+    388,
+    626
+   ],
+   "descripcion": "Un Barón de Battleworld exige un juicio por combate en la arena ante el desafío de Mister Siniestro.",
+   "prompt_en": "Comic panel closeup of characters speaking in a grand hall, dramatic expressions.",
+   "personajes": [
+    "[Barón de Battleworld]",
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "juicio-por-combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Barón de Battleworld]",
+     "texto": "Excuse me?",
+     "texto_es": "¿Perdón?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Barón de Battleworld]",
+     "texto": "I said: I think not. I choose to meet my accuser in the arena. As a Baron of the Kingdoms of Doom, this is a luxury afforded to me.",
+     "texto_es": "Dije: pienso que no. Elijo enfrentarme a mi acusador en la arena. Como barón de los Reinos de Doom, este es un lujo que se me concede."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Braddock can refuse, of course. But if he does, the charges must be withdrawn... and I will be on my way.",
+     "texto_es": "Braddock puede negarse, por supuesto. Pero si lo hace, los cargos deben ser retirados... y me iré por donde vine."
+    }
+   ],
+   "lugar": "Tribunal de Doomstadt, Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-061-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    26,
+    632,
+    388,
+    970
+   ],
+   "descripcion": "Mister Siniestro señala a la familia Braddock desafiándolos con frialdad y arrogancia.",
+   "prompt_en": "Mister Sinister pointing arrogantly at Captain Britain in a medieval superhero court setting.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania / James Braddock",
+    "[Brian Braddock]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "desafio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "It IS the law, Baron Braddock.",
+     "texto_es": "ES la ley, Barón Braddock."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "What say you, Braddock... consider yourself above the law? Above God's law?",
+     "texto_es": "¿Qué dices, Braddock... te consideras por encima de la ley? ¿Por encima de la ley de Dios?"
+    }
+   ],
+   "lugar": "Tribunal de Doomstadt, Battleworld",
+   "tono": "provocador",
+   "recorte": "vinetas/page-061-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    401,
+    32,
+    720,
+    368
+   ],
+   "descripcion": "El barón Jamie Braddock y su hermano Brian reaccionan ante las provocaciones de Mister Siniestro.",
+   "prompt_en": "Close up on two brothers in superhero costumes reacting with surprise to an accusation.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "[Brian Braddock]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hermanos-braddock"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "I will gladly take up ar--",
+     "texto_es": "Con gusto tomaré las ar--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "I wasn't speaking to you, Baron... but your lord brother.",
+     "texto_es": "No estaba hablando contigo, Barón... sino con tu noble hermano."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Brian Braddock]",
+     "texto": "What?",
+     "texto_es": "¿Qué?"
+    }
+   ],
+   "lugar": "Tribunal de Doomstadt, Battleworld",
+   "tono": "sorprendido",
+   "recorte": "vinetas/page-061-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    401,
+    376,
+    720,
+    970
+   ],
+   "descripcion": "Mister Siniestro insulta a Brian Braddock, incitándolo a luchar en la arena mientras Jamie trata de contenerlo.",
+   "prompt_en": "Mister Sinister standing arrogantly while Brian Braddock gets restrained by his brother in anger.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania / James Braddock",
+    "[Brian Braddock]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "provocacion",
+    "arena-de-combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Or would you rather return to the fields of Avalon, young master? Milk more cows.",
+     "texto_es": "¿O prefieres volver a los campos de Avalon, joven amo? A ordeñar más vacas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Brian Braddock]",
+     "texto": "I will fight you!",
+     "texto_es": "¡Lucharé contra ti!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "Brian! This is no game...",
+     "texto_es": "¡Brian! Esto no es un juego..."
+    }
+   ],
+   "lugar": "Tribunal de Doomstadt, Battleworld",
+   "tono": "conflictivo",
+   "recorte": "vinetas/page-061-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    735,
+    32,
+    974,
+    970
+   ],
+   "descripcion": "Primer plano de Jamie Braddock advirtiendo preocupado a su hermano Brian sobre el verdadero peligro de Siniestro.",
+   "prompt_en": "Dramatic close up of two comic book heroes, one giving a stern warning to the other.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "[Brian Braddock]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "advertencia",
+    "hermanos-braddock"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Brian Braddock]",
+     "texto": "I can do this, Jamie. I want to. I have to.",
+     "texto_es": "Puedo hacerlo, Jamie. Quiero hacerlo. Tengo que hacerlo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "...Please be careful, brother. He's more than he seems.",
+     "texto_es": "...Por favor ten cuidado, hermano. Es más de lo que parece."
+    }
+   ],
+   "lugar": "Tribunal de Doomstadt, Battleworld",
+   "tono": "preocupado",
+   "recorte": "vinetas/page-061-v6.jpg"
+  }
+ ],
+ "lugar": "Tribunal de Doomstadt, Battleworld",
+ "numero_comic": 2,
+ "pagina": 61,
+ "archivo": "paginas/page-061.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6697,
+ "_seg": 27.2
+}

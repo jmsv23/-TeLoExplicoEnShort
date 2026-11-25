@@ -1,0 +1,232 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange revela a los héroes supervivientes de la balsa que Victor von Doom salvó la existencia y ahora gobierna Battleworld como un dios. Admite haber encontrado la balsa de salvamento tres años atrás pero haber preferido mantenerla oculta. Reed Richards, indignado y furioso, exige una explicación a Strange.",
+ "personajes": [
+  "Doctor Strange",
+  "Mister Fantástico",
+  "Black Panther",
+  "Capitana Marvel",
+  "Thor",
+  "Spider-Man"
+ ],
+ "eventos_clave": [
+  "Strange revela que Doom salvó la existencia y es adorado como un dios",
+  "Strange confiesa haber encontrado la balsa hace tres años",
+  "Reed Richards confronta a Doctor Strange por haberlos dejado enterrados"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    40,
+    321,
+    350
+   ],
+   "descripcion": "Primer plano de Doctor Strange hablando sombríamente con el rostro serio.",
+   "prompt_en": "Close up shot of Doctor Strange with a mustache and tired expression talking seriously, comic book style by Esad Ribic",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-strange",
+    "revelacion",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Doom. It's Doom, Reed. Victor saved us all.",
+     "texto_es": "Doom. Es Doom, Reed. Victor nos salvó a todos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "grave",
+   "recorte": "vinetas/page-105-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    355,
+    321,
+    960
+   ],
+   "descripcion": "Plano medio con el grupo de héroes atónitos ante la revelación: Spider-Man, Capitana Marvel, Black Panther, Mister Fantástico desencajado y Thor (Jane Foster).",
+   "prompt_en": "Group shot of superhero survivors Captain Marvel, Black Panther, Thor Jane Foster, Spider-Man and shocked Mister Fantastic looking astounded, comic art style",
+   "personajes": [
+    "Spider-Man",
+    "Capitana Marvel",
+    "Black Panther",
+    "Mister Fantástico",
+    "Thor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sobrevivientes",
+    "reaccion",
+    "sorpresa"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "impactado",
+   "recorte": "vinetas/page-105-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    334,
+    40,
+    488,
+    960
+   ],
+   "descripcion": "Primer plano horizontal centrado en los ojos y la máscara de Black Panther preguntando con sospecha.",
+   "prompt_en": "Extreme close up panel of Black Panther mask eyes looking intense and suspicious, cinematic comic panel",
+   "personajes": [
+    "Black Panther"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "black-panther",
+    "interrogatorio",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther",
+     "texto": "Stephen... ...how long ago did you find our raft?",
+     "texto_es": "Stephen... ...¿hace cuánto tiempo encontraste nuestra balsa?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-105-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    500,
+    40,
+    645,
+    960
+   ],
+   "descripcion": "Doctor Strange mira hacia abajo acongojado mientras admite cuánto tiempo esperó para abrir la balsa.",
+   "prompt_en": "Doctor Strange looking down with eyes closed, carrying a heavy burden of secrets, clean comic line art",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "confesion",
+    "secreto",
+    "doctor-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "...Three years ago.",
+     "texto_es": "...Hace tres años."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I suppose I knew there was something inside of great consequence... but I had to weigh that against other things.",
+     "texto_es": "Supongo que sabía que había algo dentro de gran trascendencia... pero tuve que sopesar eso con otras cosas."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "arrepentido",
+   "recorte": "vinetas/page-105-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    659,
+    40,
+    970,
+    700
+   ],
+   "descripcion": "Reed Richards muy enfurecido increpa a Doctor Strange mientras Black Panther lo sostiene.",
+   "prompt_en": "Angry Mister Fantastic with beard shouting in anger held back by Black Panther, confronting Doctor Strange",
+   "personajes": [
+    "Mister Fantástico",
+    "Black Panther",
+    "Doctor Strange"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "confrontacion",
+    "reed-richards",
+    "ira"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Victor von Doom is a god and rules over everything in this world, and yet you had to weigh that against other considerations?",
+     "texto_es": "¿Victor von Doom es un dios y gobierna sobre todo en este mundo, y aún así tuviste que sopesar eso con otras consideraciones?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "What in the world could matter so much that you left us here, buried alive, Stephen? Explain it to me.",
+     "texto_es": "¿Qué en el mundo podría importar tanto como para que nos dejaras aquí, enterrados vivos, Stephen? Explícamelo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "conflictivo",
+   "recorte": "vinetas/page-105-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    745,
+    715,
+    970,
+    940
+   ],
+   "descripcion": "Retrato en primer plano de Doctor Strange respondiendo fríamente a la recriminación de Reed.",
+   "prompt_en": "Close up shot of Doctor Strange looking grim and composed, speaking calmly, marvel secret wars comic style",
+   "personajes": [
+    "Doctor Strange"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "frase-clave",
+    "doctor-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "It's easy to explain, Reed...",
+     "texto_es": "Es fácil de explicar, Reed..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "...He is very, very good at playing god.",
+     "texto_es": "...Él es muy, muy bueno jugando a ser dios."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "frió",
+   "recorte": "vinetas/page-105-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 105,
+ "archivo": "paginas/page-105.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5948,
+ "_seg": 21.9
+}

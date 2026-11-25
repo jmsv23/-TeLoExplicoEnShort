@@ -1,0 +1,223 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante la incursión final entre la Tierra-616 y la Tierra-1610, la sección de la balsa de salvamento que transporta a la familia de Reed Richards se desprende. Mientras Black Panther le informa de la pérdida, Reed señala cómo Sue Storm utiliza su fuerza invisible para mantener unida la nave dañada y elabora rápidamente un plan arriesgado para rescatarlos.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Black Panther (T'Challa)",
+  "Sue Storm / Mujer Invisible",
+  "Antorcha Humana",
+  "Capitana Marvel (Carol Danvers)"
+ ],
+ "eventos_clave": [
+  "La balsa de salvamento sufre daños graves y pierde la sección del módulo habitante.",
+  "Sue Storm mantiene el módulo unido utilizando sus campos de fuerza.",
+  "Reed Richards le pide a T'Challa que abra los escudos para intentar una maniobra de rescate."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    218,
+    988
+   ],
+   "descripcion": "El módulo de la balsa de salvamento donde viaja la familia de Reed Richards se desprende y cae hacia la atmósfera en llamas mientras Black Panther observa sombrío.",
+   "prompt_en": "Comic book panel showing a large futuristic space raft pod breaking away and disintegrating in high atmosphere with smoke trails, seen from inside another spaceship by dark silhouettes.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion-final",
+    "balsa-de-salvamento",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "The raft's shields are still intact... but we've lost the carrier section...",
+     "texto_es": "Los escudos de la balsa siguen intactos... pero hemos perdido la sección de transporte..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Oh, Reed... Susan and the others...",
+     "texto_es": "Oh, Reed... Susan y los demás..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Your children...",
+     "texto_es": "Tus hijos..."
+    }
+   ],
+   "lugar": "Balsa de salvamento (Tierra-616)",
+   "tono": "dramático",
+   "recorte": "vinetas/page-033-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    218,
+    0,
+    420,
+    994
+   ],
+   "descripcion": "Reed Richards señala hacia el exterior, donde una esfera azul de energía rodea la nave que se desprende, demostrando el poder de Sue Storm.",
+   "prompt_en": "Mister Fantastic from behind looking out into space at a glowing blue force field bubble containing a damaged metallic pod falling through re-entry fire.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "campo-de-fuerza",
+    "esperanza",
+    "sue-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "No. Look...",
+     "texto_es": "No. Mira..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "See? My wife is the strongest person I know...",
+     "texto_es": "¿Ves? Mi esposa es la persona más fuerte que conozco..."
+    }
+   ],
+   "lugar": "Balsa de salvamento (Tierra-616)",
+   "tono": "esperanzador",
+   "recorte": "vinetas/page-033-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    420,
+    0,
+    642,
+    994
+   ],
+   "descripcion": "Primer plano de Sue Storm gritando por el esfuerzo extremo de mantener la estructura unida mientras la Antorcha Humana arde al fondo.",
+   "prompt_en": "Close up of a blonde woman in a superhero suit screaming in agony and determination, surrounded by fiery explosions inside a disintegrating cockpit.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Antorcha Humana"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "esfuerzo-heroico",
+    "sue-storm",
+    "antorcha-humana"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "It'll take everything she has... but Susan will hold it together. She has to.",
+     "texto_es": "Le exigirá todo lo que tiene... pero Susan lo mantendrá unido. Tiene que hacerlo."
+    }
+   ],
+   "lugar": "Módulo desprendido de la balsa",
+   "tono": "intenso",
+   "recorte": "vinetas/page-033-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    650,
+    26,
+    985,
+    693
+   ],
+   "descripcion": "Reed Richards estira su brazo con determinación hacia los mandos, ordenándole a T'Challa que desactive temporalmente el escudo protector.",
+   "prompt_en": "Mister Fantastic with his arm stretching long towards a control interface inside a high tech control room with Black Panther and Captain Marvel.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Black Panther (T'Challa)",
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "plan-de-rescate",
+    "poderes-elasticos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "T'Challa, you'll need you to drop this section of the shield... then I can pull them back in.",
+     "texto_es": "T'Challa, necesitaré que desactives esta sección del escudo... luego podré traerlos de vuelta."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "The forces at play out there, Reed...",
+     "texto_es": "Las fuerzas en juego ahí fuera, Reed..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "You'll only have a few seconds before the entire raft is compromised...",
+     "texto_es": "Solo tendrás unos pocos segundos antes de que toda la balsa se vea comprometida..."
+    }
+   ],
+   "lugar": "Balsa de salvamento (Tierra-616)",
+   "tono": "urgente",
+   "recorte": "vinetas/page-033-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    672,
+    693,
+    985,
+    977
+   ],
+   "descripcion": "Primer plano del rostro determinado de Reed Richards respondiendo con firmeza a las dudas de Black Panther.",
+   "prompt_en": "Close up of a dark-bearded male superhero with a determined and grim expression wearing a blue suit, looking sideways.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "determinacion",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Can you do--",
+     "texto_es": "¿Puedes ha--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Yes!",
+     "texto_es": "¡Sí!"
+    }
+   ],
+   "lugar": "Balsa de salvamento (Tierra-616)",
+   "tono": "decidido",
+   "recorte": "vinetas/page-033-v5.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento en la órbita de la Tierra-616",
+ "numero_comic": 1,
+ "pagina": 33,
+ "archivo": "paginas/page-033.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5725,
+ "_seg": 20.5
+}

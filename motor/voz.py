@@ -14,13 +14,13 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-from .proyecto import CONFIG, ROOT, die
+from .proyecto import CONFIG, ROOT, die, voicebox_url
 
 SR = 48000
 
 
 def vb(method, path, body=None, raw=False, timeout=120):
-    url = CONFIG["voicebox"]["url"].rstrip("/") + path
+    url = voicebox_url() + path
     data = json.dumps(body).encode() if body is not None else None
     req = urllib.request.Request(url, data=data, method=method, headers={"Content-Type": "application/json"})
     try:
@@ -130,7 +130,8 @@ def ff(*args):
 def cmd_master(v, pieza):
     d = v.build / "audio" / pieza
     blocks, _ = bloques(v, pieza)
-    gaps = CONFIG["gaps"]
+    gaps = {**CONFIG["gaps"], **v.pieza(pieza).get("gaps", {})}  # la pieza puede apretar las pausas (shorts)
+    clip_lufs = v.pieza(pieza).get("clip_lufs", -20)
     parts, t, prev_sec, tl = [], 0.0, None, {"beats": [], "sections": []}
 
     def sil(s):
@@ -163,7 +164,7 @@ def cmd_master(v, pieza):
                 die(f"falta el corte {mp4.relative_to(ROOT)} (./tl assets cortar {v.slug})")
             src = d / f".clip-{b['clip']}.wav"
             # escenas al nivel de la narración (~-20 LUFS): si quedan más fuertes la voz se percibe baja al normalizar
-            ff("-i", mp4, "-vn", "-af", "loudnorm=I=-20:TP=-2:LRA=11:linear=true", "-ac", "2", "-ar", SR, src)
+            ff("-i", mp4, "-vn", "-af", f"loudnorm=I={clip_lufs}:TP=-2:LRA=11:linear=true", "-ac", "2", "-ar", SR, src)
             du = dur(mp4)
             tl["beats"].append({"type": "clip", "id": b["id"], "sec": b["sec"], "clip": b["clip"],
                                 "start": round(t, 3), "end": round(t + du, 3)})
@@ -171,7 +172,7 @@ def cmd_master(v, pieza):
         ff("-i", src, "-ac", "2", "-ar", SR, norm)
         parts.append(norm)
         t += du
-    sil(1.5)
+    sil(gaps.get("cola", 1.5))
     tl["sections"][-1]["end"] = round(t, 3)
     tl["duration"] = round(t, 3)
     lst = d / ".concat.txt"

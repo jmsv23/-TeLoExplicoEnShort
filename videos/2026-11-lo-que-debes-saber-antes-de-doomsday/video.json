@@ -1,0 +1,138 @@
+{
+ "titulo": "Lo que debes saber antes de ver Avengers: Doomsday",
+ "fecha": "2026-11-14",
+ "formato": "largo",
+ "estilo": "comic",
+ "voz": null,
+ "serie": "camino-a-doomsday",
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo",
+   "comic": {
+    "partes": [
+     [
+      "p1",
+      [
+       "hook",
+       "d01"
+      ]
+     ],
+     [
+      "p2",
+      [
+       "d02",
+       "d03",
+       "d04"
+      ]
+     ],
+     [
+      "p3",
+      [
+       "d05",
+       "d06",
+       "d07"
+      ]
+     ],
+     [
+      "p4",
+      [
+       "acto3",
+       "d08",
+       "d09",
+       "d10"
+      ]
+     ],
+     [
+      "p5",
+      [
+       "d11",
+       "d12"
+      ]
+     ],
+     [
+      "p6",
+      [
+       "acto4",
+       "d13",
+       "d14",
+       "d15"
+      ]
+     ],
+     [
+      "p7",
+      [
+       "bonus",
+       "cierre"
+      ]
+     ]
+    ],
+    "dias": 33,
+    "placa": [
+     "d(\\d+)",
+     "DATO",
+     15
+    ]
+   },
+   "partes": true
+  }
+ ],
+ "musica": {
+  "comic": {
+   "hook": "hook",
+   "d01": "doom",
+   "d02": "misterio",
+   "d03": "misterio",
+   "d04": "misterio",
+   "d05": "misterio",
+   "d06": "misterio",
+   "d07": "misterio",
+   "acto3": "accion",
+   "d08": "accion",
+   "d09": "accion",
+   "d10": "accion",
+   "d11": "accion",
+   "d12": "accion",
+   "acto4": "doom",
+   "d13": "doom",
+   "d14": "doom",
+   "d15": "doom",
+   "bonus": "bonus",
+   "cierre": "hook"
+  }
+ },
+ "pronunciacion": [
+  [
+   "Feige",
+   "Faigui"
+  ],
+  [
+   "WandaVision",
+   "Wanda Vision"
+  ],
+  [
+   "Shang-Chi",
+   "Shang Chi"
+  ],
+  [
+   "M'Baku",
+   "Mbaku"
+  ],
+  [
+   "Comic-Con",
+   "Cómic Con"
+  ]
+ ],
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/_motion/compositions/camino-a-doomsday/_lf (lf01)"
+}

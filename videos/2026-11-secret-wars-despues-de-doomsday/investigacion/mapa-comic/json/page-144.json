@@ -1,0 +1,235 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom conversa con el Hombre Molécula (Owen Reece) en su santuario subterráneo tras haber asesinado al Doctor Strange. Hablan sobre la culpa de Doom, la necesidad de la muerte de Stephen para mantener el orden, y el riesgo de que la realidad de Battleworld comience a desmoronarse.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Consecuencias de la muerte del Doctor Strange",
+  "Doom justifica la ejecución de Strange como una necesidad para proteger Battleworld",
+  "El Hombre Molécula advierte a Doom sobre la inestabilidad de su imperio"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    32,
+    310,
+    574
+   ],
+   "descripcion": "El Hombre Molécula aparece flotando boca abajo en un espacio etéreo de tono dorado y blanco.",
+   "prompt_en": "Comic panel of a man floating upside down in a warm white space, sketchy artistic style, minimal shading.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "muerte-strange",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "And now Stephen is dead. Gone. Goodbye. His remaining bits buried deep in the ground.",
+     "texto_es": "Y ahora Stephen está muerto. Se fue. Adiós. Sus restos enterrados profundamente en la tierra."
+    }
+   ],
+   "lugar": "Santuario del Hombre Molécula",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-144-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    581,
+    310,
+    969
+   ],
+   "descripcion": "El Hombre Molécula flota boca abajo frente a la figura de espaldas y encapuchada de Doctor Doom.",
+   "prompt_en": "Comic panel showing a hooded mysterious figure in white robe from behind, talking to an upside down man floating nearby.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    " doom-dios",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes. I want you to know that it was me who put him there.",
+     "texto_es": "Sí. Quiero que sepas que fui yo quien lo puso allí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "I know. You think I couldn't smell the guilt on you? You reek of shame, God.",
+     "texto_es": "Lo sé. ¿Crees que no podía oler la culpa en ti? Apestas a vergüenza, Dios."
+    }
+   ],
+   "lugar": "Santuario del Hombre Molécula",
+   "tono": "tenso",
+   "recorte": "vinetas/page-144-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    311,
+    270,
+    473,
+    969
+   ],
+   "descripcion": "Encuadre horizontal en primer plano de la máscara metálica de Doctor Doom bajo su capucha.",
+   "prompt_en": "Close up comic panel of Doctor Doom wearing his metallic mask under a beige hood, serious expression.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Stephen may not have fully comprehended it, but he made his decision, and it marked him as a threat to what we have built. He left me no choice.",
+     "texto_es": "Puede que Stephen no lo haya comprendido del todo, pero tomó su decisión, y eso lo marcó como una amenaza para lo que hemos construido. No me dejó otra opción."
+    }
+   ],
+   "lugar": "Santuario del Hombre Molécula",
+   "tono": "serio",
+   "recorte": "vinetas/page-144-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    473,
+    32,
+    638,
+    969
+   ],
+   "descripcion": "El Hombre Molécula flota de cabeza frente a Doom, conversando sobre las consecuencias de la muerte de Strange.",
+   "prompt_en": "Wide comic panel, upside down man floating on left talking to hooded figure in center, warm yellow tones.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And so our good friend, the doctor, had to go.",
+     "texto_es": "Y así nuestro buen amigo, el doctor, tuvo que irse."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "I think you've started something, Victor. An unraveling that just might take us all down. Makes me wonder which of us is next?",
+     "texto_es": "Creo que has comenzado algo, Víctor. Un desmoronamiento que podría destruirmos a todos. Me hace preguntar quién de nosotros será el siguiente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "If we kiss God Doom goodbye, then say farewell to this world also, as you're the one who's holding it together.",
+     "texto_es": "Si le decimos adiós al Dios Doom, entonces despidámonos también de este mundo, ya que tú eres quien lo mantiene unido."
+    }
+   ],
+   "lugar": "Santuario del Hombre Molécula",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-144-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    651,
+    32,
+    973,
+    381
+   ],
+   "descripcion": "Plano medio corto del Hombre Molécula invertido escuchando la réplica de Doctor Doom.",
+   "prompt_en": "Comic panel showing an upside down man face close up in warm monochromatic light.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And what if it's you, Mister Reece?",
+     "texto_es": "¿Y qué si eres tú, Señor Reece?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Well... won't that be exciting?",
+     "texto_es": "Bueno... ¿no sería eso emocionante?"
+    }
+   ],
+   "lugar": "Santuario del Hombre Molécula",
+   "tono": "inquietante",
+   "recorte": "vinetas/page-144-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    651,
+    390,
+    973,
+    969
+   ],
+   "descripcion": "Doom camina alejándose hacia unas escaleras de piedra en ruinas mientras el Hombre Molécula flota en primer plano boca abajo.",
+   "prompt_en": "Comic panel, wide shot of hooded figure walking away toward stone stairs in a bright empty expanse, upside down floating man in foreground.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "santuario",
+    "hombre-molecula",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Hmmm. Just how we like it. Next time bring me something to eat.",
+     "texto_es": "Hmmm. Justo como nos gusta. La próxima vez tráeme algo de comer."
+    }
+   ],
+   "lugar": "Santuario del Hombre Molécula",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-144-v6.jpg"
+  }
+ ],
+ "lugar": "Santuario del Hombre Molécula",
+ "numero_comic": 5,
+ "pagina": 144,
+ "archivo": "paginas/page-144.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7901,
+ "_seg": 24.7
+}

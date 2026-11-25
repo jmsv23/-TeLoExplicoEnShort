@@ -1,0 +1,180 @@
+{
+ "tipo": "historia",
+ "resumen": "Un grupo de exploradores wakandianos activa un antiguo obelisco en la selva que proyecta un mapa estelar holográfico con doce planetas. Sorprendidos por el hallazgo, interviene el rey T'Challa (Black Panther) felicitándolos y anunciándoles que ese mapa marca su próximo destino.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "[Kimo]",
+  "[explorador wakandiano]"
+ ],
+ "eventos_clave": [
+  "activacion-del-mapa-estelar-wakandiano",
+  "aparicion-de-black-panther"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    38,
+    226,
+    962
+   ],
+   "descripcion": "Un grupo de exploradores wakandianos camina por la jungla acercándose a un obelisco de piedra con grabados circulares.",
+   "prompt_en": "Comic panel showing Wakandan explorers approaching an ancient stone obelisk with circular carvings in a lush green jungle, wide shot",
+   "personajes": [
+    "[explorador wakandiano]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "wakanda",
+    "obelisco",
+    "exploracion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[explorador wakandiano]",
+     "texto": "...on the way to where we're going.",
+     "texto_es": "...camino a donde nos dirigimos."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "ninguno",
+     "texto": "FSSHT",
+     "texto_es": "FSSHT"
+    }
+   ],
+   "lugar": "Jungla de Wakanda",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-242-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    224,
+    34,
+    680,
+    994
+   ],
+   "descripcion": "El obelisco se abre revelando tecnología avanzada y proyecta una representación holográfica tridimensional de un sistema estelar con doce planetas.",
+   "prompt_en": "High angle comic panel of a glowing technological pillar projecting a 3D blue cyan stellar map hologram with planets in the middle of a forest, Wakandan observers around it",
+   "personajes": [
+    "[Kimo]",
+    "[explorador wakandiano]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mapa-estelar",
+    "holograma",
+    "tecnologia-wakandiana"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[explorador wakandiano]",
+     "texto": "Huh!",
+     "texto_es": "¡Eh!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[explorador wakandiano]",
+     "texto": "Stellar cartography-- a map of our solar system.",
+     "texto_es": "Cartografía estelar... un mapa de nuestro sistema solar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[explorador wakandiano]",
+     "texto": "Count, Kimo... twelve planets. It's not ours.",
+     "texto_es": "Cuenta, Kimo... doce planetas. No es el nuestro."
+    }
+   ],
+   "lugar": "Jungla de Wakanda",
+   "tono": "asombro",
+   "recorte": "vinetas/page-242-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    678,
+    38,
+    978,
+    500
+   ],
+   "descripcion": "Primer plano de los tres exploradores wakandianos mirando asombrados hacia alguien fuera de viñeta.",
+   "prompt_en": "Close up comic panel of three shocked African explorers looking up in awe and surprise, detailed expressions",
+   "personajes": [
+    "[Kimo]",
+    "[explorador wakandiano]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sorpresa",
+    "expresion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "But it is where you are headed.",
+     "texto_es": "Pero es a donde se dirigen."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[explorador wakandiano]",
+     "texto": "My King!",
+     "texto_es": "¡Mi rey!"
+    }
+   ],
+   "lugar": "Jungla de Wakanda",
+   "tono": "revelacion",
+   "recorte": "vinetas/page-242-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    678,
+    508,
+    978,
+    962
+   ],
+   "descripcion": "Black Panther emerge de las sombras de la vegetación, mirando solemnemente a su pueblo.",
+   "prompt_en": "Comic panel of Black Panther standing in shadows under jungle trees, glowing eyes visible, regal posture",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "black-panther",
+    "tchalla",
+    "reino"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Congratulations, makers. On your feet-- stand tall. You are the finest of your generation.",
+     "texto_es": "Felicidades, creadores. De pie... manténganse erguidos. Son lo mejor de su generación."
+    }
+   ],
+   "lugar": "Jungla de Wakanda",
+   "tono": "epico",
+   "recorte": "vinetas/page-242-v4.jpg"
+  }
+ ],
+ "lugar": "Wakanda",
+ "numero_comic": 9,
+ "pagina": 242,
+ "archivo": "paginas/page-242.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5234,
+ "_seg": 17.9
+}

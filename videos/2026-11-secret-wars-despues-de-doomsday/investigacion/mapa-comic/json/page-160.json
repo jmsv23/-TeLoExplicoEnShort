@@ -1,0 +1,234 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hacedor le muestra a Reed Richards proyecciones holográficas de la nueva vida y familia de Doctor Doom en Battleworld. Reed señala que el principal objetivo es descubrir cómo Doom obtuvo semejante poder divino, a lo que el Hacedor responde asegurando que ya tiene un plan preparado.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Revelación de la familia de Doom a Reed Richards",
+  "Alianza estratégica entre Mister Fantástico y el Hacedor para destronar a Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    355,
+    510
+   ],
+   "descripcion": "El Hacedor activa un proyector holográfico que muestra figuras azuladas de Sue Storm, Franklin, Valeria y Doctor Doom vistiendo túnicas reales.",
+   "prompt_en": "Comic panel showing a man in a black suit with a white symbol projecting blue holograms of a woman and a masked figure in robes.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "holograma",
+    "familia-doom",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "You mean things like this?",
+     "texto_es": "¿Te refieres a cosas como esta?"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "CLICK!",
+     "texto_es": "¡CLIC!"
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-160-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    517,
+    355,
+    668
+   ],
+   "descripcion": "Primer plano del rostro barbudo de Mister Fantástico observando la imagen holográfica con expresión impactada y preocupada.",
+   "prompt_en": "Close up panel of a bearded man with dark hair looking shocked and concerned.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reaccion",
+    "reed-richards"
+   ],
+   "textos": [],
+   "lugar": "Balsa de salvamento",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-160-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    25,
+    674,
+    355,
+    968
+   ],
+   "descripcion": "Detalle del holograma azul traslúcido de Sue Storm mirando hacia un lado.",
+   "prompt_en": "Close up of a glowing blue holographic woman with a headband looking off into the distance.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "holograma",
+    "sue-storm"
+   ],
+   "textos": [],
+   "lugar": "Balsa de salvamento",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-160-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    369,
+    36,
+    725,
+    420
+   ],
+   "descripcion": "Mister Fantástico mirando hacia abajo en profunda reflexión y pesar.",
+   "prompt_en": "Panel showing a bearded man looking down thoughtfully in dim blue light.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reflexion",
+    "reed-richards"
+   ],
+   "textos": [],
+   "lugar": "Balsa de salvamento",
+   "tono": "serio",
+   "recorte": "vinetas/page-160-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    369,
+    427,
+    725,
+    620
+   ],
+   "descripcion": "Primer plano del Hacedor con heridas en el rostro, mirando fijamente hacia adelante.",
+   "prompt_en": "Close up panel of a young man with cuts on his face looking straight ahead intensely.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "herido"
+   ],
+   "textos": [],
+   "lugar": "Balsa de salvamento",
+   "tono": "calculador",
+   "recorte": "vinetas/page-160-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    369,
+    626,
+    725,
+    968
+   ],
+   "descripcion": "Primer plano frontal de Mister Fantástico expresando con determinación el problema principal al que se enfrentan.",
+   "prompt_en": "Front close up panel of a middle aged bearded superhero looking intense and serious.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "planificacion",
+    "origen-del-poder"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Our problem...",
+     "texto_es": "Nuestro problema..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Our problem... as I see it, is determining how Victor came to possess such power.",
+     "texto_es": "Nuestro problema... tal como yo lo veo, es determinar cómo Victor llegó a poseer semejante poder."
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "analitico",
+   "recorte": "vinetas/page-160-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    738,
+    36,
+    975,
+    968
+   ],
+   "descripcion": "Plano general dentro del laboratorio/nave. Mister Fantástico le pregunta al Hacedor cómo investigarán a Doom, a lo que este le contesta que ya hay un plan.",
+   "prompt_en": "Comic panel inside a futuristic spaceship laboratory, two men standing near blue glowing control panels conversing.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "planificación",
+    "alianza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And how are we going to do that?",
+     "texto_es": "¿Y cómo vamos a hacer eso?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Oh, a plan exists...",
+     "texto_es": "Oh, ya existe un plan..."
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-160-v7.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento (Life Raft), laboratorio",
+ "numero_comic": 5,
+ "pagina": 160,
+ "archivo": "paginas/page-160.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5228,
+ "_seg": 19.3
+}

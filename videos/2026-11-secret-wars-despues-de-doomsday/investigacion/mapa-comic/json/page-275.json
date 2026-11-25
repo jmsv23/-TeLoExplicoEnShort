@@ -1,0 +1,78 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Página recopilatoria con dos portadas alternativas para las entregas #1 y #2 de la serie Secret Wars (2015), ilustradas por Esad Ribić.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Black Panther (T'Challa)",
+  "Thanos",
+  "Cíclope (con el Fénix)",
+  "Capitana Marvel (Carol Danvers)",
+  "Thor (Jane Foster)",
+  "Black Bolt",
+  "Capitán Britania / James Braddock",
+  "Mister Siniestro"
+ ],
+ "eventos_clave": [
+  "Galería de portadas alternativas de Secret Wars por Esad Ribić"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Compilación visual que presenta las ilustraciones de portada alternativa para Secret Wars #1 (arriba), con un grupo masivo de héroes y villanos de Marvel arremetiendo desde una grieta en el espacio, y Secret Wars #2 (abajo), mostrando a Thor, Capitán Britania, Mister Siniestro y el rostro de Doctor Doom en el fondo.",
+   "prompt_en": "A page showing two epic painted comic book variant covers by Esad Ribic for Secret Wars, featuring Marvel superheroes and villains charging together in cosmic space, highly detailed digital painting style.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Black Panther (T'Challa)",
+    "Thanos",
+    "Cíclope (con el Fénix)",
+    "Capitana Marvel (Carol Danvers)",
+    "Thor (Jane Foster)",
+    "Black Bolt",
+    "Capitán Britania / James Braddock",
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "portada-alternativa",
+    "esad-ribic",
+    "secret-wars",
+    "arte-recapitulativo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#1 VARIANT BY ESAD RIBIC",
+     "texto_es": "#1 VARIANTE POR ESAD RIBIC"
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "#2 VARIANT BY ESAD RIBIC",
+     "texto_es": "#2 VARIANTE POR ESAD RIBIC"
+    }
+   ],
+   "lugar": "Espacio / Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-275-v1.jpg"
+  }
+ ],
+ "lugar": "Espacio / Battleworld",
+ "numero_comic": null,
+ "pagina": 275,
+ "archivo": "paginas/page-275.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3646,
+ "_seg": 10.2
+}

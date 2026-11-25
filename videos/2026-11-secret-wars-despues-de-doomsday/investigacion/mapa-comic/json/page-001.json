@@ -1,0 +1,72 @@
+{
+ "tipo": "portada",
+ "resumen": "Portada de Secret Wars que ilustra la destrucción multiversal con múltiples superhéroes como Capitana Marvel, Miles Morales, Mister Fantástico y Black Bolt siendo arrastrados por una explosión cósmica, con la figura gigantesca de La Cosa en el borde derecho.",
+ "personajes": [
+  "Capitana Marvel (Carol Danvers)",
+  "Spider-Man (Miles Morales)",
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Namor",
+  "Black Bolt"
+ ],
+ "eventos_clave": [
+  "Incursión final",
+  "Destrucción del Multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración de portada completa en la que numerosos superhéroes son arrojados al vacío del espacio entre explosiones de luz durante la incursión final, dominados visualmente por la imponente mano de piedra de La Cosa.",
+   "prompt_en": "Epic comic cover showing Marvel superheroes floating and falling in space near exploding planets, artwork by Esad Ribic, large rocky hand of The Thing on the right frame.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Spider-Man (Miles Morales)",
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Namor",
+    "Black Bolt"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "secret-wars",
+    "incursion",
+    "multiverso",
+    "portada",
+    "esad-ribic"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "IGN",
+     "texto": "AS EPIC AS ANYONE COULD WANT.",
+     "texto_es": "TAN ÉPICO COMO CUALQUIERA PODRÍA DESEAR."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Secret Wars",
+     "texto": "SECRET WARS",
+     "texto_es": "GUERRAS SECRETAS"
+    }
+   ],
+   "lugar": "Espacio / Multiverso",
+   "tono": "Épico y apocalíptico",
+   "recorte": "vinetas/page-001-v1.jpg"
+  }
+ ],
+ "lugar": "Espacio / Multiverso",
+ "numero_comic": null,
+ "pagina": 1,
+ "archivo": "paginas/page-001.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3479,
+ "_seg": 10.2
+}

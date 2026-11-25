@@ -1,0 +1,52 @@
+"""DUELO 6 · Reed y Sue vs Doom (cómic: Secret Wars 2015; Sue empujó a Galactus; campo dentro de la armadura = TEORÍA)."""
+from esc_largo._k import tag, still, clipsc, barra, vs, im, fondo
+
+def build(S):
+    s = vs(S, S.t0, "lf/lf04/reed-sue", "REED Y SUE", "lf/tr-doom-cerca", "DOOM", 6, bg="ciencia")
+    t = S.w("el clásico")
+    s.text("cl", "¡EL CLÁSICO!", "ono", "amarillo", 960, 990, t, rot=-5)
+
+    s = S.scene(S.w("En los cómics"), bg="papel", enter="pageflip")
+    tag(s, "K", s.start + 0.1)
+    still(s, "dc", "lf/doom-comic-clasico", (80, 120, 660, 880), s.start + 0.05, frm="L", pos="50% 30%")
+    t = S.w("Reed Ríchards")
+    s.img("rr", im("a-reed"), 1180, 120, 640, 560, t - 0.1, frm="R", label="REED RICHARDS")
+    t = S.w("más inteligente")
+    s.text("mi", "EL ÚNICO MÁS LISTO QUE ÉL", "kw", "ciencia", 1280, 800, t, size=60, rot=-2)
+    s.text("od", "¡LO ODIA!", "ono", "rojo", 900, 950, t + 0.6, rot=-6)
+
+    s = S.scene(S.w("En Secret Wars"), bg="doom", enter="ink", color="doom")
+    still(s, "sw", "lf/lf03/page-001-v1", (80, 60, 640, 960), s.start + 0.05, frm="L", pos="50% 30%", kb=S.clip(0)["start"], scale=1.06)
+    t = S.w("dos mil quince")
+    s.text("sw", "SECRET WARS (2015)", "ttl", "amarillo", 1300, 200, t, size=100, rot=-3)
+    t = S.w("un dios")
+    still(s, "bw", "lf/battleworld", (900, 330, 860, 470), t - 0.1, frm="R", label="DOOM, DIOS EMPERADOR")
+    t = S.w("pelea final")
+    s.text("pf", "FINAL: REED VS DOOM", "kw", "papel", 1330, 930, t, size=72, rot=-2)
+
+    clipsc(S, 0, bg="ciencia", tag_txt="TRÁILER FINAL")
+
+    s = S.scene(S.w("Pero Reed"), bg="ciencia", enter="whip", color="ciencia")
+    still(s, "sg", "sue-vs-galactus", (110, 70, 1700, 940), s.start + 0.02, kb=S.peek("Y algunos"), scale=1.1, alt="lf/tr-sue-franklin")
+    t = S.w("Primeros Pasos")
+    tag(s, "C", t)
+    s.text("pp", "PRIMEROS PASOS (2025)", "kw", "papel", 1400, 100, t, size=56, rot=-2, sfx=False)
+    t = S.w("empujó a Galactus")
+    s.text("eg", "¡EMPUJÓ A GALACTUS!", "ttl", "amarillo", 960, 880, t, size=120, rot=-4, misreg=True)
+    t = S.w("A Galactus. Y")
+    s.text("ag", "¡A GALACTUS!", "ono", "rojo", 1450, 380, t, rot=-7)
+
+    s = S.scene(S.w("Y algunos"), bg="papel", enter="halftone")
+    s.text("ib", "LA IDEA DE LOS ANALISTAS…", "kw", "ciencia", 540, 200, s.start + 0.1, size=60, rot=-2)
+    t = S.w("idea brutal")
+    tag(s, "T", t)
+    s.img("dm", im("lf/tr-doom-cerca"), 1100, 120, 740, 820, s.start + 0.05, frm="R", label="LA ARMADURA", pos="50% 40%")
+    t = S.w("dentro de la armadura")
+    s.obj("cf", '<div style="width:520px;height:520px;border-radius:50%;border:14px solid #00C8E8;box-shadow:0 0 60px #00C8E8, inset 0 0 60px #00C8E8"></div>', 1470, 530, t, how="pop")
+    s.text("cd", "CAMPO DE FUERZA… ¡ADENTRO!", "kw", "ciencia", 540, 400, t, size=64, rot=-2)
+    t = S.w("cerebro de Reed")
+    barra(s, "b1", "REED (MENTE)", 10, "ciencia", 60, 600, 980, t, lsize=34)
+    t = S.w("poder de Sue")
+    barra(s, "b2", "SUE (PODER)", 9, "heroe", 60, 720, 980, t, lsize=34)
+    t = S.w("cualquier puño")
+    s.text("cp", "> CUALQUIER PUÑO", "ttl", "rojo", 540, 920, t, size=90, rot=-3)

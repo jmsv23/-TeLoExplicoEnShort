@@ -1,0 +1,238 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras la ciudad se desmorona durante la incursión final, la nave de transporte Courier One rescata a científicos y civiles bajo el mando de Viuda Negra. En la balsa de salvamento, Mister Fantástico, Capitana Marvel y Black Panther coordinan el lanzamiento y repasan con Manifold las opciones ante una posible falla en el plan de evacuación.",
+ "personajes": [
+  "Mister Fantástico",
+  "Capitana Marvel",
+  "Black Panther",
+  "Bestia",
+  "Viuda Negra",
+  "Spider-Woman",
+  "Manifold",
+  "Sue Storm / Mujer Invisible"
+ ],
+ "eventos_clave": [
+  "Evacuación final en el Courier One",
+  "Preparación del lanzamiento de la balsa de salvamento de los Héroes",
+  "Plan de contingencia impartido a Manifold por Mister Fantástico"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    485,
+    720
+   ],
+   "descripcion": "La nave de transporte futurista Courier One vuela a través del fuego y las explosiones entre los rascacielos que se destruyen.",
+   "prompt_en": "Futuristic transport spaceship flying out from a massive fire explosion in a crumbling city between collapsing skyscrapers.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion-final",
+    "evacuacion",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "KRRRAMMM",
+     "texto_es": "KRRRAMMM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Courier One, this is the Baxter Building calling for a status update. Black Widow? Spider-Woman? Are you reading me?",
+     "texto_es": "Courier One, aquí el Edificio Baxter llamando para una actualización de estado. ¿Viuda Negra? ¿Spider-Woman? ¿Me reciben?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "We hear you, Susan. Transport's still five minutes out...",
+     "texto_es": "Te escuchamos, Susan. El transporte aún está a cinco minutos..."
+    }
+   ],
+   "lugar": "Nueva York",
+   "tono": "urgente",
+   "recorte": "vinetas/page-014-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    70,
+    638,
+    455,
+    970
+   ],
+   "descripcion": "Viuda Negra en el puesto de pilotaje habla por comunicador mientras Spider-Woman está a su lado.",
+   "prompt_en": "Black Widow in tactical suit piloting a sci-fi aircraft cockpit, speaking into comms, over shoulder angle with Spider-Woman beside her.",
+   "personajes": [
+    "Viuda Negra",
+    "Spider-Woman"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "viuda-negra",
+    "spider-woman",
+    "pilotaje"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "We're having to take a longer, less-explosive route.",
+     "texto_es": "Tenemos que tomar una ruta más larga y menos explosiva."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "How did the exfiltration go?",
+     "texto_es": "¿Cómo fue la exfiltración?"
+    }
+   ],
+   "lugar": "Nave Courier One",
+   "tono": "tenso",
+   "recorte": "vinetas/page-014-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    456,
+    0,
+    728,
+    574
+   ],
+   "descripcion": "Dentro de la bahía de la nave, Bestia se agarra la cabeza angustiado entre refugiados y personal que evacúa.",
+   "prompt_en": "Beast in distress holding his head inside a dimly lit sci-fi transport interior filled with evacuees and families.",
+   "personajes": [
+    "Bestia"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "bestia",
+    "refugiados",
+    "dilema-moral"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "We just spent an hour literally pulling families apart. So it went exactly as expected, and no one is taking it well.",
+     "texto_es": "Literalmente acabamos de pasar una hora separando familias. Así que fue exactamente como se esperaba, y nadie se lo está tomando bien."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "Two of the scientists even changed their minds and decided to stay. Here, I'm sending you the final passenger list now.",
+     "texto_es": "Dos de los científicos incluso cambiaron de opinión y decidieron quedarse. Aquí les envío la lista final de pasajeros ahora."
+    }
+   ],
+   "lugar": "Nave Courier One",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-014-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    456,
+    580,
+    730,
+    970
+   ],
+   "descripcion": "Capitana Marvel, Mister Fantástico y Black Panther coordinan el lanzamiento desde la sala de control.",
+   "prompt_en": "Bearded Mister Fantastic talking with Captain Marvel and Black Panther in a sleek blue sci-fi command deck.",
+   "personajes": [
+    "Capitana Marvel",
+    "Mister Fantástico",
+    "Black Panther"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-fantastico",
+    "capitana-marvel",
+    "black-panther",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel",
+     "texto": "Natasha says five minutes. And we lost Doctors May and Zhang. They stayed behind.",
+     "texto_es": "Natasha dice cinco minutos. Y perdimos a los doctores May y Zhang. Se quedaron atrás."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Specialists in chemistry and physics. Thank God they were redundancies, so we should be okay...",
+     "texto_es": "Especialistas en química y física. Gracias a Dios eran redundancias, así que deberíamos estar bien..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Let's start the launch countdown. T'Challa, can you--",
+     "texto_es": "Comencemos la cuenta regresiva del lanzamiento. T'Challa, ¿puedes...?"
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "serio",
+   "recorte": "vinetas/page-014-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    730,
+    31,
+    966,
+    970
+   ],
+   "descripcion": "Black Panther pone su mano sobre el hombro de Manifold frente al anillo portal luminoso, escuchando las instrucciones de Reed Richards.",
+   "prompt_en": "Black Panther placing hand on Manifold's shoulder in front of a glowing circular teleport portal ring, with hologram screen of Reed Richards.",
+   "personajes": [
+    "Black Panther",
+    "Manifold",
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "black-panther",
+    "manifold",
+    "teleportacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Two scenarios, Manifold, you get that. One, everything goes as planned. We launch with our resurrection team, you teleport on board, and we're off.",
+     "texto_es": "Dos escenarios, Manifold, lo entiendes. Uno, todo sale según lo planeado. Lanzamos con nuestro equipo de resurrección, te teletransportas a bordo y nos vamos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Two... everything goes wrong...",
+     "texto_es": "Dos... todo sale mal..."
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "grave",
+   "recorte": "vinetas/page-014-v5.jpg"
+  }
+ ],
+ "lugar": "Nueva York / Balsa de salvamento de la Fundación Futuro",
+ "numero_comic": 1,
+ "pagina": 14,
+ "archivo": "paginas/page-014.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7009,
+ "_seg": 27.6
+}

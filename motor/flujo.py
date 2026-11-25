@@ -99,6 +99,8 @@ def qa(v, piezas=None, hojas=True):
         d = dur(fin)
         if v.vertical(p) and d > lim["short_max"]:
             errores.append(f"{p}: dura {d:.1f} s (máximo de un Short: {lim['short_max']} s)")
+        elif v.vertical(p) and d > lim.get("short_objetivo", 45):
+            avisos.append(f"{p}: dura {d:.1f} s (objetivo de un Short: 20-{lim.get('short_objetivo', 45)} s, ver base/guion/REGLAS.md)")
         if not v.vertical(p) and not lim["largo_min"] <= d <= lim["largo_max"]:
             avisos.append(f"{p}: dura {d / 60:.1f} min (objetivo {lim['largo_min'] // 60}-{lim['largo_max'] // 60} min)")
         i, tp = loudness(fin)

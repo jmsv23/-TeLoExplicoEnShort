@@ -1,0 +1,155 @@
+{
+ "tipo": "historia",
+ "resumen": "Sue Storm le narra a su hijo Franklin la historia del origen de su equipo y cómo el antiguo mundo terminó, omitiendo la existencia original de Reed Richards y atribuyendo la salvación del mundo al Dios Emperador Doom.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards",
+  "Antorcha Humana",
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "Origen alternativo/alterado de los Cuatro Fantásticos contado a Franklin",
+  "Mención del fin del viejo mundo y creación de Battleworld por Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    452,
+    1000
+   ],
+   "descripcion": "Vista dramática de los cuatro miembros del equipo emergiendo entre fuego, humo y energía morada tras el choque de su nave espacial.",
+   "prompt_en": "Four scientific explorers emerging from smoke, fire and energy crackles after a spaceship crash, comic book art style",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Antorcha Humana",
+    "[Doctor Franklin Storm]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "origen-cuatro-fantasticos",
+    "battleworld",
+    "flashback"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Okay. One more time...",
+     "texto_es": "Bien. Una vez más..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "There were four of us. It was me, my brother, Jonathan, our friend, Ben Grimm, and our father... Doctor Franklin Storm.",
+     "texto_es": "Éramos cuatro. Estábamos yo, mi hermano, Jonathan, nuestro amigo, Ben Grimm, y nuestro padre... el doctor Franklin Storm."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "We went on what we thought was going to be an incredible journey, but something went wrong and our ship crashed to the earth.",
+     "texto_es": "Fuimos en lo que pensábamos que sería un viaje increíble, pero algo salió mal y nuestra nave se estrelló contra la Tierra."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "But sometimes, Franklin, failing is just the first step in an unexpected, and even amazing, adventure.",
+     "texto_es": "Pero a veces, Franklin, fracasar es solo el primer paso en una aventura inesperada, e incluso asombrosa."
+    }
+   ],
+   "recorte": "vinetas/page-173-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    452,
+    0,
+    782,
+    1000
+   ],
+   "descripcion": "Vista de espalda de los héroes transformados observando el horizonte, con Ben Grimm ya convertido en La Cosa.",
+   "prompt_en": "Back view of a superhero team empowered standing against a glowing horizon, one big rock creature on the right, comic book panel",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Antorcha Humana",
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "cuatro-fantasticos",
+    "fin-del-mundo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "We were changed. All of us. Empowered, we became heroes and protected Earth.",
+     "texto_es": "Cambiamos. Todos nosotros. Empoderados, nos convertimos en héroes y protegimos la Tierra."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "But then, one day, that world ended...",
+     "texto_es": "Pero entonces, un día, ese mundo terminó..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "And the world we're in now began.",
+     "texto_es": "Y el mundo en el que estamos ahora comenzó."
+    }
+   ],
+   "recorte": "vinetas/page-173-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    782,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "En el presente, Franklin Richards le habla a su madre Sue Storm desde la cama mientras ella lo escucha con expresión melancólica.",
+   "prompt_en": "Close up of a blond boy in bed smiling as he talks to his mother, emotional scene, detailed comic art style",
+   "personajes": [
+    "Franklin Richards",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "franklin-richards",
+    "sue-storm",
+    "familia-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "And that's when you met dad.",
+     "texto_es": "Y ahí fue cuando conociste a papá."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "That's when he saved us.",
+     "texto_es": "Ahí fue cuando nos salvó."
+    }
+   ],
+   "recorte": "vinetas/page-173-v3.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 173,
+ "archivo": "paginas/page-173.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5370,
+ "_seg": 18.7
+}

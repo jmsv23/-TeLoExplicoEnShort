@@ -1,0 +1,192 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante los primeros momentos de la incursión final entre la Tierra-616 y la Tierra-1610, una gigante burbuja temporal se abre sobre el puente de Brooklyn, captando la atención de Nightcrawler y Hulk. Mientras tanto, en las profundidades de la tecnología de la Tierra Ultimate, el Hacedor da la orden a la Ciudad de desplegar su arma del juicio final.",
+ "personajes": [
+  "Nightcrawler",
+  "Hulk",
+  "El Hacedor",
+  "[La Ciudad / IA]",
+  "[ingeniero de la Ciudad]"
+ ],
+ "eventos_clave": [
+  "Apertura de la cúpula temporal sobre Nueva York",
+  "El Hacedor ordena el despliegue del arma definitiva de la Tierra-1610"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    33,
+    376,
+    293
+   ],
+   "descripcion": "Plano medio de Nightcrawler gritando al ver la anomalía en el cielo, acompañado por Hulk a sus espaldas.",
+   "prompt_en": "Comic panel close-up of Nightcrawler with dark blue skin shouting and pointing upward in surprise, with Hulk standing behind him.",
+   "personajes": [
+    "Nightcrawler",
+    "Hulk"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "incursion-final",
+    "tierra-616",
+    "nightcrawler"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Nightcrawler",
+     "texto": "Mein Gott! Look!",
+     "texto_es": "¡Mein Gott! ¡Mira!"
+    }
+   ],
+   "lugar": "Nueva York",
+   "tono": "alarmado",
+   "recorte": "vinetas/page-021-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    0,
+    583,
+    1000
+   ],
+   "descripcion": "Vista panorámica de la bahía de Nueva York donde una inmensa cúpula de energía rosa emerge cerca del puente de Brooklyn.",
+   "prompt_en": "Wide comic shot of a giant glowing pink temporal dome opening over skyscrapers near the Brooklyn Bridge, seen from the shore behind two superhero figures.",
+   "personajes": [
+    "Nightcrawler",
+    "Hulk"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "domo-temporal",
+    "puente-de-brooklyn",
+    "incursion-final",
+    "tierra-1610"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "SKROOSH",
+     "texto_es": "SKROOSH"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nightcrawler",
+     "texto": "Whatever that is... ...it's opening!",
+     "texto_es": "Sea lo que sea eso... ¡se está abriendo!"
+    }
+   ],
+   "lugar": "Nueva York, Puente de Brooklyn",
+   "tono": "asombro",
+   "recorte": "vinetas/page-021-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    583,
+    32,
+    824,
+    970
+   ],
+   "descripcion": "El Hacedor habla con sus subordinados e ingenieros genéticos dentro del laboratorio futurista sobre el estado de la burbuja temporal.",
+   "prompt_en": "The Maker standing inside a futuristic lab speaking with armored allies in front of blue control displays.",
+   "personajes": [
+    "El Hacedor",
+    "[ingeniero de la Ciudad]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "tierra-1610",
+    "la-ciudad"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "The diversion has run its course. Is the build completed?",
+     "texto_es": "La distracción ha cumplido su curso. ¿Se ha completado la construcción?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[ingeniero de la Ciudad]",
+     "texto": "Your specially bred engineers erected a temporal bubble to buy themselves time... but they have not yet emerged.",
+     "texto_es": "Tus ingenieros criados especialmente erigieron una burbuja temporal para ganar tiempo... pero aún no han emergido."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "It seems your fastest is not fast enough, and you continue to disappoint in two worlds. Do something.",
+     "texto_es": "Parece que lo más rápido que tienen no es lo suficientemente rápido, y continúan decepcionando en dos mundos. Hagan algo."
+    }
+   ],
+   "lugar": "La Ciudad (The City)",
+   "tono": "tenso",
+   "recorte": "vinetas/page-021-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    836,
+    32,
+    977,
+    970
+   ],
+   "descripcion": "Plano detalle de la máscara androide con ojos rojos brillantes de la Ciudad mientras responde al Hacedor.",
+   "prompt_en": "Extreme close up of a sleek futuristic white robotic mask with glowing red eyes inside a dark technological facility.",
+   "personajes": [
+    "El Hacedor",
+    "[La Ciudad / IA]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "la-ciudad",
+    "arma-del-juicio-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "City.",
+     "texto_es": "Ciudad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[La Ciudad / IA]",
+     "texto": "Yes, Maker.",
+     "texto_es": "Sí, Hacedor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "We've bent space and time to build a perfect society. Now it's time to reveal what secrets we hide in the Dome.",
+     "texto_es": "Hemos doblado el espacio y el tiempo para construir una sociedad perfecta. Ahora es momento de revelar qué secretos escondemos en el Domo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "When you launch our doomsday weapon, send our children along to guide its way.",
+     "texto_es": "Cuando lances nuestra arma del juicio final, envía a nuestros niños para que guíen su camino."
+    }
+   ],
+   "lugar": "La Ciudad (The City)",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-021-v4.jpg"
+  }
+ ],
+ "lugar": "Nueva York / La Ciudad (The City)",
+ "numero_comic": 1,
+ "pagina": 21,
+ "archivo": "paginas/page-021.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6512,
+ "_seg": 24.8
+}

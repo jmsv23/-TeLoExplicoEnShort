@@ -1,0 +1,924 @@
+{
+ "_nota": "Migrado de Camino a Doomsday (motor _lf). Imágenes: fotogramas, recortes e ilustraciones propias (sin URL: respaldar con ./tl assets respaldar). Fuentes de video: los archivos originales del motor.",
+ "imagenes": [
+  {
+   "id": "a-ancient",
+   "archivo": "img/a-ancient.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-andrew",
+   "archivo": "img/a-andrew.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-bestia",
+   "archivo": "img/a-bestia.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-brave",
+   "archivo": "img/a-brave.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-bruce",
+   "archivo": "img/a-bruce.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-bucky",
+   "archivo": "img/a-bucky.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-cap",
+   "archivo": "img/a-cap.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-ciclope",
+   "archivo": "img/a-ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-disney",
+   "archivo": "img/a-disney.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-ebon",
+   "archivo": "img/a-ebon.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-fantastic4",
+   "archivo": "img/a-fantastic4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-feige",
+   "archivo": "img/a-feige.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-fox",
+   "archivo": "img/a-fox.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-gambit",
+   "archivo": "img/a-gambit.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-ghost",
+   "archivo": "img/a-ghost.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-ironman",
+   "archivo": "img/a-ironman.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-johnny-evans",
+   "archivo": "img/a-johnny-evans.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-joseph",
+   "archivo": "img/a-joseph.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-kang",
+   "archivo": "img/a-kang.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-loki",
+   "archivo": "img/a-loki.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-lokilogo",
+   "archivo": "img/a-lokilogo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-magneto",
+   "archivo": "img/a-magneto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-mistica",
+   "archivo": "img/a-mistica.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-nightcrawler",
+   "archivo": "img/a-nightcrawler.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-olsen-crop",
+   "archivo": "img/a-olsen-crop.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-pedro",
+   "archivo": "img/a-pedro.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-redguardian",
+   "archivo": "img/a-redguardian.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-redhulk",
+   "archivo": "img/a-redhulk.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-reed",
+   "archivo": "img/a-reed.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-sam",
+   "archivo": "img/a-sam.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-samcap",
+   "archivo": "img/a-samcap.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-scarlet",
+   "archivo": "img/a-scarlet.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-spider3",
+   "archivo": "img/a-spider3.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-strange-poster",
+   "archivo": "img/a-strange-poster.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-strange",
+   "archivo": "img/a-strange.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-sylvie",
+   "archivo": "img/a-sylvie.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-thor",
+   "archivo": "img/a-thor.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-thunder",
+   "archivo": "img/a-thunder.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-tobey",
+   "archivo": "img/a-tobey.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-tom",
+   "archivo": "img/a-tom.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-tos39",
+   "archivo": "img/a-tos39.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-vanessa",
+   "archivo": "img/a-vanessa.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-visionquest",
+   "archivo": "img/a-visionquest.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-walker",
+   "archivo": "img/a-walker.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-wanda",
+   "archivo": "img/a-wanda.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-wolverine",
+   "archivo": "img/a-wolverine.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-xavier",
+   "archivo": "img/a-xavier.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-yelena",
+   "archivo": "img/a-yelena.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "doomsday-logo",
+   "archivo": "img/doomsday-logo.png",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "endgame-logo",
+   "archivo": "img/endgame-logo.png",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/arbol",
+   "archivo": "img/lf/arbol.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/battleworld",
+   "archivo": "img/lf/battleworld.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/doom-comic-clasico",
+   "archivo": "img/lf/doom-comic-clasico.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/incursion",
+   "archivo": "img/lf/incursion.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/kang-poster",
+   "archivo": "img/lf/kang-poster.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/mv-bestia",
+   "archivo": "img/lf/mv-bestia.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-03a",
+   "archivo": "img/lf/ph/N-03a.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-03b",
+   "archivo": "img/lf/ph/N-03b.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-04",
+   "archivo": "img/lf/ph/N-04.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-05",
+   "archivo": "img/lf/ph/N-05.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-06a",
+   "archivo": "img/lf/ph/N-06a.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-06b",
+   "archivo": "img/lf/ph/N-06b.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-06c",
+   "archivo": "img/lf/ph/N-06c.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-07a",
+   "archivo": "img/lf/ph/N-07a.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-07b",
+   "archivo": "img/lf/ph/N-07b.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-07c",
+   "archivo": "img/lf/ph/N-07c.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-09",
+   "archivo": "img/lf/ph/N-09.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-17",
+   "archivo": "img/lf/ph/N-17.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-19a",
+   "archivo": "img/lf/ph/N-19a.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-19b",
+   "archivo": "img/lf/ph/N-19b.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-19c",
+   "archivo": "img/lf/ph/N-19c.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-25",
+   "archivo": "img/lf/ph/N-25.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-25b",
+   "archivo": "img/lf/ph/N-25b.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-48",
+   "archivo": "img/lf/ph/N-48.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-83",
+   "archivo": "img/lf/ph/N-83.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-84",
+   "archivo": "img/lf/ph/N-84.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-91",
+   "archivo": "img/lf/ph/N-91.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-92",
+   "archivo": "img/lf/ph/N-92.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-93",
+   "archivo": "img/lf/ph/N-93.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-94",
+   "archivo": "img/lf/ph/N-94.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/ph/N-96",
+   "archivo": "img/lf/ph/N-96.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/sc-anillos",
+   "archivo": "img/lf/sc-anillos.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/shuri-mbaku",
+   "archivo": "img/lf/shuri-mbaku.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-doom-centinelas",
+   "archivo": "img/lf/tr-doom-centinelas.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-doom-cerca",
+   "archivo": "img/lf/tr-doom-cerca.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-loki",
+   "archivo": "img/lf/tr-loki.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-magneto",
+   "archivo": "img/lf/tr-magneto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-steve-bebe",
+   "archivo": "img/lf/tr-steve-bebe.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-steve-cerca",
+   "archivo": "img/lf/tr-steve-cerca.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-sue-franklin",
+   "archivo": "img/lf/tr-sue-franklin.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-thor-rayo",
+   "archivo": "img/lf/tr-thor-rayo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-wanda-llora",
+   "archivo": "img/lf/tr-wanda-llora.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "rdj-recorte-alt",
+   "archivo": "img/rdj-recorte-alt.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "rdj-recorte",
+   "archivo": "img/rdj-recorte.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "russo",
+   "archivo": "img/russo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "lf-t04-steve-bebe-vidas-robadas",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t04-steve-bebe-vidas-robadas.mp4"
+  },
+  {
+   "id": "lf-t06-soy-doom-centinelas",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t06-soy-doom-centinelas.mp4"
+  },
+  {
+   "id": "lf-c01-thunderbolts-nave-4f",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c01-thunderbolts-nave-4f.mp4"
+  },
+  {
+   "id": "lf-c04-marvels-mama",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c04-marvels-mama.mp4"
+  },
+  {
+   "id": "lf-c06-shangchi-anillos-antiguos",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c06-shangchi-anillos-antiguos.mp4"
+  },
+  {
+   "id": "lf-c07-shangchi-senal",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c07-shangchi-senal.mp4"
+  },
+  {
+   "id": "13-poscreditos",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/13-poscreditos.mp4"
+  },
+  {
+   "id": "lf-t02-amable-afectuoso",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t02-amable-afectuoso.mp4"
+  },
+  {
+   "id": "lf-t03-victor-hiciste-esto",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t03-victor-hiciste-esto.mp4"
+  },
+  {
+   "id": "lf-c05-marvels-bestia",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c05-marvels-bestia.mp4"
+  },
+  {
+   "id": "lf-t08-fecha-17-dic",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t08-fecha-17-dic.mp4"
+  },
+  {
+   "id": "lf-c03-firststeps-doom-franklin",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c03-firststeps-doom-franklin.mp4"
+  },
+  {
+   "id": "lf-c02-firststeps-4-anos",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-c02-firststeps-4-anos.mp4"
+  },
+  {
+   "id": "lf-t01-latveria-victor-listo",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t01-latveria-victor-listo.mp4"
+  },
+  {
+   "id": "lf-t07-thor-mjolnir",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t07-thor-mjolnir.mp4"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "largo-c01",
+   "fuente": "lf-t04-steve-bebe-vidas-robadas",
+   "inicio": 4.6,
+   "fin": 11.3,
+   "tipo": "voz",
+   "bloque": "hook"
+  },
+  {
+   "id": "largo-c02",
+   "fuente": "lf-t06-soy-doom-centinelas",
+   "inicio": 0.9,
+   "fin": 3.7,
+   "tipo": "voz",
+   "bloque": "d01"
+  },
+  {
+   "id": "largo-c03",
+   "fuente": "lf-c01-thunderbolts-nave-4f",
+   "inicio": 0.4,
+   "fin": 6.5,
+   "tipo": "voz",
+   "bloque": "d09"
+  },
+  {
+   "id": "largo-c04",
+   "fuente": "lf-c04-marvels-mama",
+   "inicio": 9.2,
+   "fin": 12.2,
+   "tipo": "voz",
+   "bloque": "d11"
+  },
+  {
+   "id": "largo-c05",
+   "fuente": "lf-c06-shangchi-anillos-antiguos",
+   "inicio": 7.3,
+   "fin": 11.8,
+   "tipo": "voz",
+   "bloque": "d12"
+  },
+  {
+   "id": "largo-c06",
+   "fuente": "lf-c07-shangchi-senal",
+   "inicio": 2.2,
+   "fin": 8.6,
+   "tipo": "voz",
+   "bloque": "d12"
+  },
+  {
+   "id": "largo-c07",
+   "fuente": "13-poscreditos",
+   "inicio": 0.0,
+   "fin": 10.07,
+   "tipo": "voz",
+   "bloque": "d13"
+  },
+  {
+   "id": "largo-c08",
+   "fuente": "lf-t02-amable-afectuoso",
+   "inicio": 0.2,
+   "fin": 5.5,
+   "tipo": "voz",
+   "bloque": "d15"
+  },
+  {
+   "id": "largo-c09",
+   "fuente": "lf-t03-victor-hiciste-esto",
+   "inicio": 3.6,
+   "fin": 10.2,
+   "tipo": "voz",
+   "bloque": "d15"
+  },
+  {
+   "id": "largo-c10",
+   "fuente": "lf-t04-steve-bebe-vidas-robadas",
+   "inicio": 0.0,
+   "fin": 11.3,
+   "tipo": "voz",
+   "bloque": "d15"
+  }
+ ]
+}

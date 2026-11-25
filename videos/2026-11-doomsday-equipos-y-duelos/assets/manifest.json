@@ -1,0 +1,777 @@
+{
+ "imagenes": [
+  {
+   "id": "lf/tr-doom-cerca",
+   "archivo": "img/lf/tr-doom-cerca.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "doomsday-logo",
+   "archivo": "img/doomsday-logo.png",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-samcap",
+   "archivo": "img/a-samcap.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-thor",
+   "archivo": "img/a-thor.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/sc-anillos",
+   "archivo": "img/lf/sc-anillos.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/shuri-mbaku",
+   "archivo": "img/lf/shuri-mbaku.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-thunder",
+   "archivo": "img/a-thunder.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-yelena",
+   "archivo": "img/a-yelena.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-bucky",
+   "archivo": "img/a-bucky.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-redguardian",
+   "archivo": "img/a-redguardian.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-walker",
+   "archivo": "img/a-walker.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-ghost",
+   "archivo": "img/a-ghost.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-fantastic4",
+   "archivo": "img/a-fantastic4.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-pedro",
+   "archivo": "img/a-pedro.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-vanessa",
+   "archivo": "img/a-vanessa.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-joseph",
+   "archivo": "img/a-joseph.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-ebon",
+   "archivo": "img/a-ebon.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-fox",
+   "archivo": "img/a-fox.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-magneto",
+   "archivo": "img/a-magneto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-ciclope",
+   "archivo": "img/a-ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-mistica",
+   "archivo": "img/a-mistica.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-bestia",
+   "archivo": "img/a-bestia.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-nightcrawler",
+   "archivo": "img/a-nightcrawler.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-gambit",
+   "archivo": "img/a-gambit.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-xavier",
+   "archivo": "img/a-xavier.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-loki",
+   "archivo": "img/a-loki.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/arbol",
+   "archivo": "img/lf/arbol.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-doom-centinelas",
+   "archivo": "img/lf/tr-doom-centinelas.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-bruce",
+   "archivo": "img/a-bruce.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-scarlet",
+   "archivo": "img/a-scarlet.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-wanda",
+   "archivo": "img/a-wanda.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-olsen-crop",
+   "archivo": "img/a-olsen-crop.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-visionquest",
+   "archivo": "img/a-visionquest.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-magneto",
+   "archivo": "img/lf/tr-magneto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-loki",
+   "archivo": "img/lf/tr-loki.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-sylvie",
+   "archivo": "img/a-sylvie.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-wanda-llora",
+   "archivo": "img/lf/tr-wanda-llora.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-reed",
+   "archivo": "img/a-reed.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/doom-comic-clasico",
+   "archivo": "img/lf/doom-comic-clasico.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/battleworld",
+   "archivo": "img/lf/battleworld.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-sue-franklin",
+   "archivo": "img/lf/tr-sue-franklin.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-thor-rayo",
+   "archivo": "img/lf/tr-thor-rayo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/incursion",
+   "archivo": "img/lf/incursion.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-sam",
+   "archivo": "img/a-sam.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-cap",
+   "archivo": "img/a-cap.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "endgame-logo",
+   "archivo": "img/endgame-logo.png",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "a-strange",
+   "archivo": "img/a-strange.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/steve-mjolnir",
+   "archivo": "img/lf/lf04/steve-mjolnir.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/kate",
+   "archivo": "img/lf/lf04/kate.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/brujas",
+   "archivo": "img/lf/lf04/brujas.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/doom-catedral",
+   "archivo": "img/lf/lf04/doom-catedral.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/cyclops-sam",
+   "archivo": "img/lf/lf04/cyclops-sam.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/rayo-ciclope",
+   "archivo": "img/lf/lf04/rayo-ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/robots-palmas",
+   "archivo": "img/lf/lf04/robots-palmas.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/doom-ejercito",
+   "archivo": "img/lf/lf04/doom-ejercito.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/reed-sue",
+   "archivo": "img/lf/lf04/reed-sue.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/thor-azul",
+   "archivo": "img/lf/lf04/thor-azul.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/thor-dorado-bosque",
+   "archivo": "img/lf/lf04/thor-dorado-bosque.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/thor-dorado",
+   "archivo": "img/lf/lf04/thor-dorado.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/doom-rayos",
+   "archivo": "img/lf/lf04/doom-rayos.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/grupo",
+   "archivo": "img/lf/lf04/grupo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/castillo-ny",
+   "archivo": "img/lf/lf04/castillo-ny.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/planeta-ny",
+   "archivo": "img/lf/lf04/planeta-ny.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/johnny-ben",
+   "archivo": "img/lf/lf04/johnny-ben.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/gambito",
+   "archivo": "img/lf/lf04/gambito.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/mystique",
+   "archivo": "img/lf/lf04/mystique.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/ciclope",
+   "archivo": "img/lf/lf04/ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/shuri",
+   "archivo": "img/lf/lf04/shuri.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/4f-jardin",
+   "archivo": "img/lf/lf04/4f-jardin.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf04/steve-barba",
+   "archivo": "img/lf/lf04/steve-barba.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-analisis-trailer-final-doomsday",
+   "pin": true
+  },
+  {
+   "id": "lf/lf03/page-001-v1",
+   "archivo": "img/lf/lf03/page-001-v1.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración) · reusado de 2026-11-secret-wars-despues-de-doomsday",
+   "pin": true
+  },
+  {
+   "id": "sentry-thunderbolts",
+   "archivo": "img/sentry-thunderbolts.jpg",
+   "url": "https://i.pinimg.com/originals/d9/d6/18/d9d61869ab9794f9e4772378aa284448.jpg",
+   "pagina": "https://www.pinterest.com/ideas/bob-reynolds-sentry/945099432879/",
+   "fuente": "pinterest.com",
+   "pin": true,
+   "tam": "2661x2661"
+  },
+  {
+   "id": "sentry-vacio",
+   "archivo": "img/sentry-vacio.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/02/sentry-floating-outside-avengers-tower-in-thunderbolts_.jpg?q=49&fit=contain&w=3200&h=1600&dpr=2",
+   "pagina": "https://screenrant.com/thunderbolts-characters-what-saw-in-void-explained/",
+   "fuente": "screenrant.com",
+   "pin": false,
+   "tam": "3200x1600"
+  },
+  {
+   "id": "namor",
+   "archivo": "img/namor.jpg",
+   "url": "https://ew.com/thmb/r9ByxB-LctqJ7suYdHrz2jsEUsU=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Namor-Wakanda-Forever-01-112822-2a9172d02dbd4ba2ae8c5940114076fa.jpg",
+   "pagina": "https://ew.com/movies/tenoch-huerta-namor-bulge-black-panther-wakanda-forever/",
+   "fuente": "ew.com",
+   "pin": false,
+   "tam": "2000x1333"
+  },
+  {
+   "id": "ant-man",
+   "archivo": "img/ant-man.jpg",
+   "url": "https://ew.com/thmb/aZ2pG8r7ZJ_qgpe4GRICbjeF0-I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ant-Man-and-the-Wasp-Quantumania-01-021423-75970f4936c7499a9edf1e9a8b516c92.jpg",
+   "pagina": "https://ew.com/paul-rudd-discusses-ant-man-appearance-in-upcoming-avengers-films-11697989",
+   "fuente": "ew.com",
+   "pin": false,
+   "tam": "1500x1000"
+  },
+  {
+   "id": "magneto-dofp-centinelas",
+   "archivo": "img/magneto-dofp-centinelas.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/04/president-revealing-sentinels-in-1973-in-x-men-days-of-future-past.jpg?q=49&fit=contain&w=1400&h=700&dpr=2",
+   "pagina": "https://screenrant.com/x-men-sentinels-movies-tv-shows-explained/",
+   "fuente": "screenrant.com",
+   "pin": false,
+   "tam": "1400x700"
+  },
+  {
+   "id": "house-of-m-portada",
+   "archivo": "img/house-of-m-portada.jpg",
+   "url": "https://static.wikia.nocookie.net/marveldatabase/images/b/bf/House_of_M_Vol_1_1_Quesada_Variant.jpg/revision/latest?cb=20120709153627",
+   "pagina": "https://marvel.fandom.com/wiki/House_of_M_Vol_1_1",
+   "fuente": "marvel.fandom.com",
+   "pin": false,
+   "tam": "1680x2594"
+  },
+  {
+   "id": "world-war-hulk-portada",
+   "archivo": "img/world-war-hulk-portada.jpg",
+   "url": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/World_War_Hulk_Vol_1_5_Textless.jpg/revision/latest?cb=20180306164240",
+   "pagina": "https://marvel.fandom.com/wiki/World_War_Hulk_Vol_1_5",
+   "fuente": "marvel.fandom.com",
+   "pin": false,
+   "tam": "1780x2699"
+  },
+  {
+   "id": "thor-stormbreaker-thanos",
+   "archivo": "img/thor-stormbreaker-thanos.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2023/12/gone-for-the-head-cropped.jpg",
+   "pagina": "https://screenrant.com/thor-avengers-infinity-war-story-complaints-beginning-op-ed/",
+   "fuente": "screenrant.com",
+   "pin": false,
+   "tam": "1500x750"
+  },
+  {
+   "id": "sue-vs-galactus",
+   "archivo": "img/sue-vs-galactus.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/adobe-express-file-61.jpg?q=49&fit=crop&w=825&dpr=2",
+   "pagina": "https://screenrant.com/fantastic-four-first-steps-galactus-harsh-reality/",
+   "fuente": "screenrant.com",
+   "pin": false,
+   "tam": "1650x825"
+  },
+  {
+   "id": "doom-detiene-stormbreaker",
+   "archivo": "img/doom-detiene-stormbreaker.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "fotograma del primer tráiler (10.6 s)",
+   "pin": true
+  },
+  {
+   "id": "doom-mascara",
+   "archivo": "img/doom-mascara.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "fotograma del primer tráiler (12.0 s)",
+   "pin": true
+  },
+  {
+   "id": "thor-rayo-ojos",
+   "archivo": "img/thor-rayo-ojos.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "fotograma del primer tráiler (5.3 s)",
+   "pin": true
+  },
+  {
+   "id": "loki-trono",
+   "archivo": "img/loki-trono.jpg",
+   "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2023/11/loki-sits-on-throne-at-end-of-multiverse-in-season-2-finale.jpg?q=50&fit=contain&w=1400",
+   "pagina": "https://screenrant.com",
+   "fuente": "screenrant.com",
+   "pin": false,
+   "tam": "1400x700"
+  },
+  {
+   "id": "loki-cuernos",
+   "archivo": "img/loki-cuernos.jpg",
+   "url": "https://cdn.mos.cms.futurecdn.net/6i5td7dAuxzb4tAhbLsPyj.jpg",
+   "pagina": "https://www.cinemablend.com",
+   "fuente": "cinemablend.com",
+   "pin": false,
+   "tam": "2000x1125"
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "lf-t07-thor-mjolnir",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t07-thor-mjolnir.mp4",
+   "nota": "reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday"
+  },
+  {
+   "id": "lf-t06-soy-doom-centinelas",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t06-soy-doom-centinelas.mp4",
+   "nota": "reusado de 2026-11-lo-que-debes-saber-antes-de-doomsday"
+  },
+  {
+   "id": "lf04-trailer",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf04-trailer.mp4",
+   "nota": "reusado de 2026-11-analisis-trailer-final-doomsday"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "stormbreaker-detenida",
+   "fuente": "lf-t07-thor-mjolnir",
+   "inicio": 8.6,
+   "fin": 12.8,
+   "tipo": "voz",
+   "nota": "Doom detiene Stormbreaker (primer tráiler)"
+  },
+  {
+   "id": "doom-centinelas",
+   "fuente": "lf-t06-soy-doom-centinelas",
+   "inicio": 1.0,
+   "fin": 8.4,
+   "tipo": "voz",
+   "nota": "Doom levanta Centinelas (D23)"
+  },
+  {
+   "id": "ciclope-vs-sam",
+   "fuente": "lf04-trailer",
+   "inicio": 112.6,
+   "fin": 117.9,
+   "tipo": "voz",
+   "nota": "Cíclope vs Sam, «dejen de pelearse por tonterías»",
+   "zoom": 1.12
+  },
+  {
+   "id": "cuatro-fantasticos-llegan",
+   "fuente": "lf04-trailer",
+   "inicio": 40.9,
+   "fin": 45.7,
+   "tipo": "voz",
+   "nota": "4F llegan, «¿Eres Steve Rogers?»"
+  },
+  {
+   "id": "thor-vs-doom",
+   "fuente": "lf04-trailer",
+   "inicio": 94.8,
+   "fin": 102.8,
+   "tipo": "voz",
+   "nota": "Thor vs Doom, «…tienen que devolverlas»",
+   "zoom": 1.12
+  },
+  {
+   "id": "unanse",
+   "fuente": "lf04-trailer",
+   "inicio": 117.9,
+   "fin": 125.0,
+   "tipo": "voz",
+   "nota": "«Ha llegado la hora. Únanse y manténganse juntos»",
+   "zoom": 1.12
+  },
+  {
+   "id": "short-stormbreaker",
+   "fuente": "lf-t07-thor-mjolnir",
+   "inicio": 8.6,
+   "fin": 12.8,
+   "tipo": "voz",
+   "nota": "short: Doom detiene Stormbreaker"
+  }
+ ],
+ "_nota": "Imágenes y fuentes de video reusadas de los videos anteriores de Doomsday (sin URL: respaldar con ./tl assets respaldar). Nuevas: agregar-img."
+}

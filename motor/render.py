@@ -38,12 +38,18 @@ def render(v, pieza, workers=None, draft=False):
     rd = v.build / "render"
     mudo = rd / f"{pieza}-video{'.draft' if draft else ''}.mp4"
     k = v.pieza(pieza).get("partes")
-    hf, nsec = B.build(v, pieza)
-    if k and nsec > k:
+    hf, n = B.build(v, pieza)
+    E = B.cargar_estilo(v, pieza, hf)
+    propio = hasattr(E, "build_pieza")
+    if propio:  # motor propio: n = nº de partes del estilo; "partes": true en la pieza → render por partes
+        rangos = list(range(n)) if k and n > 1 else []
+    else:
+        rangos = [(a, min(a + k, n)) for a in range(0, n, k)] if k and n > k else []
+    if rangos:
         trozos = []
-        for a in range(0, nsec, k):
-            hfp, _ = B.build(v, pieza, (a, min(a + k, nsec)))
-            out = rd / f"{pieza}-p{a}.mp4"
+        for r in rangos:
+            hfp, _ = B.build(v, pieza, r)
+            out = rd / f"{pieza}-p{r[0] if isinstance(r, tuple) else r}.mp4"
             npx_render(hfp, out, workers, draft)
             trozos.append(out)
         lst = rd / f".{pieza}-partes.txt"
@@ -52,9 +58,11 @@ def render(v, pieza, workers=None, draft=False):
                        check=True)
     else:
         npx_render(hf, mudo, workers, draft)
-    E = B.cargar_estilo(v, pieza, hf)
     final = rd / f"{pieza}-final{'.draft' if draft else ''}.mp4"
-    mezclar(v, pieza, E, mudo, final)
+    if propio and hasattr(E, "mezclar"):
+        E.mezclar(v, pieza, mudo, final)
+    else:
+        mezclar(v, pieza, E, mudo, final)
     return final
 
 

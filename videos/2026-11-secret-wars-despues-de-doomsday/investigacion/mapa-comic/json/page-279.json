@@ -1,0 +1,71 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Galería de ocho portadas alternativas correspondientes a los números 5, 6 y 7 de la serie Secret Wars (2015), ilustradas por distintos artistas del medio como Tomm Coker, Sophie Campbell, Gabriele Dell'Otto, Babs Tarr, Pat Broderick, Ron Frenz y Stacey Lee.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Spider-Man (Peter Parker)",
+  "Capitana Marvel (Carol Danvers)",
+  "Star-Lord",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Capitán América",
+  "Hulk",
+  "Cíclope (con el Fénix)",
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "Galería de portadas alternativas de Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página recopilatoria que muestra una retícula de ocho portadas alternativas para los cómics Secret Wars #5, #6 y #7, destacando a personajes emblemáticos como Doctor Doom, Pantera Negra, Star-Lord, Cíclope y varios Vengadores.",
+   "prompt_en": "A grid gallery of eight comic book variant covers for Marvel Secret Wars, showing iconic superheroes such as Doctor Doom, Black Panther, Star-Lord, Cyclops, and Spider-Man in various artistic styles.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Spider-Man (Peter Parker)",
+    "Capitana Marvel (Carol Danvers)",
+    "Star-Lord",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Capitán América",
+    "Cíclope (con el Fénix)",
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "portadas-alternativas",
+    "variant-covers",
+    "secret-wars",
+    "galeria"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "SECRET WARS VARIANT COVERS",
+     "texto_es": "PORTADAS ALTERNATIVAS DE SECRET WARS"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "artístico",
+   "recorte": "vinetas/page-279-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 279,
+ "archivo": "paginas/page-279.jpg",
+ "ancho": 1600,
+ "alto": 1270,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3456,
+ "_seg": 10.0
+}

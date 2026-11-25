@@ -1,0 +1,207 @@
+{
+ "tipo": "historia",
+ "resumen": "Un nuevo recluta de los Thor Corps procedente de Avalon Superior llega a Doomgard, la sede del cuerpo de policías-dioses de Battleworld. Los Thors veteranos le advierten sobre el 'cambio' que sufrirá al asumir su rol y le piden que demuestre sus conocimientos contando la historia del mundo y del Dios Emperador Doom.",
+ "personajes": [
+  "Thor Corps",
+  "[recluta Thor]",
+  "[Thor veterano]"
+ ],
+ "eventos_clave": [
+  "Llegada del nuevo recluta a Doomgard",
+  "Preparación para la iniciación en los Thor Corps",
+  "Petición de narrar la historia de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    28,
+    331,
+    973
+   ],
+   "descripcion": "El joven recluta Thor, vistiendo solo un taparrabos, es recibido por varios miembros con armadura del Thor Corps en una gran sala en Doomgard.",
+   "prompt_en": "Comic panel showing a young blonde man wearing a loincloth standing among several armored Asgardian warriors with hammers inside a stone fortress hall.",
+   "personajes": [
+    "[recluta Thor]",
+    "[Thor veterano]",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "doomgard",
+    "iniciacion"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "DOOMGARD.",
+     "texto_es": "DOOMGARD."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Welcome, brother Thor. Welcome to the most noble of undertakings--there is no higher calling.",
+     "texto_es": "Bienvenido, hermano Thor. Bienvenido a la más noble de las empresas; no hay vocación más elevada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Yes. However, before the accruing of honor--before glory--there is the change.",
+     "texto_es": "Sí. Sin embargo, antes de acumular honor... antes de la gloria... está el cambio."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Steady yourself, young one... it can be overwhelming.",
+     "texto_es": "Prepárate, joven... puede ser abrumador."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[recluta Thor]",
+     "texto": "The change?",
+     "texto_es": "¿El cambio?"
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "solemne",
+   "recorte": "vinetas/page-047-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    331,
+    28,
+    497,
+    973
+   ],
+   "descripcion": "Primer plano del rostro del recluta escuchando atentamente mientras el Thor veterano de barba pelirroja le explica el peso del deber.",
+   "prompt_en": "Close up panel of a young blonde man looking serious while a bearded Viking warrior in a metal helmet speaks to him.",
+   "personajes": [
+    "[recluta Thor]",
+    "[Thor veterano]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "martillo-de-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Aye. Physical challenges to tax the back and shoulders, mental ones to challenge the mind...",
+     "texto_es": "Sí. Desafíos físicos para poner a prueba la espalda y los hombros, desafíos mentales para desafiar la mente..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "It is no small thing becoming a hammer of God.",
+     "texto_es": "No es cosa fácil convertirse en un Martillo de Dios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Especially if you come from humble beginnings.",
+     "texto_es": "Especialmente si vienes de orígenes humildes."
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "serio",
+   "recorte": "vinetas/page-047-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    497,
+    28,
+    742,
+    973
+   ],
+   "descripcion": "Un Thor veterano agarra amorosamente del hombro al recluta sorprendido, pidiéndole información sobre su lugar de origen.",
+   "prompt_en": "Comic panel showing an armored Thor warrior holding the shoulder of a muscular young blonde man while other Thor corps stand nearby.",
+   "personajes": [
+    "[recluta Thor]",
+    "[Thor veterano]",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "avalon-superior"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "He's asking where you're from, brother.",
+     "texto_es": "Te está preguntando de dónde eres, hermano."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[recluta Thor]",
+     "texto": "Uh... Higher Avalon.",
+     "texto_es": "Eh... Avalon Superior."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Ah! A kingdom in good standing with the throne. I take it then you are well-learned--that you know your histories?",
+     "texto_es": "¡Ah! Un reino con buena reputación ante el trono. ¿Asumo entonces que eres bien educado... que conoces las historias?"
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "curioso",
+   "recorte": "vinetas/page-047-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    742,
+    28,
+    976,
+    973
+   ],
+   "descripcion": "Plano medio corto donde el recluta sostiene el martillo sagrado mientras los veteranos se reúnen a su alrededor para escuchar la historia.",
+   "prompt_en": "Comic panel showing a young shirtless man holding a hammer surrounded by armored warriors looking at him expectantly.",
+   "personajes": [
+    "[recluta Thor]",
+    "[Thor veterano]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "relato"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[recluta Thor]",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Then entertain us, boy... tell us the story.",
+     "texto_es": "Entonces entreténnos, chico... cuéntanos la historia."
+    }
+   ],
+   "lugar": "Doomgard",
+   "tono": "expectante",
+   "recorte": "vinetas/page-047-v4.jpg"
+  }
+ ],
+ "lugar": "Doomgard, Battleworld",
+ "numero_comic": 2,
+ "pagina": 47,
+ "archivo": "paginas/page-047.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5499,
+ "_seg": 19.3
+}

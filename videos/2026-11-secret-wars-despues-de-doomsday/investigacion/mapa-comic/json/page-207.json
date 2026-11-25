@@ -1,0 +1,202 @@
+{
+ "tipo": "historia",
+ "resumen": "La Cosa (Ben Grimm), quien forma la muralla de El Escudo en Battleworld, despierta enfurecido dispuesto a luchar contra Galactus. Sin embargo, al oír a Franklin Richards hablar de su 'padre' furioso, Ben detiene su ataque al darse cuenta de que Franklin se refiere al Dios Emperador Doom.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Franklin Richards",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "Ben Grimm despierta del Muro del Escudo",
+  "La Cosa descubre que Franklin Richards cree que Victor von Doom es su padre"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    36,
+    642,
+    497
+   ],
+   "descripcion": "Franklin Richards flota serenamente sobre el monumental casco de Galactus mientras una estela de luz cae desde el cielo.",
+   "prompt_en": "Comic panel of a blond boy floating above the gigantic helmeted head of Galactus in a glowing warm atmosphere.",
+   "personajes": [
+    "Franklin Richards",
+    "Galactus"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "franklin-richards",
+    "galactus",
+    "el-escudo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Well, you've done it now. Do you see that? God is here--my father--and he is totally in a bad mood.",
+     "texto_es": "Bueno, ya la hiciste. ¿Ves eso? Dios está aquí--mi padre--y está totalmente de mal humor."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Galactus",
+     "texto": "ZIMM!",
+     "texto_es": "¡ZIMM!"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "tension",
+   "recorte": "vinetas/page-207-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    497,
+    642,
+    995
+   ],
+   "descripcion": "La Cosa (Ben Grimm) en forma colosal se levanta del Escudo rugiendo de rabia mientras pedazos de roca caen de su cuerpo y Galactus aparece de fondo.",
+   "prompt_en": "Comic panel showing the gigantic rocky torso of the Thing roaring in anger with rock debris flying off, as Galactus looms in the background with glowing eyes.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "la-cosa",
+    "ben-grimm",
+    "galactus",
+    "el-escudo",
+    "batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "AND SO AM I!",
+     "texto_es": "¡Y YO TAMBIÉN!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "AARGHHHH!",
+     "texto_es": "¡AARGHHHH!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Galactus",
+     "texto": "BOOM",
+     "texto_es": "¡BOOM!"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-207-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    650,
+    36,
+    966,
+    437
+   ],
+   "descripcion": "La Cosa frena repentinamente su impulso destructivo, alzando las manos con expresión de duda.",
+   "prompt_en": "Comic panel of the giant rocky Thing pausing mid-attack with raised open hands, looking bewildered.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "la-cosa",
+    "revelacion",
+    "sorpresa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "WAIT! HOLD ON A SECOND...",
+     "texto_es": "¡ESPERA! UN SEGUNDO..."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "sorpresa",
+   "recorte": "vinetas/page-207-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    650,
+    442,
+    966,
+    633
+   ],
+   "descripcion": "Primerísimo plano del ojo de la Cosa mostrando sorpresa e incredulidad.",
+   "prompt_en": "Extreme close-up comic panel of an orange rocky character's eye widening in sudden realization.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "la-cosa",
+    "doom-dios",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "YOU SAID HE'S YOUR FATHER... YOU MEAN DOOM?",
+     "texto_es": "DIJISTE QUE ES TU PADRE... ¿TE REFIERES A DOOM?"
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "revelacion",
+   "recorte": "vinetas/page-207-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    650,
+    640,
+    966,
+    960
+   ],
+   "descripcion": "Franklin Richards flotando en medio del aura dorada responde con naturalidad.",
+   "prompt_en": "Comic panel of a young boy with light hair floating casually in bright golden light, answering calmly.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "franklin-richards",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "YEAH.",
+     "texto_es": "SÍ."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "calma",
+   "recorte": "vinetas/page-207-v5.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Battleworld",
+ "numero_comic": 6,
+ "pagina": 207,
+ "archivo": "paginas/page-207.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5762,
+ "_seg": 19.9
+}

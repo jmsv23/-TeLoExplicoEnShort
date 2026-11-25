@@ -1,0 +1,193 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico (616), El Hacedor (Ultimate Reed) y Star-Lord llegan secretamente al Castillo de Doom tras escapar de la nave de salvamento. Mientras los dos Reeds se adentran en la fortaleza siguiendo la señal del Hombre Molécula, le ordenan a Star-Lord que se quede reparando la nave.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Star-Lord"
+ ],
+ "eventos_clave": [
+  "Los dos Reed Richards ingresan al Castillo de Doom para encontrar la fuente del poder de Doom.",
+  "Star-Lord se queda a cargo de la reparación de la nave en la base del castillo."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    38,
+    186,
+    963
+   ],
+   "descripcion": "Vista panorámica de la base de un imponente castillo blanco donde sale humo de un pequeño túnel de acceso.",
+   "prompt_en": "Wide shot of a massive white medieval castle built into a cliff, smoke rising from a small opening near the base, soft daylight.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "castillo-doom",
+    "battleworld",
+    "llegada"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Not what was promised, but any port in a storm, I suppose...",
+     "texto_es": "No es lo que se prometió, pero cualquier puerto en una tormenta sirve, supongo..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-204-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    188,
+    38,
+    524,
+    963
+   ],
+   "descripcion": "El Hacedor y Mister Fantástico caminan junto a la nave estrellada mientras discuten su plan. Mister Fantástico revisa un dispositivo de localización.",
+   "prompt_en": "Comic book panel showing Mister Fantastic with a beard in a blue superhero suit holding a tracking device, standing next to the Maker in a black sleek suit with futuristic helmet, a damaged spaceship behind them.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Star-Lord"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "discusion",
+    "nave-espacial",
+    "tecnologia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Our planned exit does however require a proper egress.",
+     "texto_es": "Nuestra salida planificada, sin embargo, requiere un egreso adecuado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "So figure something out. I've reacquired a signal lock...",
+     "texto_es": "Así que resuelve algo. He vuelto a fijar la señal..."
+    }
+   ],
+   "lugar": "Base del Castillo de Doom",
+   "tono": "urgente",
+   "recorte": "vinetas/page-204-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    537,
+    38,
+    960,
+    348
+   ],
+   "descripcion": "Mister Fantástico escala por las rocas hacia la entrada, mientras El Hacedor señala a Star-Lord ordenándole quedarse.",
+   "prompt_en": "Comic panel showing Mister Fantastic climbing rocky stairs, while the Maker points sternly back towards Star-Lord.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "infiltracion",
+    "instrucciones"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "It's this way. Come on.",
+     "texto_es": "Es por aquí. Vamos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "You. Stay here. Fix that.",
+     "texto_es": "Tú. Quédate aquí. Arregla eso."
+    }
+   ],
+   "lugar": "Base del Castillo de Doom",
+   "tono": "serio",
+   "recorte": "vinetas/page-204-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    537,
+    355,
+    960,
+    650
+   ],
+   "descripcion": "Primer plano de Star-Lord con expresión irónica mientras observa a los dos Reeds marcharse.",
+   "prompt_en": "Close-up of Star-Lord, blonde man in red jacket, talking sarcastically with an open mouth and raised hand.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sarcasmo",
+    "reacciones"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Oh, sure. You Reeds go right ahead...",
+     "texto_es": "Oh, claro. Ustedes, los Reeds, adelántense..."
+    }
+   ],
+   "lugar": "Base del Castillo de Doom",
+   "tono": "humoristico",
+   "recorte": "vinetas/page-204-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    537,
+    657,
+    960,
+    963
+   ],
+   "descripcion": "Star-Lord parado junto al fuselaje de la nave, mirando hacia arriba a las sombras del castillo de Doom.",
+   "prompt_en": "Star-Lord in red leather jacket looking up at a dark looming structure, standing beside his sci-fi spaceship hull.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "solitario",
+    "reparacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "When you get back, the ship'll be good to go and ready to fly. I'll be right here waiting. All alone in this creepy-ass castle.",
+     "texto_es": "Cuando vuelvan, la nave estará lista para partir y volar. Estaré justo aquí esperando. Completamente solo en este espeluznante castillo."
+    }
+   ],
+   "lugar": "Base del Castillo de Doom",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-204-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 6,
+ "pagina": 204,
+ "archivo": "paginas/page-204.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4689,
+ "_seg": 15.3
+}

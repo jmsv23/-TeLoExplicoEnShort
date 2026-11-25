@@ -1,0 +1,147 @@
+{
+ "tipo": "historia",
+ "resumen": "Se muestra la temible amenaza que se encuentra al otro lado del Escudo en Battleworld: la horda de zombies de Marvel Zombies, los enjambres de la Ola de Aniquilación y las autómatas en constante evolución de Ultron. Dos miembros de los Thor Corps comentan el gran sacrificio que requiere vigilar y defender esta frontera.",
+ "personajes": [
+  "Thor Corps",
+  "Ultron",
+  "Ola de Aniquilación",
+  "Zombies"
+ ],
+ "eventos_clave": [
+  "Descripción de las tres grandes amenazas al sur del Escudo",
+  "Miembros de los Thor Corps conversan sobre la carga de vigilar el Escudo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    248,
+    1000
+   ],
+   "descripcion": "Un guerrero empuña una hoja de energía azul brillante luchando contra una grotesca masa de criaturas zombies que trepan por las rocas.",
+   "prompt_en": "Comic panel showing a hero with glowing blue energy blade fighting off a horde of terrifying creeping zombies on rocky terrain.",
+   "personajes": [
+    "Zombies",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "marvel-zombies",
+    "battleworld",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Built to keep out the nightmares that live there, the Shield holds back not just the zombie horde...",
+     "texto_es": "Construido para mantener fuera a las pesadillas que habitan allí, el Escudo no solo retiene a la horda zombie..."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "oscuro, épico",
+   "recorte": "vinetas/page-075-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    248,
+    0,
+    501,
+    1000
+   ],
+   "descripcion": "Una marea de drones insectoides blindados de la Ola de Aniquilación avanzando en medio de una bruma dorada y humeante.",
+   "prompt_en": "Comic panel depicting an army of alien insectoid armor-clad drones marching through thick yellow smoke and haze.",
+   "personajes": [
+    "Ola de Aniquilación"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "ola-de-aniquilacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "But also the seasonal migration of the drone army that is the Annihilation Wave.",
+     "texto_es": "Sino también la migración estacional del ejército de drones que es la Ola de Aniquilación."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-075-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    501,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Amenazantes robots Ultron rodeados de humo rojo brillante en el fondo; en primer plano, un experimentado guerrero Thor habla con un recluta novato de los Thor Corps.",
+   "prompt_en": "Comic panel with glowing red Ultron robots in background, foreground shows a veteran armored Thor with a beard talking to a younger Thor in helmet.",
+   "personajes": [
+    "Ultron",
+    "Thor Corps"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-escudo",
+    "ultron",
+    "thor-corps",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Both of which pale in comparison to the damned Ultron A.I.",
+     "texto_es": "Ambos palidecen en comparación con la maldita I.A. Ultron."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Self-replicating, super-evolving automatons that systematically try to break containment every generation.",
+     "texto_es": "Autómatas autoreplicantes y súper-evolutivos que intentan sistemáticamente romper la contención en cada generación."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "We, and the Sentinels who guard the Shield, have lost many defending it over the years.",
+     "texto_es": "Nosotros, y los Centinelas que custodian el Escudo, hemos perdido a muchos defendiéndolo a lo largo de los años."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "It is no small burden, this calling of ours...as you are learning now. Aye?",
+     "texto_es": "No es una carga pequeña, esta vocación nuestra... como estás aprendiendo ahora. ¿Verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Aye.",
+     "texto_es": "Sí."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "grave, solemne",
+   "recorte": "vinetas/page-075-v3.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Battleworld",
+ "numero_comic": 2,
+ "pagina": 75,
+ "archivo": "paginas/page-075.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4645,
+ "_seg": 16.3
+}

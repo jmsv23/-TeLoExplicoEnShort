@@ -1,0 +1,174 @@
+{
+ "tipo": "historia",
+ "resumen": "En el nivel de detención de El Escudo, Ben Grimm (quien fue transformado en la inmensa muralla de Battleworld) habla con Thanos sobre su sacrificio para proteger el mundo a petición de Doom. Thanos le responde revelándole que Doom los manipuló a él y a la Antorcha Humana por miedo a su poder, y afirma conocer un secreto sobre la realidad de Battleworld.",
+ "personajes": [
+  "la Cosa (Ben Grimm)",
+  "Thanos",
+  "[soldados de Doom]"
+ ],
+ "eventos_clave": [
+  "Ben Grimm justifica su papel como El Escudo ante Thanos",
+  "Thanos afirma que Dios Emperador Doom confinó a Ben Grimm y a la Antorcha Humana por miedo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    34,
+    429,
+    395
+   ],
+   "descripcion": "Dos soldados de Doom con uniformes negros permanecen junto al gigantesco muro de piedra de Ben Grimm en el nivel de detención.",
+   "prompt_en": "Two futuristic guards in black bodysuits standing inside a high stone corridor within a massive wall, comic book style by Esad Ribic.",
+   "personajes": [
+    "la Cosa (Ben Grimm)",
+    "[soldados de Doom]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-escudo",
+    "ben-grimm",
+    "detencion"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE SHIELD. DETENTION LEVEL.",
+     "texto_es": "EL ESCUDO. NIVEL DE DETENCIÓN."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm)",
+     "texto": "Your story's crap, pal. You wanna hear a REAL story? I'll tell ya a TRUE one...",
+     "texto_es": "Tu historia es una basura, amigo. ¿Quieres escuchar una historia REAL? Te contaré una VERDADERA..."
+    }
+   ],
+   "recorte": "vinetas/page-175-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    403,
+    429,
+    968
+   ],
+   "descripcion": "Thanos se encuentra sentado en el suelo de una celda incrustada en la pared rocosa que conforma a Ben Grimm.",
+   "prompt_en": "Thanos sitting quietly on the stone floor inside a carved cell framed by giant rocky walls, comic book style.",
+   "personajes": [
+    "Thanos",
+    "la Cosa (Ben Grimm)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "el-escudo",
+    "ben-grimm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm)",
+     "texto": "It's about a guy who had to leave the only family he ever had behind because God needed someone to keep the nightmares out.",
+     "texto_es": "Se trata de un tipo que tuvo que dejar atrás a la única familia que ha tenido porque Dios necesitaba a alguien para mantener alejadas a las pesadillas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm)",
+     "texto": "So I said goodbye to Sue and Johnny, and became the Shield so the world could have some sorta peace. Some sorta chance.",
+     "texto_es": "Así que me despedí de Sue y Johnny, y me convertí en el Escudo para que el mundo pudiera tener algo de paz. Algo de oportunidad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm)",
+     "texto": "And now you're here tellin' me that it ain't been worth it?",
+     "texto_es": "¿Y ahora estás aquí diciéndome que no ha valido la pena?"
+    }
+   ],
+   "recorte": "vinetas/page-175-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    434,
+    198,
+    638,
+    869
+   ],
+   "descripcion": "Primer plano de Thanos respondiendo con severidad y serenidad a las palabras de Ben Grimm.",
+   "prompt_en": "Close-up portrait of Thanos with purple skin and gold helm looking calm and manipulative, speech bubbles, comic book style.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thanos",
+    "doom-dios",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "I'm telling you that your God put you here to keep you out of the way. Because he fears you.",
+     "texto_es": "Te estoy diciendo que tu Dios te puso aquí para mantenerte fuera del camino. Porque te teme."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Just as he feared the Torch and cast him out as well.",
+     "texto_es": "Tal como temió a la Antorcha y también lo expulsó."
+    }
+   ],
+   "recorte": "vinetas/page-175-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    638,
+    34,
+    970,
+    968
+   ],
+   "descripcion": "Vista general de la celda donde Thanos, en cuclillas, habla frente a la pared de roca de Ben Grimm.",
+   "prompt_en": "Wide shot of Thanos crouching in profile facing a giant rock surface in a dim stone room, comic art style.",
+   "personajes": [
+    "Thanos",
+    "la Cosa (Ben Grimm)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "el-escudo",
+    "secreto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "You see, I know a secret.",
+     "texto_es": "Verás, sé un secreto."
+    }
+   ],
+   "recorte": "vinetas/page-175-v4.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Nivel de Detención",
+ "numero_comic": 6,
+ "pagina": 175,
+ "archivo": "paginas/page-175.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5918,
+ "_seg": 21.9
+}

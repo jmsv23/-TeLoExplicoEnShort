@@ -1,0 +1,138 @@
+{
+ "tipo": "historia",
+ "resumen": "En la página final de Secret Wars, Mister Fantástico reflexiona sobre la reconstrucción del multiverso mientras Victor von Doom descubre en Latveria que su rostro ha sido completamente curado, culminando en una risa de alivio y el mensaje 'Everything lives'.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Final de Secret Wars",
+  "Curación del rostro de Doctor Doom",
+  "Renacimiento del Multiverso ('Everything lives')"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    33,
+    298,
+    966
+   ],
+   "descripcion": "Primer plano del rostro de Victor von Doom, quien viste su capucha verde sin su máscara de metal. Se toca la barbilla con su mano enguantada mientras contempla atónito su rostro perfectamente curado y sin cicatrices.",
+   "prompt_en": "Close-up of a man with dark hair wearing a green hood, touching his face in awe, unscarred unmasked face, detailed comic art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "rostro-curado",
+    "reconstruccion-multiverso",
+    "final-secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Well, I've changed my mind.",
+     "texto_es": "Bueno, he cambiado de opinión."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I'm letting go.",
+     "texto_es": "Me estoy dejando llevar."
+    }
+   ],
+   "lugar": "Castillo de Latveria",
+   "tono": "revelador",
+   "recorte": "vinetas/page-255-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    304,
+    33,
+    545,
+    966
+   ],
+   "descripcion": "Victor von Doom enmarcado en el ventanal de piedra de su castillo en Latveria, mirando hacia abajo con una sutil sonrisa dibujada en su rostro.",
+   "prompt_en": "A man in a green hooded cloak standing at a stone balcony window looking down with a subtle smile, high detailed fantasy realism comic art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "rostro-curado",
+    "reconstruccion-multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Because now I believe in expansion. I believe we endure.",
+     "texto_es": "Porque ahora creo en la expansión. Creo que perduramos."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Don't you see?",
+     "texto_es": "¿No lo ves?"
+    }
+   ],
+   "lugar": "Castillo de Latveria",
+   "tono": "contemplativo",
+   "recorte": "vinetas/page-255-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    551,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista más amplia de Victor von Doom en el balcón de su castillo, alzando la cabeza y riendo con auténtica alegría y alivio tras darse cuenta de la oportunidad dada por Reed Richards.",
+   "prompt_en": "A man in a green cloak standing on a castle balcony laughing joyfully up at the sky, unscarred face, epic comic ending scene.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "everything-lives",
+    "final-secret-wars",
+    "rostro-curado"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Everything lives.",
+     "texto_es": "Todo vive."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE END.",
+     "texto_es": "FIN."
+    }
+   ],
+   "lugar": "Castillo de Latveria",
+   "tono": "esperanzador",
+   "recorte": "vinetas/page-255-v3.jpg"
+  }
+ ],
+ "lugar": "Castillo de Latveria",
+ "numero_comic": 9,
+ "pagina": 255,
+ "archivo": "paginas/page-255.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5045,
+ "_seg": 31.8
+}

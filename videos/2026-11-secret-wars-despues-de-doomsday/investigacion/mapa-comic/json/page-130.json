@@ -1,0 +1,56 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título del capítulo 5 de Secret Wars, titulado 'Owen Reece Died for Our Sins'.",
+ "personajes": [
+  "Black Bolt",
+  "Doctor Doom"
+ ],
+ "eventos_clave": [
+  "Título del capítulo 5: Owen Reece Died for Our Sins"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de título del capítulo 5. Presenta una vista circular en escala de grises en la parte superior donde se aprecia a Black Bolt volando y liberando energía junto a Doctor Doom cerca de una estructura arbórea. Abajo se lee en tipografía grande el número 05 y la frase 'OWEN REECE DIED FOR OUR SINS'.",
+   "prompt_en": "Comic chapter title page with number 05 and text 'OWEN REECE DIED FOR OUR SINS'. Monochrome circular vignette at the top depicting a superhero emitting power near a mystical tree and Doctor Doom. Minimalist white layout.",
+   "personajes": [
+    "Black Bolt",
+    "Doctor Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "titulo-capitulo",
+    "capitulo-5",
+    "owen-reece",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "05 OWEN REECE DIED FOR OUR SINS",
+     "texto_es": "05 OWEN REECE MURIÓ POR NUESTROS PECADOS"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-130-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 5,
+ "pagina": 130,
+ "archivo": "paginas/page-130.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3089,
+ "_seg": 8.1
+}

@@ -1,0 +1,53 @@
+"""ESCENA 6 · Cae un universo entero."""
+from esc_largo._k import LFV, I, SV, tag
+
+
+def build(S):
+    s = S.scene(S.w("Escena seis"), bg="tinta", enter="cut")
+    tag(s, "F", s.start + 0.1)
+    s.video("ru", LFV + "lf-t10-ciudad-ruinas.mp4", 0.0, s.start + 0.1, S.peek("Recuerdas") - s.start - 0.2, 260, 420, 1400, 620, tag="TRÁILER OFICIAL", frm="B")
+    s.text("gi", "EL GIRO MÁS FUERTE", "kw", "rojo", 960, 120, s.start + 0.2, size=80, rot=-3, out=S.peek("diez mil cinco"))
+    t = S.w("diez mil cinco")
+    s.svg("pl", SV + "placa-tierra-10005.svg", 960, 260, 900, 315, t, how="drop")
+    t = S.w("destruida")
+    s.code(f'tl.to(q("#{s.id("pl")} [id$=mitad-izq]"), {{ x: -80, y: 40, rotation: -10, duration: 0.4, ease: "power2.out" }}, {s.T(t)});')
+    s.code(f'tl.to(q("#{s.id("pl")} [id$=mitad-der]"), {{ x: 80, y: 50, rotation: 12, duration: 0.4, ease: "power2.out" }}, {s.T(t)});')
+    s.shake("ru", t + 0.1, amp=16)
+    s.sfx("rumble", t, -2)
+
+    s = S.scene(S.w("Recuerdas"), bg="multi", enter="ink", color="multi")
+    s.svg("u", "lf/tres-universos.svg", 960, 540, 1700, 956, s.start + 0.05, how="pop")
+    s.shake("u", S.peek("Encaja"), amp=20, dur=0.6)
+    t = S.w("La teoría")
+    tag(s, "T", t)
+
+    s = S.scene(S.w("después de la pelea"), bg="papel", enter="pageflip")
+    tag(s, "T", s.start + 0.1)
+    s.svg("mx", SV + "mansion-x.svg", 560, 420, 960, 540, s.start + 0.05, how="pop")
+    t = S.w("Mansión X")
+    t = S.w("se lleva algo")
+    s.svg("dm", "lf/doom-mano-mascara.svg", 1450, 300, 560, 466, t, how="slide", frm="R")
+    t = S.w("edificio Baxter")
+    s.img("bx", I + "edificio-baxter.jpg", 1000, 560, 760, 420, t, frm="R", label="EDIFICIO BAXTER")
+    s.draw("fl", "M1000 520 C1050 640 1050 700 1060 760", "rojo", t + 0.1, w=18, dur=0.4)
+
+    s = S.scene(S.w("Pero tampoco"), bg="tinta", enter="cut")
+    tag(s, "F", s.start + 0.1)
+    t = S.w("Torre de los Vengadores")
+    s.img("tv", I + "torre-vengadores.jpg", 80, 160, 860, 640, s.start + 0.1, frm="L", pos="50% 40%", label="TORRE DE LOS VENGADORES")
+    t = S.w("caer")
+    s.shake("tv", t, amp=18)
+    s.text("cr1", "¡CRASH!", "ono", "rojo", 510, 860, t, rot=-6, hold=0.9)
+    t = S.w("también")
+    s.img("bx2", I + "edificio-baxter.jpg", 980, 160, 860, 640, t - 0.6, frm="R", label="EDIFICIO BAXTER")
+    s.shake("bx2", t, amp=18)
+    s.text("cr2", "¡CRASH!", "ono", "rojo", 1410, 860, t, rot=6, hold=0.9)
+    s.sfx("explosion", t, -4)
+
+    s = S.scene(S.w("Si eso es así"), bg="multi", enter="halftone", color="multi")
+    tag(s, "T", s.start + 0.1)
+    s.svg("u2", "lf/tres-universos-sin-texto.svg", 960, 540, 1700, 956, s.start + 0.05, how="pop")
+    s.code(f'tl.to(q("#{s.id("u2")} [id$=uxmen]"), {{ autoAlpha: 0, scale: 0.2, duration: 0.4 }}, {s.T(s.start + 0.3)});')
+    t = S.w("Vengadores")
+    s.shake("u2", t, amp=14, dur=0.8)
+    s.cap("ult", "LA ÚLTIMA INCURSIÓN", t, left=640, top=880, width=640)

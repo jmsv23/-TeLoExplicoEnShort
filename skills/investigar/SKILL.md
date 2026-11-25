@@ -9,6 +9,9 @@ Reglas del canal: `base/canal/LINEA-EDITORIAL.md`. Plantillas: `base/plantillas/
 
 ## 1. Hechos
 
+Si el tema salió del radar (`research/radar/<fecha>/reporte.json`), arranca de su `evidencia` y su `clasificacion`: el sello ya está asignado. Lo que falta es completar y cruzar las cifras.
+
+
 - Busca con la skill `bx` (web + news). Para la noticia más reciente usa `news-search` con filtro de frescura.
 - Prioridad de fuentes: oficial (estudio, editorial, desarrolladora, tráiler, comunicado) → medios serios (Variety, THR, Deadline, IGN, Polygon) → insiders con historial (marcar FILTRACIÓN) → fans y foros (marcar TEORÍA).
 - Cada dato va a la tabla de `investigacion/fuentes.md` con su **sello**, URL y fecha. Un dato sin fuente no entra.

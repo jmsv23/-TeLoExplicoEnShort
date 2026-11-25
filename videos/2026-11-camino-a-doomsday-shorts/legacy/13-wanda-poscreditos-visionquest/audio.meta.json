@@ -1,0 +1,16 @@
+{
+  "sha": "50015bd8373f836b",
+  "perfil": "narrador comics",
+  "profile_id": "1174dcf0-e7d0-4b8a-9d76-769f6a4c3929",
+  "motor": "qwen",
+  "generation_id": "9c3c41d0-acc7-4a50-9197-87d3c3431b15+fd041f89-50be-4917-87c2-e18350021288",
+  "velocidad": 1.0,
+  "duracion": 51.94,
+  "palabras": 101,
+  "palabras_por_segundo": 2.46,
+  "generado": "2026-11-14 01:58:16",
+  "bloqueA_s": 16.48,
+  "bloqueB_s": 24.56,
+  "clip_inicio": 16.88,
+  "clip_dur": 10.1
+}

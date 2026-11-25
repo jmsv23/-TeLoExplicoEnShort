@@ -1,0 +1,101 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras una encarnizada y caótica batalla entre Hulks, clones de Mister Siniestro y miembros de los Thor Corps se desarrolla en el territorio de Battleworld, la nave espacial pilotada por Star-Lord se aproxima a la zona de conflicto a treinta kilómetros de distancia, solicitando una ubicación exacta para el aterrizaje.",
+ "personajes": [
+  "Star-Lord",
+  "Mister Siniestro",
+  "Hulk",
+  "Spider-Man (Peter Parker)",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Aproximación de los supervivientes a bordo de la nave espacial al campo de batalla en Battleworld.",
+  "Combate abierto entre las distintas facciones de Battleworld."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    690,
+    1000
+   ],
+   "descripcion": "Vista panóptica y caótica de una feroz batalla. En primer plano, Mister Siniestro yace malherido en el suelo atravesado por flechas. A su derecha, Hulk blande una brillante espada de energía en pleno combate. En la parte superior, Spider-Man se lanza al combate entre explosiones y volantes del Thor Corps.",
+   "prompt_en": "A chaotic comic book panel depicting a massive war scene in Battleworld with Hulk wielding a light energy sword, Mister Sinister wounded on the ground with arrows, Spider-Man leaping through the air, and energy blasts all around.",
+   "personajes": [
+    "Mister Siniestro",
+    "Hulk",
+    "Spider-Man (Peter Parker)",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "batalla-caotica",
+    "mister-siniestro",
+    "hulk",
+    "spider-man"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "We're thirty klicks out.",
+     "texto_es": "Estamos a treinta kilómetros."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "bélico, caótico, de gran escala",
+   "recorte": "vinetas/page-199-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    690,
+    37,
+    975,
+    963
+   ],
+   "descripcion": "Una nave espacial futurista vuela a baja altura sobre un terreno plano, dirigiéndose hacia una zona distante de explosiones y la silueta del árbol gigantesco Yggdrasil.",
+   "prompt_en": "A sleek sci-fi spaceship flying low over barren terrain towards distant fire explosions and the giant silhouette of a mythical world tree under a grey sky.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "nave-espacial",
+    "vuelo",
+    "aproximacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "About to hit the battleground...",
+     "texto_es": "A punto de llegar al campo de batalla..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "So I'm gonna need a final destination lock.",
+     "texto_es": "Así que voy a necesitar fijar las coordenadas de destino final."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tensión, anticipación",
+   "recorte": "vinetas/page-199-v2.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 199,
+ "archivo": "paginas/page-199.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4426,
+ "_seg": 15.3
+}

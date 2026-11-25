@@ -1,0 +1,144 @@
+{
+ "tipo": "historia",
+ "resumen": "Se celebra un funeral/homenaje en honor al Sheriff Stephen Strange. El anciano Thor pronuncia un emotivo discurso dedicándole palabras de respeto ante la estatua de Strange, rodeado por el Dios Emperador Doom, su familia y miembros de la Thor Corps.",
+ "personajes": [
+  "Thor Corps (varios Thors)",
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards",
+  "Valeria Richards",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Funeral de Stephen Strange",
+  "Homenaje del anciano Thor al Sheriff Strange",
+  "Reunión de la Thor Corps"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    636,
+    1000
+   ],
+   "descripcion": "El anciano Thor encabeza una ceremonia frente a una estatua conmemorativa de Stephen Strange. El Dios Emperador Doom observa con su túnica blanca junto a Sue Storm y su familia, mientras otros miembros de la Thor Corps presencian la escena.",
+   "prompt_en": "Comic panel showing an old white-bearded warrior with a staff speaking in front of a giant stone statue of a sorcerer in a majestic garden setting. In the background, a ruler in a white hooded cloak stands with his family, dramatic outdoor lighting.",
+   "personajes": [
+    "Thor Corps (varios Thors)",
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "funeral-strange",
+    "battleworld",
+    "thor-corps",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "What an honor. What a life.",
+     "texto_es": "Qué honor. Qué vida."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "If Valhalla is for the brave, Stephen...",
+     "texto_es": "Si el Valhalla es para los valientes, Stephen..."
+    }
+   ],
+   "lugar": "Jardines del palacio de Doomstadt, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-132-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    636,
+    29,
+    977,
+    654
+   ],
+   "descripcion": "El anciano Thor alza su bastón al aire en señal de tributo, mientras detrás de él los demás miembros de la Thor Corps levantan sus martillos en señal de respeto.",
+   "prompt_en": "Comic panel of an old warrior with a wooden staff raising his arm upward, while behind him a group of armors wearing Viking helmets raise their hammers in tribute.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "tributo",
+    "thor-corps",
+    "honor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "...then there you will be a king.",
+     "texto_es": "...entonces allí serás un rey."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Of all of us, you were truly the most worthy.",
+     "texto_es": "De todos nosotros, realmente fuiste el más digno."
+    }
+   ],
+   "lugar": "Jardines del palacio de Doomstadt, Battleworld",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-132-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    636,
+    654,
+    977,
+    969
+   ],
+   "descripcion": "Dos miembros de la Thor Corps conversan en voz baja entre la multitud durante la ceremonia.",
+   "prompt_en": "Comic panel close-up of two warriors in winged helmets talking quietly among a crowd.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "misterio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "What the hel is going on here?",
+     "texto_es": "¿Qué demonios está pasando aquí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Shh. We'll speak later.",
+     "texto_es": "Shh. Hablaremos luego."
+    }
+   ],
+   "lugar": "Jardines del palacio de Doomstadt, Battleworld",
+   "tono": "intrigado",
+   "recorte": "vinetas/page-132-v3.jpg"
+  }
+ ],
+ "lugar": "Doomstadt, Battleworld",
+ "numero_comic": 5,
+ "pagina": 132,
+ "archivo": "paginas/page-132.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4359,
+ "_seg": 12.4
+}

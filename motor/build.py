@@ -217,14 +217,18 @@ def proyecto_hf(hf, nombre):
 
 
 def build(v, pieza, parte=None):
-    """parte=(a, b) → solo las secciones [a, b) en su propio proyecto hf-<pieza>-p<a> (renders largos por partes)."""
+    """parte=(a, b) → solo las secciones [a, b) en su propio proyecto hf-<pieza>-p<a> (renders largos por partes).
+    Con un estilo de motor propio, parte = índice de su parte."""
     tl_path = v.build / f"timeline-{pieza}.json"
     if not tl_path.exists():
         die(f"falta {tl_path.relative_to(ROOT)}: corre antes ./tl voz {v.slug} {pieza}")
     tl = json.loads(tl_path.read_text())
-    hf = v.build / (f"hf-{pieza}" + (f"-p{parte[0]}" if parte else ""))
+    suf = "" if parte is None else f"-p{parte[0] if isinstance(parte, tuple) else parte}"
+    hf = v.build / f"hf-{pieza}{suf}"
     proyecto_hf(hf, hf.name)
     E = cargar_estilo(v, pieza, hf)
+    if hasattr(E, "build_pieza"):  # estilo con motor propio (p. ej. comic): devuelve (hf, nº de partes)
+        return E.build_pieza(v, pieza, hf, parte)
     esc_mod = escenas_de(v, pieza)
     master = v.build / "audio" / pieza / "master.wav"
     total = dur(master)
@@ -289,6 +293,8 @@ def catalogo(slug):
     ctx = dict(V=False, W=1920, H=1080, esc=esc, wspan=wspan, norm=norm, HF=d, A_IMG=d, A_CUT=d, PIEZA="largo",
                ESTILO_DIR=d, VIDEO=None, SFX=[])
     E = cargar(f"cat_{slug}", d / "estilo.py", ctx)
+    if hasattr(E, "catalogo"):
+        return E.catalogo()
     print(f"Estilo {slug} · planos para S.add(tipo, t, entrada, **params)\n")
     for k, f in vars(E).items():
         if k.startswith("r_") and callable(f):

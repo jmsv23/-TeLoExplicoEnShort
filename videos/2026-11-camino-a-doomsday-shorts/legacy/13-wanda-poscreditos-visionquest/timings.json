@@ -1,0 +1,883 @@
+{
+ "duracion": 51.94,
+ "coincidencia": 0.95,
+ "segmentos": [
+  {
+   "id": "S2",
+   "bloque": "CONTEXTO",
+   "inicio": 0.131,
+   "fin": 10.214
+  },
+  {
+   "id": "S4",
+   "bloque": "GIRO",
+   "inicio": 10.234,
+   "fin": 51.955
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 3.412
+  },
+  {
+   "id": "2",
+   "nombre": "De la mano de Doom",
+   "inicio": 3.412,
+   "fin": 6.233
+  },
+  {
+   "id": "3",
+   "nombre": "VisionQuest",
+   "inicio": 6.233,
+   "fin": 8.514
+  },
+  {
+   "id": "4",
+   "nombre": "Wundagore",
+   "inicio": 8.514,
+   "fin": 13.235
+  },
+  {
+   "id": "5",
+   "nombre": "Dada por muerta",
+   "inicio": 13.235,
+   "fin": 16.116
+  },
+  {
+   "id": "6",
+   "nombre": "Poscréditos",
+   "inicio": 16.116,
+   "fin": 27.565
+  },
+  {
+   "id": "7",
+   "nombre": "Despierta",
+   "inicio": 27.565,
+   "fin": 32.211
+  },
+  {
+   "id": "8",
+   "nombre": "Reclutamiento",
+   "inicio": 32.211,
+   "fin": 34.814
+  },
+  {
+   "id": "9",
+   "nombre": "¿Quién la revivió?",
+   "inicio": 34.814,
+   "fin": 38.619
+  },
+  {
+   "id": "10",
+   "nombre": "Olsen sin confirmar",
+   "inicio": 38.619,
+   "fin": 45.627
+  },
+  {
+   "id": "11",
+   "nombre": "Estreno",
+   "inicio": 45.627,
+   "fin": 48.23
+  },
+  {
+   "id": "12",
+   "nombre": "Pregunta",
+   "inicio": 48.23,
+   "fin": 51.94
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 1.631,
+   "t_est": 1.4,
+   "ancla": "Escarlata"
+  },
+  {
+   "id": "2.1",
+   "t": 3.412,
+   "t_est": 4.0,
+   "ancla": "Pero"
+  },
+  {
+   "id": "2.2",
+   "t": 4.952,
+   "t_est": 5.4,
+   "ancla": "mano"
+  },
+  {
+   "id": "2.3",
+   "t": 5.173,
+   "t_est": 6.5,
+   "ancla": "de"
+  },
+  {
+   "id": "3.1",
+   "t": 6.233,
+   "t_est": 8.0,
+   "ancla": "escena"
+  },
+  {
+   "id": "3.2",
+   "t": 7.433,
+   "t_est": 10.0,
+   "ancla": "VisionQuest"
+  },
+  {
+   "id": "4.1",
+   "t": 8.514,
+   "t_est": 11.0,
+   "ancla": "Recuerda"
+  },
+  {
+   "id": "4.2",
+   "t": 9.674,
+   "t_est": 12.2,
+   "ancla": "enterró"
+  },
+  {
+   "id": "4.3",
+   "t": 10.714,
+   "t_est": 13.2,
+   "ancla": "Wundagore"
+  },
+  {
+   "id": "4.4",
+   "t": 12.275,
+   "t_est": 14.4,
+   "ancla": "Darkhold"
+  },
+  {
+   "id": "5.1",
+   "t": 13.235,
+   "t_est": 15.2,
+   "ancla": "Todos"
+  },
+  {
+   "id": "5.2",
+   "t": 14.175,
+   "t_est": 16.2,
+   "ancla": "muerta"
+  },
+  {
+   "id": "5.3",
+   "t": 15.316,
+   "t_est": 17.2,
+   "ancla": "ahora"
+  },
+  {
+   "id": "6.1",
+   "t": 16.116,
+   "t_est": 17.7,
+   "ancla": "Mira"
+  },
+  {
+   "id": "7.1",
+   "t": 27.565,
+   "t_est": 28.0,
+   "ancla": "Despierta"
+  },
+  {
+   "id": "7.2",
+   "t": 30.489,
+   "t_est": 30.0,
+   "ancla": "mío"
+  },
+  {
+   "id": "8.1",
+   "t": 32.211,
+   "t_est": 32.5,
+   "ancla": "rescate"
+  },
+  {
+   "id": "8.2",
+   "t": 33.432,
+   "t_est": 34.5,
+   "ancla": "reclutamiento"
+  },
+  {
+   "id": "9.1",
+   "t": 34.814,
+   "t_est": 37.0,
+   "ancla": "Nadie"
+  },
+  {
+   "id": "9.2",
+   "t": 35.935,
+   "t_est": 38.4,
+   "ancla": "revivió"
+  },
+  {
+   "id": "9.3",
+   "t": 37.678,
+   "t_est": 40.0,
+   "ancla": "sola"
+  },
+  {
+   "id": "10.1",
+   "t": 38.619,
+   "t_est": 42.0,
+   "ancla": "Marvel"
+  },
+  {
+   "id": "10.2",
+   "t": 40.942,
+   "t_est": 43.8,
+   "ancla": "Olsen"
+  },
+  {
+   "id": "10.3",
+   "t": 43.505,
+   "t_est": 45.5,
+   "ancla": "ahora"
+  },
+  {
+   "id": "11.1",
+   "t": 45.627,
+   "t_est": 46.5,
+   "ancla": "llega"
+  },
+  {
+   "id": "11.2",
+   "t": 46.068,
+   "t_est": 47.7,
+   "ancla": "dieciocho"
+  },
+  {
+   "id": "12.1",
+   "t": 48.23,
+   "t_est": 49.0,
+   "ancla": "dime"
+  },
+  {
+   "id": "12.2",
+   "t": 49.872,
+   "t_est": 50.0,
+   "ancla": "aliada"
+  },
+  {
+   "id": "12.3",
+   "t": 51.274,
+   "t_est": 51.2,
+   "ancla": "prisionera"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "¡Atención!",
+   "seg": "S2",
+   "inicio": 0.131,
+   "fin": 0.591
+  },
+  {
+   "w": "Nuestra",
+   "seg": "S2",
+   "inicio": 0.931,
+   "fin": 1.231
+  },
+  {
+   "w": "Bruja",
+   "seg": "S2",
+   "inicio": 1.291,
+   "fin": 1.571
+  },
+  {
+   "w": "Escarlata",
+   "seg": "S2",
+   "inicio": 1.631,
+   "fin": 2.192
+  },
+  {
+   "w": "está",
+   "seg": "S2",
+   "inicio": 2.252,
+   "fin": 2.432
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 2.472,
+   "fin": 2.702
+  },
+  {
+   "w": "vuelta.",
+   "seg": "S2",
+   "inicio": 2.702,
+   "fin": 2.932
+  },
+  {
+   "w": "Pero",
+   "seg": "S2",
+   "inicio": 3.412,
+   "fin": 3.592
+  },
+  {
+   "w": "ojo:",
+   "seg": "S2",
+   "inicio": 3.692,
+   "fin": 3.952
+  },
+  {
+   "w": "regresa",
+   "seg": "S2",
+   "inicio": 4.312,
+   "fin": 4.692
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 4.732,
+   "fin": 4.812
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 4.832,
+   "fin": 4.892
+  },
+  {
+   "w": "mano",
+   "seg": "S2",
+   "inicio": 4.952,
+   "fin": 5.133
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 5.173,
+   "fin": 5.233
+  },
+  {
+   "w": "Doom.",
+   "seg": "S2",
+   "inicio": 5.273,
+   "fin": 5.533
+  },
+  {
+   "w": "Está",
+   "seg": "S2",
+   "inicio": 5.813,
+   "fin": 6.013
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 6.053,
+   "fin": 6.113
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 6.153,
+   "fin": 6.193
+  },
+  {
+   "w": "escena",
+   "seg": "S2",
+   "inicio": 6.233,
+   "fin": 6.473
+  },
+  {
+   "w": "poscréditos",
+   "seg": "S2",
+   "inicio": 6.573,
+   "fin": 7.173
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 7.233,
+   "fin": 7.313
+  },
+  {
+   "w": "VisionQuest.",
+   "seg": "S2",
+   "inicio": 7.433,
+   "fin": 8.093
+  },
+  {
+   "w": "Recuerda:",
+   "seg": "S2",
+   "inicio": 8.514,
+   "fin": 8.954
+  },
+  {
+   "w": "Wanda",
+   "seg": "S2",
+   "inicio": 9.234,
+   "fin": 9.514
+  },
+  {
+   "w": "se",
+   "seg": "S2",
+   "inicio": 9.554,
+   "fin": 9.614
+  },
+  {
+   "w": "enterró",
+   "seg": "S2",
+   "inicio": 9.674,
+   "fin": 9.994
+  },
+  {
+   "w": "bajo",
+   "seg": "S2",
+   "inicio": 10.014,
+   "fin": 10.214
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 10.234,
+   "fin": 10.314
+  },
+  {
+   "w": "Monte",
+   "seg": "S4",
+   "inicio": 10.374,
+   "fin": 10.634
+  },
+  {
+   "w": "Wundagore",
+   "seg": "S4",
+   "inicio": 10.714,
+   "fin": 11.234
+  },
+  {
+   "w": "para",
+   "seg": "S4",
+   "inicio": 11.474,
+   "fin": 11.614
+  },
+  {
+   "w": "destruir",
+   "seg": "S4",
+   "inicio": 11.695,
+   "fin": 12.095
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 12.155,
+   "fin": 12.215
+  },
+  {
+   "w": "Darkhold.",
+   "seg": "S4",
+   "inicio": 12.275,
+   "fin": 12.795
+  },
+  {
+   "w": "Todos",
+   "seg": "S4",
+   "inicio": 13.235,
+   "fin": 13.475
+  },
+  {
+   "w": "la",
+   "seg": "S4",
+   "inicio": 13.555,
+   "fin": 13.615
+  },
+  {
+   "w": "dimos",
+   "seg": "S4",
+   "inicio": 13.675,
+   "fin": 13.915
+  },
+  {
+   "w": "por",
+   "seg": "S4",
+   "inicio": 13.995,
+   "fin": 14.115
+  },
+  {
+   "w": "muerta.",
+   "seg": "S4",
+   "inicio": 14.175,
+   "fin": 14.515
+  },
+  {
+   "w": "Hasta",
+   "seg": "S4",
+   "inicio": 15.016,
+   "fin": 15.256
+  },
+  {
+   "w": "ahora.",
+   "seg": "S4",
+   "inicio": 15.316,
+   "fin": 15.616
+  },
+  {
+   "w": "Mira.",
+   "seg": "S4",
+   "inicio": 16.116,
+   "fin": 16.336
+  },
+  {
+   "w": "«Despierta,",
+   "seg": "S4",
+   "inicio": 27.565,
+   "fin": 28.086
+  },
+  {
+   "w": "Bruja",
+   "seg": "S4",
+   "inicio": 28.306,
+   "fin": 28.627
+  },
+  {
+   "w": "Escarlata.",
+   "seg": "S4",
+   "inicio": 28.687,
+   "fin": 29.267
+  },
+  {
+   "w": "Tu",
+   "seg": "S4",
+   "inicio": 29.688,
+   "fin": 29.808
+  },
+  {
+   "w": "poder",
+   "seg": "S4",
+   "inicio": 29.868,
+   "fin": 30.148
+  },
+  {
+   "w": "será",
+   "seg": "S4",
+   "inicio": 30.228,
+   "fin": 30.429
+  },
+  {
+   "w": "mío».",
+   "seg": "S4",
+   "inicio": 30.489,
+   "fin": 30.749
+  },
+  {
+   "w": "Eso",
+   "seg": "S4",
+   "inicio": 31.53,
+   "fin": 31.67
+  },
+  {
+   "w": "no",
+   "seg": "S4",
+   "inicio": 31.73,
+   "fin": 31.81
+  },
+  {
+   "w": "suena",
+   "seg": "S4",
+   "inicio": 31.83,
+   "fin": 32.091
+  },
+  {
+   "w": "a",
+   "seg": "S4",
+   "inicio": 32.111,
+   "fin": 32.131
+  },
+  {
+   "w": "rescate,",
+   "seg": "S4",
+   "inicio": 32.211,
+   "fin": 32.691
+  },
+  {
+   "w": "suena",
+   "seg": "S4",
+   "inicio": 33.052,
+   "fin": 33.312
+  },
+  {
+   "w": "a",
+   "seg": "S4",
+   "inicio": 33.332,
+   "fin": 33.352
+  },
+  {
+   "w": "reclutamiento.",
+   "seg": "S4",
+   "inicio": 33.432,
+   "fin": 34.113
+  },
+  {
+   "w": "Nadie",
+   "seg": "S4",
+   "inicio": 34.814,
+   "fin": 35.034
+  },
+  {
+   "w": "sabe",
+   "seg": "S4",
+   "inicio": 35.094,
+   "fin": 35.315
+  },
+  {
+   "w": "si",
+   "seg": "S4",
+   "inicio": 35.355,
+   "fin": 35.455
+  },
+  {
+   "w": "Doom",
+   "seg": "S4",
+   "inicio": 35.535,
+   "fin": 35.735
+  },
+  {
+   "w": "la",
+   "seg": "S4",
+   "inicio": 35.795,
+   "fin": 35.855
+  },
+  {
+   "w": "revivió",
+   "seg": "S4",
+   "inicio": 35.935,
+   "fin": 36.356
+  },
+  {
+   "w": "o",
+   "seg": "S4",
+   "inicio": 36.376,
+   "fin": 36.396
+  },
+  {
+   "w": "si",
+   "seg": "S4",
+   "inicio": 36.716,
+   "fin": 36.796
+  },
+  {
+   "w": "ella",
+   "seg": "S4",
+   "inicio": 36.877,
+   "fin": 37.057
+  },
+  {
+   "w": "sobrevivió",
+   "seg": "S4",
+   "inicio": 37.117,
+   "fin": 37.597
+  },
+  {
+   "w": "sola,",
+   "seg": "S4",
+   "inicio": 37.678,
+   "fin": 37.998
+  },
+  {
+   "w": "y",
+   "seg": "S4",
+   "inicio": 38.499,
+   "fin": 38.559
+  },
+  {
+   "w": "Marvel",
+   "seg": "S4",
+   "inicio": 38.619,
+   "fin": 38.959
+  },
+  {
+   "w": "no",
+   "seg": "S4",
+   "inicio": 39.039,
+   "fin": 39.139
+  },
+  {
+   "w": "había",
+   "seg": "S4",
+   "inicio": 39.199,
+   "fin": 39.4
+  },
+  {
+   "w": "confirmado",
+   "seg": "S4",
+   "inicio": 39.44,
+   "fin": 39.9
+  },
+  {
+   "w": "que",
+   "seg": "S4",
+   "inicio": 39.92,
+   "fin": 39.98
+  },
+  {
+   "w": "Elizabeth",
+   "seg": "S4",
+   "inicio": 40.081,
+   "fin": 40.781
+  },
+  {
+   "w": "Olsen",
+   "seg": "S4",
+   "inicio": 40.942,
+   "fin": 41.282
+  },
+  {
+   "w": "estuviera",
+   "seg": "S4",
+   "inicio": 41.442,
+   "fin": 41.843
+  },
+  {
+   "w": "en",
+   "seg": "S4",
+   "inicio": 41.863,
+   "fin": 41.923
+  },
+  {
+   "w": "Doomsday.",
+   "seg": "S4",
+   "inicio": 41.983,
+   "fin": 42.523
+  },
+  {
+   "w": "Pero",
+   "seg": "S4",
+   "inicio": 43.244,
+   "fin": 43.425
+  },
+  {
+   "w": "ahora",
+   "seg": "S4",
+   "inicio": 43.505,
+   "fin": 43.725
+  },
+  {
+   "w": "no",
+   "seg": "S4",
+   "inicio": 43.805,
+   "fin": 43.885
+  },
+  {
+   "w": "hay",
+   "seg": "S4",
+   "inicio": 43.945,
+   "fin": 44.065
+  },
+  {
+   "w": "duda.",
+   "seg": "S4",
+   "inicio": 44.125,
+   "fin": 44.386
+  },
+  {
+   "w": "Doomsday",
+   "seg": "S4",
+   "inicio": 44.406,
+   "fin": 45.567
+  },
+  {
+   "w": "llega",
+   "seg": "S4",
+   "inicio": 45.627,
+   "fin": 45.868
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 45.928,
+   "fin": 46.008
+  },
+  {
+   "w": "dieciocho",
+   "seg": "S4",
+   "inicio": 46.068,
+   "fin": 46.488
+  },
+  {
+   "w": "de",
+   "seg": "S4",
+   "inicio": 46.548,
+   "fin": 46.628
+  },
+  {
+   "w": "diciembre.",
+   "seg": "S4",
+   "inicio": 46.689,
+   "fin": 47.129
+  },
+  {
+   "w": "Y",
+   "seg": "S4",
+   "inicio": 47.149,
+   "fin": 47.169
+  },
+  {
+   "w": "ahora",
+   "seg": "S4",
+   "inicio": 47.93,
+   "fin": 48.15
+  },
+  {
+   "w": "dime:",
+   "seg": "S4",
+   "inicio": 48.23,
+   "fin": 48.531
+  },
+  {
+   "w": "¿Wanda",
+   "seg": "S4",
+   "inicio": 49.252,
+   "fin": 49.572
+  },
+  {
+   "w": "será",
+   "seg": "S4",
+   "inicio": 49.632,
+   "fin": 49.852
+  },
+  {
+   "w": "aliada",
+   "seg": "S4",
+   "inicio": 49.872,
+   "fin": 50.233
+  },
+  {
+   "w": "de",
+   "seg": "S4",
+   "inicio": 50.293,
+   "fin": 50.353
+  },
+  {
+   "w": "Doom",
+   "seg": "S4",
+   "inicio": 50.413,
+   "fin": 50.673
+  },
+  {
+   "w": "o",
+   "seg": "S4",
+   "inicio": 51.034,
+   "fin": 51.094
+  },
+  {
+   "w": "su",
+   "seg": "S4",
+   "inicio": 51.154,
+   "fin": 51.214
+  },
+  {
+   "w": "prisionera?",
+   "seg": "S4",
+   "inicio": 51.274,
+   "fin": 51.955
+  }
+ ]
+}

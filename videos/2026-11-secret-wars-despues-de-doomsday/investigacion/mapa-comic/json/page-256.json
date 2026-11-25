@@ -1,0 +1,72 @@
+{
+ "tipo": "portada",
+ "resumen": "Ilustración desplegable para Free Comic Book Day 2015: Secret Wars #0 que muestra una batalla cósmica a gran escala entre los héroes de la Tierra-616 y los del Universo Ultimate (Tierra-1610) chocando durante la incursión final.",
+ "personajes": [
+  "Capitán América",
+  "Iron Man",
+  "Thor",
+  "Spider-Man (Miles Morales)",
+  "Black Panther",
+  "Capitana Marvel (Carol Danvers)",
+  "Thor (Jane Foster)",
+  "Cíclope",
+  "Hulk",
+  "Bruja Escarlata"
+ ],
+ "eventos_clave": [
+  "Incursión final entre universos",
+  "Colisión entre Tierra-616 y Tierra-1610"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración panorámica a doble página de una épica colisión entre dos bandos de superhéroes de realidades alternativas en medio de explosiones y destellos cósmicos.",
+   "prompt_en": "Massive cosmic battle splash art featuring superhero armies colliding in outer space, energetic lighting effect splitting the composition, comic book style.",
+   "personajes": [
+    "Capitán América",
+    "Iron Man",
+    "Thor",
+    "Spider-Man (Miles Morales)",
+    "Black Panther",
+    "Capitana Marvel (Carol Danvers)",
+    "Thor (Jane Foster)",
+    "Cíclope"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ultima-incursion",
+    "secret-wars",
+    "multiverso",
+    "tierra-616",
+    "tierra-1610"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "FREE COMIC BOOK DAY 2015: SECRET WARS #0",
+     "texto_es": "Día del Cómic Gratis 2015: Secret Wars #0"
+    }
+   ],
+   "lugar": "Espacio exterior / Zona de incursión",
+   "tono": "Épico y caótico",
+   "recorte": "vinetas/page-256-v1.jpg"
+  }
+ ],
+ "lugar": "Espacio exterior",
+ "numero_comic": 0,
+ "pagina": 256,
+ "archivo": "paginas/page-256.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3845,
+ "_seg": 13.1
+}

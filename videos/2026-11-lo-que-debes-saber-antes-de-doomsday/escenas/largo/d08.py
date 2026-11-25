@@ -1,0 +1,47 @@
+"""DATO 8 · Sam Wilson, el nuevo Capitán América."""
+from lib_h import pho, ph, svgimg, L
+
+
+def build(S):
+    s = S.scene(S.w("Dato ocho"), bg="heroe", enter="ink", pat="pat-benday-fuerte")
+    s.text("d", "DATO 8", "ttl", "amarillo", 480, 200, s.start + 0.05, size=150, rot=-5, misreg=True)
+    t = S.w("ya no es")
+    s.img("cap", "a-cap.jpg", 1060, 120, 700, 760, t, frm="R", pos="50% 20%", label="STEVE ROGERS")
+    s.sello("ret", "RETIRADO", 1420, 520, t + 0.4, color="rojo", rot=-10)
+    t = S.w("escudo")
+    s.obj("sh", L.shield(380), 480, 640, t, how="drop")
+
+    s = S.scene(S.w("Sam Wilson"), bg="papel", enter="pageflip")
+    s.img("sam", "a-sam.jpg", 80, 140, 520, 640, s.start + 0.05, frm="L", pos="50% 20%", label="SAM WILSON")
+    s.obj("sh", L.shield(260), 760, 420, S.w("dudó"), how="pop")
+    t = S.w("gobierno")
+    s.move("sh", t, x=420, y=0, rot=200, dur=0.6)
+    s.panel("gob", '<div style="font:400 72px Anton;color:#FFF3D6">GOBIERNO</div>', 1000, 340, 380, 160, "ceniza", 2, t, "R")
+    t = S.w("Gran error")
+    s.text("err", "¡GRAN ERROR!", "ono", "rojo", 960, 150, t, rot=-6, hold=1.0)
+    t = S.w("John Walker")
+    s.img("wal", "a-walker.jpg", 1440, 140, 420, 640, t, frm="R", pos="50% 20%", label="JOHN WALKER")
+    t = S.w("a su medida")
+    s.sello("med", "CAPITÁN DE GOBIERNO", 1080, 900, t, color="tinta", rot=-4)
+
+    s = S.scene(S.w("Walker empezó"), bg="rojo", enter="halftone", color="rojo", pat="pat-benday-fuerte")
+    t = S.w("suero")
+    s.obj("suero", L.svgbox("0 0 200 360", '<rect x="60" y="20" width="80" height="40" fill="#6B7280" stroke="#0B0B14" stroke-width="8"/><rect x="40" y="60" width="120" height="260" rx="20" fill="#00C8E8" stroke="#0B0B14" stroke-width="10"/><rect x="40" y="190" width="120" height="130" rx="20" fill="#1E5BFF" stroke="#0B0B14" stroke-width="8"/>', 200, 360), 400, 520, t)
+    t = S.w("perdió el control")
+    s.img("wal2", "a-walker.jpg", 760, 140, 900, 640, t, frm="R", pos="50% 30%")
+    t = S.w("mató a golpes")
+    s.text("bam", "¡BAM!", "ono", "papel", 1210, 460, t, rot=-10, hold=0.7, zoom=True)
+    s.sello("pub", "EN PÚBLICO", 1210, 900, t + 0.4, color="tinta", rot=-6)
+
+    s = S.scene(S.w("Sam, al verlo"), bg="heroe", enter="pageflip")
+    s.img("samc", "a-samcap.jpg", 120, 120, 640, 820, s.start + 0.05, frm="L", pos="50% 20%", label="SAM: CAPITÁN AMÉRICA")
+    t = S.w("no significa ser otro")
+    s.globo("g", "NO TENGO QUE SER STEVE", 900, 160, 820, 220, t - 0.6, size=52)
+    t = S.w("Un nuevo mundo")
+    s.img("bnw", "a-brave.jpg", 900, 440, 380, 520, t, frm="B", pos="50% 30%")
+    t = S.w("Red Hulk")
+    s.img("rh", "a-redhulk.jpg", 1340, 440, 460, 520, t, frm="R", pos="50% 25%", label="RED HULK")
+    t = S.w("alas de vibranium")
+    s.obj("w", L.wings(520, "#E8212B"), 1200, 260, t, how="pop")
+    t = S.w("Mackie")
+    s.sello("conf", "CONFIRMADO EN DOOMSDAY", 960, 990, t, color="heroe", rot=-3)

@@ -1,0 +1,163 @@
+{
+ "tipo": "historia",
+ "resumen": "Sheriff Strange y varios miembros del Thor Corps llegan al sitio donde se ha estrellado la balsa de salvamento en el Reino de Utopolis. Strange interroga a un Thor sobre lo que presenció durante el ataque y decide usar magia mística para examinar el lugar minuciosamente.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Llegada de Sheriff Strange y el Thor Corps a la balsa estrellada en Utopolis",
+  "Sheriff Strange investiga el sitio del impacto con magia mística"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    488,
+    1000
+   ],
+   "descripcion": "Vista panorámica aérea del Reino de Utopolis donde miembros del Thor Corps vigilan e investigan una gran estructura circular metálica estrellada en el terreno rocoso.",
+   "prompt_en": "Panoramic wide shot of Thor warriors standing on rocky cliffs looking down at a giant circular metal spacecraft embedded in a desert landscape.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "utopolis",
+    "thor-corps",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "LATER. THE KINGDOM OF UTOPOLIS.",
+     "texto_es": "Más tarde. El Reino de Utopolis."
+    }
+   ],
+   "lugar": "Reino de Utopolis",
+   "tono": "épico",
+   "recorte": "vinetas/page-090-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    491,
+    35,
+    725,
+    971
+   ],
+   "descripcion": "Sheriff Strange y un joven Thor caminan cerca de restos metálicos caídos en la zona de impacto, con Strange expresando su preocupación.",
+   "prompt_en": "Sheriff Strange in a black coat with fur collar standing alongside a winged helmet Thor near fallen armor debris.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "thor-corps",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It's worse than I initially feared...",
+     "texto_es": "Es peor de lo que temía inicialmente..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "We have fallen.",
+     "texto_es": "Hemos caído."
+    }
+   ],
+   "lugar": "Reino de Utopolis",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-090-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    733,
+    33,
+    946,
+    506
+   ],
+   "descripcion": "Plano medio de Sheriff Strange interrogando a un miembro del Thor Corps sobre los supervivientes de la nave.",
+   "prompt_en": "Close up of Sheriff Strange with a mustache questioning a young Thor in a helmet.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "interrogatorio",
+    "sheriff-strange",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Are you sure that in the heat of battle you saw clearly? They came out of the vessel?",
+     "texto_es": "¿Estás seguro de que en el calor de la batalla viste claramente? ¿Salieron de la nave?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Yes, Sheriff. I'm sure of it.",
+     "texto_es": "Sí, Alguacil. Estoy seguro de ello."
+    }
+   ],
+   "lugar": "Reino de Utopolis",
+   "tono": "tenso",
+   "recorte": "vinetas/page-090-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    733,
+    509,
+    946,
+    966
+   ],
+   "descripcion": "Sheriff Strange levanta la mano invocando un pequeño ojo místico brillante para analizar mágicamente el área.",
+   "prompt_en": "Sheriff Strange raising his gloved hand towards a floating glowing magic orb eye above his head.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "magia",
+    "sheriff-strange",
+    "ojo-de-agamotto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You trust your eyes, but I'm not so sure I can trust mine... Something is wrong here, and we must look closer.",
+     "texto_es": "Tú confías en tus ojos, pero no estoy seguro de poder confiar en los míos... Algo está mal aquí, y debemos mirar más de cerca."
+    }
+   ],
+   "lugar": "Reino de Utopolis",
+   "tono": "místico",
+   "recorte": "vinetas/page-090-v4.jpg"
+  }
+ ],
+ "lugar": "Reino de Utopolis, Battleworld",
+ "numero_comic": 2,
+ "pagina": 90,
+ "archivo": "paginas/page-090.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5017,
+ "_seg": 17.4
+}

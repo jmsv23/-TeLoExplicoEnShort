@@ -1,0 +1,133 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange y Doctor Doom se presentan ante las entidades cósmicas conocidas como los Beyonders en el Más Allá. Frente al atronador desafío de los Beyonders sobre quién osaría oponerse a ellos, Doctor Doom da un paso al frente proclamando su nombre.",
+ "personajes": [
+  "Doctor Doom",
+  "Doctor Strange",
+  "Hombre Molécula",
+  "[Los Beyonders]"
+ ],
+ "eventos_clave": [
+  "Enfrentamiento contra los Beyonders",
+  "Declaración de Doctor Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    290,
+    969
+   ],
+   "descripcion": "Doctor Doom se mantiene erguido con su armadura y túnica verde al centro, flanqueado por Doctor Strange y la silueta del Hombre Molécula al fondo.",
+   "prompt_en": "Doctor Doom in his iconic silver armor and green hooded cloak standing bravely with Doctor Strange in the background against a dim blue sky.",
+   "personajes": [
+    "Doctor Doom",
+    "Doctor Strange",
+    "Hombre Molécula"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "doctor-strange",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Strange",
+     "texto": "\"And he has been with us all along.\"",
+     "texto_es": "\"Y él ha estado con nosotros todo este tiempo.\""
+    }
+   ],
+   "lugar": "El Más Allá",
+   "tono": "epico",
+   "recorte": "vinetas/page-006-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    295,
+    36,
+    770,
+    969
+   ],
+   "descripcion": "Una inmensa descarga de energía cósmica y relámpagos morados atraviesa la vacuidad azul del Más Allá mientras retumban las palabras de los Beyonders.",
+   "prompt_en": "A massive crack of purple energy and lightning tearing through deep blue cosmic void.",
+   "personajes": [
+    "[Los Beyonders]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "beyonders",
+    "energia-cosmica",
+    "mas-alla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Los Beyonders]",
+     "texto": "We are Beyond.",
+     "texto_es": "Somos el Más Allá."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Los Beyonders]",
+     "texto": "Dreamers. Destroyers. All of reality our whim.",
+     "texto_es": "Soñadores. Destructores. Toda la realidad a nuestro antojo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Los Beyonders]",
+     "texto": "Who dares stand before us?",
+     "texto_es": "¡¿Quién se atreve a erigirse ante nosotros?!"
+    }
+   ],
+   "lugar": "El Más Allá",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-006-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    778,
+    36,
+    970,
+    969
+   ],
+   "descripcion": "Primerísimo primer plano de los ojos decididos de Doctor Doom mirando a través de las hendiduras de su máscara de hierro.",
+   "prompt_en": "Extreme close-up on the intense eyes of Doctor Doom looking out from inside his steel mask.",
+   "personajes": [
+    "Doctor Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "primer-plano",
+    "momento-epico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "I. Doom.",
+     "texto_es": "Yo. Doom."
+    }
+   ],
+   "lugar": "El Más Allá",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-006-v3.jpg"
+  }
+ ],
+ "lugar": "El Más Allá",
+ "numero_comic": null,
+ "pagina": 6,
+ "archivo": "paginas/page-006.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4637,
+ "_seg": 18.8
+}

@@ -1,0 +1,54 @@
+{
+ "tipo": "historia",
+ "resumen": "En un entorno desértico y bajo un cielo estrellado, se descubre una gigantesca balsa de salvamento espacial enterrada en el terreno, e instruyen a excavarla.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Descubrimiento de la balsa de salvamento en Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica de una enorme balsa de salvamento espacial, metálica y oxidada, parcialmente sepultada entre rocas y arena en un paisaje árido bajo un cielo nocturno repleto de estrellas. En la parte inferior derecha, varias pequeñas figuras contemplan la estructura.",
+   "prompt_en": "Wide shot of a massive rusted futuristic sci-fi space raft partially buried in a rocky desert under a dark starry night sky, with tiny figures standing near the bottom.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "balsa-de-salvamento",
+    "descubrimiento",
+    "excavacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Dig it out.",
+     "texto_es": "Excávenla."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-054-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 54,
+ "archivo": "paginas/page-054.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3063,
+ "_seg": 8.4
+}

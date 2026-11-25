@@ -1,0 +1,257 @@
+{
+ "tipo": "historia",
+ "resumen": "En la corte de Battleworld, se explican las distintas formas de resolución de conflictos entre dominios: alianzas formales como las de Egyptia, sometimientos desiguales como el de Madelyne Pryor, o conquistas como las del barón Apocalipsis. Finalmente se juzga a Mister Siniestro por difamación tras haber insultado a Lady Meggan, esposa de Capitán Britania (James Braddock).",
+ "personajes": [
+  "Mister Siniestro",
+  "Apocalipsis",
+  "Madelyne Pryor",
+  "Capitán Britania / James Braddock"
+ ],
+ "eventos_clave": [
+  "Juicio en la corte de Battleworld",
+  "Acusación por difamación a Mister Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    35,
+    331,
+    407
+   ],
+   "descripcion": "Representantes de Egyptia muestran una alianza formal, destacando una figura con casco en forma de ave blanca y una pantera negra.",
+   "prompt_en": "Comic panel showing Egyptian themed Marvel characters including a white ibis-helmet figure and a black panther in Battleworld court.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "court-of-doom",
+    "egyptia"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Sometimes skirmishes are resolved so amicably that formal alliances are formed.",
+     "texto_es": "A veces las escaramuzas se resuelven tan amigablemente que se forman alianzas formales."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Like those between the Upper and Lower Kingdoms of Egyptia.",
+     "texto_es": "Como las que ocurrieron entre los reinos del Alto y Bajo Egyptia."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-060-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    412,
+    331,
+    966
+   ],
+   "descripcion": "Madelyne Pryor junto a Mister Siniestro en la corte de Doom, tras haber sido despojada de su puesto por el barón Summers.",
+   "prompt_en": "Comic panel showing Madelyne Pryor in dark reveling attire standing alongside Mister Sinister in Doom's court.",
+   "personajes": [
+    "Madelyne Pryor",
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "court-of-doom",
+    "madelyne-pryor",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Often they are settled unevenly--there are winners and losers in the Court of Doom.",
+     "texto_es": "A menudo se resuelven de forma desigual; hay ganadores y perdedores en la Corte de Doom."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Such as the former Baroness Pryor, unseated and contained by the absent Baron Summers.",
+     "texto_es": "Como la ex baronesa Pryor, despojada de su trono y contenida por el ausente barón Summers."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-060-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    346,
+    35,
+    636,
+    493
+   ],
+   "descripcion": "El barón Apocalipsis en primer plano junto a sus Jinetes sombríos.",
+   "prompt_en": "Comic panel close-up on Baron Apocalypse with blue skin and heavy armor, surrounded by sinister horsemen.",
+   "personajes": [
+    "Apocalipsis"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "apocalipsis",
+    "horsemen"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And then there are the conquered. The Horsemen all once had their own kingdoms, now they bend their knee to the Baron Apocalypse.",
+     "texto_es": "Y luego están los conquistados. Todos los Jinetes tuvieron sus propios reinos, ahora se arrodillan ante el barón Apocalipsis."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "You asked me if it is always this formal...yes, it is. Until it is not.",
+     "texto_es": "Me preguntaste si siempre es tan formal... sí, lo es. Hasta que deja de serlo."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-060-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    346,
+    501,
+    636,
+    966
+   ],
+   "descripcion": "Capitán Britania (James Braddock) junto a un oficial de la corte escuchando los cargos contra Siniestro.",
+   "prompt_en": "Comic panel showing Captain Britain James Braddock in court listening to accusations against Mister Sinister.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "[Oficial de la Corte]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "court-of-doom",
+    "james-braddock"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "All of this is decided by the Sheriff. As he stated earlier...he will decide their guilt or innocence and determine their sentence.",
+     "texto_es": "Todo esto lo decide el Sheriff. Como afirmó antes... él decidirá su culpabilidad o inocencia y determinará su sentencia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Oficial de la Corte]",
+     "texto": "And the final charge...",
+     "texto_es": "Y el cargo final..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Oficial de la Corte]",
+     "texto": "Words have meaning, and you have also been accused of libel, my lord.",
+     "texto_es": "Las palabras tienen significado, y también se le acusa de difamación, mi señor."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "formal",
+   "recorte": "vinetas/page-060-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    651,
+    35,
+    974,
+    637
+   ],
+   "descripcion": "Mister Siniestro de espaldas respondiendo despreocupadamente ante Capitán Britania y Lady Meggan.",
+   "prompt_en": "Comic panel showing Mister Sinister seen from behind facing Captain Britain James Braddock and blonde Lady Meggan.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania / James Braddock",
+    "[Lady Meggan]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "mister-siniestro",
+    "james-braddock"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Oh. That.",
+     "texto_es": "Oh. Eso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "All I said was she looked like a cow.",
+     "texto_es": "Lo único que dije fue que parecía una vaca."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "Lady Meggan is with child.",
+     "texto_es": "Lady Meggan está encinta."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "cómico",
+   "recorte": "vinetas/page-060-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    651,
+    637,
+    974,
+    966
+   ],
+   "descripcion": "Primer plano del rostro sonriente y malicioso de Mister Siniestro.",
+   "prompt_en": "Comic panel close-up of Mister Sinister smiling maliciously with red diamond emblem on forehead.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "battleworld",
+    "mister-siniestro",
+    "corte-de-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Yours? Well, that's even worse, isn't it?",
+     "texto_es": "¿Tuyo? Bueno, eso es todavía peor, ¿no?"
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-060-v6.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 60,
+ "archivo": "paginas/page-060.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7422,
+ "_seg": 28.3
+}

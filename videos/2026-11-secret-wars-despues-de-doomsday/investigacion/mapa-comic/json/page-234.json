@@ -1,0 +1,203 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hombre Molécula despoja a Doctor Doom de sus poderes omnipotentes para nivelar el terreno de juego, permitiendo que Mister Fantástico se lance al ataque contra Victor en un enfrentamiento cuerpo a cuerpo justo.",
+ "personajes": [
+  "Mister Fantástico",
+  "Doctor Doom",
+  "Hombre Molécula"
+ ],
+ "eventos_clave": [
+  "El Hombre Molécula retira la omnipotencia de Doctor Doom",
+  "Mister Fantástico ataca a Doctor Doom",
+  "Enfrentamiento final entre Reed Richards y Victor von Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    34,
+    318,
+    624
+   ],
+   "descripcion": "Mister Fantástico observa desorientado mientras el Hombre Molécula levanta la mano hacia él.",
+   "prompt_en": "Comic panel showing Mister Fantastic looking confused, facing a hooded Molecule Man holding out his hand in a glowing environment.",
+   "personajes": [
+    "Mister Fantástico",
+    "Hombre Molécula"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "WHAT IS THIS? MISTER REECE?",
+     "texto_es": "¿Qué es esto? ¿Sr. Reece?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "confuso",
+   "recorte": "vinetas/page-234-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    23,
+    631,
+    318,
+    966
+   ],
+   "descripcion": "El Hombre Molécula le pregunta a Doctor Doom si le trajo algo de comer, decidiendo hacer la pelea justa al no recibir alimento de ninguno.",
+   "prompt_en": "Comic panel showing hooded Molecule Man speaking to Doctor Doom in a stark white space.",
+   "personajes": [
+    "Hombre Molécula",
+    "Doctor Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "doctor-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula",
+     "texto": "DID YOU BRING ME SOMETHING TO EAT, VICTOR?",
+     "texto_es": "¿Me trajiste algo de comer, Victor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "NO.",
+     "texto_es": "No."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula",
+     "texto": "THEN THAT MAKES THE TWO OF YOU EQUAL, DOESN'T IT?",
+     "texto_es": "Entonces eso los hace a los dos iguales, ¿no?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "tenso",
+   "recorte": "vinetas/page-234-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    321,
+    0,
+    517,
+    1000
+   ],
+   "descripcion": "Mister Fantástico se abalanza hacia adelante gritando con rabia para atacar a Doctor Doom.",
+   "prompt_en": "Comic panel showing Mister Fantastic charging forward with a furious battle cry, extending his arm.",
+   "personajes": [
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ataque",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula",
+     "texto": "FAIR'S FAIR, RIGHT?",
+     "texto_es": "Lo justo es justo, ¿verdad?"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Mister Fantástico",
+     "texto": "RRAARRKKR",
+     "texto_es": "RRAARRKKR"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "agresivo",
+   "recorte": "vinetas/page-234-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    485,
+    34,
+    786,
+    966
+   ],
+   "descripcion": "Mister Fantástico se estira a gran velocidad propulsándose hacia Doctor Doom.",
+   "prompt_en": "Dynamic comic panel of Mister Fantastic stretching at high speed to strike Doctor Doom.",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "estiramiento",
+    "combate"
+   ],
+   "textos": [],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "dinámico",
+   "recorte": "vinetas/page-234-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    746,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Mister Fantástico envuelve a Doctor Doom con sus extremidades elásticas y lo encara furiosamente.",
+   "prompt_en": "Close up comic panel of Mister Fantastic stretching his thick elastic arms around Doctor Doom, grappling him.",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "pelea-final",
+    "reed-vs-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "YOU WOULD DARE PUT YOUR HANDS ON ME?!",
+     "texto_es": "¿¡Te atreverías a ponerme las manos encima?!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "HAVEN'T YOU BEEN PAYING ATTENTION, VICTOR? I DARE QUITE A BIT, TOO.",
+     "texto_es": "¿No has estado prestando atención, Victor? Yo también me atrevo a bastante."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "THINGS AREN'T SO EASY WHEN YOU'RE NOT OMNIPOTENT, ARE THEY?",
+     "texto_es": "Las cosas no son tan fáciles cuando no eres omnipotente, ¿verdad?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "intenso",
+   "recorte": "vinetas/page-234-v5.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula, Battleworld",
+ "numero_comic": 9,
+ "pagina": 234,
+ "archivo": "paginas/page-234.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5717,
+ "_seg": 20.9
+}

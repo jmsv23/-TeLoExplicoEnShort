@@ -1,0 +1,204 @@
+{
+ "tipo": "historia",
+ "resumen": "La Cosa (Ben Grimm), que formaba parte de El Escudo, habla con el joven Franklin von Doom. Tras darse cuenta de su verdadera conexión con la familia de Sue Storm, Ben decide no luchar más y le permite a Galactus ser destruido en un trágico sacrificio durante la rebelión en Battleworld.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Franklin Richards",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "sacrificio-de-la-cosa",
+  "rebelion-battleworld",
+  "destruccion-del-escudo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    303,
+    365
+   ],
+   "descripcion": "La Cosa mira fijamente hacia adelante mientras comprende la identidad del joven que tiene enfrente.",
+   "prompt_en": "Comic panel closeup of a giant rocky stone monster man looking thoughtfully under warm yellow sky",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-escudo",
+    "ben-grimm",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "So that makes you Suzie's kid?",
+     "texto_es": "¿Así que eres el hijo de Suzie?"
+    }
+   ],
+   "lugar": "Battleworld / El Escudo",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-208-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    375,
+    303,
+    638
+   ],
+   "descripcion": "El joven Franklin von Doom levita flotando envuelto en un aura dorada, respondiendo con firmeza.",
+   "prompt_en": "Comic panel of a young blond boy floating in mid air surrounded by warm glowing clouds",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "franklin-richards",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Yeah. That's me.",
+     "texto_es": "Sí. Ese soy yo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Franklin von Doom. Now come on!",
+     "texto_es": "Franklin von Doom. ¡Ahora vamos!"
+    }
+   ],
+   "lugar": "Battleworld / El Escudo",
+   "tono": "determinado",
+   "recorte": "vinetas/page-208-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    24,
+    646,
+    303,
+    960
+   ],
+   "descripcion": "Primer plano de la cara de piedra de La Cosa, con expresión triste y resignada.",
+   "prompt_en": "Close up face shot of a rocky stone monster looking sorrowful and resigned, comic style",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sacrificio",
+    "ben-grimm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "Well, this just ain't gonna have a happy ending, is it?",
+     "texto_es": "Bueno, esto no va a tener un final feliz, ¿verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "I know we're supposed ta fight some more, but I ain't gonna...",
+     "texto_es": "Sé que se supone que debemos pelear más, pero no voy a..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "Don't seem right now.",
+     "texto_es": "No parece correcto ahora."
+    }
+   ],
+   "lugar": "Battleworld / El Escudo",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-208-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    316,
+    37,
+    440,
+    960
+   ],
+   "descripcion": "Primer plano extremo de los ojos de La Cosa, aceptando su destino final.",
+   "prompt_en": "Extreme close up panel of heavy stone monster eyes, comic book art",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "despedida",
+    "ben-grimm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "You...",
+     "texto_es": "Tú..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "...You do whatcha gotta do, kiddo.",
+     "texto_es": "...Haz lo que tengas que hacer, niño."
+    }
+   ],
+   "lugar": "Battleworld / El Escudo",
+   "tono": "resignado",
+   "recorte": "vinetas/page-208-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    448,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Galactus spara un enorme rayo de energía cósmica destruyendo y pulverizando a La Cosa en pedazos de piedra.",
+   "prompt_en": "Giant cosmic entity Galactus shooting a massive energy blast from hand weapon destroying a giant stone monster into debris, epic golden explosion comic art",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "destruccion",
+    "galactus",
+    "muerte-ben-grimm",
+    "explosion-cosmica"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Galactus",
+     "texto": "ZZZZAAAK",
+     "texto_es": "ZZZZAAAK"
+    }
+   ],
+   "lugar": "Battleworld / El Escudo",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-208-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 208,
+ "archivo": "paginas/page-208.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4591,
+ "_seg": 14.6
+}

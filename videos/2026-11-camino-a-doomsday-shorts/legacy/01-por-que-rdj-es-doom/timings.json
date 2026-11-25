@@ -1,0 +1,1208 @@
+{
+ "duracion": 51.87,
+ "coincidencia": 0.947,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.131,
+   "fin": 8.618
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 9.099,
+   "fin": 35.086
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 35.567,
+   "fin": 48.363
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 48.584,
+   "fin": 51.768
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 3.834
+  },
+  {
+   "id": "2",
+   "nombre": "El reemplazo",
+   "inicio": 3.834,
+   "fin": 9.099
+  },
+  {
+   "id": "3",
+   "nombre": "Entra Doom",
+   "inicio": 9.099,
+   "fin": 15.284
+  },
+  {
+   "id": "4",
+   "nombre": "Su archienemigo",
+   "inicio": 15.284,
+   "fin": 18.847
+  },
+  {
+   "id": "5",
+   "nombre": "No es Tony",
+   "inicio": 18.847,
+   "fin": 23.371
+  },
+  {
+   "id": "6",
+   "nombre": "La analogía: el futbolista fichado",
+   "inicio": 23.371,
+   "fin": 31.201
+  },
+  {
+   "id": "7",
+   "nombre": "Los hermanos Russo",
+   "inicio": 31.201,
+   "fin": 35.567
+  },
+  {
+   "id": "8",
+   "nombre": "El giro",
+   "inicio": 35.567,
+   "fin": 42.816
+  },
+  {
+   "id": "9",
+   "nombre": "Payback: mismo jugador",
+   "inicio": 42.816,
+   "fin": 45.4
+  },
+  {
+   "id": "10",
+   "nombre": "La fecha",
+   "inicio": 45.4,
+   "fin": 48.584
+  },
+  {
+   "id": "11",
+   "nombre": "CTA y loop",
+   "inicio": 48.584,
+   "fin": 51.87
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.491,
+   "t_est": 0.5,
+   "ancla": "despidió"
+  },
+  {
+   "id": "1.3",
+   "t": 1.132,
+   "t_est": 1.1,
+   "ancla": "Kang"
+  },
+  {
+   "id": "1.4",
+   "t": 1.973,
+   "t_est": 2.0,
+   "ancla": "villano"
+  },
+  {
+   "id": "2.1",
+   "t": 3.834,
+   "t_est": 3.8,
+   "ancla": "reemplazó"
+  },
+  {
+   "id": "2.2",
+   "t": 4.655,
+   "t_est": 4.7,
+   "ancla": "Robert"
+  },
+  {
+   "id": "2.3",
+   "t": 5.356,
+   "t_est": 5.4,
+   "ancla": "Junior."
+  },
+  {
+   "id": "2.4",
+   "t": 6.136,
+   "t_est": 6.1,
+   "ancla": "Pero"
+  },
+  {
+   "id": "2.5",
+   "t": 7.838,
+   "t_est": 7.8,
+   "ancla": "Iron"
+  },
+  {
+   "id": "2.6",
+   "t": 8.358,
+   "t_est": 8.4,
+   "ancla": "Man."
+  },
+  {
+   "id": "3.1",
+   "t": 9.099,
+   "t_est": 9.1,
+   "ancla": "Vuelve"
+  },
+  {
+   "id": "3.2",
+   "t": 9.759,
+   "t_est": 9.8,
+   "ancla": "Victor"
+  },
+  {
+   "id": "3.3",
+   "t": 10.9,
+   "t_est": 10.9,
+   "ancla": "Doctor Doom."
+  },
+  {
+   "id": "3.4",
+   "t": 12.021,
+   "t_est": 12.0,
+   "ancla": "Rey"
+  },
+  {
+   "id": "3.5",
+   "t": 13.082,
+   "t_est": 13.1,
+   "ancla": "genio"
+  },
+  {
+   "id": "3.6",
+   "t": 14.083,
+   "t_est": 14.1,
+   "ancla": "hechicero."
+  },
+  {
+   "id": "4.1",
+   "t": 15.284,
+   "t_est": 15.3,
+   "ancla": "cómics"
+  },
+  {
+   "id": "4.2",
+   "t": 16.105,
+   "t_est": 16.1,
+   "ancla": "archienemigo"
+  },
+  {
+   "id": "4.3",
+   "t": 16.966,
+   "t_est": 17.0,
+   "ancla": "Cuatro Fantásticos."
+  },
+  {
+   "id": "5.1",
+   "t": 18.847,
+   "t_est": 18.5,
+   "ancla": "Tony"
+  },
+  {
+   "id": "5.2",
+   "t": 19.728,
+   "t_est": 19.7,
+   "ancla": "armadura"
+  },
+  {
+   "id": "5.3",
+   "t": 21.009,
+   "t_est": 20.9,
+   "ancla": "otro personaje"
+  },
+  {
+   "id": "5.4",
+   "t": 21.97,
+   "t_est": 21.9,
+   "ancla": "mismo rostro."
+  },
+  {
+   "id": "6.1",
+   "t": 23.371,
+   "t_est": 23.4,
+   "ancla": "Piénsalo"
+  },
+  {
+   "id": "6.2",
+   "t": 24.132,
+   "t_est": 24.1,
+   "ancla": "futbolista"
+  },
+  {
+   "id": "6.3",
+   "t": 24.753,
+   "t_est": 24.8,
+   "ancla": "fichado"
+  },
+  {
+   "id": "6.4",
+   "t": 25.474,
+   "t_est": 25.5,
+   "ancla": "rival:"
+  },
+  {
+   "id": "6.5",
+   "t": 26.255,
+   "t_est": 26.3,
+   "ancla": "Misma cara,"
+  },
+  {
+   "id": "6.6",
+   "t": 27.496,
+   "t_est": 27.5,
+   "ancla": "camiseta,"
+  },
+  {
+   "id": "6.7",
+   "t": 28.378,
+   "t_est": 28.4,
+   "ancla": "objetivos"
+  },
+  {
+   "id": "6.8",
+   "t": 29.659,
+   "t_est": 29.7,
+   "ancla": "distintos."
+  },
+  {
+   "id": "7.1",
+   "t": 31.201,
+   "t_est": 31.2,
+   "ancla": "cámaras"
+  },
+  {
+   "id": "7.2",
+   "t": 32.042,
+   "t_est": 32.0,
+   "ancla": "hermanos"
+  },
+  {
+   "id": "7.3",
+   "t": 32.583,
+   "t_est": 32.6,
+   "ancla": "Russo,"
+  },
+  {
+   "id": "7.4",
+   "t": 33.379,
+   "t_est": 33.4,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "8.1",
+   "t": 35.567,
+   "t_est": 35.6,
+   "ancla": "Tony"
+  },
+  {
+   "id": "8.2",
+   "t": 36.428,
+   "t_est": 36.4,
+   "ancla": "sacrificó"
+  },
+  {
+   "id": "8.3",
+   "t": 37.269,
+   "t_est": 37.3,
+   "ancla": "salvar"
+  },
+  {
+   "id": "8.4",
+   "t": 38.711,
+   "t_est": 38.7,
+   "ancla": "Ahora"
+  },
+  {
+   "id": "8.5",
+   "t": 39.152,
+   "t_est": 39.2,
+   "ancla": "cara"
+  },
+  {
+   "id": "8.6",
+   "t": 39.752,
+   "t_est": 39.8,
+   "ancla": "peor"
+  },
+  {
+   "id": "8.7",
+   "t": 41.815,
+   "t_est": 41.8,
+   "ancla": "pantalla."
+  },
+  {
+   "id": "9.1",
+   "t": 42.816,
+   "t_est": 42.8,
+   "ancla": "Mismo"
+  },
+  {
+   "id": "9.2",
+   "t": 43.858,
+   "t_est": 43.9,
+   "ancla": "camiseta"
+  },
+  {
+   "id": "9.3",
+   "t": 44.599,
+   "t_est": 44.6,
+   "ancla": "rival."
+  },
+  {
+   "id": "10.1",
+   "t": 45.4,
+   "t_est": 45.4,
+   "ancla": "Avengers:"
+  },
+  {
+   "id": "10.2",
+   "t": 46.401,
+   "t_est": 46.4,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "10.3",
+   "t": 47.342,
+   "t_est": 47.3,
+   "ancla": "dieciocho"
+  },
+  {
+   "id": "11.1",
+   "t": 48.584,
+   "t_est": 48.6,
+   "ancla": "Sigue"
+  },
+  {
+   "id": "11.2",
+   "t": 49.966,
+   "t_est": 49.7,
+   "ancla": "siguiente,"
+  },
+  {
+   "id": "11.3",
+   "t": 51.187,
+   "t_est": 51.2,
+   "ancla": "Doom"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Marvel",
+   "seg": "S1",
+   "inicio": 0.131,
+   "fin": 0.471
+  },
+  {
+   "w": "despidió",
+   "seg": "S1",
+   "inicio": 0.491,
+   "fin": 0.972
+  },
+  {
+   "w": "a",
+   "seg": "S1",
+   "inicio": 1.032,
+   "fin": 1.052
+  },
+  {
+   "w": "Kang,",
+   "seg": "S1",
+   "inicio": 1.132,
+   "fin": 1.452
+  },
+  {
+   "w": "su",
+   "seg": "S1",
+   "inicio": 1.612,
+   "fin": 1.712
+  },
+  {
+   "w": "gran",
+   "seg": "S1",
+   "inicio": 1.773,
+   "fin": 1.933
+  },
+  {
+   "w": "villano",
+   "seg": "S1",
+   "inicio": 1.973,
+   "fin": 2.313
+  },
+  {
+   "w": "del",
+   "seg": "S1",
+   "inicio": 2.353,
+   "fin": 2.473
+  },
+  {
+   "w": "multiverso.",
+   "seg": "S1",
+   "inicio": 2.533,
+   "fin": 3.094
+  },
+  {
+   "w": "Y",
+   "seg": "S1",
+   "inicio": 3.574,
+   "fin": 3.634
+  },
+  {
+   "w": "lo",
+   "seg": "S1",
+   "inicio": 3.694,
+   "fin": 3.754
+  },
+  {
+   "w": "reemplazó",
+   "seg": "S1",
+   "inicio": 3.834,
+   "fin": 4.355
+  },
+  {
+   "w": "con",
+   "seg": "S1",
+   "inicio": 4.435,
+   "fin": 4.555
+  },
+  {
+   "w": "Robert",
+   "seg": "S1",
+   "inicio": 4.655,
+   "fin": 4.955
+  },
+  {
+   "w": "Downey",
+   "seg": "S1",
+   "inicio": 5.055,
+   "fin": 5.336
+  },
+  {
+   "w": "Junior.",
+   "seg": "S1",
+   "inicio": 5.356,
+   "fin": 5.776
+  },
+  {
+   "w": "Pero",
+   "seg": "S1",
+   "inicio": 6.136,
+   "fin": 6.296
+  },
+  {
+   "w": "ojo:",
+   "seg": "S1",
+   "inicio": 6.417,
+   "fin": 6.657
+  },
+  {
+   "w": "no",
+   "seg": "S1",
+   "inicio": 7.077,
+   "fin": 7.157
+  },
+  {
+   "w": "vuelve",
+   "seg": "S1",
+   "inicio": 7.257,
+   "fin": 7.557
+  },
+  {
+   "w": "como",
+   "seg": "S1",
+   "inicio": 7.638,
+   "fin": 7.818
+  },
+  {
+   "w": "Iron",
+   "seg": "S1",
+   "inicio": 7.838,
+   "fin": 8.298
+  },
+  {
+   "w": "Man.",
+   "seg": "S1",
+   "inicio": 8.358,
+   "fin": 8.618
+  },
+  {
+   "w": "Vuelve",
+   "seg": "S2",
+   "inicio": 9.099,
+   "fin": 9.419
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 9.499,
+   "fin": 9.679
+  },
+  {
+   "w": "Victor",
+   "seg": "S2",
+   "inicio": 9.759,
+   "fin": 10.1
+  },
+  {
+   "w": "von",
+   "seg": "S2",
+   "inicio": 10.16,
+   "fin": 10.37
+  },
+  {
+   "w": "Doom.",
+   "seg": "S2",
+   "inicio": 10.37,
+   "fin": 10.58
+  },
+  {
+   "w": "Doctor",
+   "seg": "S2",
+   "inicio": 10.9,
+   "fin": 11.241
+  },
+  {
+   "w": "Doom.",
+   "seg": "S2",
+   "inicio": 11.281,
+   "fin": 11.521
+  },
+  {
+   "w": "Rey",
+   "seg": "S2",
+   "inicio": 12.021,
+   "fin": 12.161
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 12.201,
+   "fin": 12.262
+  },
+  {
+   "w": "Latveria,",
+   "seg": "S2",
+   "inicio": 12.282,
+   "fin": 12.822
+  },
+  {
+   "w": "genio",
+   "seg": "S2",
+   "inicio": 13.082,
+   "fin": 13.342
+  },
+  {
+   "w": "científico",
+   "seg": "S2",
+   "inicio": 13.423,
+   "fin": 13.963
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 14.003,
+   "fin": 14.063
+  },
+  {
+   "w": "hechicero.",
+   "seg": "S2",
+   "inicio": 14.083,
+   "fin": 14.624
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 15.004,
+   "fin": 15.084
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 15.124,
+   "fin": 15.224
+  },
+  {
+   "w": "cómics,",
+   "seg": "S2",
+   "inicio": 15.284,
+   "fin": 15.624
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 15.865,
+   "fin": 15.945
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 15.985,
+   "fin": 16.065
+  },
+  {
+   "w": "archienemigo",
+   "seg": "S2",
+   "inicio": 16.105,
+   "fin": 16.645
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 16.685,
+   "fin": 16.765
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 16.805,
+   "fin": 16.886
+  },
+  {
+   "w": "Cuatro",
+   "seg": "S2",
+   "inicio": 16.966,
+   "fin": 17.226
+  },
+  {
+   "w": "Fantásticos.",
+   "seg": "S2",
+   "inicio": 17.286,
+   "fin": 17.946
+  },
+  {
+   "w": "No",
+   "seg": "S2",
+   "inicio": 18.527,
+   "fin": 18.627
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 18.687,
+   "fin": 18.787
+  },
+  {
+   "w": "Tony",
+   "seg": "S2",
+   "inicio": 18.847,
+   "fin": 19.067
+  },
+  {
+   "w": "Stark",
+   "seg": "S2",
+   "inicio": 19.087,
+   "fin": 19.408
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 19.568,
+   "fin": 19.688
+  },
+  {
+   "w": "armadura",
+   "seg": "S2",
+   "inicio": 19.728,
+   "fin": 20.128
+  },
+  {
+   "w": "nueva.",
+   "seg": "S2",
+   "inicio": 20.208,
+   "fin": 20.489
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 20.869,
+   "fin": 20.949
+  },
+  {
+   "w": "otro",
+   "seg": "S2",
+   "inicio": 21.009,
+   "fin": 21.129
+  },
+  {
+   "w": "personaje",
+   "seg": "S2",
+   "inicio": 21.189,
+   "fin": 21.65
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 21.69,
+   "fin": 21.81
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 21.85,
+   "fin": 21.91
+  },
+  {
+   "w": "mismo",
+   "seg": "S2",
+   "inicio": 21.97,
+   "fin": 22.23
+  },
+  {
+   "w": "rostro.",
+   "seg": "S2",
+   "inicio": 22.33,
+   "fin": 22.65
+  },
+  {
+   "w": "Piénsalo",
+   "seg": "S2",
+   "inicio": 23.371,
+   "fin": 23.712
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 23.772,
+   "fin": 23.952
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 24.012,
+   "fin": 24.072
+  },
+  {
+   "w": "futbolista",
+   "seg": "S2",
+   "inicio": 24.132,
+   "fin": 24.673
+  },
+  {
+   "w": "fichado",
+   "seg": "S2",
+   "inicio": 24.753,
+   "fin": 25.153
+  },
+  {
+   "w": "por",
+   "seg": "S2",
+   "inicio": 25.214,
+   "fin": 25.334
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 25.354,
+   "fin": 25.414
+  },
+  {
+   "w": "rival:",
+   "seg": "S2",
+   "inicio": 25.474,
+   "fin": 25.774
+  },
+  {
+   "w": "misma",
+   "seg": "S2",
+   "inicio": 26.255,
+   "fin": 26.515
+  },
+  {
+   "w": "cara,",
+   "seg": "S2",
+   "inicio": 26.595,
+   "fin": 26.856
+  },
+  {
+   "w": "otra",
+   "seg": "S2",
+   "inicio": 27.276,
+   "fin": 27.436
+  },
+  {
+   "w": "camiseta,",
+   "seg": "S2",
+   "inicio": 27.496,
+   "fin": 28.017
+  },
+  {
+   "w": "objetivos",
+   "seg": "S2",
+   "inicio": 28.378,
+   "fin": 28.838
+  },
+  {
+   "w": "totalmente",
+   "seg": "S2",
+   "inicio": 28.998,
+   "fin": 29.599
+  },
+  {
+   "w": "distintos.",
+   "seg": "S2",
+   "inicio": 29.659,
+   "fin": 30.2
+  },
+  {
+   "w": "Y",
+   "seg": "S2",
+   "inicio": 30.681,
+   "fin": 30.721
+  },
+  {
+   "w": "detrás",
+   "seg": "S2",
+   "inicio": 30.761,
+   "fin": 31.021
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 31.061,
+   "fin": 31.141
+  },
+  {
+   "w": "cámaras",
+   "seg": "S2",
+   "inicio": 31.201,
+   "fin": 31.562
+  },
+  {
+   "w": "están",
+   "seg": "S2",
+   "inicio": 31.642,
+   "fin": 31.902
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 31.922,
+   "fin": 32.002
+  },
+  {
+   "w": "hermanos",
+   "seg": "S2",
+   "inicio": 32.042,
+   "fin": 32.443
+  },
+  {
+   "w": "Russo,",
+   "seg": "S2",
+   "inicio": 32.583,
+   "fin": 32.863
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 33.224,
+   "fin": 33.344
+  },
+  {
+   "w": "mismos",
+   "seg": "S2",
+   "inicio": 33.404,
+   "fin": 33.705
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 33.765,
+   "fin": 33.865
+  },
+  {
+   "w": "dirigieron",
+   "seg": "S2",
+   "inicio": 33.905,
+   "fin": 34.345
+  },
+  {
+   "w": "Endgame.",
+   "seg": "S2",
+   "inicio": 34.365,
+   "fin": 35.086
+  },
+  {
+   "w": "Tony",
+   "seg": "S3",
+   "inicio": 35.567,
+   "fin": 35.767
+  },
+  {
+   "w": "Stark",
+   "seg": "S3",
+   "inicio": 35.787,
+   "fin": 36.128
+  },
+  {
+   "w": "se",
+   "seg": "S3",
+   "inicio": 36.308,
+   "fin": 36.388
+  },
+  {
+   "w": "sacrificó",
+   "seg": "S3",
+   "inicio": 36.428,
+   "fin": 36.969
+  },
+  {
+   "w": "para",
+   "seg": "S3",
+   "inicio": 37.049,
+   "fin": 37.189
+  },
+  {
+   "w": "salvar",
+   "seg": "S3",
+   "inicio": 37.269,
+   "fin": 37.569
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 37.61,
+   "fin": 37.67
+  },
+  {
+   "w": "universo.",
+   "seg": "S3",
+   "inicio": 37.71,
+   "fin": 38.19
+  },
+  {
+   "w": "Ahora",
+   "seg": "S3",
+   "inicio": 38.711,
+   "fin": 38.951
+  },
+  {
+   "w": "su",
+   "seg": "S3",
+   "inicio": 39.011,
+   "fin": 39.091
+  },
+  {
+   "w": "cara",
+   "seg": "S3",
+   "inicio": 39.152,
+   "fin": 39.372
+  },
+  {
+   "w": "será",
+   "seg": "S3",
+   "inicio": 39.392,
+   "fin": 39.592
+  },
+  {
+   "w": "la",
+   "seg": "S3",
+   "inicio": 39.652,
+   "fin": 39.712
+  },
+  {
+   "w": "peor",
+   "seg": "S3",
+   "inicio": 39.752,
+   "fin": 39.993
+  },
+  {
+   "w": "amenaza",
+   "seg": "S3",
+   "inicio": 40.053,
+   "fin": 40.393
+  },
+  {
+   "w": "que",
+   "seg": "S3",
+   "inicio": 40.413,
+   "fin": 40.473
+  },
+  {
+   "w": "Marvel",
+   "seg": "S3",
+   "inicio": 40.754,
+   "fin": 41.114
+  },
+  {
+   "w": "haya",
+   "seg": "S3",
+   "inicio": 41.214,
+   "fin": 41.374
+  },
+  {
+   "w": "puesto",
+   "seg": "S3",
+   "inicio": 41.455,
+   "fin": 41.675
+  },
+  {
+   "w": "en",
+   "seg": "S3",
+   "inicio": 41.715,
+   "fin": 41.775
+  },
+  {
+   "w": "pantalla.",
+   "seg": "S3",
+   "inicio": 41.815,
+   "fin": 42.276
+  },
+  {
+   "w": "Mismo",
+   "seg": "S3",
+   "inicio": 42.816,
+   "fin": 43.077
+  },
+  {
+   "w": "jugador,",
+   "seg": "S3",
+   "inicio": 43.137,
+   "fin": 43.557
+  },
+  {
+   "w": "camiseta",
+   "seg": "S3",
+   "inicio": 43.858,
+   "fin": 44.358
+  },
+  {
+   "w": "del",
+   "seg": "S3",
+   "inicio": 44.418,
+   "fin": 44.539
+  },
+  {
+   "w": "rival.",
+   "seg": "S3",
+   "inicio": 44.599,
+   "fin": 44.919
+  },
+  {
+   "w": "Avengers:",
+   "seg": "S3",
+   "inicio": 45.4,
+   "fin": 45.94
+  },
+  {
+   "w": "Doomsday",
+   "seg": "S3",
+   "inicio": 46.401,
+   "fin": 46.882
+  },
+  {
+   "w": "llega",
+   "seg": "S3",
+   "inicio": 46.942,
+   "fin": 47.162
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 47.222,
+   "fin": 47.302
+  },
+  {
+   "w": "dieciocho",
+   "seg": "S3",
+   "inicio": 47.342,
+   "fin": 47.743
+  },
+  {
+   "w": "de",
+   "seg": "S3",
+   "inicio": 47.783,
+   "fin": 47.863
+  },
+  {
+   "w": "diciembre.",
+   "seg": "S3",
+   "inicio": 47.923,
+   "fin": 48.363
+  },
+  {
+   "w": "Sigue",
+   "seg": "S4",
+   "inicio": 48.584,
+   "fin": 48.784
+  },
+  {
+   "w": "la",
+   "seg": "S4",
+   "inicio": 48.824,
+   "fin": 48.884
+  },
+  {
+   "w": "serie:",
+   "seg": "S4",
+   "inicio": 48.944,
+   "fin": 49.265
+  },
+  {
+   "w": "en",
+   "seg": "S4",
+   "inicio": 49.705,
+   "fin": 49.805
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 49.825,
+   "fin": 49.905
+  },
+  {
+   "w": "siguiente,",
+   "seg": "S4",
+   "inicio": 49.966,
+   "fin": 50.426
+  },
+  {
+   "w": "quién",
+   "seg": "S4",
+   "inicio": 50.446,
+   "fin": 50.947
+  },
+  {
+   "w": "es",
+   "seg": "S4",
+   "inicio": 50.987,
+   "fin": 51.067
+  },
+  {
+   "w": "Doom",
+   "seg": "S4",
+   "inicio": 51.187,
+   "fin": 51.367
+  },
+  {
+   "w": "de",
+   "seg": "S4",
+   "inicio": 51.407,
+   "fin": 51.467
+  },
+  {
+   "w": "verdad.",
+   "seg": "S4",
+   "inicio": 51.508,
+   "fin": 51.768
+  }
+ ]
+}

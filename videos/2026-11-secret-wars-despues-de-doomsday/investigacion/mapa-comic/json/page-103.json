@@ -1,0 +1,281 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange recibe a los héroes supervivientes que salen de la balsa de salvamento de la Tierra-616, incluyendo a Cíclope (imbuido por la Fuerza Fénix), Black Panther y un devastado Mister Fantástico, quien sufre por haber perdido a su esposa e hijos durante la destrucción del multiverso.",
+ "personajes": [
+  "Cíclope (con el Fénix)",
+  "Doctor Strange (Sheriff Strange)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Black Panther (T'Challa)",
+  "Spider-Man (Peter Parker)"
+ ],
+ "eventos_clave": [
+  "Apertura de la balsa de salvamento de la Tierra-616",
+  "Reencuentro entre Doctor Strange, Black Panther y Reed Richards",
+  "Lamento de Reed Richards por la pérdida de su familia"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    381,
+    696
+   ],
+   "descripcion": "Cíclope emerge de la balsa envolviéndose en las imponentes llamas doradas del Fénix.",
+   "prompt_en": "Superhero with visor enveloped in golden Phoenix flames, powerful stance, comic art style.",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ciclope",
+    "fenix",
+    "balsa-de-salvamento"
+   ],
+   "textos": [],
+   "lugar": "Battleworld / Balsa de salvamento",
+   "tono": "epico",
+   "recorte": "vinetas/page-103-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    705,
+    360,
+    970
+   ],
+   "descripcion": "Doctor Strange contempla impresionado a Cíclope transformado en el Fénix.",
+   "prompt_en": "Doctor Strange looking up astonished at a flaming hero entity, comic panel.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doctor-strange",
+    "ciclope",
+    "fenix"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Cyclops... you've become the Phoenix.",
+     "texto_es": "Cíclope... te has convertido en el Fénix."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "The dream is immortal, Doctor... some of us were made for resurrection...",
+     "texto_es": "El sueño es inmortal, Doctor... algunos de nosotros fuimos hechos para la resurrección..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "But some of us... made it through better than others.",
+     "texto_es": "Pero algunos... sobrevivimos mejor que otros."
+    }
+   ],
+   "lugar": "Battleworld / Balsa de salvamento",
+   "tono": "asombro",
+   "recorte": "vinetas/page-103-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    384,
+    33,
+    687,
+    564
+   ],
+   "descripcion": "Mister Fantástico y Black Panther descienden de la nave al reencontrarse con Stephen Strange.",
+   "prompt_en": "Mister Fantastic in blue suit stepping out of spaceship hatch alongside Black Panther, looking surprised, comic style.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-fantastico",
+    "black-panther",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Unbelievable. Is that really you, Stephen?",
+     "texto_es": "Increíble. ¿Realmente eres tú, Stephen?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Memento mori?",
+     "texto_es": "¿Memento mori?"
+    }
+   ],
+   "lugar": "Battleworld / Balsa de salvamento",
+   "tono": "sorpresa",
+   "recorte": "vinetas/page-103-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    384,
+    571,
+    687,
+    968
+   ],
+   "descripcion": "Doctor Strange abraza a Black Panther y da la bienvenida al grupo de supervivientes.",
+   "prompt_en": "Doctor Strange embracing Black Panther warmly with Spider-Man in the background, comic panel.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)",
+    "Spider-Man (Peter Parker)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-strange",
+    "illuminati",
+    "reencuentro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Illuminatus.",
+     "texto_es": "Illuminatus."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "My God, man. It's good to see you.",
+     "texto_es": "Dios mío, hombre. Qué bueno verlos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "How did you survive the collapse? How are you here?",
+     "texto_es": "¿Cómo sobreviviste al colapso? ¿Cómo estás aquí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Where are--",
+     "texto_es": "¿Dónde están--?"
+    }
+   ],
+   "lugar": "Battleworld / Balsa de salvamento",
+   "tono": "alivio",
+   "recorte": "vinetas/page-103-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    701,
+    33,
+    981,
+    676
+   ],
+   "descripcion": "Doctor Strange habla con T'Challa mientras Reed Richards se desmorona emocionalmente en el suelo.",
+   "prompt_en": "Doctor Strange conversing with Black Panther while Mister Fantastic kneels down heartbroken, comic artwork.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "tragedia",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It's quite a story. A long one...",
+     "texto_es": "Es toda una historia. Una muy larga..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "...But you, you built this craft to survive the end of everything... amazing.",
+     "texto_es": "...Pero tú, construiste esta nave para sobrevivir al fin de todo... increíble."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "There were defects, weaknesses... we lost people. Reed, he...",
+     "texto_es": "Hubo defectos, debilidades... perdimos gente. Reed, él..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "We lost people.",
+     "texto_es": "Perdimos gente."
+    }
+   ],
+   "lugar": "Battleworld / Balsa de salvamento",
+   "tono": "dramático",
+   "recorte": "vinetas/page-103-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    701,
+    680,
+    981,
+    968
+   ],
+   "descripcion": "Primer plano angustioso de Reed Richards llorando desconsoladamente por no haber podido salvar a su familia.",
+   "prompt_en": "Close up dramatic shot of superhero Reed Richards weeping in grief, hand on face, highly emotional comic art.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reed-richards",
+    "dolor",
+    "perdida-familia",
+    "tragedia"
+   ],
+   "textos": [
+    {
+     "tipo": "pensamiento",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "One second more... and maybe I could have saved them...",
+     "texto_es": "Un segundo más... y tal vez podría haberlos salvado..."
+    },
+    {
+     "tipo": "pensamiento",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Minutes ago they were right here, and now I can't even tell them how much I--",
+     "texto_es": "Hace minutos estaban justo aquí, y ahora ni siquiera puedo decirles cuánto los--"
+    },
+    {
+     "tipo": "pensamiento",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Oh, God...",
+     "texto_es": "Oh, Dios..."
+    }
+   ],
+   "lugar": "Battleworld / Balsa de salvamento",
+   "tono": "trágico",
+   "recorte": "vinetas/page-103-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld / Balsa de salvamento de la Tierra-616",
+ "numero_comic": 3,
+ "pagina": 103,
+ "archivo": "paginas/page-103.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7795,
+ "_seg": 31.2
+}

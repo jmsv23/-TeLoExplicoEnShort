@@ -1,0 +1,261 @@
+{
+ "tipo": "historia",
+ "resumen": "Los Thor Corps acuden ante el Barón Siniestro para arrestarlo y llevarlo a juicio a Doomstadt por el delito de discordia. Siniestro, con su característico tono teatral y arrogante, acepta ser escoltado antes de que un rayo de energía teletransporte al grupo.",
+ "personajes": [
+  "Mister Siniestro",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Los Thor Corps notifican al Barón Siniestro su citación ante el Dios Emperador Doom.",
+  "Un Thor novato graba runas nórdicas para abrir el portal a Doomstadt.",
+  "El grupo se teletransporta mediante un rayo divino."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    33,
+    303,
+    330
+   ],
+   "descripcion": "Primer plano de un Thor anciano con barba clara y casco dorado hablando con seriedad.",
+   "prompt_en": "Close-up of an elderly bearded Thor in armor with a golden helmet, speaking seriously in reddish glowing light, comic book style.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "juicio",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Baron Sinister. In accordance with the will of your Maker, you have been summoned to Castle Doom to answer for the crime of discord.",
+     "texto_es": "Barón Siniestro. De acuerdo con la voluntad de tu Creador, has sido convocado al Castillo Doom para responder por el crimen de discordia."
+    }
+   ],
+   "lugar": "Dominio de Siniestro",
+   "tono": "Solemne",
+   "recorte": "vinetas/page-056-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    22,
+    334,
+    303,
+    968
+   ],
+   "descripcion": "Mister Siniestro desciende elegantemente por unas escaleras de piedra roja mientras se dirige con desenvoltura a los Thor.",
+   "prompt_en": "Mister Sinister walking down crimson stone steps with a theatrical posture, flanked by hooded figures and armored Thors, red background.",
+   "personajes": [
+    "Mister Siniestro",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "thor-corps",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Are you sure you have the right man?",
+     "texto_es": "¿Estás seguro de que tienes al hombre indicado?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "I am.",
+     "texto_es": "Lo estoy."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "But one could resist if one were so inclined.",
+     "texto_es": "Pero uno podría resistirse si así lo deseara."
+    }
+   ],
+   "lugar": "Dominio de Siniestro",
+   "tono": "Irónico",
+   "recorte": "vinetas/page-056-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    314,
+    33,
+    580,
+    594
+   ],
+   "descripcion": "Mister Siniestro se acomoda el cuello de su traje mientras conversa despreocupadamente con los Thor.",
+   "prompt_en": "Mister Sinister adjusting his collar, looking arrogant, with a bearded Thor in the background holding a war hammer.",
+   "personajes": [
+    "Mister Siniestro",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "And on the off chance I'm found guilty... will there be sentencing today as well?",
+     "texto_es": "Y en la remota posibilidad de que me encuentren culpable... ¿habrá sentencia hoy también?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "The high court has been assembled to bear witness.",
+     "texto_es": "El alto tribunal se ha reunido para dar testimonio."
+    }
+   ],
+   "lugar": "Dominio de Siniestro",
+   "tono": "Sarcástico",
+   "recorte": "vinetas/page-056-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    314,
+    599,
+    580,
+    968
+   ],
+   "descripcion": "Un joven Thor usa su martillo para inscribir runas místicas brillantes en una columna de piedra.",
+   "prompt_en": "Muscular young Thor carving glowing blue runes into a stone pillar using Mjolnir, close-up, dramatic side view.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "runas",
+    "thor-corps",
+    "magia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Write the words, brother... God is waiting.",
+     "texto_es": "Escribe las palabras, hermano... Dios está esperando."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Like this?",
+     "texto_es": "¿Así?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Yes. Fehu-Nautiz-Uruz will always return you to Doomstadt.",
+     "texto_es": "Sí. Fehu-Nautiz-Uruz siempre te llevará de vuelta a Doomstadt."
+    }
+   ],
+   "lugar": "Dominio de Siniestro",
+   "tono": "Ritualistic",
+   "recorte": "vinetas/page-056-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    592,
+    33,
+    946,
+    526
+   ],
+   "descripcion": "Mister Siniestro abre los brazos de forma dramática aceptando ir con sus captores.",
+   "prompt_en": "Mister Sinister with wide outstretched arms and trailing cape ribbons, posing grandly between two massive Thor figures.",
+   "personajes": [
+    "Mister Siniestro",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Well. If I have an audience... then I'm inclined to give them a show.",
+     "texto_es": "Bueno. Si tengo público... entonces me dispongo a darles un espectáculo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "I will play the accused, and you will be my escorts-- Old Man Thunder and his ward, Lightning. Shall we?",
+     "texto_es": "Yo haré de acusado, y ustedes serán mis escoltas: el Viejo Trueno y su pupilo, Rayo. ¿Nos vamos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Very well.",
+     "texto_es": "Muy bien."
+    }
+   ],
+   "lugar": "Dominio de Siniestro",
+   "tono": "Teatral",
+   "recorte": "vinetas/page-056-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    592,
+    530,
+    946,
+    968
+   ],
+   "descripcion": "Un inmenso rayo de teletransportación cae sobre la plataforma de piedra enviando al grupo a Doomstadt.",
+   "prompt_en": "A massive bright blue lightning bolt striking a stone staircase, creating a glowing rift, with a narrator box at the bottom.",
+   "personajes": [
+    "Mister Siniestro",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "rayo",
+    "teletransportacion",
+    "doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "KKA-DOOM",
+     "texto_es": "KKA-DOOM"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "To Doomstadt...",
+     "texto_es": "A Doomstadt..."
+    }
+   ],
+   "lugar": "Dominio de Siniestro / Portal a Doomstadt",
+   "tono": "Impactante",
+   "recorte": "vinetas/page-056-v6.jpg"
+  }
+ ],
+ "lugar": "Dominio de Siniestro",
+ "numero_comic": 2,
+ "pagina": 56,
+ "archivo": "paginas/page-056.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6269,
+ "_seg": 17.8
+}

@@ -1,0 +1,103 @@
+{
+ "titulo": "Camino a Doomsday (Shorts 01-13)",
+ "fecha": "2026-11-12",
+ "formato": "serie",
+ "estilo": "comic",
+ "voz": null,
+ "serie": "camino-a-doomsday",
+ "piezas": [
+  {
+   "id": "short-01",
+   "tipo": "short",
+   "slug": "por-que-rdj-es-doom",
+   "legacy": "legacy/01-por-que-rdj-es-doom/"
+  },
+  {
+   "id": "short-02",
+   "tipo": "short",
+   "slug": "quien-es-doctor-doom",
+   "legacy": "legacy/02-quien-es-doctor-doom/"
+  },
+  {
+   "id": "short-03",
+   "tipo": "short",
+   "slug": "que-es-el-multiverso",
+   "legacy": "legacy/03-que-es-el-multiverso/"
+  },
+  {
+   "id": "short-04",
+   "tipo": "short",
+   "slug": "incursiones-battleworld",
+   "legacy": "legacy/04-incursiones-battleworld/"
+  },
+  {
+   "id": "short-05",
+   "tipo": "short",
+   "slug": "loki-guardiando-multiverso",
+   "legacy": "legacy/05-loki-guardiando-multiverso/"
+  },
+  {
+   "id": "short-06",
+   "tipo": "short",
+   "slug": "cuatro-fantasticos-doom",
+   "legacy": "legacy/06-cuatro-fantasticos-doom/"
+  },
+  {
+   "id": "short-07",
+   "tipo": "short",
+   "slug": "capitan-america-sam-wilson",
+   "legacy": "legacy/07-capitan-america-sam-wilson/"
+  },
+  {
+   "id": "short-08",
+   "tipo": "short",
+   "slug": "x-men-centinelas",
+   "legacy": "legacy/08-x-men-centinelas/"
+  },
+  {
+   "id": "short-09",
+   "tipo": "short",
+   "slug": "por-que-ver-endgame",
+   "legacy": "legacy/09-por-que-ver-endgame/"
+  },
+  {
+   "id": "short-10",
+   "tipo": "short",
+   "slug": "despues-de-endgame",
+   "legacy": "legacy/10-despues-de-endgame/"
+  },
+  {
+   "id": "short-11",
+   "tipo": "short",
+   "slug": "lista-imprescindibles",
+   "legacy": "legacy/11-lista-imprescindibles/"
+  },
+  {
+   "id": "short-12",
+   "tipo": "short",
+   "slug": "doom-no-es-variante-de-tony",
+   "legacy": "legacy/12-doom-no-es-variante-de-tony/"
+  },
+  {
+   "id": "short-13",
+   "tipo": "short",
+   "slug": "wanda-poscreditos-visionquest",
+   "legacy": "legacy/13-wanda-poscreditos-visionquest/"
+  }
+ ],
+ "musica": {},
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "archivo": true,
+ "_nota": "Shorts originales de la serie, hechos con el generador _gen/lib.py (Episode) y la skill explicando de content-creator. Archivo: no se regeneran con ./tl (su guion-tts/motion-script/spec quedan en legacy/; los mp4 publicados en entrega/publicados/, ignorados). Un Short nuevo en este estilo se hace con el motor comic (ver el short-01 de 2026-11-analisis-trailer-final-doomsday).",
+ "migrado_de": "content-creator/explicando/camino-a-doomsday/NN-*"
+}

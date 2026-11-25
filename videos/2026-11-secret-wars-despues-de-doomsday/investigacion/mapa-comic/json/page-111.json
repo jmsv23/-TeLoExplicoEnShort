@@ -1,0 +1,145 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hacedor y Mister Fantástico observan las batallas en Battleworld desde dentro de un campo de fuerza mientras reflexionan sobre cómo Doctor Doom creó este nuevo e antinatural mundo a partir de los fragmentos del multiverso destruido.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Thor Corps",
+  "Namor",
+  "Cisne Negro (Black Swan)",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "El Hacedor y Reed Richards analizan la creación de Battleworld por parte de Doom",
+  "Enfrentamientos entre los guerreros y defensores de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    330,
+    1000
+   ],
+   "descripcion": "Namor luchando fieramente con su tridente contra miembros del Thor Corps en medio de un estallido de rayos y energía.",
+   "prompt_en": "Comic book panel showing Namor fighting Thor Corps members with his trident amidst electric lightning strikes and snow.",
+   "personajes": [
+    "Namor",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "batalla",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "The Earth that was...the universe that was...",
+     "texto_es": "La Tierra que fue... el universo que fue..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "The multiverse that was...",
+     "texto_es": "El multiverso que fue..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-111-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    330,
+    0,
+    635,
+    1000
+   ],
+   "descripcion": "El Hacedor y Mister Fantástico permanecen erguidos e inmunes dentro de una burbuja de fuerza azul mientras los Thors atacan a su alrededor.",
+   "prompt_en": "Comic book panel of two alternate versions of Reed Richards standing inside a glowing blue protective energy bubble amidst battle chaos.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Thor Corps"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-hacedor",
+    "mister-fantastico",
+    "campo-de-fuerza",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "These were all formed by some higher order--some alien, ethereal other thing that perfectly constructed not just the material nature of everything, but the rules that governed it as well.",
+     "texto_es": "Todos estos fueron formados por algún orden superior, alguna otra cosa alienígena y etérea que construyó a la perfección no solo la naturaleza material de todo, sino también las reglas que lo gobernaban."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "But this world? The new world?",
+     "texto_es": "¿Pero este mundo? ¿El nuevo mundo?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-111-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    635,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Cisne Negro lanza un potente rayo de energía desde sus ojos contra Jane Foster en su forma de Thor, quien bloquea el impacto con Mjolnir cargado de electricidad.",
+   "prompt_en": "Comic book panel of Black Swan firing an optic energy beam at Jane Foster Thor, who deflects it with her glowing hammer Mjolnir.",
+   "personajes": [
+    "Cisne Negro (Black Swan)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "cisne-negro",
+    "thor-jane-foster",
+    "mjolnir",
+    "batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "It was formed from the shattered remnants of broken Earths--I know, for I watched Doom will them into singularity.",
+     "texto_es": "Fue formado a partir de los restos destrozados de Tierras rotas; lo sé, porque vi a Doom unirlos en una singularidad."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "If there's one thing you hear, let it be this: The new world is unnatural. And survival is its first and highest purpose.",
+     "texto_es": "Si hay una cosa que escuchas, que sea esta: El nuevo mundo es antinatural. Y la supervivencia es su primer y más alto propósito."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-111-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 111,
+ "archivo": "paginas/page-111.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4314,
+ "_seg": 13.7
+}

@@ -7,7 +7,7 @@
            o {"id": ..., "pieza": ..., "html": "miniaturas/x.html"} con el <body> a mano (usa las mismas clases)
 
 Clases semánticas que define cada skin: .lienzo .hero .fade .kick .l1 .l2 (acento) .sub .sello .fila .fila-q .vs-linea
-Imágenes: {"img": "id-del-manifiesto", "pos": "50% 30%", "bn": true}. Salida: entrega/<id>.png
+Imágenes: {"img": "id-del-manifiesto", "pos": "50% 30%", "bn": true}. Logo opcional en datos.logo (ver _logo). Salida: entrega/<id>.png
 """
 import json
 import subprocess
@@ -85,6 +85,23 @@ def portada(v, d, w, h):
 LAYOUTS = {"hero": hero, "versus": versus, "portada": portada}
 
 
+def _logo(v, d):
+    """Logo opcional encima de cualquier layout: datos.logo = {"img": id, "x": 56, "y": 24, "w": 300, "blanco": true}.
+    x="centro" lo centra. blanco=true lo pasa a blanco con contorno oscuro (para logos negros sobre foto)."""
+    if not d:
+        return ""
+    if isinstance(d, str):
+        d = {"img": d}
+    src = next((p for p in sorted(v.a_img.glob(f"{d['img']}.*"))), None)
+    if src is None:
+        die(f"miniatura: falta el logo {d['img']} en assets/img/")
+    x = d.get("x", 56)
+    pos = "left:50%;transform:translateX(-50%);" if x == "centro" else f"left:{x}px;"
+    filt = ("filter:brightness(0) invert(1) drop-shadow(0 0 2px #000) drop-shadow(3px 3px 0 #0B0B14) drop-shadow(0 0 10px rgba(0,0,0,.8));"
+            if d.get("blanco", True) else "")
+    return f'<img src="{src.resolve().as_uri()}" style="position:absolute;{pos}top:{d.get("y", 24)}px;width:{d.get("w", 300)}px;z-index:50;{filt}{d.get("css", "")}">'
+
+
 def css_estilo(v):
     d = v.estilo_dir()
     f = d / "miniatura.css"
@@ -108,7 +125,7 @@ def render_uno(v, item):
         lay = item.get("layout") or ("portada" if tipo == "short" else "hero")
         if lay not in L:
             die(f"miniatura {item['id']}: no hay layout «{lay}» (hay: {', '.join(L)})")
-        body = L[lay](v, item.get("datos", {}), w, h)
+        body = L[lay](v, item.get("datos", {}), w, h) + _logo(v, item.get("datos", {}).get("logo"))
     doc = (f'<!doctype html><html lang="es"><head><meta charset="utf-8"><style>*{{margin:0;padding:0;box-sizing:border-box}}'
            f'html,body{{width:{w}px;height:{h}px;overflow:hidden}}body{{position:relative}}\n{css_estilo(v)}\n'
            f'{item.get("css", "")}</style></head><body class="{tipo}">{body}</body></html>')

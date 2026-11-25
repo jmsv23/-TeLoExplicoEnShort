@@ -1,0 +1,253 @@
+{
+ "tipo": "historia",
+ "resumen": "Namor y Pantera Negra (T'Challa) descubren un mensaje holográfico dejado por el fallecido Doctor Strange. Strange les revela la ubicación de dos valiosos artefactos que poseía: el Asedio Peligroso (Siege Courageous) y un segundo objeto oculto en Doomstadt que revela la verdadera naturaleza del Guantelete del Infinito / origen de Battleworld.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Namor y Black Panther descubren el legado secreto del Doctor Strange",
+  "Obtención del Asedio Peligroso (Siege Courageous)"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    35,
+    344,
+    306
+   ],
+   "descripcion": "Namor y Pantera Negra escuchan la voz y holograma del difunto Doctor Strange iniciando su mensaje.",
+   "prompt_en": "Namor and Black Panther standing side by side in dark lighting, glowing blue magical projection in the background, comic art.",
+   "personajes": [
+    "Namor",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "legado-strange",
+    "illuminati"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Illuminatus.",
+     "texto_es": "Illuminatus."
+    }
+   ],
+   "lugar": "Santuario oculto del Doctor Strange",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-170-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    314,
+    344,
+    969
+   ],
+   "descripcion": "Pantera Negra y Namor avanzan por el santuario místico de Strange frente a una estatua de gárgola mientras la voz holográfica de Strange continúa.",
+   "prompt_en": "Black Panther and Namor walking toward a gigantic stone gargoyle head with blue magical aura, dramatic atmosphere.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "legado-strange",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Good. I hope my passing was of consequence.",
+     "texto_es": "Bien. Espero que mi muerte haya tenido trascendencia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Some things--such as my knowledge of this world God Doom and I built together--will be lost forever...",
+     "texto_es": "Algunas cosas, como mi conocimiento de este mundo que el Dios Doom y yo construimos juntos, se perderán para siempre..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "But some may be passed on.",
+     "texto_es": "Pero algunas pueden heredarse."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Desconocido",
+     "texto": "BZZZT",
+     "texto_es": "BZZZT"
+    }
+   ],
+   "lugar": "Santuario oculto del Doctor Strange",
+   "tono": "solemne",
+   "recorte": "vinetas/page-170-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    360,
+    35,
+    641,
+    554
+   ],
+   "descripcion": "Plano general de Namor portando su tridente ante la gargola gigante que sostiene un pequeño contenedor luminoso.",
+   "prompt_en": "Wide shot of Namor standing with trident before a giant gargoyle statue holding a small artifact in its mouth.",
+   "personajes": [
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "artefactos-misticos",
+    "legado-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "As such, I leave to you all the items of true significance that I own...",
+     "texto_es": "Por lo tanto, les dejo todos los objetos de verdadera importancia que poseo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Of which there are only two.",
+     "texto_es": "De los cuales sólo hay dos."
+    }
+   ],
+   "lugar": "Santuario oculto del Doctor Strange",
+   "tono": "epico",
+   "recorte": "vinetas/page-170-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    360,
+    561,
+    641,
+    969
+   ],
+   "descripcion": "Namor examina de cerca el artefacto místico conocido como el Asedio Peligroso (Siege Courageous).",
+   "prompt_en": "Medium shot of Namor looking down at a small ornate golden artifact called Siege Courageous.",
+   "personajes": [
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "siege-courageous",
+    "artefactos-misticos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "The first is one of the few artifacts that transcends the patchwork nature of this planet. The Siege Courageous is an object of power that will transport you anywhere you wish to go...",
+     "texto_es": "El primero es uno de los pocos artefactos que trascienden la naturaleza de remiendos de este planeta. El Asedio Peligroso es un objeto de poder que los transportará a donde deseen ir..."
+    }
+   ],
+   "lugar": "Santuario oculto del Doctor Strange",
+   "tono": "revelador",
+   "recorte": "vinetas/page-170-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    651,
+    35,
+    947,
+    491
+   ],
+   "descripcion": "Pantera Negra en primer plano reacciona impresionado mientras escucha la función del artefacto.",
+   "prompt_en": "Close up of Black Panther looking off to the side with an astonished expression, dark background.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "siege-courageous",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "As well as transform the traveler in a manner befitting their true physical and moral nature.",
+     "texto_es": "Así como transformar al viajero de una manera adecuada a su verdadera naturaleza física y moral."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "My God.",
+     "texto_es": "Dios mío."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "What is it?",
+     "texto_es": "¿Qué es?"
+    }
+   ],
+   "lugar": "Santuario oculto del Doctor Strange",
+   "tono": "tenso",
+   "recorte": "vinetas/page-170-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    651,
+    497,
+    947,
+    969
+   ],
+   "descripcion": "Pantera Negra mira fijamente el contenido de un cofre revelado por Strange donde se encuentra un objeto crucial para derrotar a Doom.",
+   "prompt_en": "Black Panther looking down into a shining chest in awe, strong contrast lighting, high drama comic shot.",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "doomstadt",
+    " battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "The second item is geographically restricted to Doomstadt. Home to Castle Doom, the World Tree and God himself.",
+     "texto_es": "El segundo objeto está restringido geográficamente a Doomstadt. Hogar del Castillo Doom, el Árbol del Mundo y el propio Dios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You might not know that this world has been constructed from the surviving remnants of worlds destroyed in the multiversal collapse.",
+     "texto_es": "Quizás no sepan que este mundo ha sido construido a partir de los restos sobrevivientes de mundos destruidos en el colapso multiversal."
+    }
+   ],
+   "lugar": "Santuario oculto del Doctor Strange",
+   "tono": "epico",
+   "recorte": "vinetas/page-170-v6.jpg"
+  }
+ ],
+ "lugar": "Santuario oculto del Doctor Strange en Battleworld",
+ "numero_comic": 7,
+ "pagina": 170,
+ "archivo": "paginas/page-170.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7253,
+ "_seg": 24.7
+}

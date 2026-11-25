@@ -1,0 +1,163 @@
+{
+ "tipo": "historia",
+ "resumen": "Reed Richards reflexiona desolado mientras el universo se destruye por completo y pierde a su familia durante la última incursión entre la Tierra-616 y la Tierra-1610.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Reflexión y duelo de Reed Richards tras perder a su familia",
+  "Destrucción final del multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    196,
+    1000
+   ],
+   "descripcion": "Un plano de una superficie blanca resplandeciente con destellos de energía azul al fondo y pequeñas piezas flotando.",
+   "prompt_en": "A glowing bright white metallic surface with small debris floating and blue energy lightning crackling in the faint background.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "ultima-incursion",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "You spend your entire life looking for that one perfect someone, and when you find her, you think you'll never love anything more...",
+     "texto_es": "Pasas toda tu vida buscando a esa persona perfecta, y cuando la encuentras, piensas que nunca amarás nada más..."
+    }
+   ],
+   "lugar": "Vacío cósmico",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-036-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    196,
+    0,
+    401,
+    1000
+   ],
+   "descripcion": "Un espacio abstracto de luz blanca cegadora y líneas de destello suave.",
+   "prompt_en": "Blinding stark white light fading subtly into soft gray tones.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "ultima-incursion",
+    "vacio"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Then you have children, and realize what a fool you were to believe that.",
+     "texto_es": "Luego tienes hijos y te das cuenta de lo tonto que fuiste al creer eso."
+    }
+   ],
+   "lugar": "Vacío cósmico",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-036-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    401,
+    0,
+    603,
+    1000
+   ],
+   "descripcion": "Una esfera de materia resquebrajada partiéndose por la mitad con un destello brillante que surge de la grieta.",
+   "prompt_en": "A rocky cosmic sphere cracking into two pieces with bright light bursting violently from the center rupture.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "destruccion-del-multiverso",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And now, I have lost everything.",
+     "texto_es": "Y ahora, lo he perdido todo."
+    }
+   ],
+   "lugar": "Espacio cósmico",
+   "tono": "trágico",
+   "recorte": "vinetas/page-036-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    603,
+    0,
+    804,
+    1000
+   ],
+   "descripcion": "Fragmentos de roca y escombros reducidos a polvo y piezas pequeñas flotando en el espacio gris desolado.",
+   "prompt_en": "Small shattered rock fragments and dust floating isolated in a muted gray space void.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "destruccion-del-multiverso",
+    "escombros"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "We have all lost everything.",
+     "texto_es": "Todos lo hemos perdido todo."
+    }
+   ],
+   "lugar": "Vacío cósmico",
+   "tono": "desesperanzado",
+   "recorte": "vinetas/page-036-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    804,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Un plano blanco y vacío casi en su totalidad, simbolizando la nada absoluta tras el fin de los tiempos.",
+   "prompt_en": "Almost empty white space with tiny distant specks of cosmic dust.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "fin-del-multiverso",
+    "nada"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "My entire life I believed in better days ahead.",
+     "texto_es": "Toda mi vida creí que vendrían días mejores."
+    }
+   ],
+   "lugar": "La nada",
+   "tono": "desolado",
+   "recorte": "vinetas/page-036-v5.jpg"
+  }
+ ],
+ "lugar": "Vacío cósmico / Fin del Multiverso",
+ "numero_comic": 1,
+ "pagina": 36,
+ "archivo": "paginas/page-036.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5126,
+ "_seg": 20.0
+}

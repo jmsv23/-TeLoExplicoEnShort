@@ -1,0 +1,113 @@
+{
+ "tipo": "historia",
+ "resumen": "Los niños de la Fundación Futuro (Valeria Richards, Franklin Richards y sus compañeros alienígenas) prueban los sistemas de gravedad cero y bolsas acuáticas de la balsa de salvamento mientras se preparan para la incursión final.",
+ "personajes": [
+  "Valeria Richards",
+  "Franklin Richards",
+  "[criatura de la Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Pruebas del entorno de gravedad cero en la balsa de salvamento de la Fundación Futuro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    30,
+    346,
+    614
+   ],
+   "descripcion": "Valeria Richards con un traje negro de la Fundación Futuro se lanza a un estanque de agua flotante en gravedad cero.",
+   "prompt_en": "A young female character in a black suit with a white futuristic helmet leaping into a floating pool of water in zero gravity, comic book art.",
+   "personajes": [
+    "Valeria Richards",
+    "[criatura de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "fundacion-futuro",
+    "gravedad-cero"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I think I'll manage.",
+     "texto_es": "Creo que me las arreglaré."
+    }
+   ],
+   "lugar": "Balsa de salvamento de la Fundación Futuro",
+   "tono": "aventurero",
+   "recorte": "vinetas/page-051-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    622,
+    346,
+    966
+   ],
+   "descripcion": "Un ser alienígena de piel púrpura/azul se ajusta un casco de agua asistido por otro miembro de la Fundación Futuro.",
+   "prompt_en": "Close-up of a purple alien humanoid in a sci-fi water helmet assisted by a teammate, soft comic colors.",
+   "personajes": [
+    "[criatura de la Fundación Futuro]"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "fundacion-futuro",
+    "gravedad-cero"
+   ],
+   "textos": [],
+   "lugar": "Balsa de salvamento de la Fundación Futuro",
+   "tono": "calmo",
+   "recorte": "vinetas/page-051-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    361,
+    0,
+    960,
+    1000
+   ],
+   "descripcion": "Gran vista de masa terrestre y agua flotando invertidas en el espacio estrellado. Valeria Richards mira asombrada con los brazos extendidos mientras Franklin Richards flota en el estanque verde.",
+   "prompt_en": "Wide perspective panel showing floating inverted rock formations and a green body of water in deep space, characters floating in zero gravity, breathtaking comic book illustration.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards",
+    "[criatura de la Fundación Futuro]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "fundacion-futuro",
+    "gravedad-cero",
+    "espacio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Cool.",
+     "texto_es": "Genial."
+    }
+   ],
+   "lugar": "Balsa de salvamento de la Fundación Futuro",
+   "tono": "asombro",
+   "recorte": "vinetas/page-051-v3.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento de la Fundación Futuro",
+ "numero_comic": 1,
+ "pagina": 51,
+ "archivo": "paginas/page-051.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5151,
+ "_seg": 19.0
+}

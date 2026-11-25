@@ -1,0 +1,243 @@
+{
+ "tipo": "historia",
+ "resumen": "En medio del caos de la Incursión Final entre la Tierra-616 y la Tierra-1610, las naves de S.H.I.E.L.D. caen del cielo mientras los héroes luchan una batalla perdida. Mientras Iron Man y Capitana Marvel combaten a las fuerzas enemigas, los Guardianes de la Galaxia destruyen maquinaria pesada y la lucha se vuelve cada vez más desesperada.",
+ "personajes": [
+  "Capitana Marvel",
+  "Iron Man",
+  "Black Bolt",
+  "Rocket",
+  "Groot"
+ ],
+ "eventos_clave": [
+  "Incursión final entre Tierra-616 y Tierra-1610",
+  "Destrucción de los Helicarriers de S.H.I.E.L.D.",
+  "Los Guardianes de la Galaxia se unen a la batalla"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    545,
+    629
+   ],
+   "descripcion": "En las calles de Nueva York, civiles y agentes corren aterrorizados entre explosiones mientras una armadura gigante de Iron Man se alza al fondo.",
+   "prompt_en": "Comic book panel, giant robot armor in a burning city destroyed by war, civilians and agents fleeing on the street, explosive action, Marvel style.",
+   "personajes": [
+    "Iron Man"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion-final",
+    "destruccion-urbana",
+    "armadura-gigante"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "...There's no telling what Cyclops has planned.",
+     "texto_es": "...No hay forma de saber qué ha planeado Cíclope."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[agente de S.H.I.E.L.D.]",
+     "texto": "Landfall, Professor Summers. Package intact.",
+     "texto_es": "Aterrizaje completado, profesor Summers. Paquete intacto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[agente de S.H.I.E.L.D.]",
+     "texto": "Your orders?",
+     "texto_es": "¿Sus órdenes?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "Keep everyone away for as long as you can. I need just a little more time.",
+     "texto_es": "Mantengan a todos alejados tanto como puedan. Necesito solo un poco más de tiempo."
+    }
+   ],
+   "lugar": "Nueva York",
+   "tono": "caótico",
+   "recorte": "vinetas/page-017-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    613,
+    535,
+    1000
+   ],
+   "descripcion": "Black Bolt observa desde las alturas mientras varios Helicarriers de S.H.I.E.L.D. envueltos en llamas se estrellan en el cielo.",
+   "prompt_en": "Comic book panel, dramatic high angle shot of Black Bolt overlooking a sky full of burning, falling helicarriers in an apocalyptic battle.",
+   "personajes": [
+    "Black Bolt"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "helicarrier-caida",
+    "incursion",
+    "apocalipsis"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Fury! We're taking heavy losses.",
+     "texto_es": "¡Fury! Estamos sufriendo bajas graves."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Helicarriers are going offline...",
+     "texto_es": "Los Helicarriers están quedando fuera de línea..."
+    }
+   ],
+   "lugar": "Cielo sobre Nueva York",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-017-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    530,
+    31,
+    965,
+    483
+   ],
+   "descripcion": "Capitana Marvel (Carol Danvers) en pleno combate aéreo recibiendo disparos y luchando en medio del fuego.",
+   "prompt_en": "Comic book panel, Captain Marvel fighting enemy armors in mid-air surrounded by fire, dynamic superhero battle pose.",
+   "personajes": [
+    "Capitana Marvel",
+    "Iron Man"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "combate-aereo",
+    "capitana-marvel"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And I've just lost my mobile weapons platform.",
+     "texto_es": "Y acabo de perder mi plataforma de armas móvil."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel",
+     "texto": "Hold as long as you can, Stark.",
+     "texto_es": "Resiste tanto como puedas, Stark."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "ninguno",
+     "texto": "FTOM",
+     "texto_es": "FTOM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel",
+     "texto": "I don't think that--ugh!",
+     "texto_es": "¡No creo que--ugh!"
+    }
+   ],
+   "lugar": "Cielo sobre Nueva York",
+   "tono": "intenso",
+   "recorte": "vinetas/page-017-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    530,
+    412,
+    965,
+    804
+   ],
+   "descripcion": "Rocket Raccoon disparando un gran cañón futurista junto a Groot, disfrutando del caos de la explosión enemiga.",
+   "prompt_en": "Comic book panel, Rocket Raccoon with a huge futuristic gun shouting alongside Groot amidst fiery explosions in battle.",
+   "personajes": [
+    "Rocket",
+    "Groot"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guardianes-de-la-galaxia",
+    "disparos",
+    "humor-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "Nice shooting, Drax!",
+     "texto_es": "¡Buena puntería, Drax!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "There goes a billion dollars worth of red-and-gold crap.",
+     "texto_es": "Ahí van mil millones de dólares en basura roja y dorada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Groot",
+     "texto": "I am Groot.",
+     "texto_es": "Yo soy Groot."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "I do remember when comic books were only a dollar. A dollar's worth of crap!",
+     "texto_es": "¡Recuerdo cuando los cómics costaban solo un dólar. ¡Un dólar de porquería!"
+    }
+   ],
+   "lugar": "Calle destruida de Nueva York",
+   "tono": "cómico",
+   "recorte": "vinetas/page-017-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    530,
+    770,
+    965,
+    977
+   ],
+   "descripcion": "Primer plano de un combatiente blindado con casco rojo resplandeciente amenazando al enemigo.",
+   "prompt_en": "Comic book panel, close-up shot of a villain with glowing red helmet helmet face, menacing tone.",
+   "personajes": [
+    "[soldado enemigo]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "amenaza",
+    "refuerzos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[soldado enemigo]",
+     "texto": "See that, hero? Time to call for backup...",
+     "texto_es": "¿Ves eso, héroe? Es hora de pedir refuerzos..."
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-017-v5.jpg"
+  }
+ ],
+ "lugar": "Tierra-616, Nueva York",
+ "numero_comic": 1,
+ "pagina": 17,
+ "archivo": "paginas/page-017.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5919,
+ "_seg": 19.8
+}

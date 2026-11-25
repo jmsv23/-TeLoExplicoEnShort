@@ -1,0 +1,144 @@
+{
+ "tipo": "historia",
+ "resumen": "Los miembros supervivientes de la Cúbala acampan durante la noche en las ruinas del Reino de Utopolis en Battleworld. Mientras descansan en torno a la fogata, Maximus expresa su fascinación por el extraño comportamiento del sol en este mundo, mientras que Cisne Negro y Corvus Glaive comentan sobre la desolación del terreno y acuerdan separarse al día siguiente para explorar.",
+ "personajes": [
+  "Thanos",
+  "Maximus",
+  "Cisne Negro",
+  "Corvus Glaive",
+  "Proxima Midnight",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "La Cúbala acampa en las ruinas de Utopolis en Battleworld",
+  "Maximus descubre que el sol orbita alrededor del planeta",
+  "La Cúbala decide separarse para explorar el terreno al día siguiente"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    20,
+    158,
+    500
+   ],
+   "descripcion": "Detalle en primer plano de un cráneo o cabeza demoníaca ardiendo en llamas incandescentes.",
+   "prompt_en": "Close-up comic panel of a fiery horned skull head engulfed in glowing orange flames.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "fuego",
+    "craneo-en-llamas",
+    "utopolis"
+   ],
+   "textos": [],
+   "lugar": "El Reino de Utopolis, Battleworld",
+   "tono": "oscuro",
+   "recorte": "vinetas/page-106-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    0,
+    778,
+    1000
+   ],
+   "descripcion": "Vista panorámica nocturna de los integrantes de la Cúbala reunidos en un campamento improvisado alrededor del fuego. Thanos destaca erguido e imponente al fondo mientras Maximus habla gesticulando frente a sus compañeros.",
+   "prompt_en": "Wide comic book panel of Thanos standing tall behind a glowing campfire surrounded by dark villain characters sitting on ruins under a night sky.",
+   "personajes": [
+    "Thanos",
+    "Maximus",
+    "Cisne Negro",
+    "Corvus Glaive",
+    "Proxima Midnight",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "cabala",
+    "battleworld",
+    "utopolis",
+    "campamento"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "The Kingdom of Utopolis.",
+     "texto_es": "El Reino de Utopolis."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus",
+     "texto": "Did you notice the sun today?",
+     "texto_es": "¿Notaron el sol hoy?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus",
+     "texto": "It's madness-- my favorite kind-- but I swear, the sun is orbiting this planet and not the other way around. Fascinating.",
+     "texto_es": "Es locura... mi clase favorita... pero juro que el sol está orbitando este planeta y no al revés. Fascinante."
+    }
+   ],
+   "lugar": "El Reino de Utopolis, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-106-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    778,
+    40,
+    946,
+    960
+   ],
+   "descripcion": "Primer plano de Cisne Negro bebiendo de un recipiente junto a Corvus Glaive, quien con rostro pálido propone dividir el grupo para buscar respuestas.",
+   "prompt_en": "Close up panel showing Black Swan drinking from a flask next to Corvus Glaive with a gaunt pale face speaking.",
+   "personajes": [
+    "Cisne Negro",
+    "Corvus Glaive"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "cabala",
+    "dialogo",
+    "exploracion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "To say it is a strange land is an understatement, Maximus, but fascinating? Hardly.",
+     "texto_es": "Decir que es una tierra extraña es quedarse corto, Maximus, ¿pero fascinante? Difícilmente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Corvus Glaive",
+     "texto": "We covered good ground today, but this wasteland seems unending. A barren nothingness.",
+     "texto_es": "Recorrimos mucho terreno hoy, pero este páramo parece interminable. Una nada estéril."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Corvus Glaive",
+     "texto": "Tomorrow we should split up. Head in different directions.",
+     "texto_es": "Mañana deberíamos separarnos. Ir en distintas direcciones."
+    }
+   ],
+   "lugar": "El Reino de Utopolis, Battleworld",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-106-v3.jpg"
+  }
+ ],
+ "lugar": "El Reino de Utopolis, Battleworld",
+ "numero_comic": 3,
+ "pagina": 106,
+ "archivo": "paginas/page-106.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6117,
+ "_seg": 21.8
+}

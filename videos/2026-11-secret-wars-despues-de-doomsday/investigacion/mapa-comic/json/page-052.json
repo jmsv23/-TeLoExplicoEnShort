@@ -1,0 +1,187 @@
+{
+ "tipo": "historia",
+ "resumen": "Dragon Man y los jóvenes eruditos de la Fundación Futuro exploran una misteriosa formación rocosa en Battleworld. Mientras analizan la actividad sísmica reciente, Dragon Man sugiere que el mundo no es una formación natural sino una estructura compuesta artificialmente, sembrando la duda sobre la naturaleza de su realidad.",
+ "personajes": [
+  "Dragon Man",
+  "Bentley-23",
+  "Valeria Richards",
+  "[miembro de la Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Dragon Man revela datos sobre la actividad sísmica de Battleworld",
+  "Investigación sobre el origen artificial de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    35,
+    323,
+    416
+   ],
+   "descripcion": "Dragon Man camina a través de unas ruinas rocosas en un paisaje alienígena mientras explica sus experimentos sobre la actividad sísmica.",
+   "prompt_en": "A large purple winged creature walking through rock formations under a dark starry sky, comic book style",
+   "personajes": [
+    "Dragon Man",
+    "[miembro de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "battleworld",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[miembro de la Fundación Futuro]",
+     "texto": "Excuse me, Founder. But...what did you mean 'it wasn't an earthquake'?",
+     "texto_es": "Disculpe, Fundador. Pero... ¿qué quiso decir con 'no fue un terremoto'?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "One of the experiments I've been conducting at the Foundation is mapping and comparing the seismic activity of each kingdom. It's not something we broadcast.",
+     "texto_es": "Uno de los experimentos que he estado realizando en la Fundación es mapear y comparar la actividad sísmica de cada reino. No es algo que transmitamos abiertamente."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-052-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    426,
+    323,
+    965
+   ],
+   "descripcion": "Varios miembros de la Fundación Futuro con trajes espaciales y cascos caminan sobre gigantescos dedos de piedra en la superficie del planeta.",
+   "prompt_en": "Explorers in futuristic bio-suits climbing giant stone fingers jutting out of a desert landscape, comic panel",
+   "personajes": [
+    "Bentley-23",
+    "Valeria Richards",
+    "Dragon Man"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "battleworld",
+    "discusion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley-23",
+     "texto": "Yeah. Because some people are obsessed with contradictory theories about the 'origin' of the 'universe.'",
+     "texto_es": "Sí. Porque algunas personas están obsesionadas con teorías contradictorias sobre el 'origen' del 'universo'."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "It's called confirmation bias for a reason, Dragon.",
+     "texto_es": "Se llama sesgo de confirmación por una razón, Dragón."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "debate",
+   "recorte": "vinetas/page-052-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    325,
+    35,
+    946,
+    965
+   ],
+   "descripcion": "Vista panorámica del desierto donde las formaciones rocosas resultan ser los restos petrificados de una mano gigante emergida del suelo.",
+   "prompt_en": "Wide shot of a vast desert landscape featuring giant colossal stone hand emerging from the ground with tiny explorers on top, cinematic comic art",
+   "personajes": [
+    "Dragon Man",
+    "Bentley-23",
+    "Valeria Richards",
+    "[miembro de la Fundación Futuro]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "battleworld",
+    "mano-gigante",
+    "paisaje"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "I'm right to question, Bentley. Look at all this down here.",
+     "texto_es": "Tengo derecho a cuestionar, Bentley. Mira todo esto aquí abajo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "There's literally megatons of evidence that this world is not a naturally occurring construct, but rather a composite of some other kind of--",
+     "texto_es": "Hay literalmente megatones de evidencia de que este mundo no es una construcción de origen natural, sino más bien un compuesto de algún otro tipo de--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley-23",
+     "texto": "Anyway...",
+     "texto_es": "En fin..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "What Dragon Man is trying to say is that the data doesn't support an earthquake.",
+     "texto_es": "Lo que Hombre Dragón intenta decir es que los datos no respaldan un terremoto."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "revelación",
+   "recorte": "vinetas/page-052-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    696,
+    772,
+    946,
+    980
+   ],
+   "descripcion": "Primer plano de Valeria Richards y un joven alienígena con casco reflexionando sobre lo sucedido.",
+   "prompt_en": "Close up panel of futuristic young sci-fi explorers wearing helmets looking worried, detailed comic art",
+   "personajes": [
+    "Valeria Richards",
+    "[miembro de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "misterio",
+    "intriga"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[miembro de la Fundación Futuro]",
+     "texto": "Then what was it?",
+     "texto_es": "¿Entonces qué fue?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "suspenso",
+   "recorte": "vinetas/page-052-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 52,
+ "archivo": "paginas/page-052.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5372,
+ "_seg": 19.0
+}

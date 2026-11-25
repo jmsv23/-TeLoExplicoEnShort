@@ -1,0 +1,136 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom experimenta una visión o recuerdo mientras asciende por una mística escalera de piedra en un vacío luminoso. En su mente se cruzan imágenes de su conflicto con Reed Richards y las palabras filosóficas de Owen Reece sobre el silencio y la percepción.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Confrontación mental entre Doom y Reed Richards",
+  "Reflexión filosófica del Hombre Molécula hacia Victor von Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    33,
+    248,
+    966
+   ],
+   "descripcion": "Una figura encapuchada envuelta en una tenue luz dorada camina de espaldas ascendiendo por una escalera de piedra que flota en un vacío blanco con rocas dispersas.",
+   "prompt_en": "A hooded figure in a golden glow walking up floating stone stairs in a bright white ethereal void with floating rocks, comic art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "escalera-mística",
+    "vacío",
+    "luz-dorada"
+   ],
+   "textos": [],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "místico",
+   "recorte": "vinetas/page-137-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    261,
+    33,
+    497,
+    966
+   ],
+   "descripcion": "Primer plano extremo de la máscara metálica de Doctor Doom y sus ojos desorbitados por la intensidad, iluminado en tonos azulados y púrpuras.",
+   "prompt_en": "Extreme close-up of Doctor Doom's metal mask showing intense wide eyes under blue and purple pencil texture shading, comic panel.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "primer-plano",
+    "mascara-doom",
+    "ojos"
+   ],
+   "textos": [],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "intenso",
+   "recorte": "vinetas/page-137-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    508,
+    33,
+    729,
+    966
+   ],
+   "descripcion": "Un recuerdo o visión donde Doctor Doom en su armadura verde lucha cuerpo a cuerpo y agarra por la fuerza a Reed Richards en medio de un destello cegador.",
+   "prompt_en": "Doctor Doom in green cloak forcefully grabbing Mister Fantastic Reed Richards in a bright flashing light, pencil sketch superhero comic panel.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-vs-reed",
+    "enfrentamiento",
+    "recuerdo"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-137-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    741,
+    33,
+    968,
+    966
+   ],
+   "descripcion": "La figura encapuchada dorada continúa subiendo la escalera flotante en el espacio blanco mientras se escuchan palabras flotantes en globos de diálogo a la izquierda.",
+   "prompt_en": "Hooded figure walking up floating stairs into a vast white void with speech bubbles on the left, ethereal aesthetic comic page.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reflexión",
+    "hombre-molecula",
+    "silencio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Find the quietest place in the world--call it here, call it now--and if you close your eyes and listen, you still won't be able to hear a thing.",
+     "texto_es": "Encuentra el lugar más silencioso del mundo —llámalo aquí, llámalo ahora— y si cierras los ojos y escuchas, aun así no podrás oír nada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Not one thing, Victor. Like most things that perceive, our ears lie so much.",
+     "texto_es": "Ni una sola cosa, Victor. Como la mayoría de las cosas que perciben, nuestros oídos mienten demasiado."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-137-v4.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula",
+ "numero_comic": 9,
+ "pagina": 137,
+ "archivo": "paginas/page-137.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4963,
+ "_seg": 17.4
+}

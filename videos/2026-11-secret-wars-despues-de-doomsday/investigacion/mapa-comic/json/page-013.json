@@ -1,0 +1,251 @@
+{
+ "tipo": "historia",
+ "resumen": "En medio del caos provocado por la incursión final en las calles de Nueva York, Spider-Man intenta mantener a los civiles a salvo mientras ocurren devastadoras explosiones cerca del Edificio Baxter. En el interior, Mister Fantástico, la Cosa, Sue Storm y Black Panther ultiman los preparativos de la Balsa de Salvamento que mantendrá con vida a los elegidos para reconstruir a la humanidad.",
+ "personajes": [
+  "Spider-Man (Peter Parker)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Sue Storm / Mujer Invisible",
+  "Black Panther (T'Challa)"
+ ],
+ "eventos_clave": [
+  "Evacuación de la población civil en Nueva York",
+  "Preparativos finales de la Balsa de Salvamento en el Edificio Baxter"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    245,
+    680
+   ],
+   "descripcion": "Spider-Man intenta dirigir a la multitud aterrorizada hacia un lugar seguro mientras cunde el pánico en las calles de Nueva York.",
+   "prompt_en": "Comic panel of Spider-Man trying to direct panicked civilians on a crowded city street, close-up on scared citizens in the foreground",
+   "personajes": [
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "evacuacion",
+    "panico",
+    "nueva-york",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"They were just men and women, and people need to believe in something more.\"",
+     "texto_es": "\"Solo eran hombres y mujeres, y la gente necesita creer en algo más.\""
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Oooookay, everyone get off the streets. Get someplace safe...",
+     "texto_es": "De acueeeerdo, todos fuera de las calles. Vayan a un lugar seguro..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "I've got this...",
+     "texto_es": "Yo me encargo de esto..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"Uh, maybe.\"",
+     "texto_es": "\"Uh, tal vez.\""
+    }
+   ],
+   "lugar": "Calles de Nueva York",
+   "tono": "caótico",
+   "recorte": "vinetas/page-013-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    680,
+    445,
+    1000
+   ],
+   "descripcion": "Una enorme explosión sacude los alrededores del Edificio Baxter mientras se alza el humo entre los rascacielos.",
+   "prompt_en": "Wide comic shot of a massive fire explosion near tall skyscrapers including the Baxter Building, street signs in foreground",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "baxter-building",
+    "explosion",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE BAXTER BUILDING.",
+     "texto_es": "EL EDIFICIO BAXTER."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "Looks like the situation's gone from bad ta worse...",
+     "texto_es": "Parece que la situación ha pasado de mal a peor..."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BOOM BAM",
+     "texto_es": "BOOM BAM"
+    }
+   ],
+   "lugar": "Edificio Baxter, Nueva York",
+   "tono": "dramático",
+   "recorte": "vinetas/page-013-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    445,
+    33,
+    692,
+    988
+   ],
+   "descripcion": "En el laboratorio del Edificio Baxter, Mister Fantástico supervisa la carga de la balsa mientras acomodan suministros.",
+   "prompt_en": "Comic panel inside a futuristic science laboratory with large machinery, Reed Richards standing in his Fantastic Four uniform near giant cables",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "baxter-building",
+    "preparativos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "...Are we ready ta go, Torch?",
+     "texto_es": "...¿Estamos listos para irnos, Antorcha?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "The supplies are prepped and we're almost done packing, Ben.",
+     "texto_es": "Los suministros están preparados y casi terminamos de empacar, Ben."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "But looking over the lab specs, are we sure we need all this food?",
+     "texto_es": "Pero revisando las especificaciones del lab, ¿estamos seguros de que necesitamos toda esta comida?"
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "urgente",
+   "recorte": "vinetas/page-013-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    692,
+    33,
+    995,
+    458
+   ],
+   "descripcion": "La Cosa carga sobre sus hombros un pesado contenedor metálico mientras explica la importancia de los recursos de la balsa.",
+   "prompt_en": "Low angle shot of the Thing carrying a massive heavy metal crate on his shoulder inside a hi-tech facility, white-suited scientists walking past",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "la-cosa",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "When we realized mankind was doomed, we built this life raft in the hope of restarting the human race. Hydroponics is an excellent medium-range solution, Johnny...",
+     "texto_es": "Cuando nos dimos cuenta de que la humanidad estaba condenada, construimos esta balsa de salvamento con la esperanza de reiniciar la raza humana. La hidroponía es una excelente solución a mediano plazo, Johnny..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "But it's not going to matter if our entire specially chosen science team starves to death in the first month.",
+     "texto_es": "Pero no va a importar si todo nuestro equipo científico especialmente seleccionado muere de hambre en el primer mes."
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "serio",
+   "recorte": "vinetas/page-013-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    692,
+    458,
+    995,
+    988
+   ],
+   "descripcion": "Reed Richards habla con Sue Storm y Black Panther frente a las pantallas del centro de mando de la balsa de salvamento.",
+   "prompt_en": "Close up of Reed Richards with a beard talking to Sue Storm and Black Panther in front of glowing blue computer screens",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "reunion",
+    "incursion-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Speaking of...",
+     "texto_es": "Hablando de..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "What's the E.T.A. on our real cargo, Susan?",
+     "texto_es": "¿Cuál es el tiempo estimado de llegada de nuestra carga real, Susan?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "They're due any minute, T'Challa... But that was before the rain started...",
+     "texto_es": "Deberían llegar en cualquier momento, T'Challa... Pero eso fue antes de que empezara la lluvia..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I'll check in.",
+     "texto_es": "Iré a verificar."
+    }
+   ],
+   "lugar": "Centro de mando de la Balsa de Salvamento",
+   "tono": "preocupado",
+   "recorte": "vinetas/page-013-v5.jpg"
+  }
+ ],
+ "lugar": "Edificio Baxter, Nueva York",
+ "numero_comic": 1,
+ "pagina": 13,
+ "archivo": "paginas/page-013.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 8323,
+ "_seg": 33.5
+}

@@ -1,0 +1,242 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards se comunica a través de hologramas con Alex Power y Bentley 23 mientras investiga inconsistencias en el mundo creado por el Dios Emperador Doom. Valeria admite sentir sospechas de que les están mintiendo sobre la verdad de su mundo.",
+ "personajes": [
+  "Valeria Richards",
+  "Alex Power",
+  "Bentley 23",
+  "[comunicador de la Fundación]"
+ ],
+ "eventos_clave": [
+  "Valeria Richards expresa sospechas sobre la realidad de Battleworld",
+  "Valeria conversa con la Fundación Futuro a través de una transmisión holográfica"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    35,
+    452,
+    606
+   ],
+   "descripcion": "Una toma panorámica de las instalaciones y naves de la Fundación sobre un terreno rojizo y rocoso en Battleworld.",
+   "prompt_en": "Wide shot of futuristic Foundation space vehicles parked on a rocky red desert planet under an orange haze.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "la-fundacion",
+    "tecnologia"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE FOUNDATION.",
+     "texto_es": "LA FUNDACIÓN."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "You guys getting this?",
+     "texto_es": "¿Están recibiendo esto, muchachos?"
+    }
+   ],
+   "recorte": "vinetas/page-156-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    606,
+    452,
+    969
+   ],
+   "descripcion": "Un técnico o piloto de la Fundación con casco y bigote habla por comunicación con hologramas de Alex Power, Valeria Richards y Bentley 23.",
+   "prompt_en": "Comic panel showing a man with helmet and mustache at a control panel looking at small blue hologram figures of teenagers.",
+   "personajes": [
+    "[comunicador de la Fundación]",
+    "Alex Power",
+    "Valeria Richards",
+    "Bentley 23"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "la-fundacion",
+    "comunicacion",
+    "holograma"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[comunicador de la Fundación]",
+     "texto": "Yep, you're coming in loud and clear. How are things on the God Daddy front?",
+     "texto_es": "Sí, te escuchamos fuerte y claro. ¿Cómo van las cosas en el frente del Dios Padre?"
+    }
+   ],
+   "recorte": "vinetas/page-156-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    456,
+    35,
+    712,
+    372
+   ],
+   "descripcion": "Valeria Richards en primer plano analizando pensativa un holograma azulejo de Alex Power.",
+   "prompt_en": "Close up of a blonde girl wearing white and light blue suit touching her chin looking at a glowing blue hologram projection.",
+   "personajes": [
+    "Valeria Richards",
+    "Alex Power"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "investigacion",
+    "holograma"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Ever getting the feeling you're being lied to?",
+     "texto_es": "¿Alguna vez sienten que les están mintiendo?"
+    }
+   ],
+   "recorte": "vinetas/page-156-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    456,
+    381,
+    712,
+    969
+   ],
+   "descripcion": "Alex Power sosteniendo el emisor holográfico de Valeria mientras habla con Bentley 23 en una habitación futurista.",
+   "prompt_en": "Young blonde man in black futuristic suit holding a small hologram projector talking with a young dark-haired man in a white suit.",
+   "personajes": [
+    "Alex Power",
+    "Bentley 23",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "alex-power",
+    "bentley-23",
+    "la-fundacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley 23",
+     "texto": "Not really. No.",
+     "texto_es": "No realmente. No."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "That's because I'm an awesome liar.",
+     "texto_es": "Eso es porque soy un mentiroso impresionante."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "A super liar, actually. It might be my best trait.",
+     "texto_es": "Un súper mentiroso, de hecho. Podría ser mi mejor atributo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley 23",
+     "texto": "You think?",
+     "texto_es": "¿Tú crees?"
+    }
+   ],
+   "recorte": "vinetas/page-156-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    724,
+    35,
+    980,
+    472
+   ],
+   "descripcion": "Primer plano de Bentley 23 tocándose la mejilla con una expresión de duda intrigante.",
+   "prompt_en": "Close up comic shot of a young man with dark hair in a white uniform touching his cheek slyly.",
+   "personajes": [
+    "Bentley 23"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "bentley-23",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley 23",
+     "texto": "I don't know...",
+     "texto_es": "No lo sé..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley 23",
+     "texto": "I could be lyyyying.",
+     "texto_es": "Podría estar mintiendoooo."
+    }
+   ],
+   "recorte": "vinetas/page-156-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    724,
+    483,
+    980,
+    969
+   ],
+   "descripcion": "Valeria Richards caminando mientras se toca la cabeza con la mano derecha, agobiada por sus instintos de investigación.",
+   "prompt_en": "Full body shot of a young blonde female scientist in futuristic suit touching her forehead while carrying a handheld holo-device.",
+   "personajes": [
+    "Valeria Richards",
+    "Alex Power"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "duda",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "Ignore Bentley. You okay?",
+     "texto_es": "Ignora a Bentley. ¿Estás bien?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I've got spiders in my head, Alex. I'm having a hard time ignoring my normal instincts and keeping my nose from where it shouldn't be.",
+     "texto_es": "Tengo arañas en la cabeza, Alex. Me cuesta trabajo ignorar mis instintos normales y no meter las narices donde no debería."
+    }
+   ],
+   "recorte": "vinetas/page-156-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld / La Fundación",
+ "numero_comic": 4,
+ "pagina": 156,
+ "archivo": "paginas/page-156.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5469,
+ "_seg": 19.8
+}

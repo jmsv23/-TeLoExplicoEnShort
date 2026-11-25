@@ -1,0 +1,250 @@
+{
+ "tipo": "historia",
+ "resumen": "En el epílogo de Secret Wars, la Fundación Futuro (junto a Sue Storm, Reed Richards, Franklin y Valeria) trabaja activamente para recrear el multiverso y explorar las nuevas realidades recién creadas, comparando su labor exploratoria y creadora con una expedición mítica.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Franklin Richards",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "[Dragon Man]",
+  "[Bentley-23]",
+  "[Alex Power]"
+ ],
+ "eventos_clave": [
+  "Reconstrucción del Multiverso por la Fundación Futuro",
+  "Epílogo de Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    76,
+    347,
+    342
+   ],
+   "descripcion": "Primer plano de Sue Storm sonriendo y hablando con entusiasmo sobre su misión de exploración.",
+   "prompt_en": "Close-up panel of a blonde superheroine smiling and talking, cosmic blue gradient background.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sue-storm",
+    "fundacion-futuro",
+    "reconstruccion-multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "So we're like Lewis and Clark, except for all of existence.",
+     "texto_es": "Así que somos como Lewis y Clark, excepto por toda la existencia."
+    }
+   ],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "esperanzador",
+   "recorte": "vinetas/page-251-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    23,
+    347,
+    332,
+    964
+   ],
+   "descripcion": "La Fundación Futuro reunida en una formación rocosa recién creada en medio del cosmos.",
+   "prompt_en": "Group of comic characters in futuristic white and black suits standing on a floating cosmic rock platform.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Franklin Richards",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "fundacion-futuro",
+    "reconstruccion-multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Well...sure, Mom, if Lewis and Clark were also creating the land they were exploring.",
+     "texto_es": "Bueno... claro, mamá, si Lewis y Clark también estuvieran creando la tierra que estaban explorando."
+    }
+   ],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-251-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    346,
+    38,
+    638,
+    323
+   ],
+   "descripcion": "Dragon Man ajustándose sus gafas mientras opina con arrogancia intelectual.",
+   "prompt_en": "A purple gargoyle-like creature wearing glasses adjusting them with one hand.",
+   "personajes": [
+    "[Dragon Man]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "dragon-man",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Dragon Man]",
+     "texto": "And were smarter.",
+     "texto_es": "Y fueran más inteligentes."
+    }
+   ],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "humorístico",
+   "recorte": "vinetas/page-251-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    346,
+    330,
+    638,
+    574
+   ],
+   "descripcion": "Bentley-23 posando con las manos en la cintura con tono arrogante y divertido.",
+   "prompt_en": "A young boy in a white futuristic uniform posing with hands on hips, cosmic backdrop.",
+   "personajes": [
+    "[Bentley-23]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "bentley-23",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Bentley-23]",
+     "texto": "And totally better looking.",
+     "texto_es": "Y totalmente más atractivos."
+    }
+   ],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "humorístico",
+   "recorte": "vinetas/page-251-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    346,
+    578,
+    638,
+    964
+   ],
+   "descripcion": "Sue Storm da media vuelta para volver al trabajo mientras Reed la observa.",
+   "prompt_en": "A blonde woman in white superhero suit walking away from a man in black suit on a icy landscape.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sue-storm",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Okay. Gotta work now.",
+     "texto_es": "De acuerdo. A trabajar ahora."
+    }
+   ],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "cotidiano",
+   "recorte": "vinetas/page-251-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    646,
+    0,
+    990,
+    735
+   ],
+   "descripcion": "Vista panorámica con una nave espacial futurista y la Fundación Futuro caminando mientras debaten cómo crear las leyes físicas y mitos de los nuevos mundos.",
+   "prompt_en": "Wide panel of a white sleek spaceship parked on a white snowy landscape, characters walking in distance talking.",
+   "personajes": [
+    "Franklin Richards",
+    "[Alex Power]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "nave-espacial",
+    "fundacion-futuro",
+    "creacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Did you guys talk about how we should start, Alex?",
+     "texto_es": "¿Hablaron de cómo deberíamos empezar, Alex?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex Power]",
+     "texto": "Yeah. And at first, I thought that we'd need to start with the underlying physics of it all. But then Onome noticed that Franklin's actually playing pretty fast and loose with the entire superstructure...",
+     "texto_es": "Sí. Y al principio pensé que tendríamos que empezar con la física subyacente de todo. Pero luego Onome se dio cuenta de que Franklin en realidad está improvisando bastante con toda la superestructura..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex Power]",
+     "texto": "...So my best guess right now? I think we have to start with creation myths. Which, of course, leads to a totally separate set of problems having to do with...",
+     "texto_es": "...¿Así que mi mejor sugerencia ahora mismo? Creo que tenemos que empezar con mitos de creación. Lo cual, por supuesto, lleva a un conjunto de problemas totalmente separado que tiene que ver con..."
+    }
+   ],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "intelectual",
+   "recorte": "vinetas/page-251-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    646,
+    731,
+    930,
+    964
+   ],
+   "descripcion": "Primer plano de Valeria Richards escuchando con una sonrisa confiada.",
+   "prompt_en": "Close-up panel of a young blonde girl with a subtle confident smirk looking down.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards"
+   ],
+   "textos": [],
+   "lugar": "Espacio exterior / Nueva creación",
+   "tono": "tranquilo",
+   "recorte": "vinetas/page-251-v7.jpg"
+  }
+ ],
+ "lugar": "Espacio exterior / Nueva creación de universos",
+ "numero_comic": 9,
+ "pagina": 251,
+ "archivo": "paginas/page-251.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5462,
+ "_seg": 31.7
+}

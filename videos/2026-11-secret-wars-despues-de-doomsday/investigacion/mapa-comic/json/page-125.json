@@ -1,0 +1,162 @@
+{
+ "tipo": "historia",
+ "resumen": "Cíclope, imbuido con el poder de la Fuerza Fénix, confronta y ataca frontalmente al Dios Emperador Doom, proclamando la supremacía mutante sobre Battleworld antes de ser contrarrestado.",
+ "personajes": [
+  "Cíclope (con el Fénix)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Cíclope ataca al Dios Emperador Doom con el poder del Fénix",
+  "Cíclope proclama el dominio mutante sobre Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    547,
+    1000
+   ],
+   "descripcion": "Cíclope, rodeado por la energía radiante del Fénix, lanza un potente disparo de energía cósmica a través de su visor hacia el Dios Emperador Doom.",
+   "prompt_en": "Comic book splash panel showing a superhero in a red and white suit firing a massive beam of golden cosmic energy from his mask and hands at a glowing figure standing in a dusty landscape.",
+   "personajes": [
+    "Cíclope (con el Fénix)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ciclope-fenix",
+    "doom-dios",
+    "combate",
+    "fuerza-fenix"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "The future cannot be denied.",
+     "texto_es": "El futuro no se puede negar."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "WHRRRGGHHH",
+     "texto_es": "WHRRRGGHHH"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-125-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    547,
+    30,
+    804,
+    982
+   ],
+   "descripcion": "Cíclope comienza a sentir el abrasador e inmenso poder de Doom envolviéndolo, pero continúa expresando su desdén por la divinidad de Doom.",
+   "prompt_en": "Comic panel showing a close-up of a masked figure burning with fiery energy on the left, while a silhouetted figure in white smoke speaks arrogantly on the right.",
+   "personajes": [
+    "Cíclope (con el Fénix)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ciclope-fenix",
+    "doom-dios",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "In the end, you're just like every other man. For a time, playing at something greater than what you are...",
+     "texto_es": "Al final, eres igual a cualquier otro hombre. Por un tiempo, jugando a ser algo más grande de lo que eres..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "And I?",
+     "texto_es": "¿Y yo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "I am mutant-- more than man...",
+     "texto_es": "Yo soy mutante... más que un hombre..."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "HHRRRBAARRGH!",
+     "texto_es": "HHRRRBAARRGH!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-125-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    804,
+    30,
+    977,
+    982
+   ],
+   "descripcion": "Primer plano del rostro de Cíclope con su visor X deslumbrando fuego divino mientras asegura que el mundo le pertenece, cortándose a mitad de palabra.",
+   "prompt_en": "Extreme close-up panel of a superhero visor shaped like an X glowing with blinding golden yellow light, speech bubbles above.",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ciclope-fenix",
+    "discurso",
+    "climax"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "I am the future here in the present.",
+     "texto_es": "Yo soy el futuro aquí en el presente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "And all worlds-- even yours-- belong to us...",
+     "texto_es": "Y todos los mundos... incluso el tuyo... nos pertenecen..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "This planet is ours...",
+     "texto_es": "Este planeta es nuestro..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "This planet is min--",
+     "texto_es": "Este planeta es mí--"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-125-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 125,
+ "archivo": "paginas/page-125.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5584,
+ "_seg": 19.8
+}

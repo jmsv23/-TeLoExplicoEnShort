@@ -1,0 +1,165 @@
+{
+ "tipo": "historia",
+ "resumen": "James Braddock es escoltado por los Thor Corps a lo largo del ápice del Escudo, la colosal muralla defensiva de Battleworld. Tras ser desterrado, se prepara junto a una caja de pertrechos para asumir su destino en la frontera exterior mientras reflexiona sobre su pasado.",
+ "personajes": [
+  "Capitán Britania / James Braddock",
+  "Thor Corps",
+  "[guardia del Escudo]"
+ ],
+ "eventos_clave": [
+  "Llegada de James Braddock al Escudo",
+  "Preparación para el servicio en el Escudo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    410,
+    1000
+   ],
+   "descripcion": "Vista panorámica del Escudo, una inmensa muralla de piedra que se extiende hasta el horizonte al atardecer. En el camino superior, un grupo de guerreros Thor escolta a un hombre vestido con traje blanco y púrpura.",
+   "prompt_en": "Establishing shot of a colossal stone fortress wall called The Shield extending to the distant horizon under a warm sunset sky. A small group of heroes and warriors walks along the top pathway of the wall.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "Thor Corps",
+    "[guardia del Escudo]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "battleworld",
+    "thor-corps",
+    "paisaje"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE SHIELD.",
+     "texto_es": "EL ESCUDO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Two hundred and fifty feet tall and sixteen thousand miles long--each bit built by God Doom's own hands.",
+     "texto_es": "Doscientos cincuenta pies de alto y dieciséis mil millas de largo... cada pedazo construido por las propias manos del Dios Doom."
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "épico",
+   "recorte": "vinetas/page-071-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    410,
+    31,
+    658,
+    966
+   ],
+   "descripcion": "Vista de plano medio donde James Braddock se detiene ante una caja metálica depositada en el suelo junto a un guardia blindado, mientras dos miembros de los Thor Corps observan a su espalda.",
+   "prompt_en": "Medium shot of heroes standing on top of a stone wall. A man in purple and white costume stands before a metal chest and an armored soldier, with two Thor warriors behind him.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "Thor Corps",
+    "[guardia del Escudo]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-escudo",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "As good a place as any for a man to die.",
+     "texto_es": "Un lugar tan bueno como cualquier otro para que un hombre muera."
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-071-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    667,
+    31,
+    980,
+    665
+   ],
+   "descripcion": "James Braddock agachándose levemente mientras comienza a equiparse con piezas de armadura sobre la caja de suministros, dirigiéndose a uno de los Thor Corps.",
+   "prompt_en": "Comic book panel showing a dark-haired man putting on metal armor pieces, talking to a Thor warrior holding Mjolnir beside him.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "preparacion",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "Once I saw you from the street as a boy. I looked up and imagined you a god, or if not a god at least something greater than just a man.",
+     "texto_es": "Una vez te vi desde la calle cuando era un niño. Miré hacia arriba e imaginé que eras un dios, o si no un dios, al menos algo más grande que un simple hombre."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "And now you get to watch me fall.",
+     "texto_es": "Y ahora puedes verme caer."
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "dramático",
+   "recorte": "vinetas/page-071-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    667,
+    665,
+    995,
+    995
+   ],
+   "descripcion": "Primer plano de James Braddock colocándose un guantelete blindado mientras mira solemnemente hacia un lado.",
+   "prompt_en": "Close up portrait of a dark-haired man with a goatee adjusting an armored metal gauntlet, serious expression, comic book style.",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "primer-plano",
+    "resolucion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Look how far you've come.",
+     "texto_es": "Mira lo lejos que has llegado."
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "solemne",
+   "recorte": "vinetas/page-071-v4.jpg"
+  }
+ ],
+ "lugar": "El Escudo (Battleworld)",
+ "numero_comic": 2,
+ "pagina": 71,
+ "archivo": "paginas/page-071.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5211,
+ "_seg": 18.3
+}

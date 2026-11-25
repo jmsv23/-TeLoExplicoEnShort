@@ -1,0 +1,168 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico (Reed Richards de la Tierra-616) le habla a Sue Storm sobre la farsa de Battleworld creada por Doctor Doom, revelándole su verdadera identidad y su determinación para restaurar la realidad.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Sue Storm / Mujer Invisible",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Valeria Richards",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Reed Richards de la Tierra-616 revela su identidad a Sue Storm",
+  "Reed promete solucionar la distorsión de la realidad creada por Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    630,
+    1000
+   ],
+   "descripcion": "Una colisión masiva entre figuras robóticas/armaduras celestiales con un intenso choque de rayos de energía azul brillante.",
+   "prompt_en": "Giant high-tech armored mech figures clashing with glowing blue energy beam in space background",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "choque-de-energia"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And however well-intentioned this world of his is, I mean to put things back the way they are supposed to be.",
+     "texto_es": "Y por muy bien intencionado que sea este mundo suyo, pretendo volver a poner las cosas como se supone que deben estar."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I mean to end this charade.",
+     "texto_es": "Pretendo poner fin a esta farsa."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-226-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    634,
+    34,
+    948,
+    497
+   ],
+   "descripcion": "Reed Richards con barba se encuentra de noche en un bosque conversando con Sue Storm, sus niños y El Hacedor.",
+   "prompt_en": "Superhero characters standing in a misty night forest landscape talking to each other",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Valeria Richards",
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reunion-familia",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Because this is not the life we are supposed to have. Not Val. Not me.",
+     "texto_es": "Porque esta no es la vida que se supone que debemos tener. Ni Val. Ni yo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And certainly not you, Susan.",
+     "texto_es": "Y ciertamente tú tampoco, Susan."
+    }
+   ],
+   "lugar": "Bosque de Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-226-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    634,
+    502,
+    948,
+    715
+   ],
+   "descripcion": "Primer plano de Sue Storm mirando con confusión y desconcierto.",
+   "prompt_en": "Close-up comic portrait of a blonde superhero woman looking suspicious and confused",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sue-storm",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Who... are you? Really?",
+     "texto_es": "¿Quién... eres tú? ¿Realmente?"
+    }
+   ],
+   "lugar": "Bosque de Battleworld",
+   "tono": "intrigado",
+   "recorte": "vinetas/page-226-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    634,
+    720,
+    948,
+    960
+   ],
+   "descripcion": "Primer plano intenso de Reed Richards con barba mirando directamente con determinación absoluta.",
+   "prompt_en": "Close-up comic portrait of a bearded superhero man with intense blue eyes looking determined",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reed-richards",
+    "momento-clave",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "My name is Reed Richards...",
+     "texto_es": "Mi nombre es Reed Richards..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "...And I'm the one who fixes things.",
+     "texto_es": "...Y yo soy quien arregla las cosas."
+    }
+   ],
+   "lugar": "Bosque de Battleworld",
+   "tono": "determinado",
+   "recorte": "vinetas/page-226-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 6,
+ "pagina": 226,
+ "archivo": "paginas/page-226.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5538,
+ "_seg": 20.0
+}

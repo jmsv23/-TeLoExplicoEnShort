@@ -1,0 +1,173 @@
+{
+ "tipo": "historia",
+ "resumen": "God Emperor Doom cuestiona a Black Panther (T'Challa), quien yace herido pero sonriente. T'Challa le confiesa que han estado ganando tiempo y que el ataque masivo a Battleworld es solo una distracción. Doom comprende la estratagema al tiempo que un destello de luz o portal se abre en el campo de batalla.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Black Panther (T'Challa)",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "Black Panther revela que la invasión es una distracción para ganar tiempo",
+  "Doctor Doom comprende que ha sido engañado",
+  "Aparición de un portal luminoso en el campo de batalla"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    332,
+    349
+   ],
+   "descripcion": "Doctor Doom con túnica blanca mira fijamente a T'Challa con incredulidad y sospecha.",
+   "prompt_en": "Comic book panel, close up of Doctor Doom in a white cloak and metallic mask looking suspicious and questioning.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "confrontacion",
+    "interrogatorio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "A lesser. A fool who doesn't know that he's beaten. A smiling fool who... who...",
+     "texto_es": "Alguien inferior. Un tonto que no sabe que está derrotado. Un tonto sonriente que... que..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Wait. Why are you smiling at me, T'Challa? Why are you--",
+     "texto_es": "Espera. ¿Por qué me estás sonriendo, T'Challa? ¿Por qué estás--"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-231-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    349,
+    332,
+    661
+   ],
+   "descripcion": "Black Panther (T'Challa), ensangrentado y maltrecho, sonríe desafiante mientras responde a Doom.",
+   "prompt_en": "Comic panel, medium close up of wounded Black Panther bleeding from his face, smiling defiantly.",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "black-panther",
+    "resistencia",
+    "distraccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "B-because we were biding time... and you're going to... to lose. All this... structured chaos... It... it... reeks of machination... D-doesn't it?",
+     "texto_es": "P-porque estábamos ganando tiempo... y vas a... a perder. Todo este... caos estructurado... H-huele... a maquinación... ¿V-verdad?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-231-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    24,
+    661,
+    332,
+    962
+   ],
+   "descripcion": "Plano extremo detalle del ojo de Doom a través del visor de su máscara de metal al darse cuenta del engaño.",
+   "prompt_en": "Comic panel extreme close-up of Doctor Doom's eye visible inside his iron mask, sudden realization.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "revelacion",
+    "ojo-primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "This is all a distraction.",
+     "texto_es": "Todo esto es una distracción."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-231-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    344,
+    0,
+    674,
+    1000
+   ],
+   "descripcion": "Vista panorámica del campo de batalla destruido con héroes y villanos caídos, donde T'Challa yace en el suelo mientras un brillante haz de luz portal se abre ante él.",
+   "prompt_en": "Wide comic panel of a chaotic apocalyptic battlefield with bodies scattered, T'Challa lying injured as a bright vertical glowing energy portal opens in front of him.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "campo-de-batalla",
+    "portal",
+    "caos",
+    "batalla-final"
+   ],
+   "textos": [],
+   "lugar": "Jardines del Castillo de Doom",
+   "tono": "caótico",
+   "recorte": "vinetas/page-231-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    674,
+    38,
+    977,
+    962
+   ],
+   "descripcion": "Vista aérea superior de los jardines y el puente del castillo de Doom de noche, mostrando el punto brillante del portal cerca del río.",
+   "prompt_en": "High angle aerial landscape shot of a stone bridge over a river in dark castle gardens with a glowing white rift of light below.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "vista-aerea",
+    "castillo-doom",
+    "paisaje"
+   ],
+   "textos": [],
+   "lugar": "Jardines del Castillo de Doom",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-231-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld, Castillo de Doom",
+ "numero_comic": 7,
+ "pagina": 231,
+ "archivo": "paginas/page-231.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5550,
+ "_seg": 21.3
+}

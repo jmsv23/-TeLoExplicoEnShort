@@ -1,0 +1,87 @@
+{
+ "tipo": "historia",
+ "resumen": "La balsa de salvamento de la Cábula se abre finalmente en Battleworld, dejando salir a Thanos, el Hacedor, la Cisne Negro, Proxima Midnight y Corvus Glaive. Thanos contempla el exterior por primera vez y pregunta dónde están.",
+ "personajes": [
+  "Thanos",
+  "Cisne Negro (Black Swan)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Proxima Midnight",
+  "Corvus Glaive"
+ ],
+ "eventos_clave": [
+  "Apertura de la balsa de salvamento de la Cábula en Battleworld",
+  "Thanos y la Cábula despiertan en el nuevo mundo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    742,
+    1000
+   ],
+   "descripcion": "Vista en contrapicado desde fuera de la balsa de salvamento. La gran puerta de metal se abre para revelar a los miembros de la Cábula (Cisne Negro, el Hacedor, Proxima Midnight, Corvus Glaive y Thanos) parados en la penumbra. En primer plano en el suelo yacen sus armas caídas.",
+   "prompt_en": "Low angle view of a group of dark sinister villains emerging from the illuminated interior of a spaceship doorway, weapons lying on the dusty ground in foreground, comic book art style by Esad Ribic.",
+   "personajes": [
+    "Thanos",
+    "Cisne Negro (Black Swan)",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Proxima Midnight",
+    "Corvus Glaive"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "cabala",
+    "battleworld",
+    "revelacion"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-082-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    742,
+    33,
+    988,
+    967
+   ],
+   "descripcion": "Primer plano horizontal de Thanos en su armadura dorada y casco, mirando fijamente hacia adelante con expresión severa e inquisitiva sobre un fondo negro.",
+   "prompt_en": "Close up of Thanos wearing his golden helmet and shoulder armor, looking forward solemnly against a black background, comic panel style by Esad Ribic.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thanos",
+    "cabala",
+    "pregunta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "What is this place?",
+     "texto_es": "¿Qué es este lugar?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-082-v2.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 82,
+ "archivo": "paginas/page-082.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3915,
+ "_seg": 18.0
+}

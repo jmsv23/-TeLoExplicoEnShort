@@ -1,0 +1,208 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico (Reed Richards 616) y El Hacedor (Reed Richards Ultimate) conversan en su base de operaciones en el Proyecto 42 dentro de Battleworld sobre cómo enfrentar al Dios Emperador Doom y qué consecuencias tendría derrotarlo o destruirlo.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)"
+ ],
+ "eventos_clave": [
+  "Discusión estratégica entre Reed Richards de la Tierra-616 y el Hacedor sobre cómo derrotar a Doom",
+  "Debate moral sobre las consecuencias de destruir a Doom y el destino de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    510,
+    1000
+   ],
+   "descripcion": "Vista panorámica del desolado paisaje árido del Proyecto 42 en Battleworld, mostrando una gigantesca estructura metálica enterrada en las rocas y artefactos esféricos flotando en el cielo.",
+   "prompt_en": "Wide shot of a barren desert landscape with massive buried ancient machinery and metallic head-shaped structures on Battleworld, spherical probes floating in the pale sky, comic art style by Esad Ribic.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "proyecto-42",
+    "paisaje"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "PROJECT 42. SOMEWHERE INSIDE BATTLEWORLD.",
+     "texto_es": "PROYECTO 42. EN ALGÚN LUGAR DENTRO DE BATTLEWORLD."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "IF WE TREAT THIS SIMPLY AS A PROBLEM TO BE SOLVED...",
+     "texto_es": "SI TRATAMOS ESTO SIMPLEMENTE COMO UN PROBLEMA A RESOLVER..."
+    }
+   ],
+   "lugar": "Proyecto 42, Battleworld",
+   "tono": "analítico",
+   "recorte": "vinetas/page-158-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    510,
+    31,
+    755,
+    666
+   ],
+   "descripcion": "Mister Fantástico con barba y su uniforme de los Cuatro Fantásticos habla junto al Hacedor, quien viste su casco distintivo y manipula instrumentos tecnológicos.",
+   "prompt_en": "Comic panel showing Reed Richards with a beard standing next to the Maker in his helmet, operating lab equipment inside a dark high-tech base.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hacedor",
+    "reed-richards",
+    "debate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "...THEN I WOULD ARGUE THE QUESTION OF \"CAN WE\" MUST BE SECONDARY TO \"SHOULD WE.\"",
+     "texto_es": "...ENTONCES ARGUMENTARÍA QUE LA PREGUNTA DE \"¿PODEMOS?\" DEBE SER SECUNDARIA A \"¿DEBERÍAMOS?\"."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Well, I would argue that you're wrong.",
+     "texto_es": "Bueno, yo argumentaría que estás equivocado."
+    }
+   ],
+   "lugar": "Laboratorio del Proyecto 42",
+   "tono": "tenso",
+   "recorte": "vinetas/page-158-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    510,
+    678,
+    755,
+    969
+   ],
+   "descripcion": "Primer plano del Hacedor sosteniendo una esfera pequeña mientras explica su plan para destruir a Doom.",
+   "prompt_en": "Close-up of the Maker wearing his futuristic blue helmet, holding a small metallic sphere, speaking coldly, comic book style.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hacedor",
+    "plan-contra-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "The primary problem-- our ONLY problem-- is finding a way to defeat Doom. To that end, we need to locate a weakness. Some kind of crack in that heavenly armor of his.",
+     "texto_es": "El problema principal, nuestro ÚNICO problema, es encontrar una forma de derrotar a Doom. Para ese fin, necesitamos localizar una debilidad. Algún tipo de grieta en esa armadura celestial suya."
+    }
+   ],
+   "lugar": "Laboratorio del Proyecto 42",
+   "tono": "frío",
+   "recorte": "vinetas/page-158-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    763,
+    31,
+    977,
+    622
+   ],
+   "descripcion": "Mister Fantástico mira de reojo con preocupación mientras el Hacedor continúa examinando el dispositivo esférico.",
+   "prompt_en": "Medium shot of bearded Reed Richards looking skeptical while the Maker turned slightly away holds a device.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reed-richards",
+    "hacedor",
+    "conflicto-moral"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "AND IF WE DEFEAT HIM--",
+     "texto_es": "Y SI LO DERROTAMOS--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Oh, I mean to destroy him.",
+     "texto_es": "Oh, me refiero a DESTRUIRLO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "SEMANTICS. WHAT THEN HAPPENS TO THIS WORLD? ALL THAT REMAINS OF WHAT WAS...",
+     "texto_es": "SEMÁNTICA. ¿QUÉ PASA ENTONCES CON ESTE MUNDO? TODO LO QUE QUEDA DE LO QUE FUE..."
+    }
+   ],
+   "lugar": "Laboratorio del Proyecto 42",
+   "tono": "serio",
+   "recorte": "vinetas/page-158-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    763,
+    627,
+    977,
+    969
+   ],
+   "descripcion": "Primer plano del rostro barbudo de Mister Fantástico, mostrando preocupación moral y profunda reflexión sobre el destino de la realidad.",
+   "prompt_en": "Close-up of bearded Reed Richards looking troubled and introspective, dark blue light background, highly detailed digital comic art.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reed-richards",
+    "reflexion",
+    "destino-del-mundo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "...DOES IT JUST FLY APART? SIMPLY CEASE TO EXIST? OR WOULD IT SOMEHOW REMAIN?",
+     "texto_es": "...¿SIMPLEMENTE SE DESMORONA? ¿SIMPLEMENTE DEJA DE EXISTIR? ¿O DE ALGUNA MANERA PERMANECERÍA?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "WE HAVE TO BE CONCERNED ABOUT WHAT'S ON THE OTHER SIDE OF DOOM.",
+     "texto_es": "TENEMOS QUE PREOCUPARNOS POR LO QUE HAY AL OTRO LADO DE DOOM."
+    }
+   ],
+   "lugar": "Laboratorio del Proyecto 42",
+   "tono": "dramático",
+   "recorte": "vinetas/page-158-v5.jpg"
+  }
+ ],
+ "lugar": "Proyecto 42, Battleworld",
+ "numero_comic": 6,
+ "pagina": 158,
+ "archivo": "paginas/page-158.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5182,
+ "_seg": 17.6
+}

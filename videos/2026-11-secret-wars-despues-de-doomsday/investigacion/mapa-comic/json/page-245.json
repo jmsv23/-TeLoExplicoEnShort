@@ -1,0 +1,51 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de transición con texto indicando un salto temporal de ocho meses hacia adelante y el restablecimiento del Universo Marvel y la Tierra Prima.",
+ "personajes": [],
+ "eventos_clave": [
+  "Salto temporal de ocho meses",
+  "Restauracion de la Tierra Prima"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página blanca minimalista con un símbolo geométrico en la parte superior y texto gris centrado que anuncia un salto temporal de ocho meses y la ubicación en el Universo Marvel / Tierra Prima.",
+   "prompt_en": "A minimalist white graphic page with centered elegant grey typography reading 'EIGHT MONTHS LATER', 'THE MARVEL UNIVERSE', 'THE PRIME EARTH' with geometric emblem designs.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "eight-months-later",
+    "prime-earth",
+    "transicion",
+    "marvel-universe"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "Eight months later. The Marvel Universe. The Prime Earth.",
+     "texto_es": "Ocho meses después. El Universo Marvel. La Tierra Prima."
+    }
+   ],
+   "lugar": "Tierra Prima",
+   "tono": "epico",
+   "recorte": "vinetas/page-245-v1.jpg"
+  }
+ ],
+ "lugar": "Tierra Prima",
+ "numero_comic": 9,
+ "pagina": 245,
+ "archivo": "paginas/page-245.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3058,
+ "_seg": 8.3
+}

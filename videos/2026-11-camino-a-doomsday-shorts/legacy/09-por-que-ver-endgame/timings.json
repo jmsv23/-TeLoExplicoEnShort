@@ -1,0 +1,967 @@
+{
+ "duracion": 37.6,
+ "coincidencia": 1.0,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.191,
+   "fin": 4.053
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 4.613,
+   "fin": 29.524
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 30.045,
+   "fin": 34.82
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 35.361,
+   "fin": 37.367
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 2.252
+  },
+  {
+   "id": "2",
+   "nombre": "No es casualidad",
+   "inicio": 2.252,
+   "fin": 4.613
+  },
+  {
+   "id": "3",
+   "nombre": "Los Russo",
+   "inicio": 4.613,
+   "fin": 10.856
+  },
+  {
+   "id": "4",
+   "nombre": "Tres cosas clave",
+   "inicio": 10.856,
+   "fin": 17.78
+  },
+  {
+   "id": "5",
+   "nombre": "El Anciano avisa",
+   "inicio": 17.78,
+   "fin": 23.105
+  },
+  {
+   "id": "6",
+   "nombre": "La semilla",
+   "inicio": 23.105,
+   "fin": 25.071
+  },
+  {
+   "id": "7",
+   "nombre": "Capítulo anterior",
+   "inicio": 25.071,
+   "fin": 30.788
+  },
+  {
+   "id": "8",
+   "nombre": "La cara de Tony",
+   "inicio": 30.788,
+   "fin": 35.361
+  },
+  {
+   "id": "9",
+   "nombre": "Siguiente número",
+   "inicio": 35.361,
+   "fin": 37.6
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.371,
+   "t_est": 0.45,
+   "ancla": "mismos"
+  },
+  {
+   "id": "1.3",
+   "t": 0.651,
+   "t_est": 1.0,
+   "ancla": "directores"
+  },
+  {
+   "id": "2.1",
+   "t": 2.252,
+   "t_est": 1.9,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "2.2",
+   "t": 3.513,
+   "t_est": 3.0,
+   "ancla": "casualidad"
+  },
+  {
+   "id": "3.1",
+   "t": 4.613,
+   "t_est": 3.8,
+   "ancla": "Anthony"
+  },
+  {
+   "id": "3.2",
+   "t": 5.154,
+   "t_est": 4.7,
+   "ancla": "Joe"
+  },
+  {
+   "id": "3.3",
+   "t": 6.274,
+   "t_est": 5.7,
+   "ancla": "Infinity"
+  },
+  {
+   "id": "3.4",
+   "t": 7.295,
+   "t_est": 6.7,
+   "ancla": "Endgame"
+  },
+  {
+   "id": "3.5",
+   "t": 8.195,
+   "t_est": 7.5,
+   "ancla": "vuelven"
+  },
+  {
+   "id": "4.1",
+   "t": 10.856,
+   "t_est": 8.6,
+   "ancla": "tres"
+  },
+  {
+   "id": "4.2",
+   "t": 12.497,
+   "t_est": 10.0,
+   "ancla": "viaje"
+  },
+  {
+   "id": "4.3",
+   "t": 14.278,
+   "t_est": 11.8,
+   "ancla": "Tony"
+  },
+  {
+   "id": "4.4",
+   "t": 15.359,
+   "t_est": 13.5,
+   "ancla": "escudo"
+  },
+  {
+   "id": "4.5",
+   "t": 16.399,
+   "t_est": 14.6,
+   "ancla": "Sam"
+  },
+  {
+   "id": "5.1",
+   "t": 17.78,
+   "t_est": 16.0,
+   "ancla": "Anciano"
+  },
+  {
+   "id": "5.2",
+   "t": 18.9,
+   "t_est": 17.0,
+   "ancla": "Bruce"
+  },
+  {
+   "id": "5.3",
+   "t": 20.401,
+   "t_est": 18.2,
+   "ancla": "pasado"
+  },
+  {
+   "id": "5.4",
+   "t": 21.141,
+   "t_est": 19.3,
+   "ancla": "ramas"
+  },
+  {
+   "id": "6.1",
+   "t": 23.105,
+   "t_est": 20.7,
+   "ancla": "semilla"
+  },
+  {
+   "id": "6.2",
+   "t": 23.646,
+   "t_est": 21.7,
+   "ancla": "multiverso"
+  },
+  {
+   "id": "7.1",
+   "t": 25.071,
+   "t_est": 23.2,
+   "ancla": "capítulo"
+  },
+  {
+   "id": "7.2",
+   "t": 26.114,
+   "t_est": 24.8,
+   "ancla": "final"
+  },
+  {
+   "id": "7.3",
+   "t": 27.638,
+   "t_est": 26.5,
+   "ancla": "viste"
+  },
+  {
+   "id": "7.4",
+   "t": 29.223,
+   "t_est": 27.7,
+   "ancla": "mitad"
+  },
+  {
+   "id": "8.1",
+   "t": 30.788,
+   "t_est": 29.9,
+   "ancla": "cara"
+  },
+  {
+   "id": "8.2",
+   "t": 32.051,
+   "t_est": 32.0,
+   "ancla": "villano"
+  },
+  {
+   "id": "8.3",
+   "t": 33.235,
+   "t_est": 33.2,
+   "ancla": "recordar"
+  },
+  {
+   "id": "8.4",
+   "t": 34.037,
+   "t_est": 34.2,
+   "ancla": "costó"
+  },
+  {
+   "id": "9.1",
+   "t": 35.361,
+   "t_est": 35.6,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "9.2",
+   "t": 36.404,
+   "t_est": 36.5,
+   "ancla": "pasó"
+  },
+  {
+   "id": "9.3",
+   "t": 36.906,
+   "t_est": 37.0,
+   "ancla": "entonces"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Los",
+   "seg": "S1",
+   "inicio": 0.191,
+   "fin": 0.311
+  },
+  {
+   "w": "mismos",
+   "seg": "S1",
+   "inicio": 0.371,
+   "fin": 0.611
+  },
+  {
+   "w": "directores",
+   "seg": "S1",
+   "inicio": 0.651,
+   "fin": 1.072
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 1.112,
+   "fin": 1.192
+  },
+  {
+   "w": "Endgame",
+   "seg": "S1",
+   "inicio": 1.352,
+   "fin": 1.812
+  },
+  {
+   "w": "hacen",
+   "seg": "S1",
+   "inicio": 1.912,
+   "fin": 2.192
+  },
+  {
+   "w": "Doomsday.",
+   "seg": "S1",
+   "inicio": 2.252,
+   "fin": 2.752
+  },
+  {
+   "w": "Y",
+   "seg": "S1",
+   "inicio": 3.133,
+   "fin": 3.173
+  },
+  {
+   "w": "no",
+   "seg": "S1",
+   "inicio": 3.233,
+   "fin": 3.353
+  },
+  {
+   "w": "es",
+   "seg": "S1",
+   "inicio": 3.393,
+   "fin": 3.473
+  },
+  {
+   "w": "casualidad.",
+   "seg": "S1",
+   "inicio": 3.513,
+   "fin": 4.053
+  },
+  {
+   "w": "Anthony",
+   "seg": "S2",
+   "inicio": 4.613,
+   "fin": 4.973
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 5.053,
+   "fin": 5.094
+  },
+  {
+   "w": "Joe",
+   "seg": "S2",
+   "inicio": 5.154,
+   "fin": 5.354
+  },
+  {
+   "w": "Russo",
+   "seg": "S2",
+   "inicio": 5.434,
+   "fin": 5.714
+  },
+  {
+   "w": "dirigieron",
+   "seg": "S2",
+   "inicio": 5.874,
+   "fin": 6.254
+  },
+  {
+   "w": "Infinity",
+   "seg": "S2",
+   "inicio": 6.274,
+   "fin": 6.754
+  },
+  {
+   "w": "War",
+   "seg": "S2",
+   "inicio": 6.774,
+   "fin": 6.994
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 7.095,
+   "fin": 7.175
+  },
+  {
+   "w": "Endgame,",
+   "seg": "S2",
+   "inicio": 7.295,
+   "fin": 7.755
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 8.075,
+   "fin": 8.135
+  },
+  {
+   "w": "vuelven",
+   "seg": "S2",
+   "inicio": 8.195,
+   "fin": 8.495
+  },
+  {
+   "w": "para",
+   "seg": "S2",
+   "inicio": 8.555,
+   "fin": 8.695
+  },
+  {
+   "w": "esta",
+   "seg": "S2",
+   "inicio": 8.795,
+   "fin": 8.955
+  },
+  {
+   "w": "película.",
+   "seg": "S2",
+   "inicio": 9.015,
+   "fin": 9.476
+  },
+  {
+   "w": "Endgame",
+   "seg": "S2",
+   "inicio": 10.116,
+   "fin": 10.536
+  },
+  {
+   "w": "dejó",
+   "seg": "S2",
+   "inicio": 10.556,
+   "fin": 10.776
+  },
+  {
+   "w": "tres",
+   "seg": "S2",
+   "inicio": 10.856,
+   "fin": 11.056
+  },
+  {
+   "w": "cosas",
+   "seg": "S2",
+   "inicio": 11.137,
+   "fin": 11.377
+  },
+  {
+   "w": "clave:",
+   "seg": "S2",
+   "inicio": 11.437,
+   "fin": 11.757
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 12.357,
+   "fin": 12.457
+  },
+  {
+   "w": "viaje",
+   "seg": "S2",
+   "inicio": 12.497,
+   "fin": 12.777
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 12.817,
+   "fin": 12.897
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 12.917,
+   "fin": 12.997
+  },
+  {
+   "w": "tiempo,",
+   "seg": "S2",
+   "inicio": 13.077,
+   "fin": 13.378
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 13.398,
+   "fin": 13.438
+  },
+  {
+   "w": "muerte",
+   "seg": "S2",
+   "inicio": 13.778,
+   "fin": 14.038
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 14.058,
+   "fin": 14.098
+  },
+  {
+   "w": "Tony",
+   "seg": "S2",
+   "inicio": 14.278,
+   "fin": 14.498
+  },
+  {
+   "w": "Stark",
+   "seg": "S2",
+   "inicio": 14.518,
+   "fin": 14.818
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 14.838,
+   "fin": 14.858
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 15.239,
+   "fin": 15.319
+  },
+  {
+   "w": "escudo",
+   "seg": "S2",
+   "inicio": 15.359,
+   "fin": 15.699
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 15.819,
+   "fin": 15.919
+  },
+  {
+   "w": "manos",
+   "seg": "S2",
+   "inicio": 15.979,
+   "fin": 16.199
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 16.239,
+   "fin": 16.319
+  },
+  {
+   "w": "Sam.",
+   "seg": "S2",
+   "inicio": 16.399,
+   "fin": 16.719
+  },
+  {
+   "w": "Además,",
+   "seg": "S2",
+   "inicio": 17.18,
+   "fin": 17.5
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 17.66,
+   "fin": 17.74
+  },
+  {
+   "w": "Anciano",
+   "seg": "S2",
+   "inicio": 17.78,
+   "fin": 18.12
+  },
+  {
+   "w": "le",
+   "seg": "S2",
+   "inicio": 18.18,
+   "fin": 18.26
+  },
+  {
+   "w": "advirtió",
+   "seg": "S2",
+   "inicio": 18.28,
+   "fin": 18.7
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 18.72,
+   "fin": 18.74
+  },
+  {
+   "w": "Bruce",
+   "seg": "S2",
+   "inicio": 18.9,
+   "fin": 19.12
+  },
+  {
+   "w": "Banner",
+   "seg": "S2",
+   "inicio": 19.16,
+   "fin": 19.501
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 19.781,
+   "fin": 19.881
+  },
+  {
+   "w": "cambiar",
+   "seg": "S2",
+   "inicio": 19.941,
+   "fin": 20.221
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 20.261,
+   "fin": 20.341
+  },
+  {
+   "w": "pasado",
+   "seg": "S2",
+   "inicio": 20.401,
+   "fin": 20.701
+  },
+  {
+   "w": "crea",
+   "seg": "S2",
+   "inicio": 20.801,
+   "fin": 21.021
+  },
+  {
+   "w": "ramas",
+   "seg": "S2",
+   "inicio": 21.141,
+   "fin": 21.402
+  },
+  {
+   "w": "nuevas.",
+   "seg": "S2",
+   "inicio": 21.462,
+   "fin": 21.702
+  },
+  {
+   "w": "Esa",
+   "seg": "S2",
+   "inicio": 22.382,
+   "fin": 22.523
+  },
+  {
+   "w": "idea",
+   "seg": "S2",
+   "inicio": 22.583,
+   "fin": 22.804
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 22.884,
+   "fin": 22.964
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 23.004,
+   "fin": 23.065
+  },
+  {
+   "w": "semilla",
+   "seg": "S2",
+   "inicio": 23.105,
+   "fin": 23.466
+  },
+  {
+   "w": "del",
+   "seg": "S2",
+   "inicio": 23.506,
+   "fin": 23.606
+  },
+  {
+   "w": "multiverso.",
+   "seg": "S2",
+   "inicio": 23.646,
+   "fin": 24.208
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 24.669,
+   "fin": 24.75
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 24.79,
+   "fin": 24.91
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 24.97,
+   "fin": 25.03
+  },
+  {
+   "w": "capítulo",
+   "seg": "S2",
+   "inicio": 25.071,
+   "fin": 25.452
+  },
+  {
+   "w": "anterior",
+   "seg": "S2",
+   "inicio": 25.512,
+   "fin": 25.893
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 25.913,
+   "fin": 25.933
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 26.013,
+   "fin": 26.074
+  },
+  {
+   "w": "final",
+   "seg": "S2",
+   "inicio": 26.114,
+   "fin": 26.334
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 26.354,
+   "fin": 26.415
+  },
+  {
+   "w": "temporada:",
+   "seg": "S2",
+   "inicio": 26.495,
+   "fin": 26.896
+  },
+  {
+   "w": "si",
+   "seg": "S2",
+   "inicio": 27.277,
+   "fin": 27.357
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 27.397,
+   "fin": 27.458
+  },
+  {
+   "w": "lo",
+   "seg": "S2",
+   "inicio": 27.518,
+   "fin": 27.578
+  },
+  {
+   "w": "viste,",
+   "seg": "S2",
+   "inicio": 27.638,
+   "fin": 27.919
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 28.16,
+   "fin": 28.22
+  },
+  {
+   "w": "emoción",
+   "seg": "S2",
+   "inicio": 28.26,
+   "fin": 28.621
+  },
+  {
+   "w": "llega",
+   "seg": "S2",
+   "inicio": 28.641,
+   "fin": 29.002
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 29.042,
+   "fin": 29.082
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 29.123,
+   "fin": 29.163
+  },
+  {
+   "w": "mitad.",
+   "seg": "S2",
+   "inicio": 29.223,
+   "fin": 29.524
+  },
+  {
+   "w": "Y",
+   "seg": "S3",
+   "inicio": 30.045,
+   "fin": 30.085
+  },
+  {
+   "w": "si",
+   "seg": "S3",
+   "inicio": 30.146,
+   "fin": 30.206
+  },
+  {
+   "w": "vas",
+   "seg": "S3",
+   "inicio": 30.266,
+   "fin": 30.326
+  },
+  {
+   "w": "a",
+   "seg": "S3",
+   "inicio": 30.346,
+   "fin": 30.366
+  },
+  {
+   "w": "ver",
+   "seg": "S3",
+   "inicio": 30.507,
+   "fin": 30.627
+  },
+  {
+   "w": "la",
+   "seg": "S3",
+   "inicio": 30.667,
+   "fin": 30.727
+  },
+  {
+   "w": "cara",
+   "seg": "S3",
+   "inicio": 30.788,
+   "fin": 30.968
+  },
+  {
+   "w": "de",
+   "seg": "S3",
+   "inicio": 31.028,
+   "fin": 31.068
+  },
+  {
+   "w": "Tony",
+   "seg": "S3",
+   "inicio": 31.169,
+   "fin": 31.389
+  },
+  {
+   "w": "convertida",
+   "seg": "S3",
+   "inicio": 31.45,
+   "fin": 31.931
+  },
+  {
+   "w": "en",
+   "seg": "S3",
+   "inicio": 31.971,
+   "fin": 32.031
+  },
+  {
+   "w": "villano,",
+   "seg": "S3",
+   "inicio": 32.051,
+   "fin": 32.453
+  },
+  {
+   "w": "necesitas",
+   "seg": "S3",
+   "inicio": 32.753,
+   "fin": 33.215
+  },
+  {
+   "w": "recordar",
+   "seg": "S3",
+   "inicio": 33.235,
+   "fin": 33.736
+  },
+  {
+   "w": "lo",
+   "seg": "S3",
+   "inicio": 33.797,
+   "fin": 33.857
+  },
+  {
+   "w": "que",
+   "seg": "S3",
+   "inicio": 33.877,
+   "fin": 33.977
+  },
+  {
+   "w": "costó",
+   "seg": "S3",
+   "inicio": 34.037,
+   "fin": 34.278
+  },
+  {
+   "w": "ese",
+   "seg": "S3",
+   "inicio": 34.338,
+   "fin": 34.499
+  },
+  {
+   "w": "final.",
+   "seg": "S3",
+   "inicio": 34.539,
+   "fin": 34.82
+  },
+  {
+   "w": "Siguiente:",
+   "seg": "S4",
+   "inicio": 35.361,
+   "fin": 35.782
+  },
+  {
+   "w": "lo",
+   "seg": "S4",
+   "inicio": 36.124,
+   "fin": 36.184
+  },
+  {
+   "w": "que",
+   "seg": "S4",
+   "inicio": 36.224,
+   "fin": 36.324
+  },
+  {
+   "w": "pasó",
+   "seg": "S4",
+   "inicio": 36.404,
+   "fin": 36.605
+  },
+  {
+   "w": "desde",
+   "seg": "S4",
+   "inicio": 36.685,
+   "fin": 36.886
+  },
+  {
+   "w": "entonces.",
+   "seg": "S4",
+   "inicio": 36.906,
+   "fin": 37.367
+  }
+ ]
+}

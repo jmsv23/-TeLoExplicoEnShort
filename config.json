@@ -1,6 +1,8 @@
 {
  "voicebox": {
   "url": "http://192.168.0.52:17493",
+  "url_local": "http://127.0.0.1:17493",
+  "probe_s": 3,
   "timeout_s": 900
  },
  "voz_default": "narrador-comics",
@@ -11,7 +13,8 @@
  "gaps": {
   "bloque": 0.28,
   "seccion": 0.6,
-  "clip": 0.3
+  "clip": 0.3,
+  "cola": 1.5
  },
  "loudness": {
   "I": -14,
@@ -20,6 +23,7 @@
  },
  "duracion": {
   "short_max": 60,
+  "short_objetivo": 45,
   "largo_min": 360,
   "largo_max": 900
  },

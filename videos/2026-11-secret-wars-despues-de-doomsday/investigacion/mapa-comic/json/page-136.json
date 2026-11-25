@@ -1,0 +1,143 @@
+{
+ "tipo": "historia",
+ "resumen": "El Doctor Doom lamenta con rabia la desobediencia de Stephen Strange tras haberlo matado por dispersar a los héroes sobrevivientes. Furioso, Doom maldice a Stephen antes de dirigirse hacia un pasadizo secreto entre las rocas que conduce a la estancia oculta del Hombre Molécula.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "muerte-strange",
+  "traicion-de-strange",
+  "visita-al-hombre-molecula"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    36,
+    258,
+    361
+   ],
+   "descripcion": "Primer plano de perfil del Doctor Doom portando su capucha blanca y máscara metálica, con una expresión sombría.",
+   "prompt_en": "Close-up profile shot of Doctor Doom in a white cloak hood and metal face mask under a cold blue atmospheric lighting.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-136-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    372,
+    258,
+    967
+   ],
+   "descripcion": "Primer plano del rostro esculpido de una colosal estatua de piedra en medio del paisaje.",
+   "prompt_en": "Close-up of a giant carved stone statue's face in profile, blue monochrome tones.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "estatua"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-136-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    272,
+    36,
+    502,
+    967
+   ],
+   "descripcion": "El Doctor Doom de pie al fondo maldice a Stephen Strange mientras la figura de la estatua domina el primer plano.",
+   "prompt_en": "Wide comic panel of Doctor Doom in a white robe standing near the base of a giant stone statue, speaking in anger.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Damn you, Stephen.",
+     "texto_es": "Maldito seas, Stephen."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "rabioso",
+   "recorte": "vinetas/page-136-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    517,
+    0,
+    995,
+    967
+   ],
+   "descripcion": "El Doctor Doom camina entre la gigantesca estructura de piedra dirigiéndose hacia una cueva iluminada en el suelo.",
+   "prompt_en": "Doctor Doom in white robes walking beneath colossal carved stone legs toward a glowing cave opening in the ground.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "hombre-molecula"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-136-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    652,
+    690,
+    977,
+    984
+   ],
+   "descripcion": "Viñeta subordinada que muestra un contrapicado desde el interior de la cueva mirando a la silueta del Doctor Doom en la entrada.",
+   "prompt_en": "Low angle shot from inside a dark rocky cave looking up at the silhouette of Doctor Doom framed by the entrance light.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "hombre-molecula"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-136-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 5,
+ "pagina": 136,
+ "archivo": "paginas/page-136.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5562,
+ "_seg": 21.5
+}

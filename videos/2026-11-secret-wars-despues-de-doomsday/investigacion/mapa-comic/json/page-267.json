@@ -1,0 +1,54 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración artística de Alex Ross que representa al ejército de la Thor Corps reuniéndose y alzando sus martillos Mjolnir y armas divinas al cielo en medio de una tormenta eléctrica en Battleworld.",
+ "personajes": [
+  "Thor Corps",
+  "Thor (Jane Foster)",
+  "Beta Ray Bill",
+  "Throg"
+ ],
+ "eventos_clave": [
+  "Reunión y despliegue del Thor Corps"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración épica pintada al óleo que muestra a decenas de versiones alternativas de Thor (incluyendo a Jane Foster, Beta Ray Bill, Throg, Ultimate Thor, Destroyer Thor, entre otros) alzando sus legendarios martillos con ferocidad mientras potentes rayos atraviesan el cielo de Battleworld.",
+   "prompt_en": "Epic superhero comic art style painted by Alex Ross, depicting an army of multiple alternate multiversal versions of Thor raising glowing hammers into a stormy sky filled with intense crackling lightning",
+   "personajes": [
+    "Thor Corps",
+    "Thor (Jane Foster)",
+    "Beta Ray Bill",
+    "Throg"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "secret-wars",
+    "mjolnir",
+    "alex-ross"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-267-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 267,
+ "archivo": "paginas/page-267.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3386,
+ "_seg": 10.9
+}

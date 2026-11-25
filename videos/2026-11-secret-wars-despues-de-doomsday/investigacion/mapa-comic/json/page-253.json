@@ -1,0 +1,275 @@
+{
+ "tipo": "historia",
+ "resumen": "Reed Richards y Sue Storm conversan sobre el final de la crisis multiversal y su nuevo propósito en el cosmos. Reed decide dejar de lado su identidad de superhéroe para concentrarse en ser padre y científico junto a su familia mientras reconstruyen el multiverso.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Retiro temporal de Reed Richards como superhéroe",
+  "Reconstrucción del multiverso por la familia Richards",
+  "Conversación entre Sue y Reed sobre el destino de Ben y Johnny"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    33,
+    317,
+    317
+   ],
+   "descripcion": "Primer plano del rostro de Reed Richards con barba, mirando de reojo con expresión melancólica y reflexiva.",
+   "prompt_en": "Close up of a bearded, mature Reed Richards with a serious and contemplative expression, realistic comic style.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reed-richards",
+    "reflexion",
+    "primer-plano"
+   ],
+   "textos": [],
+   "lugar": "Espacio de creación multiversal",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-253-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    22,
+    324,
+    317,
+    967
+   ],
+   "descripcion": "Reed Richards reconforta a Franklin poniendo su mano sobre su hombro, mientras Sue Storm abraza afectuosamente a Reed por la espalda.",
+   "prompt_en": "Mister Fantastic with bearded face putting his hand on young Franklin Richards shoulder while Invisible Woman embraces him gently, cosmic icy background.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-richards",
+    "franklin-richards",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Well, here's the thing, Franklin.",
+     "texto_es": "Bueno, este es el punto, Franklin."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "It's doing good that counts, not necessarily how you do it.",
+     "texto_es": "Lo que cuenta es hacer el bien, no necesariamente cómo lo haces."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And what we're doing right now matters-- it might be the most important thing ever-- and the best part is I get to do it with all of you.",
+     "texto_es": "Y lo que estamos haciendo ahora mismo importa... podría ser lo más importante de la historia... y la mejor parte es que me toca hacerlo con todos ustedes."
+    }
+   ],
+   "lugar": "Espacio de creación multiversal",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-253-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    298,
+    333,
+    467,
+    622
+   ],
+   "descripcion": "Plano medio de Reed Richards mirando hacia abajo pensativo mientras hace una promesa sobre su futuro.",
+   "prompt_en": "Medium shot of bearded Reed Richards looking down thoughtfully with a gentle light, high quality comic book art.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reed-richards",
+    "promesa",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "So, no... no more super heroes for a while, just science.",
+     "texto_es": "Así que, no... no más superhéroes por un tiempo, solo ciencia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And no more Mister Fantastic, just dad.",
+     "texto_es": "Y no más Mister Fantástico, solo papá."
+    }
+   ],
+   "lugar": "Espacio de creación multiversal",
+   "tono": "sereno",
+   "recorte": "vinetas/page-253-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    467,
+    33,
+    762,
+    646
+   ],
+   "descripcion": "Vista abierta del paisaje rocoso cósmico donde Reed y Sue están juntos, Franklin flota alegremente hacia abajo y Valeria está sentado sobre las rocas.",
+   "prompt_en": "Wide shot of Fantastic Four family on celestial blue rocky landscape, kids playing while parents stand together.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-richards",
+    "paisaje-cosmico",
+    "esperanza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "That doesn't sound too bad, does it?",
+     "texto_es": "¿Eso no suena tan mal, verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Nope.",
+     "texto_es": "Nop."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Gonna play now.",
+     "texto_es": "Voy a jugar ahora."
+    }
+   ],
+   "lugar": "Espacio de creación multiversal",
+   "tono": "alegre",
+   "recorte": "vinetas/page-253-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    467,
+    656,
+    762,
+    967
+   ],
+   "descripcion": "Primer plano de Sue Storm sonriendo cálidamente a Reed Richards y conversando con él sobre el destino de los otros miembros de los 4 Fantásticos.",
+   "prompt_en": "Close up of Sue Storm smiling warmly at Reed Richards in futuristic superhero costumes.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sue-storm",
+    "reed-richards",
+    "ben-grimm",
+    "johnny-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "You know... for not being a super hero, that was a pretty amazing final act.",
+     "texto_es": "Sabes... para no ser un superhéroe, ese fue un acto final bastante sorprendente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Still... Ben. Johnny.",
+     "texto_es": "Aún así... Ben. Johnny."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "They can't be with us. They shouldn't be. Their act isn't anywhere close to being finished.",
+     "texto_es": "No pueden estar con nosotros. No deberían estarlo. Su acto no está ni cerca de terminar."
+    }
+   ],
+   "lugar": "Espacio de creación multiversal",
+   "tono": "nostálgico",
+   "recorte": "vinetas/page-253-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    762,
+    33,
+    1000,
+    1000
+   ],
+   "descripcion": "Sue Storm abraza afectuosamente el cuello de Reed Richards con ternura mientras le agradece por haber salvado a su familia.",
+   "prompt_en": "Sue Storm embracing Reed Richards tightly, smiling lovingly at him, romantic comic illustration.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reed-y-sue",
+    "amor",
+    "salvacion",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Still, it was enough, Reed.",
+     "texto_es": "Aún así, fue suficiente, Reed."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "The life raft broke and I thought we were done...",
+     "texto_es": "La balsa de salvamento se rompió y pensé que estábamos acabados..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...and then you saved us.",
+     "texto_es": "...y luego nos salvaste."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Well...",
+     "texto_es": "Bueno..."
+    }
+   ],
+   "lugar": "Espacio de creación multiversal",
+   "tono": "amoroso",
+   "recorte": "vinetas/page-253-v6.jpg"
+  }
+ ],
+ "lugar": "Espacio de creación del Multiverso",
+ "numero_comic": 9,
+ "pagina": 253,
+ "archivo": "paginas/page-253.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6919,
+ "_seg": 24.3
+}

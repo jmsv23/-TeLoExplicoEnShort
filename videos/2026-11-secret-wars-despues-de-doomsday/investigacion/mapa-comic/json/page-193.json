@@ -1,0 +1,166 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Gran Salón de Battleworld, la revelación sobre la verdadera naturaleza del Dios Emperador Doom causa una violenta división y una pelea multitudinaria dentro del Thor Corps.",
+ "personajes": [
+  "Thor Corps",
+  "[Thor reptil]"
+ ],
+ "eventos_clave": [
+  "Rebelión del Thor Corps",
+  "Estallido de combate interno entre los Thors"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    27,
+    275,
+    417
+   ],
+   "descripcion": "Un Thor musculoso blande un hacha mientras a su lado un Thor reptiliano sisea acusando de mentira.",
+   "prompt_en": "Comic panel showing a muscular Thor warrior raising an axe next to a reptilian alien Thor wearing a red cape.",
+   "personajes": [
+    "Thor Corps",
+    "[Thor reptil]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "The Great Hall.",
+     "texto_es": "El Gran Salón."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor reptil]",
+     "texto": "Ssssshe liessssss.",
+     "texto_es": "Ella mienteee."
+    }
+   ],
+   "lugar": "El Gran Salón",
+   "tono": "tenso",
+   "recorte": "vinetas/page-193-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    362,
+    275,
+    969
+   ],
+   "descripcion": "Un Thor arremete blandiendo a Mjolnir proclamando la verdad sobre Doom mientras otros Thors observan.",
+   "prompt_en": "Comic panel of a Thor warrior charging forward with a hammer elevated, shouting in defence of a newcomer.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "rebelion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "No! The newcomer speaks the truth about All-Father Doom.",
+     "texto_es": "¡No! La recién llegada dice la verdad sobre el Padre de Todos Doom."
+    }
+   ],
+   "lugar": "El Gran Salón",
+   "tono": "dramático",
+   "recorte": "vinetas/page-193-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    273,
+    0,
+    755,
+    1000
+   ],
+   "descripcion": "Una enorme batalla campal se desata en medio del banquete del Gran Salón entre decenas de miembros del Thor Corps.",
+   "prompt_en": "Action comic scene of a massive brawl breaking out in a grand viking feast hall with Thors fighting each other and food tables flying.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "pelea-campal",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "It's the truth...",
+     "texto_es": "Es la verdad..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "...and it's torn us asunder!",
+     "texto_es": "...¡y nos ha destrozado!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Thor Corps",
+     "texto": "BOFF",
+     "texto_es": "BOFF"
+    }
+   ],
+   "lugar": "El Gran Salón",
+   "tono": "caótico",
+   "recorte": "vinetas/page-193-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    718,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Un Thor reptil choca enfurecido su martillo eléctrico contra el casco y martillo de otro Thor.",
+   "prompt_en": "Comic panel close-up of a reptilian Thor clashing lightning-charged hammers against another helmeted Thor warrior.",
+   "personajes": [
+    "Thor Corps",
+    "[Thor reptil]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "combate",
+    "rayos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor reptil]",
+     "texto": "BRAAARRR!",
+     "texto_es": "¡BRAAARRR!"
+    }
+   ],
+   "lugar": "El Gran Salón",
+   "tono": "intenso",
+   "recorte": "vinetas/page-193-v4.jpg"
+  }
+ ],
+ "lugar": "El Gran Salón, Battleworld",
+ "numero_comic": 5,
+ "pagina": 193,
+ "archivo": "paginas/page-193.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4887,
+ "_seg": 16.3
+}

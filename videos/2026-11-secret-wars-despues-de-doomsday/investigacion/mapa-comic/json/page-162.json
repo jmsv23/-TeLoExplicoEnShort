@@ -1,0 +1,321 @@
+{
+ "tipo": "historia",
+ "resumen": "Spider-Man (Peter Parker) y Spider-Man (Miles Morales) se encuentran con Valeria Richards cerca de la estatua que oculta el pasaje subterráneo. Valeria examina el rastreador creado por Reed Richards y lo critica por su mala calidad. Les muestra la trampilla a la base de la estatua, pero decide no acompañarlos para evitar descubrir verdades sobre su padre (Dios Emperador Doom). Antes de dejarlos ir, Peter les hace preguntas sobre la balsa de salvamento y si ellos mataron al Sheriff Strange.",
+ "personajes": [
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Peter Parker y Miles Morales se encuentran con Valeria Richards.",
+  "Valeria juzga el rastreador de Reed Richards sin saber que es su verdadero padre.",
+  "Valeria les señala a los Spider-Man la trampilla debajo de la estatua.",
+  "Peter le pregunta a Valeria sobre la muerte de Stephen Strange."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    33,
+    334,
+    614
+   ],
+   "descripcion": "Spider-Man (Peter Parker) y Miles Morales hablan con Valeria Richards, quien está agachada examinando el terreno en la noche.",
+   "prompt_en": "Comic panel showing Spider-Man talking to a young blonde girl in a white Future Foundation uniform outdoors at night, with a second Spider-Man in a black costume behind him.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "encuentro",
+    "futuro-fundacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "It's me. Spider-Man. Peter.",
+     "texto_es": "Soy yo. Spider-Man. Peter."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "How did you know we were looking for the thing?",
+     "texto_es": "¿Cómo sabías que estábamos buscando la cosa esa?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Because I was, too. I had my people working on finding the source...but, I'm sorry...I don't know you.",
+     "texto_es": "Porque yo también lo estaba. Tenía a mi gente trabajando en encontrar la fuente... pero, lo siento... no te conozco."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Hey, let me see that!",
+     "texto_es": "¡Oye, déjame ver eso!"
+    }
+   ],
+   "lugar": "Jardines cerca de la estatua en Battleworld",
+   "tono": "curioso",
+   "recorte": "vinetas/page-162-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    622,
+    334,
+    969
+   ],
+   "descripcion": "Plano medio de Valeria Richards mirando críticamente un dispositivo tecnológico que sostiene Spider-Man.",
+   "prompt_en": "Close up panel of a blonde girl in a white tech suit analyzing a small device held by Spider-Man, looking disappointed.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "tecnologia",
+    "reed-richards",
+    "humor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Ugh. Obviously built by the same person who made the drones. Might as well have signed their name to it.",
+     "texto_es": "Ugh. Obviamente construido por la misma persona que hizo los drones. Bien podrían haberle puesto su firma."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "This is embarrassing. Who built this?",
+     "texto_es": "Esto es vergonzoso. ¿Quién construyó esto?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Uh, Reed Richards.",
+     "texto_es": "Eh, Reed Richards."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Never heard of him. Doesn't matter. Tell him I said this is shoddy work and he should get his act together. Okay?",
+     "texto_es": "Nunca escuché de él. No importa. Dile que dije que esto es un trabajo de mala calidad y que debería ponerse las pilas. ¿De acuerdo?"
+    }
+   ],
+   "lugar": "Jardines cerca de la estatua en Battleworld",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-162-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    349,
+    33,
+    591,
+    597
+   ],
+   "descripcion": "Spider-Man sostiene el dispositivo mientras habla con Valeria Richards desde atrás. Miles Morales los observa detenidamente.",
+   "prompt_en": "Comic panel from behind a young blonde woman in a white uniform, talking to Spider-Man and Miles Morales standing nearby.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "investigacion",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "...Sure.",
+     "texto_es": "...Claro."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "So are you coming inside with us?",
+     "texto_es": "Entonces, ¿vienes adentro con nosotros?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I've spent the last hour thinking about it, and...no. I don't think I'm going in.",
+     "texto_es": "Me pasé la última hora pensándolo, y... no. No creo que vaya a entrar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Why not?",
+     "texto_es": "¿Por qué no?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Because I already have spiders in my head. And finding out that my father might not be quite who he says he is would be, well...",
+     "texto_es": "Porque ya tengo dudas en la cabeza. Y descubrir que mi padre tal vez no sea exactamente quien dice ser sería, bueno..."
+    }
+   ],
+   "lugar": "Jardines cerca de la estatua en Battleworld",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-162-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    323,
+    607,
+    602,
+    989
+   ],
+   "descripcion": "Valeria Richards con los brazos cruzados explica por qué no quiere entrar a investigar la trampilla.",
+   "prompt_en": "Medium shot of a blonde teenage girl with arms crossed wearing a white futuristic suit, speaking serious.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Look, end of the day, I'm just a kid. I'm not emotionally prepared for that kind of stuff.",
+     "texto_es": "Mira, al final del día, solo soy una niña. No estoy emocionalmente preparada para ese tipo de cosas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "So you go on without me. The trapdoor is at the base of the statue.",
+     "texto_es": "Así que sigan sin mí. La trampilla está en la base de la estatua."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Oh, but you're going to have to answer a couple questions if you want me to keep this quiet.",
+     "texto_es": "Oh, pero van a tener que responder a un par de preguntas si quieren que me quede callada."
+    }
+   ],
+   "lugar": "Jardines cerca de la estatua en Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-162-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    605,
+    33,
+    973,
+    684
+   ],
+   "descripcion": "Spider-Man, Miles Morales y Valeria junto a las rocas cerca de la entrada secreta.",
+   "prompt_en": "Wide panel showing two Spider-Men talking to a blonde girl near rocky terrain and a hidden entrance.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "muerte-strange",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Uh, sure.",
+     "texto_es": "Eh, claro."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Were you on the ship? That vessel we found?",
+     "texto_es": "¿Estabas en la nave? ¿Esa vasija que encontramos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "One of them. It was a life raft.",
+     "texto_es": "Una de ellas. Era una balsa de salvamento."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "No. Of course not.",
+     "texto_es": "No. Por supuesto que no."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Okay...and none of you from the raft killed Stephen Strange, did you?",
+     "texto_es": "Bien... y ninguno de ustedes los de la balsa mató a Stephen Strange, ¿verdad?"
+    }
+   ],
+   "lugar": "Base de la estatua en Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-162-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    605,
+    691,
+    973,
+    968
+   ],
+   "descripcion": "Primer plano de Valeria Richards con la mirada fija, respondiendo a las dudas de Spider-Man.",
+   "prompt_en": "Close up on a young blonde girl looking focused and serious, illuminated against night background.",
+   "personajes": [
+    "Valeria Richards",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Right.",
+     "texto_es": "Correcto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I didn't think so.",
+     "texto_es": "Me parecía que no."
+    }
+   ],
+   "lugar": "Base de la estatua en Battleworld",
+   "tono": "grave",
+   "recorte": "vinetas/page-162-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld, cerca de la estatua de Dios Emperador Doom",
+ "numero_comic": 6,
+ "pagina": 162,
+ "archivo": "paginas/page-162.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7044,
+ "_seg": 25.9
+}

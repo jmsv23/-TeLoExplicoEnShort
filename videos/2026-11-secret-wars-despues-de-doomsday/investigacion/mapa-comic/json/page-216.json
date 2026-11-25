@@ -1,0 +1,276 @@
+{
+ "tipo": "historia",
+ "resumen": "Thanos confronta cara a cara a Dios Emperador Doom en Battleworld. Thanos desestima la divinidad de Doom recordando su propia experiencia con el Guantelete del Infinito y llamándolo un dios débil e impostor. Doom le cuestiona framente si posee un Guantelete del Infinito en ese momento, a lo que Thanos responde con una sonrisa desafiante asegurando que no lo necesita para derrotarlo.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Confrontación directa entre Thanos y Dios Emperador Doom",
+  "Thanos rechaza arrodillarse ante Doom y pone en duda su divinidad"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    30,
+    321,
+    350
+   ],
+   "descripcion": "Dios Emperador Doom en su armadura y capa blanca extiende la mano hacia Thanos.",
+   "prompt_en": "Comic book panel, Doctor Doom in white armor and white hood reaching out his hand to speak, close up, detailed line art, Marvel comic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You wish to be Baron of the Waste?",
+     "texto_es": "¿Deseas ser Barón del Yermo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Very well. I will permit you to keep the horde if you can find your faith. Call it an endowment of good will. If not...",
+     "texto_es": "Muy bien. Te permitiré conservar la horda si puedes encontrar tu fe. Tómalo como una donación de buena voluntad. Si no..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "sereno y regio",
+   "recorte": "vinetas/page-216-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    355,
+    321,
+    650
+   ],
+   "descripcion": "Primer plano de Thanos mirando de frente a Doom con expresión seria y despectiva.",
+   "prompt_en": "Comic book panel, Thanos close up portrait looking sternly forward, helmet on, glowing red eyes.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thanos",
+    "guantelete-del-infinito",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "You offer me a gift. Me?",
+     "texto_es": "¿Me estás ofreciendo un regalo a mí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "You forget, I was a god once as well. The Infinity Gauntlet gave me that power.",
+     "texto_es": "Olvidas que yo también fui un dios una vez. El Guantelete del Infinito me dio ese poder."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "arrogante y desafiante",
+   "recorte": "vinetas/page-216-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    27,
+    656,
+    321,
+    960
+   ],
+   "descripcion": "Acercamiento a la cara de Thanos mientras continúa hablando sobre el uso de la divinidad.",
+   "prompt_en": "Comic book panel, close up on Thanos' head turning slightly, serious intense expression, crimson eyes.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thanos",
+    "juicio-divino"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "And when I was a god, I did not use those powers as a mortal would... as you have...",
+     "texto_es": "Y cuando fui un dios, no usé esos poderes como lo haría un mortal... como tú lo has hecho..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Saving what you can.",
+     "texto_es": "Salvando lo que puedes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "No, I wielded them as a god should. In judgment of all living things.",
+     "texto_es": "No, los empuñé como debe hacerlo un dios. Para juzgar a todos los seres vivos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "filosófico y severo",
+   "recorte": "vinetas/page-216-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    321,
+    222,
+    483,
+    796
+   ],
+   "descripcion": "Primer plano extremo de los ojos y el casco de Thanos.",
+   "prompt_en": "Comic book panel, extreme close up on Thanos eyes squinting under gold helm, intense glare.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "desafio",
+    "dios-debil"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "You are a weak god. A pretender.",
+     "texto_es": "Eres un dios débil. Un impostor."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante y amenazador",
+   "recorte": "vinetas/page-216-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    483,
+    37,
+    616,
+    960
+   ],
+   "descripcion": "Plano cinemático muy cerrado sobre la mirada fija de Thanos.",
+   "prompt_en": "Comic panel, wide thin shot focusing entirely on Thanos eyes glowing red in darkness.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "arrogancia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "It is you who should bow before me.",
+     "texto_es": "Eres tú quien debería arrodillarse ante mí."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-216-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    630,
+    33,
+    983,
+    660
+   ],
+   "descripcion": "Dios Emperador Doom permanece imperturbable frente a Thanos.",
+   "prompt_en": "Comic book panel, Doctor Doom standing tall in white robes viewed from behind Thanos shoulder, calm reaction.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "thanos",
+    "tencion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Hmmm.",
+     "texto_es": "Hmmm."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And do you have an Infinity Gauntlet now?",
+     "texto_es": "¿Y tienes un Guantelete del Infinito ahora?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "calculador e impasible",
+   "recorte": "vinetas/page-216-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    630,
+    668,
+    983,
+    960
+   ],
+   "descripcion": "Thanos sonríe con arrogancia y autosuficiencia.",
+   "prompt_en": "Comic book panel, Thanos grinning maliciously and confidently, close up, golden headgear.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thanos",
+    "sonrisa-thanos",
+    "el-gran-tirano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "I do not... yet I remain Thanos. The Great Tyrant.",
+     "texto_es": "No lo tengo... y sin embargo sigo siendo Thanos. El Gran Tirano."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "And for you that will be enough.",
+     "texto_es": "Y para ti eso será suficiente."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "orgulloso y desafiante",
+   "recorte": "vinetas/page-216-v7.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 216,
+ "archivo": "paginas/page-216.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6570,
+ "_seg": 20.6
+}

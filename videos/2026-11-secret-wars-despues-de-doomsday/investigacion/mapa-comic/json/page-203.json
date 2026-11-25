@@ -1,0 +1,156 @@
+{
+ "tipo": "historia",
+ "resumen": "Terrax el Iluminado se presenta ante un gigante cósmico jurándole lealtad como heraldo de Galactus, pero es aplastado repentinamente por un enorme pie de fuego. La Cosa, que forma parte de la estructura viviente de El Escudo, observa la escena y advierte a la criatura recién llegada.",
+ "personajes": [
+  "Terrax",
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "Muerte de Terrax el Iluminado",
+  "Aparición del gigante en El Escudo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    292,
+    497
+   ],
+   "descripcion": "Terrax el Iluminado sostiene su hacha de combate y proclama su destino en medio del caos del campo de batalla.",
+   "prompt_en": "Comic book panel showing Terrax holding a golden axe, yelling passionately upwards in a dusty rocky landscape.",
+   "personajes": [
+    "Terrax"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "terrax",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Terrax",
+     "texto": "This chaotic world has been a wilderness... ...but I have found my way here! Now I see the promise of returning to who I really am!",
+     "texto_es": "Este mundo caótico ha sido un páramo... ¡pero he encontrado mi camino aquí! ¡Ahora veo la promesa de regresar a quien realmente soy!"
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "dramático",
+   "recorte": "vinetas/page-203-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    502,
+    292,
+    971
+   ],
+   "descripcion": "Terrax alza sus brazos hacia una figura cósmica gigante pidiéndole convertirse de nuevo en su heraldo.",
+   "prompt_en": "Comic panel of Terrax from behind raising his hands and axe towards a giant cosmic force in the sky.",
+   "personajes": [
+    "Terrax"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "terrax",
+    "galactus"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Terrax",
+     "texto": "Hear me, World Eater!",
+     "texto_es": "¡Escúchame, Devorador de Mundos!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Terrax",
+     "texto": "It is I, Terrax the Enlightened... your servant! On another world I was a Herald of Galactus!",
+     "texto_es": "¡Soy yo, Terrax el Iluminado... tu sirviente! ¡En otro mundo fui un heraldo de Galactus!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Terrax",
+     "texto": "Now I will be yo--",
+     "texto_es": "Ahora seré tu--"
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "epico",
+   "recorte": "vinetas/page-203-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    292,
+    0,
+    529,
+    1000
+   ],
+   "descripcion": "Un gigantesco pie ardiente aplasta bruscamente a Terrax interrumpiendo su discurso.",
+   "prompt_en": "Close up panel of a colossal armored boot stepping down and crushing a small villain with a loud squish effect and yellow explosion.",
+   "personajes": [
+    "Terrax"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "squish",
+    "muerte-terrax"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "SQUISH!",
+     "texto_es": "¡SQUISH!"
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "comico",
+   "recorte": "vinetas/page-203-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    485,
+    0,
+    999,
+    1000
+   ],
+   "descripcion": "Vista en ángulo bajo del gigante de fuego de pie junto al colosal rostro de roca de Ben Grimm en El Escudo.",
+   "prompt_en": "Low angle wide shot of a massive burning cosmic giant standing amidst smoke, beside the gigantic stone face of the Thing embedded in the ground.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-escudo",
+    "la-cosa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "Hey, dummy. I hope you like getting your butt kicked.",
+     "texto_es": "Oye, tonto. Espero que te guste que te den una paliza."
+    }
+   ],
+   "lugar": "El Escudo (Battleworld)",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-203-v4.jpg"
+  }
+ ],
+ "lugar": "El Escudo (Battleworld)",
+ "numero_comic": 6,
+ "pagina": 203,
+ "archivo": "paginas/page-203.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5269,
+ "_seg": 19.2
+}

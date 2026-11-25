@@ -1,0 +1,216 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Universo Ultimate (Tierra-1610), las naves del Triskelion son lanzadas para un ataque preventivo contra la Tierra-616 durante la incursión final. Mientras tanto, el Hacedor (Reed Richards Ultimate) colabora en secreto con la Cabal (Thanos, Cisne Negro y Corvus Glaive) para terminar su balsa de salvamento, utilizando el ataque como una distracción y manipulando a la población con falsas esperanzas.",
+ "personajes": [
+  "El Hacedor",
+  "Thanos",
+  "Cisne Negro",
+  "Corvus Glaive",
+  "la Ciudad"
+ ],
+ "eventos_clave": [
+  "Despliegue militar de la Tierra-1610 (Triskelion)",
+  "Conspiración del Hacedor con la Cabal para construir la Balsa de Vida",
+  "Aceleración de las incursiones a menos de una hora"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    423,
+    1000
+   ],
+   "descripcion": "Enormes naves de guerra helicarrier del Triskelion despegan sobre una metrópolis futurista y avanzada mientras se preparan para la batalla entre mundos.",
+   "prompt_en": "Massive futuristic helicarriers flying over a glowing futuristic city skyline, cinematic comic book art, detailed sci-fi fleet, Secret Wars style",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "triskelion",
+    "incursion",
+    "tierra-1610",
+    "naves-espaciales"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Send everything...",
+     "texto_es": "Envíen todo..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Everything we got.",
+     "texto_es": "Todo lo que tengamos."
+    }
+   ],
+   "lugar": "Tierra-1610, la Ciudad / Triskelion",
+   "tono": "épico",
+   "recorte": "vinetas/page-010-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    423,
+    35,
+    580,
+    965
+   ],
+   "descripcion": "El Hacedor, vistiendo su casco distintivo, se comunica con la interfaz de inteligencia artificial 'La Ciudad', con una proyección de un ojo rojo al fondo.",
+   "prompt_en": "Close up of The Maker wearing his helmet talking to a giant glowing red eye AI interface screen, scientific dark comic art",
+   "personajes": [
+    "El Hacedor",
+    "la Ciudad"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hacedor",
+    "la-ciudad",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Ciudad",
+     "texto": "The Triskelion has launched all their ships, Maker.",
+     "texto_es": "El Triskelion ha lanzado todas sus naves, Hacedor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Good.",
+     "texto_es": "Bien."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "They'll attack preemptively, the other Earth will respond, and while they play we will be hard at work on the things that actually matter.",
+     "texto_es": "Atacarán de manera preventiva, la otra Tierra responderá, y mientras ellos juegan, nosotros estaremos trabajando arduamente en las cosas que realmente importan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "What's our current estimated time of completion, City?",
+     "texto_es": "¿Cuál es nuestro tiempo estimado de finalización actual, Ciudad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "la Ciudad",
+     "texto": "Undetermined. When they first started, the incursions between worlds lasted eight hours, but compression of space-time now puts my best calculation at under an hour.",
+     "texto_es": "Indeterminado. Cuando empezaron, las incursiones entre mundos duraban ocho horas, pero la compresión del espacio-tiempo ubica ahora mi mejor cálculo en menos de una hora."
+    }
+   ],
+   "lugar": "La Ciudad del Hacedor",
+   "tono": "tenso",
+   "recorte": "vinetas/page-010-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    590,
+    35,
+    985,
+    354
+   ],
+   "descripcion": "El Hacedor camina por el laboratorio mientras conversa con los miembros de la Cabal sobre la mentira que le ha contado a su universo.",
+   "prompt_en": "The Maker in profile standing in a dark futuristic chamber, explaining his deceitful plan, comic art",
+   "personajes": [
+    "El Hacedor",
+    "Corvus Glaive"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hacedor",
+    "cabal",
+    "engaño"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Corvus Glaive",
+     "texto": "I have to wonder... why lie to them?",
+     "texto_es": "Me lo tengo que preguntar... ¿por qué mentirles?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Hmmm?",
+     "texto_es": "¿Hmmm?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Corvus Glaive",
+     "texto": "We've run every simulation there is. We've reached the death of everything. There is no saving anything. No victory to be had. No victory of any kind. So why lie to them?",
+     "texto_es": "Hemos ejecutado cada simulación existente. Hemos llegado a la muerte de todo. No hay nada que salvar. Ninguna victoria que obtener. Ninguna victoria de ningún tipo. Entonces, ¿por qué mentirles?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "We show them one hand, and hide our real objective in the other.",
+     "texto_es": "Les mostramos una mano y ocultamos nuestro verdadero objetivo en la otra."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "I lied because we need just a little more time... I dress the lie up in a story of hope because if they have that, then they'll believe they have a chance...",
+     "texto_es": "Mentí porque solo necesitamos un poco más de tiempo... Disfrazo la mentira en una historia de esperanza porque si tienen eso, entonces creerán que tienen una oportunidad..."
+    }
+   ],
+   "lugar": "La Ciudad del Hacedor",
+   "tono": "frío",
+   "recorte": "vinetas/page-010-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    590,
+    362,
+    985,
+    965
+   ],
+   "descripcion": "Thanos junto a Cisne Negro y Corvus Glaive observan al Hacedor mientras discuten el honor frente al fin del universo.",
+   "prompt_en": "Thanos standing imposingly next to Black Swan and Corvus Glaive holding a halberd, dark ominous atmosphere, marvel comics art",
+   "personajes": [
+    "Thanos",
+    "Cisne Negro",
+    "Corvus Glaive"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thanos",
+    "cabal",
+    "cisne-negro",
+    "corvus-glaive"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Corvus Glaive",
+     "texto": "They'll fight a little harder... and won't that be fun for you and your Cabal to watch?",
+     "texto_es": "Lucharán un poco más duro... ¿y no será divertido de ver para ti y tu Cabal?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "You humans and your unseemly theatrics. There is no honor in running from death... People should know when their time is up.",
+     "texto_es": "Ustedes los humanos y sus indecorosas teatralidades. No hay honor en huir de la muerte... La gente debería saber cuándo se les ha acabado el tiempo."
+    }
+   ],
+   "lugar": "La Ciudad del Hacedor",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-010-v4.jpg"
+  }
+ ],
+ "lugar": "Tierra-1610 (Universo Ultimate)",
+ "numero_comic": 1,
+ "pagina": 10,
+ "archivo": "paginas/page-010.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5981,
+ "_seg": 20.7
+}

@@ -1,0 +1,251 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante los momentos finales de la incursión entre la Tierra-616 y la Tierra-1610, varios héroes son borrados por la luz del fin del mundo mientras luchan. En la Balsa de Salvación, Black Panther, Reed Richards y sus aliados realizan el despegue de emergencia mientras Manifold utiliza todo su poder para teletransportar a los héroes restantes a bordo.",
+ "personajes": [
+  "Thor (Jane Foster)",
+  "Storm",
+  "Spider-Man (Peter Parker)",
+  "Capitana Marvel (Carol Danvers)",
+  "Iron Man",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Black Panther (T'Challa)",
+  "la Cosa (Ben Grimm)",
+  "Manifold"
+ ],
+ "eventos_clave": [
+  "Incursión final entre Tierra-616 y Tierra-1610",
+  "Desintegración de los héroes en el campo de batalla",
+  "Evacuación de emergencia en la Balsa de Salvación",
+  "Sacrificio de poder de Manifold para salvar a los supervivientes"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    161,
+    1000
+   ],
+   "descripcion": "Thor (Jane Foster) comienza a desintegrarse envuelta en una luz dorada mientras Storm la mira aterrorizada.",
+   "prompt_en": "A female superhero in golden glowing armor disintegrating into light while another superheroine with a white mohawk looks back in horror, dramatic comic book style.",
+   "personajes": [
+    "Thor (Jane Foster)",
+    "Storm"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ultima-incursion",
+    "destruccion",
+    "thor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor (Jane Foster)",
+     "texto": "STORM! SOMETHING IS HAPPEN--",
+     "texto_es": "¡STORM! ALGO ESTÁ PASAN--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Storm",
+     "texto": "THOR?!",
+     "texto_es": "¿¡THOR?!"
+    }
+   ],
+   "lugar": "Cielo de la Tierra-616",
+   "tono": "dramático",
+   "recorte": "vinetas/page-028-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    161,
+    0,
+    331,
+    1000
+   ],
+   "descripcion": "Spider-Man se columpia en el aire mientras naves y escombros explotan a su alrededor.",
+   "prompt_en": "Spider-Man swinging through the air amidst exploding sci-fi structures and fiery debris, action comic shot.",
+   "personajes": [
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "ultima-incursion",
+    "caos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "HUH?",
+     "texto_es": "¿EH?"
+    }
+   ],
+   "lugar": "Cielo de la Tierra-616",
+   "tono": "confuso",
+   "recorte": "vinetas/page-028-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    331,
+    0,
+    495,
+    1000
+   ],
+   "descripcion": "Iron Man le habla a la Capitana Marvel mientras la energía dorada de la incursión la envuelve.",
+   "prompt_en": "Iron Man in red armor speaking to Captain Marvel as bright energy starts consuming her during battle.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Iron Man"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ultima-incursion",
+    "iron-man",
+    "capitana-marvel"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "Hey, I know this is a long shot, but when all this is done maybe I could take you out? Show you around town?",
+     "texto_es": "Oye, sé que es poco probable, pero cuando todo esto termine, ¿quizás podría invitarte a salir? ¿Enseñarte la ciudad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "OH, SHUT...",
+     "texto_es": "OH, CÁLL..."
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "trágico",
+   "recorte": "vinetas/page-028-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    495,
+    0,
+    656,
+    1000
+   ],
+   "descripcion": "Primer plano de la Capitana Marvel gritando mientras es absorbida completamente por la cegadora luz de la incursión.",
+   "prompt_en": "Extreme close-up of a blonde superheroine shouting in pain and despair as blinding golden light dissolves her face.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ultima-incursion",
+    "muerte-heroe"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "THE..",
+     "texto_es": "EL.."
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-028-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    656,
+    31,
+    1000,
+    700
+   ],
+   "descripcion": "En el interior de la Balsa de Salvación, Black Panther, Reed Richards y La Cosa discuten con urgencia el lanzamiento final.",
+   "prompt_en": "Black Panther and Reed Richards inside a futuristic ship command deck talking in urgency as heroes gather behind.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "la Cosa (Ben Grimm)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "evacuacion",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "WE'RE OUT OF TIME. WE HAVE TO GO NOW!",
+     "texto_es": "¡NOS QUEDAMOS SIN TIEMPO. TENEMOS QUE IRNOS YA!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "CUT MANIFOLD LOOSE.",
+     "texto_es": "LIBERA A MANIFOLD."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "HE MADE ME PROMISE NOT TO, REED. HE BELIEVES HE CAN STILL MAKE THIS WORK--HE BELIEVES HE CAN STILL FIND WHAT WE NEED.",
+     "texto_es": "ME HIZO PROMETER QUE NO LO HARÍA, REED. ÉL CREE QUE TODAVÍA PUEDE HACER QUE ESTO FUNCIONE... CREE QUE TODAVÍA PUEDE ENCONTRAR LO QUE NECESITAMOS."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "ARE YOU SURE YOU WANT TO STAY, EDEN?",
+     "texto_es": "¿ESTÁS SEGURO DE QUE QUIERES QUEDARTE, EDEN?"
+    }
+   ],
+   "lugar": "Interior de la Balsa de Salvación",
+   "tono": "urgente",
+   "recorte": "vinetas/page-028-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    656,
+    700,
+    1000,
+    970
+   ],
+   "descripcion": "Manifold canaliza toda su energía de teletransporte para rescatar a los últimos héroes antes de que el universo colapse.",
+   "prompt_en": "A superhero glowing with intense yellow reality-warping energy beams around his face, screaming as he activates his powers.",
+   "personajes": [
+    "Manifold"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "balsa",
+    "manifold",
+    "teletransporte"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Manifold",
+     "texto": "YES! GO.",
+     "texto_es": "¡SÍ! VÁYANSE."
+    }
+   ],
+   "lugar": "Interior de la Balsa de Salvación",
+   "tono": "heroico",
+   "recorte": "vinetas/page-028-v6.jpg"
+  }
+ ],
+ "lugar": "Tierra-616 / Balsa de Salvación",
+ "numero_comic": 1,
+ "pagina": 28,
+ "archivo": "paginas/page-028.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7725,
+ "_seg": 23.6
+}

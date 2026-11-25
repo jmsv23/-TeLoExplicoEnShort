@@ -1,0 +1,50 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título del capítulo 2 de Secret Wars, titulado 'Doom Messiah', con una ilustración parcial en forma de arco que muestra una enorme nave o estructura de ciencia ficción sobre un terreno rocoso.",
+ "personajes": [],
+ "eventos_clave": [
+  "Presentación del capítulo 2: Doom Messiah"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de título del capítulo 02 con el texto 'DOOM MESSIAH' en el centro e imagen parcial superior en semicírculo con un gigantesco vehículo o fortaleza tecnológica de ciencia ficción.",
+   "prompt_en": "Chapter title page with bold text 02 DOOM MESSIAH, circular cropped monochrome sci-fi illustration at the top showing a massive alien spacecraft on a desert planet surface",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "doom-messiah",
+    "capitulo-2",
+    "secret-wars-2",
+    "titulo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "02 DOOM MESSIAH",
+     "texto_es": "02 EL MESÍAS DOOM"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-041-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 41,
+ "archivo": "paginas/page-041.jpg",
+ "ancho": 1600,
+ "alto": 1270,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2879,
+ "_seg": 7.7
+}

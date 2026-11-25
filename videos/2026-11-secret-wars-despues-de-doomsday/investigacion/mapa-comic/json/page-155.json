@@ -1,0 +1,245 @@
+{
+ "tipo": "historia",
+ "resumen": "Dios Emperador Doom, Sue Storm y Valeria interrogan a Cisne Negro acerca de la batalla reciente y el paradero de Thanos y los rebeldes de la balsa. Valeria disimula y miente a su 'padre' Doom afirmando que no saben dónde están ni qué planean.",
+ "personajes": [
+  "Dios Emperador Doom",
+  "Sue Storm",
+  "Cisne Negro",
+  "Valeria Richards",
+  "Thanos",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "Cisne Negro relata cómo la balsa de los supervivientes fue dispersada",
+  "Doom busca localizar urgentemente a los rebeldes",
+  "Valeria miente a Doom para proteger o encubrir información sobre los rebeldes"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    31,
+    335,
+    967
+   ],
+   "descripcion": "Cisne Negro relata lo sucedido mientras en el fondo se proyecta un recuerdo de Thanos y Thor siendo dispersados violentamente.",
+   "prompt_en": "Comic panel showing Black Swan speaking in front of a mystical holographic memory of Thanos and Jane Foster Thor being scattered by magic energy.",
+   "personajes": [
+    "Cisne Negro",
+    "Sue Storm",
+    "Thanos",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "flashback",
+    "dispersión",
+    "thanos",
+    "interrogatorio"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Cisne Negro",
+     "texto": "There was the battle. We were all there with you. And then, suddenly, we were gone.",
+     "texto_es": "Hubo una batalla. Todos estábamos allí contigo. Y luego, de repente, habíamos desaparecido."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Cisne Negro",
+     "texto": "Scattered...",
+     "texto_es": "Dispersados..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "I then made my way here. I can only assume that Corvus and Proxima found each other.",
+     "texto_es": "Luego me abrí paso hasta aquí. Solo puedo suponer que Corvus y Proxima se encontraron el uno al otro."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "Of the rest... I do not know.",
+     "texto_es": "Del resto... no lo sé."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm",
+     "texto": "But you do know who they are?",
+     "texto_es": "¿Pero sabes quiénes son?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-155-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    346,
+    31,
+    517,
+    967
+   ],
+   "descripcion": "Cisne Negro de pie ante la sombra monumental de Dios Emperador Doom y Sue Storm.",
+   "prompt_en": "Medium shot of a pale female villain named Black Swan standing between dark statuesque figures in a majestic stone hall.",
+   "personajes": [
+    "Cisne Negro",
+    "Dios Emperador Doom",
+    "Sue Storm"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "interrogatorio",
+    "cisne-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "Some.",
+     "texto_es": "A algunos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "Not all.",
+     "texto_es": "No a todos."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-155-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    527,
+    31,
+    846,
+    412
+   ],
+   "descripcion": "Dios Emperador Doom con la mano sobre el hombro de Sue Storm interrumpiendo la conversación para dirigirse a Valeria.",
+   "prompt_en": "Close up panel of Doctor Doom in majestic white armor putting his hand on Sue Storm's shoulder.",
+   "personajes": [
+    "Dios Emperador Doom",
+    "Sue Storm"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm",
+     "texto": "Then tell us what you do know. Tell us who you--",
+     "texto_es": "Entonces dinos lo que sí sabes. Dinos a quién--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dios Emperador Doom",
+     "texto": "Forgive me, Susan, but that is secondary to my primary concern. At the moment, I only care where these rebels are now and that they are brought before me.",
+     "texto_es": "Perdóname, Susan, pero eso es secundario para mi principal preocupación. En este momento, solo me importa dónde están esos rebeldes ahora y que sean traídos ante mí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dios Emperador Doom",
+     "texto": "Tell us, Valeria...",
+     "texto_es": "Dinos, Valeria..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-155-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    527,
+    417,
+    846,
+    967
+   ],
+   "descripcion": "Valeria Richards sosteniendo una tablet frente a tubos de contención que contienen especímenes, mientras Doom le exige información.",
+   "prompt_en": "Valeria Richards holding a digital device in front of giant glass stasis pods holding prisoners in a sci-fi laboratory.",
+   "personajes": [
+    "Valeria Richards",
+    "Dios Emperador Doom",
+    "Cisne Negro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "laboratorio",
+    "tubos-de-estasis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Dios Emperador Doom",
+     "texto": "Deep in the recesses of our captives' minds, was there a kernel--some sliver--of information telling us where the others are?",
+     "texto_es": "En lo más profundo de la mente de nuestros cautivos, ¿había algún germen, alguna brizna de información que nos dijera dónde están los demás?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dios Emperador Doom",
+     "texto": "Do we know anything of their plans?",
+     "texto_es": "¿Sabemos algo de sus planes?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "inquisitivo",
+   "recorte": "vinetas/page-155-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    855,
+    31,
+    992,
+    967
+   ],
+   "descripcion": "Primer plano del rostro de Valeria Richards con la mirada fija mientras miente a Doom.",
+   "prompt_en": "Extreme close-up of a young blonde girl's eyes looking directly forward with a serious expressions.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "valeria-richards",
+    "mentira",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'm sorry, Father... No.",
+     "texto_es": "Lo siento, Padre... No."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "We have no idea where they are. We have no idea what they're doing.",
+     "texto_es": "No tenemos idea de dónde están. No tenemos idea de qué están haciendo."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-155-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 5,
+ "pagina": 155,
+ "archivo": "paginas/page-155.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6242,
+ "_seg": 22.7
+}

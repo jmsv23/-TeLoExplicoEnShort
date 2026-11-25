@@ -1,0 +1,239 @@
+{
+ "tipo": "historia",
+ "resumen": "Cisne Negro comparece ante el Dios Emperador Doom y Susan Storm para identificar a Corvus Glaive y Proxima Midnight como los supervivientes de la Orden Negra de Thanos. Susan cuestiona la lealtad de Cisne Negro, pero Doom defiende su proceso de adaptación e indaga si tiene más información que ofrecer.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Cisne Negro (Black Swan)"
+ ],
+ "eventos_clave": [
+  "identificacion-de-la-orden-negra",
+  "interrogatorio-a-cisne-negro",
+  "defensa-de-doom-a-cisne-negro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    33,
+    332,
+    452
+   ],
+   "descripcion": "Vista parcial de Doctor Doom acostado o reclinado en su trono orgánico, con Susan Storm a su lado tocando su hombro y Cisne Negro de pie al fondo.",
+   "prompt_en": "Comic panel showing God Emperor Doom on a living organic throne, Susan Storm leaning over him in white costume, and Black Swan standing in the background.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "castillo-doom",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Hold.",
+     "texto_es": "Espera."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Is she correct?",
+     "texto_es": "¿Ella tiene razón?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "No.",
+     "texto_es": "No."
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "tension",
+   "recorte": "vinetas/page-154-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    461,
+    332,
+    966
+   ],
+   "descripcion": "Plano medio de Cisne Negro, vistiendo su traje negro y blanco, mirando hacia abajo solemnemente mientras habla.",
+   "prompt_en": "Comic panel close-up of Black Swan with long pale white hair and sleek black suit, looking down solemnly.",
+   "personajes": [
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "orden-negra",
+    "thanos",
+    "cisne-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "They are not companions, they are husband and wife. The male is Corvus Glaive. She is Proxima Midnight.",
+     "texto_es": "No son compañeros, son esposo y esposa. El varón es Corvus Glaive. Ella es Proxima Midnight."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "They are the surviving members of the Black Order. The generals of the tyrant Thanos.",
+     "texto_es": "Son los miembros sobrevivientes de la Orden Negra. Los generales del tirano Thanos."
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "serio",
+   "recorte": "vinetas/page-154-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    345,
+    33,
+    638,
+    604
+   ],
+   "descripcion": "Susan Storm inclinada sobre la silla/trono de Doom, dirigiéndose a Cisne Negro mientras Doom escucha pacientemente.",
+   "prompt_en": "Comic panel showing Susan Storm in white bodysuit leaning on Doom's throne while speaking to Black Swan who stands out of frame.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom",
+    "interrogatorio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I must say...",
+     "texto_es": "Debo decir..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Confession, my love, is the manifestation of contrition. If this one has truly seen the error of her ways...",
+     "texto_es": "La confesión, mi amor, es la manifestación de la contrición. Si esta realmente ha visto el error de sus caminos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...why do you have to ask for information that should be freely given?",
+     "texto_es": "...¿por qué tienes que pedir información que debería ser dada libremente?"
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-154-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    345,
+    613,
+    638,
+    966
+   ],
+   "descripcion": "Primer plano de Doctor Doom con su máscara de hierro y capucha blanca pensativo, sosteniendo su mentón con una mano, mientras Susan mira con desconfianza.",
+   "prompt_en": "Comic panel closeup of Doctor Doom wearing white hooded tunic and metal mask, finger to his lips thoughtfully, Susan Storm standing behind him.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "reflexion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "She was lost, Susan.",
+     "texto_es": "Estaba perdida, Susan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "This Black Swan is from another world. It will take her time to find her way.",
+     "texto_es": "Esta Cisne Negro es de otro mundo. Le tomará tiempo encontrar su camino."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "But you will find it, won't you, child?",
+     "texto_es": "Pero lo encontrarás, ¿verdad, niña?"
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "calmado",
+   "recorte": "vinetas/page-154-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    650,
+    33,
+    975,
+    966
+   ],
+   "descripcion": "Plano general de la sala del trono: Susan a la izquierda revisando una tableta, Cisne Negro en el centro mostrando devoción a Doom, y Doom reclinado a la derecha.",
+   "prompt_en": "Comic panel showing full throne room, Susan Storm holding tablet on left, Black Swan standing in center bowing head to God Emperor Doom seated on right.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Cisne Negro (Black Swan)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "lealtad",
+    "castillo-doom",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "I am home, my Lord.",
+     "texto_es": "Estoy en casa, mi Señor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "Annu Ersetu Damiq.",
+     "texto_es": "Annu Ersetu Damiq."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Good. And is there anything else you think we should hear at this time?",
+     "texto_es": "Bien. ¿Y hay algo más que creas que debamos escuchar en este momento?"
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "solemne",
+   "recorte": "vinetas/page-154-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Doomstadt, Battleworld",
+ "numero_comic": 3,
+ "pagina": 154,
+ "archivo": "paginas/page-154.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6040,
+ "_seg": 18.0
+}

@@ -1,0 +1,225 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom, Sue Storm y Franklin Richards le rinden un homenaje privado y personal a Sheriff Strange tras su reciente muerte, colocando plantas sobre una estatua conmemorativa. Franklin expresa su tristeza y promete venganza contra el asesino de Strange.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards",
+  "Thor (Jane Foster)",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Homenaje a Sheriff Strange",
+  "Promesa de venganza de Franklin Richards"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    35,
+    348,
+    494
+   ],
+   "descripcion": "Sue Storm habla pacientemente con Doctor Doom mientras le entrega unos tallos de plantas verdes para honrar en privado a Stephen Strange.",
+   "prompt_en": "Comic panel showing Susan Storm wearing white armor speaking to Doctor Doom in white cape and armor, holding a green plant, close-up, dramatic lighting.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "familia-doom",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "There is going to be a public memorial later where all the various kingdom barons and citizens of Doomgard can pay their respects...",
+     "texto_es": "Habrá un homenaje público más tarde donde todos los Barones de los reinos y ciudadanos de Doomgard podrán presentar sus respetos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...but he was your friend, Victor. And I thought you would appreciate something more... personal.",
+     "texto_es": "...pero él era tu amigo, Victor. Y pensé que apreciarías algo más... personal."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Of course. Thank you, Susan.",
+     "texto_es": "Por supuesto. Gracias, Susan."
+    }
+   ],
+   "lugar": "Doomgard / Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-133-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    500,
+    348,
+    717
+   ],
+   "descripcion": "Sue le pide a su hijo Franklin que coloque las flores en la gran estatua de Strange.",
+   "prompt_en": "Susan Storm looking up gently and offering plants to a young boy climbing a giant stone sculpture.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "muerte-strange",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Franklin, would you please...",
+     "texto_es": "Franklin, ¿podrías por favor...?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Okay.",
+     "texto_es": "De acuerdo."
+    }
+   ],
+   "lugar": "Doomgard / Battleworld",
+   "tono": "tranquilo",
+   "recorte": "vinetas/page-133-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    25,
+    724,
+    348,
+    969
+   ],
+   "descripcion": "Franklin escala el busto de piedra de Doctor Strange y coloca las plantas verdes sobre su cuello.",
+   "prompt_en": "Young boy in futuristic white uniform climbing a massive stone face statue and arranging green foliage.",
+   "personajes": [
+    "Franklin Richards",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "estatua"
+   ],
+   "textos": [],
+   "lugar": "Doomgard / Battleworld",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-133-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    366,
+    31,
+    727,
+    721
+   ],
+   "descripcion": "Franklin, con brillo místico en la mano, se despide de la estatua de Strange.",
+   "prompt_en": "A young boy levitating near a huge stone head sculpture of Doctor Strange, glowing light from his hand.",
+   "personajes": [
+    "Franklin Richards",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "despedida"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "I'm sorry you died, Mister Strange. I liked you a lot.",
+     "texto_es": "Lamento que hayas muerto, Señor Strange. Me caías muy bien."
+    }
+   ],
+   "lugar": "Doomgard / Battleworld",
+   "tono": "triste",
+   "recorte": "vinetas/page-133-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    366,
+    729,
+    647,
+    966
+   ],
+   "descripcion": "Plano medio de Franklin poniendo cara de enojo y rabia decidida.",
+   "prompt_en": "Close-up of a blonde boy with a furious and determined angry expression.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "venganza",
+    "rabia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "When we find out who did this, I'm gonna mash them into little pieces.",
+     "texto_es": "Cuando sepamos quién hizo esto, voy a hacerlos pedacitos."
+    }
+   ],
+   "lugar": "Doomgard / Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-133-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    742,
+    32,
+    974,
+    966
+   ],
+   "descripcion": "Vista en contrapicado de Sue Storm, Doctor Doom y miembros del Thor Corps observando solemnemente.",
+   "prompt_en": "Low angle shot of Sue Storm, Doctor Doom in white hood, and a Thor looking up thoughtfully.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "\"Just you watch.\"",
+     "texto_es": "\"Ya lo verán.\""
+    }
+   ],
+   "lugar": "Doomgard / Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-133-v6.jpg"
+  }
+ ],
+ "lugar": "Doomgard, Battleworld",
+ "numero_comic": 5,
+ "pagina": 133,
+ "archivo": "paginas/page-133.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5000,
+ "_seg": 19.0
+}

@@ -1,0 +1,49 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título de capítulo que marca el inicio del primer capítulo de la saga: '01 THE END TIMES'.",
+ "personajes": [],
+ "eventos_clave": [
+  "Inicio del capítulo 01: The End Times"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de título minimalista para el capítulo 01 titulado 'The End Times', con un detalle circular en escala de grises en la parte superior que muestra naves y maquinaria espacial futurista.",
+   "prompt_en": "Chapter title page with large bold number 01 and text 'THE END TIMES' in a minimalist layout, topped by a curved grayscale illustration of sci-fi spacecraft and futuristic machinery against a clean white background.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "titulo-capitulo",
+    "the-end-times",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "01 THE END TIMES",
+     "texto_es": "01 LOS TIEMPOS FINALES"
+    }
+   ],
+   "lugar": "Espacio",
+   "tono": "solemne",
+   "recorte": "vinetas/page-011-v1.jpg"
+  }
+ ],
+ "lugar": "Espacio",
+ "numero_comic": 1,
+ "pagina": 11,
+ "archivo": "paginas/page-011.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2859,
+ "_seg": 9.4
+}

@@ -1,0 +1,147 @@
+{
+ "tipo": "historia",
+ "resumen": "Cíclope, poseído por la Fuerza Fénix, reflexiona sobre el peso del poder divinal y si no es su deber destruir el mundo imperfecto de Doom para crear uno mejor. Mientras habla con Doctor Strange (el Alguacil de Battleworld), varios miembros del Thor Corps interrumpen para alertar sobre una anomalía, obligando a Strange a desviar su atención.",
+ "personajes": [
+  "Cíclope",
+  "Doctor Strange (Sheriff Strange)",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Cíclope con el poder del Fénix expone su filosofía sobre el poder absoluto",
+  "Miembros del Thor Corps interrumpen la conversación con el Sheriff Strange",
+  "Strange advierte una amenaza urgente que requiere su presencia en otro lugar"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    36,
+    495,
+    971
+   ],
+   "descripcion": "Cíclope levita rodeado por un gigantesco halo de fuego del Fénix, hablando solemnemente desde las alturas.",
+   "prompt_en": "Cyclops glowing brightly inside a massive fiery Phoenix energy aura, hovering against a circular cosmic background, comic book art style",
+   "personajes": [
+    "Cíclope"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ciclope-fenix",
+    "fenix",
+    "battleworld",
+    "poder-absoluto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope",
+     "texto": "...because I've had a recent revolution in personal ideology. If you had the power... if you had the means... if you were the one playing god and the world you want is not the one you have...",
+     "texto_es": "...porque he tenido una revolución reciente en mi ideología personal. Si tuvieras el poder... si tuvieras los medios... si fueras tú quien juega a ser Dios y el mundo que quieres no es el que tienes..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-115-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    495,
+    36,
+    668,
+    971
+   ],
+   "descripcion": "Plano medio del rostro de Cíclope con el visor en forma de X brillando entre llamas amarillas y doradas.",
+   "prompt_en": "Close-up of Cyclops face wearing an X-visor framed by intense yellow and orange flames, heroic comic illustration",
+   "personajes": [
+    "Cíclope"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ciclope-fenix",
+    "visor-x",
+    "discurso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope",
+     "texto": "Don't you have the responsibility to burn it down and raise up something better?",
+     "texto_es": "¿No tienes la responsabilidad de quemarlo todo y erigir algo mejor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope",
+     "texto": "Isn't that the real burden that comes with the kind of power Doom has? Isn't it the burden of power I have?",
+     "texto_es": "¿No es esa la verdadera carga que viene con la clase de poder que tiene Doom? ¿No es la carga del poder que yo tengo?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-115-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    681,
+    36,
+    981,
+    971
+   ],
+   "descripcion": "Cíclope es interrumpido a la izquierda por dos miembros del Thor Corps que consultan al Alguacil Strange. A la derecha, un primer plano del rostro serio de Doctor Strange.",
+   "prompt_en": "A panel split showing Thor Corps members with glowing hammers consulting Sheriff Strange, and a close-up of Doctor Strange looking serious, comic book art",
+   "personajes": [
+    "Cíclope",
+    "Thor Corps",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "sheriff-strange",
+    "interrupcion",
+    "amenaza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope",
+     "texto": "That's something I would neve--",
+     "texto_es": "Eso es algo que yo nunca--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Excuse me, Sheriff. I'm sorry to interrupt, but I am newly raised and do not know the significance of this...",
+     "texto_es": "Disculpe, Alguacil. Lamento interrumpir, pero he sido nombrado recientemente y no conozco el significado de esto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "What does it mean?",
+     "texto_es": "¿Qué significa esto?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Our attention is needed elsewhere.",
+     "texto_es": "Nuestra atención es requerida en otra parte."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "urgente",
+   "recorte": "vinetas/page-115-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 115,
+ "archivo": "paginas/page-115.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5446,
+ "_seg": 20.8
+}

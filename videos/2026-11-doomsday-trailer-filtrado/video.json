@@ -1,0 +1,100 @@
+{
+ "titulo": "Avengers: Doomsday — el tráiler final filtrado",
+ "fecha": "2026-11-16",
+ "formato": "largo",
+ "estilo": "comic",
+ "voz": null,
+ "serie": "camino-a-doomsday",
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo",
+   "comic": {
+    "partes": [
+     [
+      "p1",
+      [
+       "hook",
+       "e1",
+       "e2"
+      ]
+     ],
+     [
+      "p2",
+      [
+       "e3",
+       "e4",
+       "e5"
+      ]
+     ],
+     [
+      "p3",
+      [
+       "e6",
+       "e7",
+       "cierre"
+      ]
+     ]
+    ],
+    "dias": 30,
+    "placa": [
+     "e(\\d+)",
+     "ESCENA",
+     7
+    ]
+   },
+   "partes": true
+  }
+ ],
+ "musica": {
+  "comic": {
+   "hook": "hook",
+   "e1": "doom",
+   "e2": "accion",
+   "e3": "accion",
+   "e4": "misterio",
+   "e5": "misterio",
+   "e6": "accion",
+   "e7": "doom",
+   "cierre": "hook"
+  }
+ },
+ "pronunciacion": [
+  [
+   "Doomstadt",
+   "Dumstat"
+  ],
+  [
+   "Hassenstadt",
+   "Jásenstat"
+  ],
+  [
+   "Doombots",
+   "Dumbots"
+  ],
+  [
+   "TVA",
+   "te ve a"
+  ],
+  [
+   "X-Men",
+   "Equis Men"
+  ],
+  [
+   "Comic Book Movie",
+   "Cómic Buk Muvi"
+  ]
+ ],
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": "hecho",
+  "montaje": "hecho",
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/_motion/compositions/camino-a-doomsday/_lf (lf02)"
+}

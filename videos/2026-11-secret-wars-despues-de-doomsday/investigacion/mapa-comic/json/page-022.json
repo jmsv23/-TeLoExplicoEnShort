@@ -1,0 +1,140 @@
+{
+ "tipo": "historia",
+ "resumen": "Las imponentes naves futuristas del Hacedor comienzan a desplegarse en medio del conflicto de la incursión entre la Tierra-616 y la Tierra-1610, mientras Spider-Man (Miles Morales) observa perplejo la magnitud de la tecnología que surge.",
+ "personajes": [
+  "El Hacedor",
+  "Spider-Man (Miles Morales)"
+ ],
+ "eventos_clave": [
+  "Despliegue de las naves avanzadas del Hacedor",
+  "Miles Morales presenciando el ataque / despliegue en la incursión"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    725,
+    1000
+   ],
+   "descripcion": "Vista aérea en picado extremo de una enorme apertura circular en una estructura tecnológica rodeada por naves espacial futuristas con luces azules deslumbrantes.",
+   "prompt_en": "High angle top-down view of massive sleek sci-fi futuristic spaceships with glowing blue lights assembling around a giant mechanical circular portal, detailed comic book art style.",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "naves-futuristas",
+    "incursion",
+    "el-hacedor",
+    "tecnologia-ultimate"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "\"Show these primitive people the future they could have had.\"",
+     "texto_es": "\"Muéstrale a esta gente primitiva el futuro que podrían haber tenido.\""
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-022-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    725,
+    130,
+    995,
+    380
+   ],
+   "descripcion": "Silueta lejana de Spider-Man corriendo por una cornisa tecnológica de tono rosado.",
+   "prompt_en": "Distant silhouette of a comic book hero running along the edge of a giant metallic pink platform, comic art style.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "silueta",
+    "accion"
+   ],
+   "textos": [],
+   "lugar": "Tierra-1610",
+   "tono": "tension",
+   "recorte": "vinetas/page-022-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    725,
+    390,
+    995,
+    620
+   ],
+   "descripcion": "Spider-Man (Miles Morales) deteniéndose abruptamente al observar la enorme estructura desplegándose.",
+   "prompt_en": "Spider-Man in black suit stopping suddenly on a pink ledge, seen from behind, looking up in shock, comic art.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sorpresa",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Huh.",
+     "texto_es": "Eh."
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "asombro",
+   "recorte": "vinetas/page-022-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    725,
+    630,
+    995,
+    870
+   ],
+   "descripcion": "Primer plano de Miles Morales en su traje de Spider-Man agachado, mirando hacia el cielo completamente perplejo.",
+   "prompt_en": "Close-up of Miles Morales Spider-Man crouching on a ledge, looking up in absolute shock and disbelief, comic book panel.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "miles-morales",
+    "primer-plano",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "What the...",
+     "texto_es": "Pero qué..."
+    }
+   ],
+   "lugar": "Tierra-1610",
+   "tono": "desconcierto",
+   "recorte": "vinetas/page-022-v4.jpg"
+  }
+ ],
+ "lugar": "Tierra-1610",
+ "numero_comic": 1,
+ "pagina": 22,
+ "archivo": "paginas/page-022.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5011,
+ "_seg": 17.1
+}

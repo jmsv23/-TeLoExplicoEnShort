@@ -1,0 +1,228 @@
+{
+ "tipo": "historia",
+ "resumen": "En el epílogo tras la restauración del universo, Peter Parker y Miles Morales conversan en una azotea de Nueva York al atardecer sobre la vida cotidiana de Miles y su entrenamiento como Spider-Man.",
+ "personajes": [
+  "Spider-Man (Miles Morales)",
+  "Spider-Man (Peter Parker)"
+ ],
+ "eventos_clave": [
+  "Conversación entre Peter Parker y Miles Morales",
+  "Restauración de la Tierra-616 tras Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    10,
+    0,
+    428,
+    990
+   ],
+   "descripcion": "Miles Morales desenmascarado de pie sobre la cornisa de un edificio, observando el horizonte de la ciudad de Nueva York al atardecer.",
+   "prompt_en": "Miles Morales standing unmasked on a skyscraper ledge looking out at the New York City skyline at golden hour sunset, comic art style.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "nueva-york",
+    "epilogo",
+    "azotea",
+    "atardecer"
+   ],
+   "textos": [],
+   "lugar": "Azotea en Nueva York",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-247-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    745,
+    332,
+    960
+   ],
+   "descripcion": "Primer plano lateral del rostro de Miles Morales escuchando a Peter Parker.",
+   "prompt_en": "Close up profile portrait of unmasked young Miles Morales looking thoughtful, comic panel.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "retrato",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "What did you tell your mom you'd be doing, Miles?",
+     "texto_es": "¿Qué le dijiste a tu mamá que estarías haciendo, Miles?"
+    }
+   ],
+   "lugar": "Azotea en Nueva York",
+   "tono": "amigable",
+   "recorte": "vinetas/page-247-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    434,
+    38,
+    831,
+    350
+   ],
+   "descripcion": "Miles Morales en primer plano mirando cabizbajo con su máscara en la mano, mientras Peter Parker se aproxima desde atrás.",
+   "prompt_en": "Miles Morales looking down holding his Spider-Man mask while Peter Parker in full costume steps up behind him on a rooftop ledge.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mentira-piadosa",
+    "mentor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Studying with a friend.",
+     "texto_es": "Estudiando con un amigo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "So not a total lie. More of a half-truth.",
+     "texto_es": "Así que no es una mentira total. Más bien una media verdad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Something like that.",
+     "texto_es": "Algo así."
+    }
+   ],
+   "lugar": "Azotea en Nueva York",
+   "tono": "cotidiano",
+   "recorte": "vinetas/page-247-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    434,
+    360,
+    831,
+    646
+   ],
+   "descripcion": "Peter Parker abre los brazos preguntando a Miles si ha comido, ambos de pie en la azotea.",
+   "prompt_en": "Peter Parker in Spider-Man suit making wide gesture talking to Miles Morales standing beside him on rooftop edge.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "humor",
+    "companerismo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "You eat a snack?",
+     "texto_es": "¿Comiste un bocadillo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Uh-huh.",
+     "texto_es": "Ajá."
+    }
+   ],
+   "lugar": "Azotea en Nueva York",
+   "tono": "distendido",
+   "recorte": "vinetas/page-247-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    434,
+    654,
+    831,
+    960
+   ],
+   "descripcion": "Peter Parker con las manos en las caderas le pregunta sobre la tarea a Miles, quien se sostiene la cabeza abrumado.",
+   "prompt_en": "Peter Parker in costume with hands on hips asking Miles Morales who facepalms in fatigue on rooftop.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "tareas",
+    "responsabilidad"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "You do your homework?",
+     "texto_es": "¿Hiciste la tarea?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Yeah.",
+     "texto_es": "Sí."
+    }
+   ],
+   "lugar": "Azotea en Nueva York",
+   "tono": "comico",
+   "recorte": "vinetas/page-247-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    831,
+    534,
+    1000,
+    775
+   ],
+   "descripcion": "Plano detalle de la máscara de Spider-Man (Peter Parker) sonriendo tras los lentes al proponer patrullar.",
+   "prompt_en": "Close up of classic Spider-Man masked face looking sideways, comic art detail.",
+   "personajes": [
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "patrulla",
+    "heroismo",
+    "spider-man"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "You wanna go beat up some bad guys, Spider-Man?",
+     "texto_es": "¿Quieres ir a darle una paliza a unos villanos, Spider-Man?"
+    }
+   ],
+   "lugar": "Azotea en Nueva York",
+   "tono": "entusiasta",
+   "recorte": "vinetas/page-247-v6.jpg"
+  }
+ ],
+ "lugar": "Ciudad de Nueva York",
+ "numero_comic": 9,
+ "pagina": 247,
+ "archivo": "paginas/page-247.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5460,
+ "_seg": 29.2
+}

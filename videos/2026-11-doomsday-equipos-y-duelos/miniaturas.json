@@ -1,0 +1,91 @@
+[
+ {
+  "id": "miniatura-A",
+  "pieza": "largo",
+  "layout": "hero",
+  "datos": {
+   "img": {
+    "img": "doom-detiene-stormbreaker",
+    "pos": "62% 50%"
+   },
+   "l1": "¿QUIÉN",
+   "l2": "LE GANA?",
+   "fila": [
+    {
+     "img": "a-thor"
+    },
+    {
+     "img": "sentry-thunderbolts",
+     "pos": "50% 25%"
+    },
+    {
+     "img": "a-reed"
+    },
+    {
+     "img": "a-magneto"
+    },
+    {
+     "img": "a-loki"
+    },
+    {
+     "img": "a-scarlet",
+     "pos": "50% 20%"
+    }
+   ],
+   "fila_q": "VS",
+   "logo": {
+    "img": "doomsday-logo",
+    "x": 56,
+    "y": 24,
+    "w": 300
+   },
+   "top": 135
+  }
+ },
+ {
+  "id": "miniatura-B",
+  "pieza": "largo",
+  "layout": "versus",
+  "datos": {
+   "a": {
+    "img": "thor-rayo-ojos",
+    "etiqueta": "THOR",
+    "pos": "45% 35%"
+   },
+   "b": {
+    "img": "doom-mascara",
+    "etiqueta": "DOCTOR DOOM",
+    "pos": "50% 40%"
+   },
+   "l1": "NADIE LE GANA",
+   "l2": "SOLO",
+   "logo": {
+    "img": "doomsday-logo",
+    "x": "centro",
+    "y": 250,
+    "w": 340
+   }
+  }
+ },
+ {
+  "id": "portada-short-01",
+  "pieza": "short-01",
+  "layout": "portada",
+  "datos": {
+   "img": {
+    "img": "doom-detiene-stormbreaker",
+    "pos": "36% 50%"
+   },
+   "kick": "THOR VS DOCTOR DOOM",
+   "l1": "¡CON UNA",
+   "l2": "MANO!",
+   "sello": "¿LE ALCANZA?",
+   "logo": {
+    "img": "doomsday-logo",
+    "x": "centro",
+    "y": 150,
+    "w": 620
+   }
+  }
+ }
+]

@@ -1,0 +1,194 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Castillo Doom, Valeria Richards informa a su padre, el Dios Emperador Doom, sobre el estado de la búsqueda de los rebeldes responsables de la muerte de Stephen Strange. Valeria admite que la búsqueda ha sido un fracaso, pero revela que Apocalipsis capturó a dos miembros de la Cabala (Corvus Glaive y Proxima Midnight), a quienes mantienen en tubos de estasis para extraerles información.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Valeria Richards",
+  "Corvus Glaive",
+  "Proxima Midnight"
+ ],
+ "eventos_clave": [
+  "Valeria reporta el fracaso de la búsqueda de los supervivientes de la balsa a Doctor Doom.",
+  "Se revela que Apocalipsis capturó a Corvus Glaive y Proxima Midnight.",
+  "Doctor Doom menciona que la rebelión se extiende por varios reinos de Battleworld y que los Thors están exhaustos."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    442,
+    597
+   ],
+   "descripcion": "Vista panorámica exterior del impresionante y masivo Castillo Doom erigido sobre los acantilados de Battleworld.",
+   "prompt_en": "Establishing shot of a massive white fantasy castle built on rocky cliffs under a cloudy sky, comic book art style",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "castillo-doom",
+    "battleworld",
+    "vista-general"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM.",
+     "texto_es": "CASTILLO DOOM."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'll be honest, Dad... I don't have very good news.",
+     "texto_es": "Seré honesta, papá... No tengo muy buenas noticias."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-153-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    597,
+    432,
+    970
+   ],
+   "descripcion": "El Dios Emperador Doom sentado en su trono de raíces y madera junto a su hija Valeria Richards.",
+   "prompt_en": "God Emperor Doom sitting on a throne made of giant tree roots with Valeria Richards standing beside him, comic book style",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "trono",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "My world is in disarray, Valeria. Recent disorder has escalated into open rebellion in several kingdoms.",
+     "texto_es": "Mi mundo está en desorden, Valeria. El desorden reciente ha escalado a una rebelión abierta en varios reinos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "In that chaos my Thors grow weary, and an ill wind portends even worse to come... Nevertheless, I would have the truth from you, daughter...",
+     "texto_es": "En ese caos mis Thors se cansan, y un mal viento augura algo aún peor por venir... Sin embargo, quisiera la verdad de ti, hija..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And I would have it now.",
+     "texto_es": "Y la querría ahora."
+    }
+   ],
+   "lugar": "Sala del trono del Castillo Doom",
+   "tono": "serio",
+   "recorte": "vinetas/page-153-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    442,
+    0,
+    832,
+    970
+   ],
+   "descripcion": "Valeria de pie frente a dos tanques de estasis tubulares llenos de líquido azul conteniendo a Corvus Glaive y Proxima Midnight, mientras Doom observa desde el primer plano.",
+   "prompt_en": "Young blonde female scientist holding a digital tablet standing in front of two giant glass stasis tubes holding captive villains in glowing blue fluid, low angle view with armored figure in foreground",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Valeria Richards",
+    "Corvus Glaive",
+    "Proxima Midnight"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "tanques-de-estasis",
+    "cabala",
+    "laboratorio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Okay, if you say so...",
+     "texto_es": "Está bien, si tú lo dices..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Basically, the search for the rebels who killed Stephen Strange has been a failure. Even if we're super patient, extrapolating out the little success we've had over a longer period of time--",
+     "texto_es": "Básicamente, la búsqueda de los rebeldes que mataron a Stephen Strange ha sido un fracaso. Incluso si somos súper pacientes, extrapolando el poco éxito que hemos tenido durante un período de tiempo más largo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Honestly, Dad, our chances pretty much suck...",
+     "texto_es": "Honestamente, papá, nuestras posibilidades apestan bastante..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "The only luck we've had was Apocalypse stumbling onto these two several days ago.",
+     "texto_es": "La única suerte que hemos tenido fue que Apocalipsis se topó con estos dos hace varios días."
+    }
+   ],
+   "lugar": "Laboratorio del Castillo Doom",
+   "tono": "analítico",
+   "recorte": "vinetas/page-153-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    832,
+    0,
+    1000,
+    970
+   ],
+   "descripcion": "Plano medio de Valeria Richards hablando con mirada seria y determinada.",
+   "prompt_en": "Close up shot of a young blonde girl with intelligent intense blue eyes speaking seriously, comic book panel",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "The Baron and his Horsemen did quite a number on them, but they were still intact enough for us to get a look inside their heads.",
+     "texto_es": "El Barón y sus Jinetes les dieron una buena paliza, pero aún estaban lo suficientemente intactos como para echar un vistazo dentro de sus cabezas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "First we found out that the beast man is called Corbis. The other is, apparently, his proxy. Then we--",
+     "texto_es": "Primero descubrimos que el hombre bestia se llama Corbis. El otro es, aparentemente, su apoderado. Luego nosotros..."
+    }
+   ],
+   "lugar": "Laboratorio del Castillo Doom",
+   "tono": "explicativo",
+   "recorte": "vinetas/page-153-v4.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 6,
+ "pagina": 153,
+ "archivo": "paginas/page-153.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5317,
+ "_seg": 17.7
+}

@@ -1,0 +1,203 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards le explica a su madre, Sue Storm, el proceso mediante el cual están reconstruyendo el Multiverso: el Hombre Molécula aporta la energía ilimitada, Reed Richards la canaliza y dirige, y Franklin Richards imagina y da forma a los nuevos universos.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Hombre Molécula (Owen Reece)",
+  "Franklin Richards",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Fundación Futuro"
+ ],
+ "eventos_clave": [
+  "Explicación sobre la restauración del Multiverso",
+  "Rol de Owen Reece, Reed Richards y Franklin Richards en la creación de nuevos universos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    40,
+    320,
+    271
+   ],
+   "descripcion": "Un cuadro blanco con un globo de texto donde Sue le pide a Valeria que le explique nuevamente la situación.",
+   "prompt_en": "White panel with a speech bubble at the top left in comic book style",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "dialogo",
+    "explicacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "EXPLAIN IT TO ME AGAIN.",
+     "texto_es": "Explícamelo otra vez."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "tranquilo",
+   "recorte": "vinetas/page-249-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    283,
+    320,
+    494
+   ],
+   "descripcion": "Primer plano del rostro sonriente y cicatrizado de Owen Reece (Hombre Molécula) brillando con luz dorada.",
+   "prompt_en": "Close up panel of Owen Reece's face with facial scars glowing in warm golden light, subtle smile",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "poder-cosmico"
+   ],
+   "textos": [],
+   "lugar": "Espacio exterior",
+   "tono": "místico",
+   "recorte": "vinetas/page-249-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    28,
+    508,
+    320,
+    727
+   ],
+   "descripcion": "Sue Storm mirando a Valeria Richards mientras esta se prepara para explicar el proceso.",
+   "prompt_en": "Comic panel showing Invisible Woman in a blue suit talking to young Valeria Richards",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "madre-e-hija",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "OKAY, MOM... DO YOU WANT THE COMPLICATED VERSION OR THE SUPER-COMPLICATED ONE?",
+     "texto_es": "Está bien, mamá... ¿quieres la versión complicada o la súper complicada?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I'D PREFER THE ONE THAT MAKES SENSE. THINK YOU CAN DO THAT, DEAR?",
+     "texto_es": "Preferiría la que tenga sentido. ¿Crees que puedes hacer eso, querida?"
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "afectuoso",
+   "recorte": "vinetas/page-249-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    28,
+    740,
+    320,
+    959
+   ],
+   "descripcion": "Valeria suspira y sonríe mientras comienza a hablar con su madre Sue.",
+   "prompt_en": "Young blonde girl Valeria Richards sighing and talking to her mother Sue Storm, close up comic panel",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "conversacion",
+    "explicacion"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Valeria Richards",
+     "texto": "SIGH",
+     "texto_es": "SUSPIRO"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I CAN TRY. SO...",
+     "texto_es": "Puedo intentarlo. Así que..."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "distendido",
+   "recorte": "vinetas/page-249-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    324,
+    0,
+    994,
+    1000
+   ],
+   "descripcion": "Vista panorámica del cosmos naciente donde un estallido de luz dorada atraviesa el cielo estrellado. En primer plano, Sue Storm toma la mano de Valeria Richards mientras observan junto a los miembros de la Fundación Futuro la creación de nuevos universos.",
+   "prompt_en": "Wide splash panel showing Invisible Woman holding young Valeria's hand, looking out into a cosmic space with a streaking golden light, surrounded by futuristic heroes standing on a cosmic asteroid",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Fundación Futuro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reconstruccion-multiverso",
+    "creacion",
+    "hombre-molecula",
+    "reed-richards",
+    "franklin-richards",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "...OWEN OVER THERE IS THE KEY. HE'S KIND OF A HUMAN REPOSITORY OF UNLIMITED POWER.",
+     "texto_es": "...Owen allí es la clave. Es una especie de repositorio humano de poder ilimitado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "AND THAT OMNIPOTENT POWER HAS TO BE DIRECTED--USED--BY AN INDIVIDUAL. IN THIS CASE, DAD.",
+     "texto_es": "Y ese poder omnipotente tiene que ser dirigido... usado... por un individuo. En este caso, papá."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "AND THAT'S WHERE IT REALLY GETS INTERESTING, AS FRANKLIN IS A UNIVERSAL SHAPER. A DREAMER.",
+     "texto_es": "Y ahí es donde se pone realmente interesante, ya que Franklin es un moldeador universal. Un soñador."
+    }
+   ],
+   "lugar": "Nacimiento del nuevo Multiverso",
+   "tono": "epico",
+   "recorte": "vinetas/page-249-v5.jpg"
+  }
+ ],
+ "lugar": "Reconstrucción del Multiverso",
+ "numero_comic": 9,
+ "pagina": 249,
+ "archivo": "paginas/page-249.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5656,
+ "_seg": 20.7
+}

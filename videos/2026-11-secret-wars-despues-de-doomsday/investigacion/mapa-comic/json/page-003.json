@@ -1,0 +1,53 @@
+{
+ "tipo": "creditos",
+ "resumen": "Página de créditos principales del cómic Secret Wars, con la mirada de Doctor Doom y la lista del equipo creativo encabezado por Jonathan Hickman y Esad Ribić.",
+ "personajes": [
+  "Doctor Doom"
+ ],
+ "eventos_clave": [
+  "Créditos de la serie Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página completa de créditos que muestra un primer plano detallado de la máscara y los ojos de Doctor Doom en tonos grises, junto con el título Secret Wars y la información del equipo creativo.",
+   "prompt_en": "Comic credits page featuring a close-up of Doctor Doom's masked face and glowing eyes in grey tones, with Secret Wars logo and typography underneath.",
+   "personajes": [
+    "Doctor Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "creditos",
+    "secret-wars",
+    "doctor-doom",
+    "jonathan-hickman",
+    "esad-ribic"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "SECRET WARS",
+     "texto_es": "SECRET WARS"
+    }
+   ],
+   "recorte": "vinetas/page-003-v1.jpg"
+  }
+ ],
+ "lugar": "Desconocido",
+ "numero_comic": null,
+ "pagina": 3,
+ "archivo": "paginas/page-003.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2973,
+ "_seg": 11.4
+}

@@ -1,0 +1,222 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom se reúne con sus barones (Apocalipsis, Mister Siniestro, Maestro y Madelyne Pryor) tras la muerte de Sheriff Strange. Doom reflexiona sobre el peso de su divinidad y la partida de Strange. Apocalipsis le aconseja erradicar con la fuerza de los Thors a los rebeldes (los supervivientes de las balsas). Sin embargo, Doom les ordena a sus barones que se encarguen ellos mismos del problema, advirtiendo que su paciencia se está agotando. Tras la desaparición de Doom, Mister Siniestro comenta sarcásticamente sobre el resultado de la reunión.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Apocalipsis",
+  "Mister Siniestro",
+  "Maestro",
+  "Madelyne Pryor"
+ ],
+ "eventos_clave": [
+  "Doom lamenta la muerte de Doctor Strange.",
+  "Doom rechaza enviar a la Legión de Thors y encomienda a los Barones aplastar la rebelión."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    22,
+    38,
+    350,
+    577
+   ],
+   "descripcion": "El Dios Emperador Doom viste su túnica blanca de espalda a la pantalla, mientras habla frente a sus barones: Apocalipsis, Mister Siniestro, Maestro y Madelyne Pryor.",
+   "prompt_en": "Doctor Doom in white robes standing from behind talking to Marvel villains Apocalypse, Mister Sinister, green bearded Maestro in a high-tech throne room comic book style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Apocalipsis",
+    "Mister Siniestro",
+    "Maestro",
+    "Madelyne Pryor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "barones",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I hold the heavens up just so the earth can tremble beneath me. Damn you again, Stephen, for leaving me with all this.",
+     "texto_es": "Sostengo los cielos solo para que la tierra pueda temblar debajo de mí. Maldito seas de nuevo, Stephen, por dejarme con todo esto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Do you have more to offer than deference and posturing, Apocalypse?",
+     "texto_es": "¿Tienes algo más que ofrecer que deferencia y posturas, Apocalipsis?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-166-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    22,
+    584,
+    350,
+    966
+   ],
+   "descripcion": "Primer plano de Apocalipsis vistiendo su armadura azul y metálica, expresando con firmeza su sangriento consejo a su Dios Emperador.",
+   "prompt_en": "Apocalypse Marvel villain standing tall in armor, speaking sternly, close-up shot, comic book art.",
+   "personajes": [
+    "Apocalipsis"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "apocalipsis",
+    "consejo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "Only the counsel of the fit, my lord. Only the counsel of the strong.",
+     "texto_es": "Solo el consejo de los aptos, mi señor. Solo el consejo de los fuertes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "You are God, and the very existence of those who say otherwise is an offense. Only the loyal should live. Kill the rest.",
+     "texto_es": "Tú eres Dios, y la existencia misma de quienes dicen lo contrario es una ofensa. Solo los leales deberían vivir. Mata al resto."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-166-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    361,
+    38,
+    513,
+    966
+   ],
+   "descripcion": "Vista horizontal de Doom de espaldas discutiendo la idea de desplegar a los Thors contra la rebelión.",
+   "prompt_en": "Wide horizontal panel showing Doctor Doom in white robes talking to giant Apocalypse, comic art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Apocalipsis"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I see. Power structures must be maintained. Dominance must be displayed. Raining a legion of Thors down upon them would meet your approval, I suppose.",
+     "texto_es": "Ya veo. Las estructuras de poder deben mantenerse. El dominio debe ser demostrado. Hacer llover una legión de Thors sobre ellos contaría con tu aprobación, supongo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "Certainly. You must act.",
+     "texto_es": "Ciertamente. Debes actuar."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "calculador",
+   "recorte": "vinetas/page-166-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    522,
+    38,
+    977,
+    335
+   ],
+   "descripcion": "Plano medio vertical del torso e imagen holográfica/espectral de Doom dando su orden final a sus barones.",
+   "prompt_en": "Doctor Doom standing tall in white hood and armor giving orders, atmospheric light, comic book frame.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "ordenes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I agree. But why waste my most loyal and most worthy on a pretender and his mob?",
+     "texto_es": "Estoy de acuerdo. ¿Pero por qué desperdiciar a mis más leales y dignos en un pretendiente y su chusma?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "You do it. All of you.",
+     "texto_es": "Háganlo ustedes. Todos ustedes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "And I warn you, tarry not...",
+     "texto_es": "Y les advierto, no se demoren..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-166-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    522,
+    342,
+    977,
+    966
+   ],
+   "descripcion": "Mister Siniestro en primer plano sosteniendo un cóctel mientras la proyección de Doom se desvanece en nubes de humo.",
+   "prompt_en": "Mister Sinister holding a cocktail drink with a smirking face as a white hooded figure fades into mist behind him, comic book illustration.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "ironico",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "...I am losing what little grace I still possess.",
+     "texto_es": "...estoy perdiendo la poca gracia que aún poseo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Well... that did not go as planned. What do you think we should do?",
+     "texto_es": "Bueno... eso no salió según lo planeado. ¿Qué creen que deberíamos hacer?"
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "irónico",
+   "recorte": "vinetas/page-166-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 5,
+ "pagina": 166,
+ "archivo": "paginas/page-166.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6073,
+ "_seg": 30.4
+}

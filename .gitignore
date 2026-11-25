@@ -39,3 +39,9 @@ node_modules/
 *.swp
 .env
 .env.*
+
+# ---- Radar: datos crudos del barrido (se vuelven a bajar); se versionan barrido.md, reporte.json/md, historial y watchlist ----
+research/radar/*/barrido.json
+research/radar/*/youtube.json
+research/radar/*/suggestions.json
+research/radar/*/canal.json

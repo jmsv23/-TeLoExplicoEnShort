@@ -1,0 +1,253 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards y su equipo de científicos en Battleworld analizan las lecturas de energía tras los acontecimientos recientes. Descubren que el poder del Sheriff Stephen Strange era independiente del de Doom y deducen que Strange dispersó a los sobrevivientes de la balsa antes de su muerte.",
+ "personajes": [
+  "Valeria Richards",
+  "[Alex]",
+  "[Doctor Tesla]",
+  "[Nostradamus]",
+  "[Ciborgue de la Fundación]"
+ ],
+ "eventos_clave": [
+  "Análisis de las lecturas de energía de Doom y Stephen Strange",
+  "Deducción sobre la dispersión de los rebeldes por parte de Strange",
+  "Valeria Richards planea los siguientes pasos de investigación"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    40,
+    296,
+    966
+   ],
+   "descripcion": "Alex gesticula frente a una proyección holográfica de energía mientras explica las fluctuaciones de poder asociadas a los actos de God Doom.",
+   "prompt_en": "A male scientist with light hair gesticulating towards a floating pink energy hologram projection in a high-tech laboratory, comic art style.",
+   "personajes": [
+    "[Alex]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "holograma",
+    "lecturas-de-energia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex]",
+     "texto": "As are major incidents of Doom stuff.",
+     "texto_es": "Al igual que los incidentes mayores con cosas de Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex]",
+     "texto": "Like when God himself acts, the readings are off the chart--like a small star lighting up the whole world.",
+     "texto_es": "Como cuando Dios mismo actúa, las lecturas se salen de la gráfica, como una pequeña estrella iluminando todo el mundo."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "analítico",
+   "recorte": "vinetas/page-147-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    308,
+    40,
+    655,
+    417
+   ],
+   "descripcion": "Un grupo de ciborgs y científicos con prótesis mecánicas escuchan el informe, expresando poco interés por los datos convencionales.",
+   "prompt_en": "Cyborg scientists with cybernetic suits and eye attachments standing in a shadow, looking unimpressed, comic art style.",
+   "personajes": [
+    "[Ciborgue de la Fundación]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "ciborgs",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Ciborgue de la Fundación]",
+     "texto": "Excuse me. I'm not sure I recognize the significance of this information, Alex.",
+     "texto_es": "Disculpa. No estoy seguro de reconocer la importancia de esta información, Alex."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Ciborgue de la Fundación]",
+     "texto": "All of what you're saying is exactly what would be expected.",
+     "texto_es": "Todo lo que estás diciendo es exactamente lo que se esperaría."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Ciborgue de la Fundación]",
+     "texto": "And such data bores us.",
+     "texto_es": "Y esos datos nos aburren."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "escéptico",
+   "recorte": "vinetas/page-147-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    308,
+    419,
+    655,
+    651
+   ],
+   "descripcion": "Valeria Richards, vistiendo su traje con el número 4, interviene para explicar la anomalía en el poder del Sheriff Strange.",
+   "prompt_en": "Valeria Richards as a young brilliant girl in a futuristic white uniform with a number 4 logo speaking confidently, comic art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "sheriff-strange",
+    "rebeldes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "What's interesting, Doctor Tesla, is that we've been documenting all this for the last year, and in all the world there's been only one person whose reading--whose power--was completely independent of Doom's.",
+     "texto_es": "Lo interesante, Doctor Tesla, es que hemos estado documentando todo esto durante el último año, y en todo el mundo solo ha habido una persona cuya lectura —cuyo poder— era completamente independiente del de Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "The Sheriff. His power spiked on the negative side... it always read as an absence of Doom.",
+     "texto_es": "El Sheriff. Su poder tuvo un pico en el lado negativo... siempre se leyó como una ausencia de Doom."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "revelador",
+   "recorte": "vinetas/page-147-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    308,
+    651,
+    655,
+    966
+   ],
+   "descripcion": "Alex observa con atención y analiza la posibilidad de que Stephen Strange haya controlado o dispersado a los recién llegados.",
+   "prompt_en": "Close-up of a blonde male scientist pondering intently next to a glowing screen, comic art style.",
+   "personajes": [
+    "[Alex]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "teoria",
+    "muerte-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex]",
+     "texto": "Uh-huh. Call it dark matter, and it spiked yesterday before the rebels disappeared.",
+     "texto_es": "Aha. Llámenlo materia oscura, y tuvo un pico ayer antes de que los rebeldes desaparecieran."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex]",
+     "texto": "We believe that Stephen Strange is the one who scattered whoever these people are.",
+     "texto_es": "Creemos que Stephen Strange es quien dispersó a quienesquiera que sean estas personas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alex]",
+     "texto": "Which implies what? Mind control? Possession?",
+     "texto_es": "¿Lo que implica qué? ¿Control mental? ¿Posesión?"
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "intrigado",
+   "recorte": "vinetas/page-147-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    666,
+    40,
+    977,
+    326
+   ],
+   "descripcion": "Un anciano vidente con un símbolo grabado en la frente se toca la sien al presentir algo siniestro.",
+   "prompt_en": "An old bearded seer with a glowing symbol on his forehead touching his temple with a solemn expression, comic book panel.",
+   "personajes": [
+    "[Nostradamus]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "profecia",
+    "presagio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Nostradamus]",
+     "texto": "I foresee something worse.",
+     "texto_es": "Preveo algo peor."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "ominoso",
+   "recorte": "vinetas/page-147-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    666,
+    331,
+    977,
+    966
+   ],
+   "descripcion": "Valeria Richards se pone al frente de un grupo de siluetas de científicos, lista para tomar medidas estratégicas.",
+   "prompt_en": "Valeria Richards standing determined in front of shadowed scientist silhouettes holding a cylindrical device, comic art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "liderazgo",
+    "planificacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "So do I, Nostradamus.",
+     "texto_es": "Yo también, Nostradamus."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "So here's what we're going to do...",
+     "texto_es": "Así que esto es lo que vamos a hacer..."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "decidido",
+   "recorte": "vinetas/page-147-v6.jpg"
+  }
+ ],
+ "lugar": "Laboratorio de la Fundación Futuro, Battleworld",
+ "numero_comic": 5,
+ "pagina": 147,
+ "archivo": "paginas/page-147.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6539,
+ "_seg": 23.1
+}

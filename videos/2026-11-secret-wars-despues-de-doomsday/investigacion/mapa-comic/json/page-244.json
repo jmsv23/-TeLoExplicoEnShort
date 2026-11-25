@@ -1,0 +1,155 @@
+{
+ "tipo": "historia",
+ "resumen": "Tras la restauración de la realidad al final de Secret Wars, Black Panther (T'Challa) reaparece en Wakanda en el momento del lanzamiento del primer cohete de su programa espacial Alpha Flight, inspirado a guiar a la humanidad hacia las estrellas.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "[jóvenes de Wakanda]"
+ ],
+ "eventos_clave": [
+  "Black Panther regresa al pasado de Wakanda tras la restauración del multiverso",
+  "Lanzamiento del cohete del programa Alpha Flight de Wakanda"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    34,
+    0,
+    668,
+    1000
+   ],
+   "descripcion": "Gran vista panorámica del lanzamiento de un cohete espacial gigante en Wakanda, elevándose entre estelas de fuego y humo naranja sobre la futurista arquitectura wakandiana. En primer plano abajo a la izquierda, Black Panther y varios jóvenes observan el despegue.",
+   "prompt_en": "A massive white futuristic rocket launching into a clear blue sky over Wakandan architecture and palm trees, with thick orange smoke and fire, viewed from below by people in Wakandan attire.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[jóvenes de Wakanda]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "lanzamiento-cohete",
+    "wakanda",
+    "alpha-flight",
+    "reconstruccion-multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "[cohete]",
+     "texto": "KRRRRRRUMMMMBBBBLLLEEE",
+     "texto_es": "KRRRRRRUMMMMBBBBLLLEEE"
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "epico",
+   "recorte": "vinetas/page-244-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    668,
+    41,
+    981,
+    492
+   ],
+   "descripcion": "Primer plano de varios jóvenes wakandianos fascinados mirando hacia el cielo y el rostro enmascarado de Black Panther hablando con solemnidad sobre el futuro.",
+   "prompt_en": "Close up panel of young Wakandan civilians and Black Panther talking, looking up at the sky in awe.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[jóvenes de Wakanda]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "discurso-inspirador",
+    "futuro-de-wakanda"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[jóvenes de Wakanda]",
+     "texto": "What is that?",
+     "texto_es": "¿Qué es eso?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[jóvenes de Wakanda]",
+     "texto": "Uh, it's a rocket, Kimo.",
+     "texto_es": "Eh, es un cohete, Kimo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[jóvenes de Wakanda]",
+     "texto": "No, he means what kind. That's a serious payload.",
+     "texto_es": "No, se refiere a qué tipo. Esa es una carga seria."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Some people see the future sooner than others, and they have the privilege of showing the entire world the way.",
+     "texto_es": "Algunas personas ven el futuro antes que otras, y tienen el privilegio de mostrarle el camino a todo el mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "This is where it begins. That rocket is for Earth Command to support local system travel. We will drag mankind to the stars on the back of Wakandan science.",
+     "texto_es": "Aquí es donde empieza. Ese cohete es para que el Comando de la Tierra apoye el viaje del sistema local. Arrastraremos a la humanidad hacia las estrellas a espaldas de la ciencia de Wakanda."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Step by step...",
+     "texto_es": "Paso a paso..."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-244-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    668,
+    506,
+    981,
+    963
+   ],
+   "descripcion": "Siluetas de Black Panther y los jóvenes wakandianos contemplando el lanzamiento del cohete desde la vegetación.",
+   "prompt_en": "Silhouetted figures of Black Panther and young Wakandans standing in a lush green forest, looking up at the sky.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[jóvenes de Wakanda]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "alpha-flight",
+    "esperanza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "And this is our very first one...",
+     "texto_es": "Y este es nuestro primer..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Our Alpha Flight.",
+     "texto_es": "Nuestro Alpha Flight."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "esperanzador",
+   "recorte": "vinetas/page-244-v3.jpg"
+  }
+ ],
+ "lugar": "Wakanda",
+ "numero_comic": 9,
+ "pagina": 244,
+ "archivo": "paginas/page-244.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4556,
+ "_seg": 24.9
+}

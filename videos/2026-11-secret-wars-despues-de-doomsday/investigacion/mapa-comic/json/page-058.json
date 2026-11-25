@@ -1,0 +1,261 @@
+{
+ "tipo": "historia",
+ "resumen": "En la corte del Dios Emperador Doom en Castle Doom, el Sheriff Strange preside el juicio contra el barón Mister Siniestro por conspirar junto con Hyperion contra la Casa de Braddock (Avalon). Siniestro niega audazmente los cargos, mientras dos miembros de los Thor Corps observan y comentan sobre el funcionamiento del sistema judicial de Battleworld.",
+ "personajes": [
+  "Doctor Strange",
+  "Doctor Doom / Dios Emperador Doom",
+  "Valeria Richards",
+  "Mister Siniestro",
+  "Capitán Britania / James Braddock",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Juicio de Mister Siniestro ante la corte de Doom por traición y violaciones territoriales.",
+  "Explicación del sistema judicial y las leyes territoriales en Battleworld."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    36,
+    336,
+    604
+   ],
+   "descripcion": "El Sheriff Strange habla con autoridad con una mano levantada, mientras detrás de él se encuentra el trono gigante con el Dios Emperador Doom sentado e imponente, y Valeria Richards a un lado.",
+   "prompt_en": "Doctor Strange as Sheriff standing in a majestic throne room delivering judgment, giant metallic throne behind him with a armored masked emperor seated, comic book style",
+   "personajes": [
+    "Doctor Strange",
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "corte-de-doom",
+    "sheriff-strange",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Baron Sinister... as Sheriff of Agamotto, I serve as the right hand of Doom--his irrevocable voice--and the arbiter of this preceding.",
+     "texto_es": "Barón Siniestro... como Sheriff de Agamotto, sirvo como la mano derecha de Doom, su voz irrevocable, y el árbitro de este procedimiento."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "As such, unless there is... divine intervention, my judgment will be final. I am the law.",
+     "texto_es": "Como tal, a menos que haya... intervención divina, mi juicio será definitivo. Yo soy la ley."
+    }
+   ],
+   "lugar": "Gran Salón del Castillo Doom",
+   "tono": "formal, imponente",
+   "recorte": "vinetas/page-058-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    611,
+    336,
+    969
+   ],
+   "descripcion": "Primer plano del rostro de Mister Siniestro vistiendo su uniforme oscuro y gótico con una gema roja en la frente, con Lord Braddock visible al fondo detrás de él.",
+   "prompt_en": "Close up of Mister Sinister with red diamond emblem on forehead and pale face, listening arrogantly, comic book style",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "juicio",
+    "corte-de-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "You have been charged with discord by the House Braddock.",
+     "texto_es": "Se te acusa de discordia por parte de la Casa Braddock."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "I have been presented with evidence showing that you have secretly--and illegally--aligned yourself with Hyperion, the Baron of Utopolis, in opposition to Higher Avalon.",
+     "texto_es": "Se me han presentado pruebas que demuestran que te has alineado en secreto, e ilegalmente, con Hyperion, el Barón de Utopolis, en oposición a la Alta Avalon."
+    }
+   ],
+   "lugar": "Gran Salón del Castillo Doom",
+   "tono": "tenso, acusatorio",
+   "recorte": "vinetas/page-058-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    351,
+    36,
+    597,
+    969
+   ],
+   "descripcion": "Plano medio donde el Sheriff Strange le señala a Siniestro con el dedo acusador mientras Siniestro gesticula despectivamente con desdén frente a los observadores.",
+   "prompt_en": "Doctor Strange pointing finger accusingly at Mister Sinister in a crowded throne room court, comic book style",
+   "personajes": [
+    "Doctor Strange",
+    "Mister Siniestro",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "discuson",
+    "mister-siniestro",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "And that you are in violation of all known border treaties by supplying--",
+     "texto_es": "Y que estás violando todos los tratados fronterizos conocidos al suministrar..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Laughable.",
+     "texto_es": "Rídiculo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Sheriff. This is an absurd accusation. Beyond the fact that I have no desire to engage in some great game of intrigue...",
+     "texto_es": "Sheriff. Esta es una acusación absurda. Más allá del hecho de que no tengo ningún deseo de involucrarme en algún gran juego de intrigas..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "...there is another problem with this story: there is an ocean between my kingdom and theirs.",
+     "texto_es": "...hay otro problema con esta historia: hay un océano entre mi reino y el de ellos."
+    }
+   ],
+   "lugar": "Gran Salón del Castillo Doom",
+   "tono": "despectivo, dramático",
+   "recorte": "vinetas/page-058-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    610,
+    36,
+    947,
+    353
+   ],
+   "descripcion": "Lord Braddock con su traje patriótico británico confronta a Siniestro con expresión seria.",
+   "prompt_en": "Captain Britain in detailed costume speaking firmly to an enemy, comic book style",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "house-braddock",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "We know that you hired the Iron Pirates as couriers, Sinister.",
+     "texto_es": "Sabemos que contrataste a los Piratas de Hierro como mensajeros, Siniestro."
+    }
+   ],
+   "lugar": "Gran Salón del Castillo Doom",
+   "tono": "serio, directo",
+   "recorte": "vinetas/page-058-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    610,
+    365,
+    947,
+    651
+   ],
+   "descripcion": "Plano medio de Mister Siniestro mirando fríamente y sin pestañear.",
+   "prompt_en": "Mister Sinister close up portrait looking defiant and calm, comic art style",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "defiant"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Lies. And even if they aren't, you couldn't prove it. Are there any other charges?",
+     "texto_es": "Mentiras. Y aunque no lo fueran, no podrían probarlo. ¿Hay alguna otra acusación?"
+    }
+   ],
+   "lugar": "Gran Salón del Castillo Doom",
+   "tono": "arrogante, desafiante",
+   "recorte": "vinetas/page-058-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    610,
+    658,
+    947,
+    969
+   ],
+   "descripcion": "Dos miembros del Thor Corps con cascos y armaduras nórdicas conversan en voz baja al margen del juicio.",
+   "prompt_en": "Two armored warrior Thors with winged helmets conversing in low whispers in a court, comic book style",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "leyes-de-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Is this always how it is? So... formal?",
+     "texto_es": "¿Siempre es así? ¿Tan... formal?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Within the borders of each kingdom, as long as the resolute laws of Doom are followed, he permits each baron or baroness complete control of their province.",
+     "texto_es": "Dentro de las fronteras de cada reino, mientras se sigan las resolutas leyes de Doom, él permite a cada barón o baronesa el control completo de su provincia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "But as for disputes between kingdoms... that is this court's domain.",
+     "texto_es": "Pero en cuanto a disputas entre reinos... ese es el dominio de este tribunal."
+    }
+   ],
+   "lugar": "Gran Salón del Castillo Doom",
+   "tono": "informativo, contemplativo",
+   "recorte": "vinetas/page-058-v6.jpg"
+  }
+ ],
+ "lugar": "Gran Salón del Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 58,
+ "archivo": "paginas/page-058.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5897,
+ "_seg": 19.9
+}

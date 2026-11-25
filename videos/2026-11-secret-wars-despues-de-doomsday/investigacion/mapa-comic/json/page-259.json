@@ -1,0 +1,96 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards y la Fundación Futuro están trabajando en la construcción de una enorme estructura secreta. Mientras algunos miembros dudan sobre el propósito final de la construcción, Valeria revela solemnemente que están construyendo una nave de salvamento para sobrevivir al colapso del multiverso.",
+ "personajes": [
+  "Valeria Richards",
+  "Franklin Richards",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "construccion-de-la-balsa",
+  "revelacion-de-la-nave"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    567,
+    1000
+   ],
+   "descripcion": "Vista panorámica del gran taller bañado en luz roja donde siluetas de miembros de la Fundación Futuro y científicos observan una colosal nave espacial suspendida mientras drones y robots trabajan en ella.",
+   "prompt_en": "Wide view inside a massive high-tech hangar lit in deep red atmosphere, silhouettes of people standing on a platform looking at a giant spaceship under construction, cinematic lighting, comic art style.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "fundacion-futuro",
+    "hangar",
+    "construccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[científico]",
+     "texto": "But now that we've started piecing everything together, it's still a little ambiguous on what exactly it is that we're building.",
+     "texto_es": "Pero ahora que hemos empezado a ensamblarlo todo, sigue siendo un poco ambiguo qué es exactamente lo que estamos construyendo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[estudiante]",
+     "texto": "Yeah...",
+     "texto_es": "Sí..."
+    }
+   ],
+   "lugar": "Taller del Edificio Baxter",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-259-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    668,
+    36,
+    951,
+    963
+   ],
+   "descripcion": "Valeria Richards con los brazos cruzados vistiendo el traje blanco de la Fundación Futuro, mirando seriamente hacia el espectador con la nave al fondo.",
+   "prompt_en": "Close up of Valeria Richards, a young blond girl wearing a futuristic white superhero suit, arms crossed, looking confident and serious, blurred spaceship hangar in the background, comic art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "valeria-richards",
+    "fundacion-futuro",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "It's a ship.",
+     "texto_es": "Es una nave."
+    }
+   ],
+   "lugar": "Taller del Edificio Baxter",
+   "tono": "confiado",
+   "recorte": "vinetas/page-259-v2.jpg"
+  }
+ ],
+ "lugar": "Edificio Baxter, Taller de la Fundación Futuro",
+ "numero_comic": 0,
+ "pagina": 259,
+ "archivo": "paginas/page-259.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4045,
+ "_seg": 14.3
+}

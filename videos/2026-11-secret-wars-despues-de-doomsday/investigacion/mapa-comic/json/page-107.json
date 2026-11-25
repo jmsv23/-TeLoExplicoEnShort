@@ -1,0 +1,237 @@
+{
+ "tipo": "historia",
+ "resumen": "Los miembros supervivientes de la Cábala (El Hacedor, Namor, Thanos y Cisne Negro) discuten las acciones tomadas tras salir de la balsa de salvamento, lamentando haber matado al Thor envejecido sin haberlo interrogado primero sobre este nuevo mundo.",
+ "personajes": [
+  "El Hacedor",
+  "Namor",
+  "Thanos",
+  "Cisne Negro",
+  "Corvus Glaive"
+ ],
+ "eventos_clave": [
+  "La Cábala reflexiona sobre el encuentro con los Thor Corps",
+  "Discusión estratégica entre Thanos, Namor y El Hacedor"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    38,
+    332,
+    362
+   ],
+   "descripcion": "El Hacedor examina y manipula un objeto tecnológico en sus manos mientras reflexiona sobre lo sucedido en la balsa.",
+   "prompt_en": "Comic panel showing The Maker, a man with short black hair in a sleek black futuristic suit with white circular chest emblem, holding and analyzing a metallic device, close up medium shot.",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "balsa",
+    "cabala"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "We should have done things differently back at the raft.",
+     "texto_es": "Debimos haber hecho las cosas de manera diferente en la balsa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "The yellow peasant class seemed useless, but that Thor...",
+     "texto_es": "La clase campesina amarilla parecía inútil, pero ese Thor..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "...he had an aged look. We should have questioned him--I bet he knew things.",
+     "texto_es": "...tenía un aspecto envejecido. Debimos haberlo interrogado, apuesto a que sabía cosas."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "analítico",
+   "recorte": "vinetas/page-107-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    375,
+    332,
+    650
+   ],
+   "descripcion": "Namor mira seriamente hacia un lado concordando con El Hacedor, con Cisne Negro visible en segundo plano.",
+   "prompt_en": "Comic panel, medium close-up of Namor with pointed ears and stern facial expression, wearing a black open vest, with a white-haired woman in the background.",
+   "personajes": [
+    "Namor",
+    "Cisne Negro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "namor",
+    "cabala"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "I agree. We should have kept him alive.",
+     "texto_es": "Estoy de acuerdo. Debimos haberlo mantenido con vida."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-107-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    28,
+    656,
+    332,
+    960
+   ],
+   "descripcion": "Thanos alza la barbilla impasible, despreciando cualquier remordimiento por la muerte del enemigo.",
+   "prompt_en": "Comic panel showing Thanos in gold armor standing tall, looking up dismissively, dark rocky background.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "cabala"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "There is no need for mercy.",
+     "texto_es": "No hay necesidad de piedad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "No need to regret what was lost.",
+     "texto_es": "No hay necesidad de lamentar lo que se perdió."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "implacable",
+   "recorte": "vinetas/page-107-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    348,
+    38,
+    513,
+    960
+   ],
+   "descripcion": "Primer plano panorámico de Cisne Negro sosteniendo un pedazo de artefacto brillante en sus manos mientras responde a Thanos.",
+   "prompt_en": "Wide horizontal comic panel closeup of Black Swan, a pale white-haired woman with black gloves, holding a glowing yellow artifact fragment in her hand.",
+   "personajes": [
+    "Cisne Negro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "cisne-negro",
+    "artefacto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "Oh. Really? Because you think if we just muddle along we'll somehow eventually find the answers to our questions?",
+     "texto_es": "Oh. ¿En serio? ¿Porque crees que si seguimos adelante sin rumbo de alguna manera encontraremos eventualmente las respuestas a nuestras preguntas?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-107-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    526,
+    33,
+    982,
+    622
+   ],
+   "descripcion": "Plano contrapicado de Thanos de pie con gesto dominante mientras Corvus Glaive y El Hacedor lo observan desde abajo.",
+   "prompt_en": "Low angle comic panel showing Thanos standing imposing, looking down towards other villains resting on rocky terrain.",
+   "personajes": [
+    "Thanos",
+    "Corvus Glaive",
+    "El Hacedor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "corvus-glaive",
+    "cabala"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "No. The answers will find us. I know it.",
+     "texto_es": "No. Las respuestas nos encontrarán a nosotros. Lo sé."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "confiado",
+   "recorte": "vinetas/page-107-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    526,
+    629,
+    982,
+    960
+   ],
+   "descripcion": "Namor le pregunta a Thanos cómo está tan seguro, mientras Thanos mira hacia el horizonte.",
+   "prompt_en": "Comic panel showing Namor from side profile asking Thanos, who stands illuminated by a golden glow looking into the distance.",
+   "personajes": [
+    "Namor",
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "namor",
+    "thanos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "And how is that, Thanos?",
+     "texto_es": "¿Y cómo es eso, Thanos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Because...",
+     "texto_es": "Porque..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-107-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 107,
+ "archivo": "paginas/page-107.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5674,
+ "_seg": 20.8
+}

@@ -1,0 +1,201 @@
+{
+ "tipo": "historia",
+ "resumen": "El ejército de Mister Siniestro traiciona y ataca por sorpresa al ejército de duendes de Madelyne Pryor en medio del campo de batalla. Un clon de Siniestro derriba de una patada a la Baronesa Madelyne Pryor mientras el propio Mister Siniestro revela sus crueles intenciones.",
+ "personajes": [
+  "Madelyne Pryor",
+  "Mister Siniestro",
+  "[soldados duendes]"
+ ],
+ "eventos_clave": [
+  "Mister Siniestro traiciona a Madelyne Pryor y ataca a su ejército de duendes",
+  "Madelyne Pryor es atacada por sorpresa por las fuerzas de Siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    31,
+    452,
+    715
+   ],
+   "descripcion": "Una enorme explosión sacude las filas del ejército de duendes mientras Madelyne Pryor mira consternada el ataque de las tropas de Mister Siniestro.",
+   "prompt_en": "Comic panel showing a massive explosion amid a green goblin army, a red-haired woman in black leather cape watching in shock from behind",
+   "personajes": [
+    "Madelyne Pryor",
+    "[soldados duendes]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "batalla",
+    "explosion",
+    "traicion",
+    "ejercito-duende"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "...time to turn on the Goblin Queen's army.",
+     "texto_es": "...hora de volverse contra el ejército de la Reina Duende."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BOOMM",
+     "texto_es": "BOOMM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[soldado duende]",
+     "texto": "Baroness! Look! The army of Sinister!",
+     "texto_es": "¡Baronesa! ¡Mire! ¡El ejército de Siniestro!"
+    }
+   ],
+   "lugar": "Campo de batalla de Battleworld",
+   "tono": "caótico y dramático",
+   "recorte": "vinetas/page-189-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    720,
+    450,
+    971
+   ],
+   "descripcion": "Primer plano de Madelyne Pryor mirando con una expresión de total conmoción e incredulidad.",
+   "prompt_en": "Close-up comic panel of a red-haired woman with pale skin and open mouth looking shocked and startled",
+   "personajes": [
+    "Madelyne Pryor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "reaccion",
+    "sorpresa",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "What is the meaning of this?",
+     "texto_es": "¿Qué significa esto?"
+    }
+   ],
+   "lugar": "Campo de batalla de Battleworld",
+   "tono": "sorprendido",
+   "recorte": "vinetas/page-189-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    457,
+    33,
+    696,
+    970
+   ],
+   "descripcion": "Un clon de Mister Siniestro salta y le asesta una potente patada voladora en el rostro a Madelyne Pryor, haciéndola caer hacia atrás.",
+   "prompt_en": "Dynamic comic action shot of an attacker giving a powerful flying kick to the chin of a red-haired woman",
+   "personajes": [
+    "Madelyne Pryor",
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "accion",
+    "patada",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "WHAMM!",
+     "texto_es": "¡WHAMM!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "This? This is about betrayal.",
+     "texto_es": "¿Esto? Esto se trata de una traición."
+    }
+   ],
+   "lugar": "Campo de batalla de Battleworld",
+   "tono": "violento y dinámico",
+   "recorte": "vinetas/page-189-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    708,
+    33,
+    981,
+    611
+   ],
+   "descripcion": "Madelyne Pryor tirada en el suelo rocoso mira hacia arriba con rabia mientras le reprocha la traición a su agresor.",
+   "prompt_en": "Comic panel of a pale red-haired woman lying on rocky ground looking up angrily at a figure standing over her",
+   "personajes": [
+    "Madelyne Pryor",
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "derrota",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "You... you've always had the heart of a traitor, Sinister. But why betray us now?",
+     "texto_es": "Tú... siempre has tenido el corazón de un traidor, Siniestro. ¿Pero por qué traicionarnos ahora?"
+    }
+   ],
+   "lugar": "Campo de batalla de Battleworld",
+   "tono": "tenso y rencoroso",
+   "recorte": "vinetas/page-189-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    708,
+    614,
+    981,
+    994
+   ],
+   "descripcion": "Primer plano de Mister Siniestro sonriendo malévolamente mientras habla con desprecio.",
+   "prompt_en": "Comic panel close up of Mister Sinister smiling sinisterly with pale white skin, red diamond on forehead, dark hair and goatee",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "villano",
+    "sonrisa-malvada",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Oh, come now, Baroness... I don't have a heart at all! As for why we attacked you, betrayal is the good Captain Marvel's schtick... I have much better reasons...",
+     "texto_es": "¡Oh, vamos, Baronesa... yo no tengo corazón en absoluto! En cuanto a por qué los atacamos, la traición es el truco de la buena Capitana Marvel... yo tengo razones mucho mejores..."
+    }
+   ],
+   "lugar": "Campo de batalla de Battleworld",
+   "tono": "siniestro y siniestro",
+   "recorte": "vinetas/page-189-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 189,
+ "archivo": "paginas/page-189.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5166,
+ "_seg": 17.1
+}

@@ -1,0 +1,291 @@
+{
+ "tipo": "historia",
+ "resumen": "En un balcón de Doomstadt, Victor von Doom y Sue Storm conversan sobre el destino de Jonathan Storm (la Antorcha Humana), a quien Sue convirtió en el sol de Battleworld como castigo y honor tras su rebelión. Mientras discuten, Franklin y Valeria Richards juegan cerca con energía holográfica.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Antorcha Humana",
+  "Franklin Richards",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Sue Storm explica por qué transformó a Johnny Storm en el sol de Battleworld",
+  "Doctor Doom revela que existen habitantes en Battleworld que ahora adoran a la Antorcha Humana como un dios solar"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    42,
+    309,
+    335
+   ],
+   "descripcion": "Primer plano de Doctor Doom portando su máscara metálica y capucha blanca, conversando solemnemente.",
+   "prompt_en": "Close up shot of Doctor Doom wearing a metallic mask and white hood, comic book style by Esad Ribic",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "conversacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I have not heard it sung, but I am aware of it.",
+     "texto_es": "No lo he oído cantar, pero soy consciente de ello."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Is that what you are up here thinking about?",
+     "texto_es": "¿Es en eso en lo que estás aquí arriba pensando?"
+    }
+   ],
+   "lugar": "Doomstadt, Castillo de Doom",
+   "tono": "serio",
+   "recorte": "vinetas/page-096-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    342,
+    309,
+    725
+   ],
+   "descripcion": "Plano medio desde la espalda de Sue Storm mirando hacia Doctor Doom en el balcón con vistas a la ciudad.",
+   "prompt_en": "Medium shot of Sue Storm in a white suit facing Doctor Doom on a high castle balcony overlooking a fantasy city, comic book art",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balcon",
+    "doomstadt",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "If you knew, then why haven't you discouraged it?",
+     "texto_es": "Si lo sabías, ¿entonces por qué no lo has desanimado?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Because I had hoped you would hear it... and be pleased.",
+     "texto_es": "Porque esperaba que lo oyeras... y te complacieras."
+    }
+   ],
+   "lugar": "Doomstadt, Castillo de Doom",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-096-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    26,
+    731,
+    309,
+    969
+   ],
+   "descripcion": "Primer plano del rostro triste de Sue Storm mirando de lado.",
+   "prompt_en": "Close up portrait of Sue Storm with blonde hair looking sad and reflective, realistic comic style",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sue-storm",
+    "tristeza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I miss him, Victor.",
+     "texto_es": "Lo extraño, Victor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I know...",
+     "texto_es": "Lo sé..."
+    }
+   ],
+   "lugar": "Doomstadt, Castillo de Doom",
+   "tono": "triste",
+   "recorte": "vinetas/page-096-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    323,
+    37,
+    686,
+    477
+   ],
+   "descripcion": "Recuerdo de Johnny Storm gritando lleno de energía dorada y llamas cósmicas mientras es castigado.",
+   "prompt_en": "Human Torch surrounded by intense golden fiery cosmic energy, screaming in defiance, bright yellow glow",
+   "personajes": [
+    "Antorcha Humana"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "antorcha-humana",
+    "fuego",
+    "rebelion",
+    "flashback"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "\"Still, your brother defied us...\"",
+     "texto_es": "\"Aun así, tu hermano nos desafió...\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "\"I would have struck Jonathan down where he stood, or worse, sent him beyond the Shield, but I left his punishment up to you, Susan.\"",
+     "texto_es": "\"Habría derribado a Jonathan allí donde estaba, o peor, lo habría enviado más allá del Escudo, pero te dejé su castigo a ti, Susan.\""
+    }
+   ],
+   "lugar": "Espacio / Núcleo de Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-096-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    350,
+    484,
+    686,
+    964
+   ],
+   "descripcion": "Una deslumbrante explosión de luz solar dorada dispersándose por el espacio, representando a Johnny convertido en el sol.",
+   "prompt_en": "Blinding golden sunlight spreading rays across space, conceptual cosmic art representing a human turned into a star",
+   "personajes": [
+    "Antorcha Humana"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sol",
+    "battleworld",
+    "luz-dorada"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "\"You... you chose to lift him up and bring light to what was a too dark, self-illuminated world.\"",
+     "texto_es": "\"Tú... tú elegiste elevarlo y traer luz a lo que era un mundo demasiado oscuro y autoiluminado.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "\"So now he is the sun.\"",
+     "texto_es": "\"Así que ahora él es el sol.\""
+    }
+   ],
+   "lugar": "Cielo de Battleworld",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-096-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    704,
+    34,
+    981,
+    656
+   ],
+   "descripcion": "Vista panorámica del balcón donde Sue y Doom caminan cerca de una enorme mano robótica de Centinela incrustada en el castillo.",
+   "prompt_en": "Wide view of a futuristic fantasy castle balcony with a huge giant red robot hand attached to the architecture, two figures talking below",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "castillo-doom",
+    "centinela",
+    "balcon",
+    "doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I know I wasn't wrong. He was a dissident... a rebel. And I know that, if he could, he would have pulled me down along with you...",
+     "texto_es": "Sé que no me equivoqué. Era un disidente... un rebelde. Y sé que, si pudiera, me habría arrastrado junto contigo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...but still I loved him... and wanted to somehow honor him.",
+     "texto_es": "...pero aún así lo amaba... y quería de alguna manera honrarlo."
+    }
+   ],
+   "lugar": "Doomstadt, Castillo de Doom",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-096-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    704,
+    663,
+    981,
+    965
+   ],
+   "descripcion": "Franklin Richards y Valeria Richards jugando juntos alegremente construyendo objetos con cubos de luz azul transparente.",
+   "prompt_en": "Two young blonde children in futuristic white suits playing happily with glowing cyan energy cubes, comic art style",
+   "personajes": [
+    "Franklin Richards",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "franklin-richards",
+    "valeria-richards",
+    "familia",
+    "holograma"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Honor? You should have listened more closely to the song.",
+     "texto_es": "¿Honor? Deberías haber escuchado más de cerca la canción."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "They're quite serious. Did you know there are even those who worship him now in the upper and lower kingdoms?",
+     "texto_es": "Hablan en serio. ¿Sabías que incluso hay quienes lo adoran ahora en los reinos superiores e inferiores?"
+    }
+   ],
+   "lugar": "Doomstadt, Castillo de Doom",
+   "tono": "calido",
+   "recorte": "vinetas/page-096-v7.jpg"
+  }
+ ],
+ "lugar": "Doomstadt, Castillo de Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 96,
+ "archivo": "paginas/page-096.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6433,
+ "_seg": 23.3
+}

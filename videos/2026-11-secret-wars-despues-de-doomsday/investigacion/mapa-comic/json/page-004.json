@@ -1,0 +1,167 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom, Doctor Strange y el Hombre Molécula se enfrentan a una intensa luz blanca mientras una narración reflexiona sobre la naturaleza de la muerte sináptica y lo que hay más allá.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Encuentro con la luz blanca de los Todopoderosos",
+  "Reflexión filosófica sobre la muerte sináptica"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    206,
+    1000
+   ],
+   "descripcion": "Fondo negro absoluto con un cuadro de texto narrativo en el centro superior.",
+   "prompt_en": "Pitch black comic panel with a small centered white caption box with narrative text.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "narracion",
+    "vacio"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "We know so much more than we understand...",
+     "texto_es": "Sabemos mucho más de lo que entendemos..."
+    }
+   ],
+   "recorte": "vinetas/page-004-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    210,
+    0,
+    401,
+    1000
+   ],
+   "descripcion": "Fondo muy oscuro con ligera textura degradada y una caja de narración en el centro.",
+   "prompt_en": "Very dark subtle dark grey gradient comic panel with a small centered text box.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "narracion",
+    "vacio"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "But we know so little.",
+     "texto_es": "Pero sabemos muy poco."
+    }
+   ],
+   "recorte": "vinetas/page-004-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    404,
+    0,
+    597,
+    1000
+   ],
+   "descripcion": "Doctor Strange, Doctor Doom y el Hombre Molécula observan con cautela algo frente a ellos en la penumbra.",
+   "prompt_en": "Doctor Strange, Doctor Doom in armor, and Molecule Man standing side by side in shadows looking forward cautiously.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "doctor-strange",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Many believe the white light you see when you die is the supercharged electric whimper of a desperate and dying brain.",
+     "texto_es": "Muchos creen que la luz blanca que ves al morir es el gemido eléctrico sobrecargado de un cerebro desesperado y moribundo."
+    }
+   ],
+   "recorte": "vinetas/page-004-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    600,
+    0,
+    796,
+    1000
+   ],
+   "descripcion": "Una cegadora luz blanca irrumpe golpeando a Doctor Doom y Doctor Strange, arrojando sombras intensas.",
+   "prompt_en": "Blinding intense white energy blast enveloping Doctor Doom and Doctor Strange, dramatically lit comic art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "doctor-strange",
+    "luz-blanca"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Synaptic death.",
+     "texto_es": "Muerte sináptica."
+    }
+   ],
+   "recorte": "vinetas/page-004-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    800,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Primer plano de los ojos de Doctor Doom a través de su máscara metálica mientras extienda su mano envuelta en la deslumbrante luz.",
+   "prompt_en": "Extreme close up of Doctor Doom's glowing eyes through metal mask, reaching his gloved hand toward intense white light.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "luz-blanca",
+    "momento-clave"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "But it's not.",
+     "texto_es": "Pero no lo es."
+    }
+   ],
+   "recorte": "vinetas/page-004-v5.jpg"
+  }
+ ],
+ "lugar": "Reino fuera del Multiverso",
+ "numero_comic": 0,
+ "pagina": 4,
+ "archivo": "paginas/page-004.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5263,
+ "_seg": 16.5
+}

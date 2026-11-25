@@ -1,0 +1,58 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración de portada alternativa donde Black Bolt desata una poderosa descarga de energía y rayos rodeado por una temible horda de supervillanos zombificados en los límites de Deadlands.",
+ "personajes": [
+  "Black Bolt",
+  "MODOK",
+  "Doctor Octopus",
+  "Thanos",
+  "Electro",
+  "Buitre"
+ ],
+ "eventos_clave": [
+  "Enfrentamiento contra los Marvel Zombies en el reino de Deadlands"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración artística a toda página pintada por Alex Ross, en la que Black Bolt canaliza una gigantesca energía eléctrica brillante desde su cuerpo mientras es atacado por una horda de supervillanos de Marvel convertidos en zombis grotescos, incluyendo a MODOK, Doctor Octopus y Thanos.",
+   "prompt_en": "Comic book cover illustration by Alex Ross depicting a hero emitting blinding white and yellow lightning from his chest while surrounded by a terrifying horde of undead zombie Marvel supervillains, grim atmosphere, cinematic lighting, hyperdetailed oil painting style.",
+   "personajes": [
+    "Black Bolt",
+    "MODOK",
+    "Doctor Octopus",
+    "Thanos",
+    "Electro",
+    "Buitre"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "marvel-zombies",
+    "deadlands",
+    "battleworld",
+    "alex-ross",
+    "portada-alternativa"
+   ],
+   "textos": [],
+   "lugar": "Deadlands / Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-271-v1.jpg"
+  }
+ ],
+ "lugar": "Deadlands / Battleworld",
+ "numero_comic": null,
+ "pagina": 271,
+ "archivo": "paginas/page-271.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3711,
+ "_seg": 13.2
+}

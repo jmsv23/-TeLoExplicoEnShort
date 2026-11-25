@@ -1,0 +1,229 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante la incursión final entre la Tierra-616 y la Tierra-1610, la nave Courier One que transportaba al equipo de rescate (liderado por Viuda Negra) es destruida por el fuego enemigo. Sue Storm presencia horrorizada la muerte de sus compañeros. Ante la tragedia, Reed Richards decide ejecutar la Opción Dos, solicitando a Manifold (Eden Fesi) utilizar sus poderes de teletransportación a través de la máquina para reunir a los supervivientes esenciales.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Sue Storm / Mujer Invisible",
+  "Viuda Negra",
+  "Black Panther (T'Challa)",
+  "Manifold"
+ ],
+ "eventos_clave": [
+  "Destrucción del Courier One y muerte del equipo de rescate",
+  "Reed Richards decide ejecutar la Opción Dos",
+  "Manifold prepara su poder para reunir a los supervivientes"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    31,
+    396,
+    969
+   ],
+   "descripcion": "Una nave de transporte espacial (Courier One) vuela sobre una metrópolis futurista bajo intenso fuego enemigo mientras sufre explosiones en el motor.",
+   "prompt_en": "Comic panel showing a futuristic transport spaceship exploding under heavy enemy laser fire above a high-tech city skyline, dramatic battle angle.",
+   "personajes": [
+    "Viuda Negra"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ultima-incursion",
+    "batalla-aerea",
+    "destruccion-courier-one"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "Baxter Building, this is Courier One... I repeat, we're under fire.",
+     "texto_es": "Edificio Baxter, aquí Transporte Uno... Repito, estamos bajo fuego."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "Susan...I'm sorry...",
+     "texto_es": "Susan... lo siento..."
+    }
+   ],
+   "lugar": "Espacio aéreo sobre la metrópolis",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-025-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    307,
+    269,
+    532,
+    856
+   ],
+   "descripcion": "Primer plano del interior de la cabina donde Viuda Negra lucha desesperadamente con los controles mientras la nave explota a su alrededor.",
+   "prompt_en": "Comic panel close-up of Black Widow in a spaceship cockpit surrounded by sparks and alarms, yelling into a communicator in panic.",
+   "personajes": [
+    "Viuda Negra"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "viuda-negra",
+    "cabina-en-llamas"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "We're not going to make it.",
+     "texto_es": "No vamos a lograrlo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Viuda Negra",
+     "texto": "You're on your own no--",
+     "texto_es": "Están solos ah--"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Viuda Negra",
+     "texto": "AHHHH!",
+     "texto_es": "¡AHHHH!"
+    }
+   ],
+   "lugar": "Cabina del Courier One",
+   "tono": "trágico",
+   "recorte": "vinetas/page-025-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    414,
+    0,
+    843,
+    989
+   ],
+   "descripcion": "Una explosión masiva destruye por completo la nave Courier One en el aire.",
+   "prompt_en": "Massive comic explosion destroying a sci-fi transport ship in mid-air, fiery orange debris bursting everywhere.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "explosion",
+    "muerte-equipo-rescate"
+   ],
+   "textos": [],
+   "lugar": "Cielo",
+   "tono": "caótico",
+   "recorte": "vinetas/page-025-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    546,
+    558,
+    977,
+    980
+   ],
+   "descripcion": "Sue Storm mira con horror y lágrimas en los ojos a través de una pantalla o ventana al presenciar la explosión del equipo de rescate.",
+   "prompt_en": "Close up of a shocked blonde superhero woman with big blue tearful eyes looking in complete despair, comic book style.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "sue-storm",
+    "desesperacion",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Oh no...",
+     "texto_es": "Oh no..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "No. No. No. No...",
+     "texto_es": "No. No. No. No..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "They're gone, Reed! We've lost the resurrection team.",
+     "texto_es": "¡Se han ido, Reed! Hemos perdido al equipo de resurrección."
+    }
+   ],
+   "lugar": "Balsa de salvamento / Edificio Baxter",
+   "tono": "devastador",
+   "recorte": "vinetas/page-025-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    834,
+    30,
+    987,
+    970
+   ],
+   "descripcion": "Reed Richards, preocupado pero firme, le da instrucciones a Manifold (Eden Fesi) mientras Black Panther los observa en la sala de control.",
+   "prompt_en": "Comic panel showing Reed Richards talking intensely to Manifold while Black Panther stands nearby inside a high-tech room.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Black Panther (T'Challa)",
+    "Manifold"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reed-richards",
+    "black-panther",
+    "manifold",
+    "plan-de-emergencia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "T'Challa...",
+     "texto_es": "T'Challa..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I'm sorry, Eden. It's option two...",
+     "texto_es": "Lo siento, Eden. Es la opción dos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "...Your powers through this machine will help us find the survivors that we need.",
+     "texto_es": "...Tus poderes a través de esta máquina nos ayudarán a encontrar a los supervivientes que necesitamos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Brace yourself...this is going to hurt.",
+     "texto_es": "Prepárate... esto va a doler."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Manifold",
+     "texto": "Do it.",
+     "texto_es": "Hazlo."
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "determinado",
+   "recorte": "vinetas/page-025-v5.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento / Tierra-616",
+ "numero_comic": 1,
+ "pagina": 25,
+ "archivo": "paginas/page-025.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5466,
+ "_seg": 19.5
+}

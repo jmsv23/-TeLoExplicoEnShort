@@ -1,0 +1,1190 @@
+{
+ "duracion": 50.72,
+ "coincidencia": 0.97,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.171,
+   "fin": 6.433
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 6.973,
+   "fin": 36.904
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 36.924,
+   "fin": 46.515
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 47.036,
+   "fin": 50.58
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 1.652
+  },
+  {
+   "id": "2",
+   "nombre": "El choque",
+   "inicio": 1.652,
+   "fin": 4.372
+  },
+  {
+   "id": "3",
+   "nombre": "Al cine",
+   "inicio": 4.372,
+   "fin": 7.133
+  },
+  {
+   "id": "4",
+   "nombre": "Se llama incursión",
+   "inicio": 7.133,
+   "fin": 8.794
+  },
+  {
+   "id": "5",
+   "nombre": "Dos universos",
+   "inicio": 8.794,
+   "fin": 13.479
+  },
+  {
+   "id": "6",
+   "nombre": "Mueren los dos",
+   "inicio": 13.479,
+   "fin": 15.956
+  },
+  {
+   "id": "7",
+   "nombre": "Mundos borrados",
+   "inicio": 15.956,
+   "fin": 19.017
+  },
+  {
+   "id": "8",
+   "nombre": "Battleworld",
+   "inicio": 19.017,
+   "fin": 24.048
+  },
+  {
+   "id": "9",
+   "nombre": "Dios Doom",
+   "inicio": 24.048,
+   "fin": 27.933
+  },
+  {
+   "id": "10",
+   "nombre": "Dos autos",
+   "inicio": 27.933,
+   "fin": 35.322
+  },
+  {
+   "id": "11",
+   "nombre": "Doom construye",
+   "inicio": 35.322,
+   "fin": 36.924
+  },
+  {
+   "id": "12",
+   "nombre": "Doomsday",
+   "inicio": 36.924,
+   "fin": 39.246
+  },
+  {
+   "id": "13",
+   "nombre": "Secret Wars",
+   "inicio": 39.246,
+   "fin": 44.813
+  },
+  {
+   "id": "14",
+   "nombre": "El mismo hombre",
+   "inicio": 44.813,
+   "fin": 47.036
+  },
+  {
+   "id": "15",
+   "nombre": "Siguiente número",
+   "inicio": 47.036,
+   "fin": 50.72
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.411,
+   "t_est": 0.6,
+   "ancla": "cómics"
+  },
+  {
+   "id": "1.3",
+   "t": 1.331,
+   "t_est": 1.5,
+   "ancla": "Tierras"
+  },
+  {
+   "id": "2.1",
+   "t": 1.652,
+   "t_est": 2.6,
+   "ancla": "chocaron"
+  },
+  {
+   "id": "2.2",
+   "t": 2.972,
+   "t_est": 3.6,
+   "ancla": "entero"
+  },
+  {
+   "id": "2.3",
+   "t": 3.392,
+   "t_est": 4.1,
+   "ancla": "acabó"
+  },
+  {
+   "id": "3.1",
+   "t": 4.372,
+   "t_est": 4.6,
+   "ancla": "Marvel"
+  },
+  {
+   "id": "3.2",
+   "t": 5.493,
+   "t_est": 5.7,
+   "ancla": "historia"
+  },
+  {
+   "id": "3.3",
+   "t": 6.133,
+   "t_est": 6.8,
+   "ancla": "cine"
+  },
+  {
+   "id": "4.1",
+   "t": 7.133,
+   "t_est": 7.9,
+   "ancla": "llama"
+  },
+  {
+   "id": "4.2",
+   "t": 7.393,
+   "t_est": 8.5,
+   "ancla": "incursión"
+  },
+  {
+   "id": "5.1",
+   "t": 8.794,
+   "t_est": 9.8,
+   "ancla": "universos"
+  },
+  {
+   "id": "5.2",
+   "t": 9.334,
+   "t_est": 11.2,
+   "ancla": "superponen"
+  },
+  {
+   "id": "5.3",
+   "t": 10.835,
+   "t_est": 12.6,
+   "ancla": "destruirse"
+  },
+  {
+   "id": "5.4",
+   "t": 12.115,
+   "t_est": 13.8,
+   "ancla": "viva"
+  },
+  {
+   "id": "6.1",
+   "t": 13.479,
+   "t_est": 15.3,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "6.2",
+   "t": 14.116,
+   "t_est": 16.0,
+   "ancla": "dos"
+  },
+  {
+   "id": "7.1",
+   "t": 15.956,
+   "t_est": 17.0,
+   "ancla": "incursiones"
+  },
+  {
+   "id": "7.2",
+   "t": 16.757,
+   "t_est": 18.1,
+   "ancla": "borrando"
+  },
+  {
+   "id": "7.3",
+   "t": 17.657,
+   "t_est": 19.3,
+   "ancla": "uno por uno"
+  },
+  {
+   "id": "8.1",
+   "t": 19.017,
+   "t_est": 21.7,
+   "ancla": "restos"
+  },
+  {
+   "id": "8.2",
+   "t": 19.318,
+   "t_est": 22.7,
+   "ancla": "nació"
+  },
+  {
+   "id": "8.3",
+   "t": 19.798,
+   "t_est": 23.4,
+   "ancla": "Battleworld"
+  },
+  {
+   "id": "8.4",
+   "t": 21.858,
+   "t_est": 24.5,
+   "ancla": "pedazos"
+  },
+  {
+   "id": "8.5",
+   "t": 22.439,
+   "t_est": 25.1,
+   "ancla": "realidades"
+  },
+  {
+   "id": "9.1",
+   "t": 24.048,
+   "t_est": 25.9,
+   "ancla": "dueño"
+  },
+  {
+   "id": "9.2",
+   "t": 26.591,
+   "t_est": 27.3,
+   "ancla": "Dios"
+  },
+  {
+   "id": "10.1",
+   "t": 27.933,
+   "t_est": 28.7,
+   "ancla": "Imagina"
+  },
+  {
+   "id": "10.2",
+   "t": 28.654,
+   "t_est": 29.8,
+   "ancla": "autos"
+  },
+  {
+   "id": "10.3",
+   "t": 29.535,
+   "t_est": 31.2,
+   "ancla": "frente"
+  },
+  {
+   "id": "10.4",
+   "t": 31.337,
+   "t_est": 32.2,
+   "ancla": "carril"
+  },
+  {
+   "id": "10.5",
+   "t": 32.979,
+   "t_est": 33.6,
+   "ancla": "desaparecer"
+  },
+  {
+   "id": "11.1",
+   "t": 35.322,
+   "t_est": 35.6,
+   "ancla": "pedazos"
+  },
+  {
+   "id": "11.2",
+   "t": 36.043,
+   "t_est": 37.2,
+   "ancla": "construir"
+  },
+  {
+   "id": "11.3",
+   "t": 36.623,
+   "t_est": 38.1,
+   "ancla": "mundo"
+  },
+  {
+   "id": "12.1",
+   "t": 36.924,
+   "t_est": 39.0,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "12.2",
+   "t": 38.786,
+   "t_est": 40.1,
+   "ancla": "diciembre"
+  },
+  {
+   "id": "13.1",
+   "t": 39.246,
+   "t_est": 41.2,
+   "ancla": "Secret"
+  },
+  {
+   "id": "13.2",
+   "t": 41.509,
+   "t_est": 43.0,
+   "ancla": "cierra"
+  },
+  {
+   "id": "13.3",
+   "t": 43.304,
+   "t_est": 44.2,
+   "ancla": "veintisiete"
+  },
+  {
+   "id": "14.1",
+   "t": 44.813,
+   "t_est": 45.7,
+   "ancla": "gira"
+  },
+  {
+   "id": "14.2",
+   "t": 46.195,
+   "t_est": 46.9,
+   "ancla": "hombre"
+  },
+  {
+   "id": "15.1",
+   "t": 47.036,
+   "t_est": 47.9,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "15.2",
+   "t": 48.117,
+   "t_est": 48.8,
+   "ancla": "guardián"
+  },
+  {
+   "id": "15.3",
+   "t": 50.32,
+   "t_est": 49.9,
+   "ancla": "Loki"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "En",
+   "seg": "S1",
+   "inicio": 0.171,
+   "fin": 0.231
+  },
+  {
+   "w": "los",
+   "seg": "S1",
+   "inicio": 0.271,
+   "fin": 0.351
+  },
+  {
+   "w": "cómics,",
+   "seg": "S1",
+   "inicio": 0.411,
+   "fin": 0.771
+  },
+  {
+   "w": "dos",
+   "seg": "S1",
+   "inicio": 1.091,
+   "fin": 1.251
+  },
+  {
+   "w": "Tierras",
+   "seg": "S1",
+   "inicio": 1.331,
+   "fin": 1.592
+  },
+  {
+   "w": "chocaron",
+   "seg": "S1",
+   "inicio": 1.652,
+   "fin": 2.032
+  },
+  {
+   "w": "y",
+   "seg": "S1",
+   "inicio": 2.052,
+   "fin": 2.072
+  },
+  {
+   "w": "el",
+   "seg": "S1",
+   "inicio": 2.292,
+   "fin": 2.352
+  },
+  {
+   "w": "multiverso",
+   "seg": "S1",
+   "inicio": 2.412,
+   "fin": 2.912
+  },
+  {
+   "w": "entero",
+   "seg": "S1",
+   "inicio": 2.972,
+   "fin": 3.252
+  },
+  {
+   "w": "se",
+   "seg": "S1",
+   "inicio": 3.292,
+   "fin": 3.372
+  },
+  {
+   "w": "acabó.",
+   "seg": "S1",
+   "inicio": 3.392,
+   "fin": 3.732
+  },
+  {
+   "w": "Marvel",
+   "seg": "S1",
+   "inicio": 4.372,
+   "fin": 4.693
+  },
+  {
+   "w": "ya",
+   "seg": "S1",
+   "inicio": 4.753,
+   "fin": 4.873
+  },
+  {
+   "w": "prepara",
+   "seg": "S1",
+   "inicio": 4.933,
+   "fin": 5.273
+  },
+  {
+   "w": "esa",
+   "seg": "S1",
+   "inicio": 5.333,
+   "fin": 5.453
+  },
+  {
+   "w": "historia",
+   "seg": "S1",
+   "inicio": 5.493,
+   "fin": 5.793
+  },
+  {
+   "w": "para",
+   "seg": "S1",
+   "inicio": 5.853,
+   "fin": 5.973
+  },
+  {
+   "w": "el",
+   "seg": "S1",
+   "inicio": 5.993,
+   "fin": 6.073
+  },
+  {
+   "w": "cine.",
+   "seg": "S1",
+   "inicio": 6.133,
+   "fin": 6.433
+  },
+  {
+   "w": "Se",
+   "seg": "S2",
+   "inicio": 6.973,
+   "fin": 7.073
+  },
+  {
+   "w": "llama",
+   "seg": "S2",
+   "inicio": 7.133,
+   "fin": 7.353
+  },
+  {
+   "w": "incursión.",
+   "seg": "S2",
+   "inicio": 7.393,
+   "fin": 7.874
+  },
+  {
+   "w": "Cuando",
+   "seg": "S2",
+   "inicio": 8.334,
+   "fin": 8.554
+  },
+  {
+   "w": "dos",
+   "seg": "S2",
+   "inicio": 8.634,
+   "fin": 8.734
+  },
+  {
+   "w": "universos",
+   "seg": "S2",
+   "inicio": 8.794,
+   "fin": 9.174
+  },
+  {
+   "w": "se",
+   "seg": "S2",
+   "inicio": 9.214,
+   "fin": 9.294
+  },
+  {
+   "w": "superponen,",
+   "seg": "S2",
+   "inicio": 9.334,
+   "fin": 9.874
+  },
+  {
+   "w": "uno",
+   "seg": "S2",
+   "inicio": 10.254,
+   "fin": 10.415
+  },
+  {
+   "w": "tiene",
+   "seg": "S2",
+   "inicio": 10.475,
+   "fin": 10.655
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 10.695,
+   "fin": 10.795
+  },
+  {
+   "w": "destruirse",
+   "seg": "S2",
+   "inicio": 10.835,
+   "fin": 11.375
+  },
+  {
+   "w": "para",
+   "seg": "S2",
+   "inicio": 11.435,
+   "fin": 11.575
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 11.635,
+   "fin": 11.735
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 11.775,
+   "fin": 11.835
+  },
+  {
+   "w": "otro",
+   "seg": "S2",
+   "inicio": 11.895,
+   "fin": 12.075
+  },
+  {
+   "w": "viva.",
+   "seg": "S2",
+   "inicio": 12.115,
+   "fin": 12.415
+  },
+  {
+   "w": "Si",
+   "seg": "S2",
+   "inicio": 13.055,
+   "fin": 13.135
+  },
+  {
+   "w": "no,",
+   "seg": "S2",
+   "inicio": 13.195,
+   "fin": 13.295
+  },
+  {
+   "w": "mueren",
+   "seg": "S2",
+   "inicio": 13.616,
+   "fin": 13.916
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 13.956,
+   "fin": 14.056
+  },
+  {
+   "w": "dos.",
+   "seg": "S2",
+   "inicio": 14.116,
+   "fin": 14.336
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 14.916,
+   "fin": 14.976
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 15.016,
+   "fin": 15.116
+  },
+  {
+   "w": "cómics,",
+   "seg": "S2",
+   "inicio": 15.176,
+   "fin": 15.516
+  },
+  {
+   "w": "las",
+   "seg": "S2",
+   "inicio": 15.776,
+   "fin": 15.876
+  },
+  {
+   "w": "incursiones",
+   "seg": "S2",
+   "inicio": 15.956,
+   "fin": 16.417
+  },
+  {
+   "w": "fueron",
+   "seg": "S2",
+   "inicio": 16.497,
+   "fin": 16.697
+  },
+  {
+   "w": "borrando",
+   "seg": "S2",
+   "inicio": 16.757,
+   "fin": 17.117
+  },
+  {
+   "w": "mundos",
+   "seg": "S2",
+   "inicio": 17.237,
+   "fin": 17.617
+  },
+  {
+   "w": "uno",
+   "seg": "S2",
+   "inicio": 17.657,
+   "fin": 17.777
+  },
+  {
+   "w": "por",
+   "seg": "S2",
+   "inicio": 17.837,
+   "fin": 17.957
+  },
+  {
+   "w": "uno,",
+   "seg": "S2",
+   "inicio": 18.017,
+   "fin": 18.197
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 18.217,
+   "fin": 18.237
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 18.697,
+   "fin": 18.757
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 18.817,
+   "fin": 18.917
+  },
+  {
+   "w": "restos",
+   "seg": "S2",
+   "inicio": 19.017,
+   "fin": 19.298
+  },
+  {
+   "w": "nació",
+   "seg": "S2",
+   "inicio": 19.318,
+   "fin": 19.718
+  },
+  {
+   "w": "Battleworld,",
+   "seg": "S2",
+   "inicio": 19.798,
+   "fin": 20.478
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 20.878,
+   "fin": 20.958
+  },
+  {
+   "w": "planeta",
+   "seg": "S2",
+   "inicio": 21.018,
+   "fin": 21.398
+  },
+  {
+   "w": "hecho",
+   "seg": "S2",
+   "inicio": 21.418,
+   "fin": 21.698
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 21.738,
+   "fin": 21.798
+  },
+  {
+   "w": "pedazos",
+   "seg": "S2",
+   "inicio": 21.858,
+   "fin": 22.259
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 22.299,
+   "fin": 22.379
+  },
+  {
+   "w": "realidades.",
+   "seg": "S2",
+   "inicio": 22.439,
+   "fin": 22.919
+  },
+  {
+   "w": "Su",
+   "seg": "S2",
+   "inicio": 23.928,
+   "fin": 24.008
+  },
+  {
+   "w": "dueño:",
+   "seg": "S2",
+   "inicio": 24.048,
+   "fin": 24.349
+  },
+  {
+   "w": "Doctor",
+   "seg": "S2",
+   "inicio": 24.809,
+   "fin": 25.13
+  },
+  {
+   "w": "Doom,",
+   "seg": "S2",
+   "inicio": 25.17,
+   "fin": 25.43
+  },
+  {
+   "w": "convertido",
+   "seg": "S2",
+   "inicio": 25.75,
+   "fin": 26.291
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 26.471,
+   "fin": 26.551
+  },
+  {
+   "w": "Dios",
+   "seg": "S2",
+   "inicio": 26.591,
+   "fin": 26.832
+  },
+  {
+   "w": "Doom.",
+   "seg": "S2",
+   "inicio": 26.872,
+   "fin": 27.172
+  },
+  {
+   "w": "Imagina",
+   "seg": "S2",
+   "inicio": 27.933,
+   "fin": 28.293
+  },
+  {
+   "w": "dos",
+   "seg": "S2",
+   "inicio": 28.313,
+   "fin": 28.373
+  },
+  {
+   "w": "autos",
+   "seg": "S2",
+   "inicio": 28.654,
+   "fin": 28.934
+  },
+  {
+   "w": "chocando",
+   "seg": "S2",
+   "inicio": 29.014,
+   "fin": 29.355
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 29.415,
+   "fin": 29.495
+  },
+  {
+   "w": "frente",
+   "seg": "S2",
+   "inicio": 29.535,
+   "fin": 29.835
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 29.995,
+   "fin": 30.055
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 30.095,
+   "fin": 30.196
+  },
+  {
+   "w": "carretera",
+   "seg": "S2",
+   "inicio": 30.256,
+   "fin": 30.676
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 30.756,
+   "fin": 30.876
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 30.936,
+   "fin": 31.037
+  },
+  {
+   "w": "solo",
+   "seg": "S2",
+   "inicio": 31.117,
+   "fin": 31.297
+  },
+  {
+   "w": "carril.",
+   "seg": "S2",
+   "inicio": 31.337,
+   "fin": 31.737
+  },
+  {
+   "w": "Uno",
+   "seg": "S2",
+   "inicio": 32.338,
+   "fin": 32.498
+  },
+  {
+   "w": "tiene",
+   "seg": "S2",
+   "inicio": 32.598,
+   "fin": 32.799
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 32.839,
+   "fin": 32.919
+  },
+  {
+   "w": "desaparecer.",
+   "seg": "S2",
+   "inicio": 32.979,
+   "fin": 33.58
+  },
+  {
+   "w": "Y",
+   "seg": "S2",
+   "inicio": 34.26,
+   "fin": 34.3
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 34.361,
+   "fin": 34.561
+  },
+  {
+   "w": "juntó",
+   "seg": "S2",
+   "inicio": 34.821,
+   "fin": 35.121
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 35.182,
+   "fin": 35.262
+  },
+  {
+   "w": "pedazos",
+   "seg": "S2",
+   "inicio": 35.322,
+   "fin": 35.722
+  },
+  {
+   "w": "para",
+   "seg": "S2",
+   "inicio": 35.822,
+   "fin": 35.982
+  },
+  {
+   "w": "construir",
+   "seg": "S2",
+   "inicio": 36.043,
+   "fin": 36.443
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 36.503,
+   "fin": 36.583
+  },
+  {
+   "w": "mundo.",
+   "seg": "S2",
+   "inicio": 36.623,
+   "fin": 36.904
+  },
+  {
+   "w": "Doomsday",
+   "seg": "S3",
+   "inicio": 36.924,
+   "fin": 38.025
+  },
+  {
+   "w": "llega",
+   "seg": "S3",
+   "inicio": 38.145,
+   "fin": 38.425
+  },
+  {
+   "w": "este",
+   "seg": "S3",
+   "inicio": 38.546,
+   "fin": 38.726
+  },
+  {
+   "w": "diciembre.",
+   "seg": "S3",
+   "inicio": 38.786,
+   "fin": 39.226
+  },
+  {
+   "w": "Secret",
+   "seg": "S3",
+   "inicio": 39.246,
+   "fin": 40.087
+  },
+  {
+   "w": "Wars,",
+   "seg": "S3",
+   "inicio": 40.147,
+   "fin": 40.448
+  },
+  {
+   "w": "la",
+   "seg": "S3",
+   "inicio": 40.848,
+   "fin": 40.908
+  },
+  {
+   "w": "película",
+   "seg": "S3",
+   "inicio": 40.968,
+   "fin": 41.329
+  },
+  {
+   "w": "que",
+   "seg": "S3",
+   "inicio": 41.369,
+   "fin": 41.449
+  },
+  {
+   "w": "cierra",
+   "seg": "S3",
+   "inicio": 41.509,
+   "fin": 41.709
+  },
+  {
+   "w": "la",
+   "seg": "S3",
+   "inicio": 41.729,
+   "fin": 41.769
+  },
+  {
+   "w": "saga,",
+   "seg": "S3",
+   "inicio": 41.889,
+   "fin": 42.45
+  },
+  {
+   "w": "en",
+   "seg": "S3",
+   "inicio": 42.47,
+   "fin": 42.51
+  },
+  {
+   "w": "dos",
+   "seg": "S3",
+   "inicio": 42.891,
+   "fin": 43.098
+  },
+  {
+   "w": "mil",
+   "seg": "S3",
+   "inicio": 43.098,
+   "fin": 43.304
+  },
+  {
+   "w": "veintisiete.",
+   "seg": "S3",
+   "inicio": 43.304,
+   "fin": 43.511
+  },
+  {
+   "w": "Y",
+   "seg": "S3",
+   "inicio": 43.531,
+   "fin": 43.551
+  },
+  {
+   "w": "todo",
+   "seg": "S3",
+   "inicio": 44.533,
+   "fin": 44.713
+  },
+  {
+   "w": "gira",
+   "seg": "S3",
+   "inicio": 44.813,
+   "fin": 45.033
+  },
+  {
+   "w": "alrededor",
+   "seg": "S3",
+   "inicio": 45.073,
+   "fin": 45.554
+  },
+  {
+   "w": "del",
+   "seg": "S3",
+   "inicio": 45.614,
+   "fin": 45.774
+  },
+  {
+   "w": "mismo",
+   "seg": "S3",
+   "inicio": 45.854,
+   "fin": 46.115
+  },
+  {
+   "w": "hombre.",
+   "seg": "S3",
+   "inicio": 46.195,
+   "fin": 46.515
+  },
+  {
+   "w": "Siguiente:",
+   "seg": "S4",
+   "inicio": 47.036,
+   "fin": 47.496
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 47.997,
+   "fin": 48.057
+  },
+  {
+   "w": "guardián",
+   "seg": "S4",
+   "inicio": 48.117,
+   "fin": 48.497
+  },
+  {
+   "w": "que",
+   "seg": "S4",
+   "inicio": 48.537,
+   "fin": 48.638
+  },
+  {
+   "w": "intenta",
+   "seg": "S4",
+   "inicio": 48.698,
+   "fin": 49.038
+  },
+  {
+   "w": "evitar",
+   "seg": "S4",
+   "inicio": 49.118,
+   "fin": 49.418
+  },
+  {
+   "w": "todo",
+   "seg": "S4",
+   "inicio": 49.619,
+   "fin": 49.859
+  },
+  {
+   "w": "esto,",
+   "seg": "S4",
+   "inicio": 49.939,
+   "fin": 50.179
+  },
+  {
+   "w": "Loki.",
+   "seg": "S4",
+   "inicio": 50.32,
+   "fin": 50.58
+  }
+ ]
+}

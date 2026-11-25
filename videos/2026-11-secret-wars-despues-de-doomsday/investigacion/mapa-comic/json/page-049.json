@@ -1,0 +1,222 @@
+{
+ "tipo": "historia",
+ "resumen": "Un Thor veterano guía a un joven recluta a través de Doomgard, explicándole el origen de Battleworld, la ley del Dios Emperador Doom y el deber sagrado del Thor Corps como guardianes de la justicia y el orden.",
+ "personajes": [
+  "[Thor anciano]",
+  "[Thor novato]",
+  "Thor Corps (varios Thors)"
+ ],
+ "eventos_clave": [
+  "Explicación de la creación de Battleworld bajo el mandato de Doom",
+  "Introducción del Thor novato a sus responsabilidades en Doomgard"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    34,
+    269,
+    610
+   ],
+   "descripcion": "Un Thor anciano con capa roja camina junto a un recluta rubio sin armadura, rodeados por otros miembros del Thor Corps alzando sus martillos hacia el cielo.",
+   "prompt_en": "Comic panel showing an old armored Thor walking with a young shirtless man in a grand hall, surrounded by elite Thor warriors raising warhammers into the air.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor novato]",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "doomgard"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Then there was Earth. The firmament cooled and he raised up a land--this holy land--the world--and upon it he set his kingdoms.",
+     "texto_es": "Luego existió la Tierra. El firmamento se enfrió y él erigió una tierra... esta tierra santa... el mundo... y sobre ella estableció sus reinos."
+    }
+   ],
+   "lugar": "Doomgard, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-049-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    617,
+    269,
+    971
+   ],
+   "descripcion": "Vista en contrapicado de las gigantescas escaleras de piedra de Doomgard por las que ascienden el Thor veterano y el recluta.",
+   "prompt_en": "Comic panel low angle shot of giant stone stairs leading up to a massive fortress floating in the sky, two figures walking up.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor novato]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "doomgard"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Yes. The kingdoms. And have you ever traveled beyond the kingdom where you were born, brother?",
+     "texto_es": "Sí. Los reinos. ¿Y alguna vez has viajado más allá del reino donde naciste, hermano?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "Only here. Only for the testing.",
+     "texto_es": "Solo aquí. Solo para la prueba."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "Only this once.",
+     "texto_es": "Solo esta vez."
+    }
+   ],
+   "lugar": "Doomgard, Battleworld",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-049-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    276,
+    34,
+    448,
+    970
+   ],
+   "descripcion": "Plano medio del recluta rubio escuchando atentamente las explicaciones del barbudo Thor veterano.",
+   "prompt_en": "Medium close up comic panel of a young blonde man looking curiously at a seasoned warrior with a helm and red beard, outdoors in a fantasy castle environment.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor novato]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "leyes-de-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "It's not uncommon. The borders of each kingdom are clearly defined. Travel between them is very often discouraged by requiring special dispensation from the local baron.",
+     "texto_es": "No es raro. Las fronteras de cada reino están claramente definidas. Muy a menudo se desaconseja viajar entre ellos exigiendo un permiso especial del barón local."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "There are many good reasons for this--not all kingdoms are as peaceful as Higher Avalon.",
+     "texto_es": "Hay muchas buenas razones para esto; no todos los reinos son tan pacíficos como el Alto Avalón."
+    }
+   ],
+   "lugar": "Doomgard, Battleworld",
+   "tono": "explicativo",
+   "recorte": "vinetas/page-049-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    452,
+    34,
+    976,
+    629
+   ],
+   "descripcion": "Impresionante plano general de la fortaleza flotante de Doomgard erigiéndose entre densas nubes sobre el paisaje celestial.",
+   "prompt_en": "Wide epic comic illustration of a gigantic medieval fantasy fortress city built vertically on a flying floating island among thick clouds.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "doomgard",
+    "battleworld",
+    "arquitectura"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Many kingdoms--and there are those among our order who would say most--often crave the heavy end of the hammer.",
+     "texto_es": "Muchos reinos... y hay quienes en nuestra orden dirían que la mayoría... a menudo anhelan el extremo pesado del martillo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "From our high seat here in Doomgard, we allow no breaking of God's laws. Doom demands order, and order pleases him.",
+     "texto_es": "Desde nuestra alta sede aquí en Doomgard, no permitimos que se violen las leyes de Dios. Doom exige orden, y el orden le complace."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Tell me... do you want to please him, brother?",
+     "texto_es": "Dime... ¿quieres complacerlo, hermano?"
+    }
+   ],
+   "lugar": "Doomgard, Battleworld",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-049-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    808,
+    635,
+    976,
+    970
+   ],
+   "descripcion": "Primer plano del joven novato sonriendo con firmeza junto al veterano Thor, listos para jurar lealtad.",
+   "prompt_en": "Close-up comic panel of a smiling young blonde man beside a bearded winged-helm warrior looking determined.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor novato]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "juramento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Well, then... this is the world and there are sinners in it.",
+     "texto_es": "Bueno, entonces... este es el mundo y hay pecadores en él."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "Let us do justice.",
+     "texto_es": "Hagamos justicia."
+    }
+   ],
+   "lugar": "Doomgard, Battleworld",
+   "tono": "heroico",
+   "recorte": "vinetas/page-049-v5.jpg"
+  }
+ ],
+ "lugar": "Doomgard, Battleworld",
+ "numero_comic": 2,
+ "pagina": 49,
+ "archivo": "paginas/page-049.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5862,
+ "_seg": 21.2
+}

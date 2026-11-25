@@ -1,0 +1,170 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Departamento de Ciencia de la Fundación Futuro, Valeria Richards convoca a su equipo por orden de su padre, el Dios Emperador Doom. Cancela todos los proyectos de investigación actuales para enfocar a toda la división en la localización de los rebeldes recién llegados a Battleworld.",
+ "personajes": [
+  "Valeria Richards",
+  "Bentley 23",
+  "Alex Power",
+  "[Dragon Man]",
+  "[integrantes de la Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Valeria Richards suspende los proyectos de la Fundación Futuro.",
+  "Se ordena la búsqueda y captura de los rebeldes supervivientes de las balsas."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    18,
+    17,
+    578,
+    985
+   ],
+   "descripcion": "Vista exterior panorámica de la imponente estructura flotante de la Fundación Futuro suspendida sobre nubes y montañas rojizas.",
+   "prompt_en": "Panoramic exterior shot of a colossal futuristic white floating science facility surrounded by hazy orange dust clouds on a strange planet, comic book art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "fundacion-futuro",
+    "battleworld",
+    "departamento-de-ciencia"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE DEPARTMENT OF SCIENCE. THE FUTURE FOUNDATION. JUSTICE DIVISION.",
+     "texto_es": "El Departamento de Ciencia. La Fundación Futuro. División de Justicia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Okay, everyone, listen up...",
+     "texto_es": "Bien, todos, escuchen..."
+    }
+   ],
+   "lugar": "El Departamento de Ciencia, Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-145-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    558,
+    20,
+    885,
+    342
+   ],
+   "descripcion": "Primer plano de Valeria Richards sosteniendo un cilindro metálico mientras se dirige seriamente a sus compañeros.",
+   "prompt_en": "Medium close-up shot of a blonde young woman in a white futuristic suit holding a silver metallic cylinder, talking determinedly, comic art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "God has a job for us-- and when I say God, I do mean daddy.",
+     "texto_es": "Dios tiene un trabajo para nosotros... y cuando digo Dios, me refiero a papá."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "We're gonna play a game of hide-and-seek with a bunch of bad boys and girls who present a threat to the kingdoms and possibly the world itself.",
+     "texto_es": "Vamos a jugar a las escondidas con un grupo de chicos y chicas malos que representan una amenaza para los reinos y posiblemente para el mundo mismo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Doom wants us to find these rebels.",
+     "texto_es": "Doom quiere que encontremos a estos rebeldes."
+    }
+   ],
+   "lugar": "Interior de la Fundación Futuro",
+   "tono": "serio",
+   "recorte": "vinetas/page-145-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    578,
+    335,
+    936,
+    985
+   ],
+   "descripcion": "Vista interior donde Valeria Richards habla frente a su equipo, incluyendo a Bentley-23 y una criatura tipo gárgola azul gigante.",
+   "prompt_en": "Wide interior view of a young woman standing in front of a diverse group of sci-fi teammates including a large blue winged creature and young scientists inside a futuristic circular room.",
+   "personajes": [
+    "Valeria Richards",
+    "Bentley 23",
+    "Alex Power",
+    "[Dragon Man]",
+    "[integrantes de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "reunion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "So, as of now, all other projects are suspended.",
+     "texto_es": "Así que, a partir de ahora, todos los demás proyectos quedan suspendidos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "No deep diving in the Negative Zone inside the planet, no cataloging objects of power, none of it.",
+     "texto_es": "Nada de sumergirse en la Zona Negativa dentro del planeta, nada de catalogar objetos de poder, nada de eso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "And Bentley, that includes your little experiments south of the Shield.",
+     "texto_es": "Y Bentley, eso incluye tus pequeños experimentos al sur del Escudo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley 23",
+     "texto": "Oh, come on!",
+     "texto_es": "¡Oh, vamos!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Life's tough.",
+     "texto_es": "La vida es dura."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Alex, Dragon... fill everyone in on what we know about the crime scene.",
+     "texto_es": "Alex, Dragon... pongan al tanto a todos sobre lo que sabemos de la escena del crimen."
+    }
+   ],
+   "lugar": "Interior de la Fundación Futuro",
+   "tono": "informativo",
+   "recorte": "vinetas/page-145-v3.jpg"
+  }
+ ],
+ "lugar": "El Departamento de Ciencia / Fundación Futuro, Battleworld",
+ "numero_comic": 3,
+ "pagina": 145,
+ "archivo": "paginas/page-145.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5404,
+ "_seg": 18.5
+}

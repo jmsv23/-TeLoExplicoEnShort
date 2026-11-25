@@ -1,0 +1,252 @@
+{
+ "tipo": "historia",
+ "resumen": "Alex Power y los miembros de la Fundación Futuro confrontan a Valeria y Franklin Richards sobre la verdadera naturaleza del barco que están construyendo, descubriendo que es en realidad una balsa de salvamento multiversal diseñada solo para rescatar a unas cuantas docenas de personas ante la destrucción inminente de la Tierra.",
+ "personajes": [
+  "Valeria Richards",
+  "Franklin Richards",
+  "Alex Power",
+  "Bentley-23",
+  "[miembros de la Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Alex Power deduce que la nave que construyen es una balsa de salvamento multiversal.",
+  "Valeria confirma que la Tierra va a morir y que solo podrán salvar a unas pocas personas.",
+  "Franklin Richards defiende a sus padres señalando que lo intentaron todo."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    310,
+    1000
+   ],
+   "descripcion": "Alex Power levanta la mano en una sala llena de miembros jóvenes de la Fundación Futuro para hacerle una pregunta a Valeria Richards.",
+   "prompt_en": "A group of young sci-fi students in futuristic white suits sitting and standing in a high-tech hangar, one boy raising his hand to ask a question, comic book style.",
+   "personajes": [
+    "Alex Power",
+    "Valeria Richards",
+    "[miembros de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "Uh, Val? One more question.",
+     "texto_es": "¿Eh, Val? Una pregunta más."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Seriously, what's with the hand raising? There's, like, ten people in the room, Alex. Spit it out.",
+     "texto_es": "En serio, ¿a qué viene levantar la mano? Hay como diez personas en la habitación, Alex. Suéltalo."
+    }
+   ],
+   "lugar": "Sede de la Fundación Futuro",
+   "tono": "curioso",
+   "recorte": "vinetas/page-260-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    310,
+    40,
+    712,
+    355
+   ],
+   "descripcion": "Alex Power se rasca la cabeza preocupado mientras expone lo que ha deducido sobre la nave en construcción.",
+   "prompt_en": "Close up of a blonde teenage boy in a white sci-fi suit touching the back of his head with a worried expression, medium close up comic panel.",
+   "personajes": [
+    "Alex Power"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "incursiones"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "Okay. So. Here's the thing that's tripping me up, Val. It's not just a ship. It certainly isn't any kind of salvation machine or anything remotely hopeful like that.",
+     "texto_es": "De acuerdo. A ver. Esto es lo que me tiene desconcertado, Val. No es solo una nave. Definitivamente no es ningún tipo de máquina de salvación ni nada remotamente esperanzador como eso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "I know we're not as smart as you, but we think we've figured out what we're building. Stasis pods. Multiple layers of multiversal shielding...",
+     "texto_es": "Sé que no somos tan inteligentes como tú, pero creemos que hemos descubierto qué estamos construyendo. Cápsulas de estasis. Múltiples capas de blindaje multiversal..."
+    }
+   ],
+   "lugar": "Sede de la Fundación Futuro",
+   "tono": "tenso",
+   "recorte": "vinetas/page-260-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    310,
+    360,
+    712,
+    698
+   ],
+   "descripcion": "Primer plano del rostro serio y sombrío de Valeria Richards ante la pregunta directa de Alex.",
+   "prompt_en": "Dramatic close-up of a blonde teenage girl looking down solemnly with intense blue eyes, comic book panel.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "It's a life raft, isn't it?",
+     "texto_es": "Es una balsa de salvamento, ¿verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Yep.",
+     "texto_es": "Sí."
+    }
+   ],
+   "lugar": "Sede de la Fundación Futuro",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-260-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    310,
+    705,
+    712,
+    966
+   ],
+   "descripcion": "Alex Power reacciona incrédulo al darse cuenta de la pequeña cantidad de supervivientes que se podrán salvar.",
+   "prompt_en": "Young blonde male character in futuristic suit speaking with a serious and frustrated expression, comic style.",
+   "personajes": [
+    "Alex Power"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "fin-del-mundo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "So. The world's going to end, and we're going to run? That's the brilliant plan?",
+     "texto_es": "Así que... ¿el mundo se va a acabar y vamos a huir? ¿Ese es el plan brillante?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "And also, I can count--there's only seating in that thing for maybe sixty.",
+     "texto_es": "Y además, sé contar... solo hay asientos en esa cosa para tal vez sesenta personas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "The Earth's gonna die... and our big move is to save a few dozen people?",
+     "texto_es": "¿La Tierra va a morir... y nuestra gran estrategia es salvar a unas pocas docenas de personas?"
+    }
+   ],
+   "lugar": "Sede de la Fundación Futuro",
+   "tono": "indignado",
+   "recorte": "vinetas/page-260-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    712,
+    40,
+    966,
+    448
+   ],
+   "descripcion": "Bentley-23 se cruza de brazos con expresión confiada y cínica.",
+   "prompt_en": "Young dark-haired boy with arms crossed looking confident and smug in a futuristic white suit, comic panel.",
+   "personajes": [
+    "Bentley-23"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "bentley-23"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley-23",
+     "texto": "Only the strong survive, dog. I'm taking the Bentley show on the road.",
+     "texto_es": "Solo los fuertes sobreviven, hermano. Me llevo el show de Bentley de gira."
+    }
+   ],
+   "lugar": "Sede de la Fundación Futuro",
+   "tono": "cinico",
+   "recorte": "vinetas/page-260-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    712,
+    458,
+    966,
+    966
+   ],
+   "descripcion": "Franklin Richards sentado con la cabeza agachada, desanimado y triste ante la inminente tragedia.",
+   "prompt_en": "Young blonde boy in a red and black suit sitting head bowed down sadly, melancholic atmosphere, comic book panel.",
+   "personajes": [
+    "Franklin Richards",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "franklin-richards",
+    "tragedia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "It's not like that, Alex...",
+     "texto_es": "No es así, Alex..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "You don't understand. They tried.",
+     "texto_es": "No entiendes. Ellos lo intentaron."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "FRANKLIN RICHARDS SON OF MISTER FANTASTIC",
+     "texto_es": "FRANKLIN RICHARDS HIJO DE MISTER FANTÁSTICO"
+    }
+   ],
+   "lugar": "Sede de la Fundación Futuro",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-260-v6.jpg"
+  }
+ ],
+ "lugar": "Sede de la Fundación Futuro",
+ "numero_comic": 1,
+ "pagina": 260,
+ "archivo": "paginas/page-260.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5450,
+ "_seg": 18.9
+}

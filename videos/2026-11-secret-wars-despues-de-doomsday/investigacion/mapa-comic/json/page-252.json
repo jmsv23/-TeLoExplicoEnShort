@@ -1,0 +1,193 @@
+{
+ "tipo": "historia",
+ "resumen": "La familia Richards y la Fundación Futuro observan el espectáculo del cosmos mientras reconstruyen el multiverso. Franklin Richards le pregunta reflexivamente a su padre si ya no son superhéroes.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards"
+ ],
+ "eventos_clave": [
+  "Reconstrucción del Multiverso por la Fundación Futuro",
+  "Reflexión sobre el nuevo rol de la familia Richards tras Secret Wars"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    38,
+    290,
+    549
+   ],
+   "descripcion": "Sue Storm corre sonriente hacia Reed Richards mientras otros miembros de la Fundación Futuro observan el entorno cósmico al fondo.",
+   "prompt_en": "Comic panel showing Sue Storm running happily towards Reed Richards on a rocky space landscape with cosmic background.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "recreacion-del-multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Hey! Reed!",
+     "texto_es": "¡Hey! ¡Reed!"
+    }
+   ],
+   "lugar": "Plataforma cósmica",
+   "tono": "alegre",
+   "recorte": "vinetas/page-252-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    557,
+    290,
+    960
+   ],
+   "descripcion": "Sue sostiene el brazo de Reed cariñosamente mientras conversan.",
+   "prompt_en": "Comic panel of Sue Storm affectionately holding Reed Richards' arm while talking to him.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "recreacion-del-multiverso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Yes?",
+     "texto_es": "¿Sí?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I gotta tell you, Mister...",
+     "texto_es": "Tengo que decirte, Señor..."
+    }
+   ],
+   "lugar": "Plataforma cósmica",
+   "tono": "afectuoso",
+   "recorte": "vinetas/page-252-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    294,
+    0,
+    836,
+    1000
+   ],
+   "descripcion": "Vista panorámica espectacular de la familia Richards contemplando un gran vórtice y un portal de creación cósmica brillando en el espacio.",
+   "prompt_en": "Wide splash comic panel showing figures standing on a cliff edge looking at a massive bright cosmic energy spiral and black hole vortex in space.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "recreacion-del-multiverso",
+    "vortice-cosmico",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "...This sure is something.",
+     "texto_es": "...Vaya que esto es algo increíble."
+    }
+   ],
+   "lugar": "Espacio cósmico / Multiverso naciente",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-252-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    726,
+    37,
+    974,
+    237
+   ],
+   "descripcion": "Primer plano de Franklin Richards mirando a su padre Reed, quien le sonríe atentamente.",
+   "prompt_en": "Comic panel close up of young Franklin Richards looking at his bearded father Reed Richards who responds calmly.",
+   "personajes": [
+    "Franklin Richards",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "padre-e-hijo",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Can I ask you a question, Dad?",
+     "texto_es": "¿Puedo hacerte una pregunta, papá?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Of course.",
+     "texto_es": "Por supuesto."
+    }
+   ],
+   "lugar": "Plataforma cósmica",
+   "tono": "íntimo",
+   "recorte": "vinetas/page-252-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    726,
+    765,
+    974,
+    964
+   ],
+   "descripcion": "Primer plano del rostro del joven Franklin Richards con expresión pensativa al formular su pregunta final.",
+   "prompt_en": "Close up panel of young blonde boy Franklin Richards looking thoughtful and serious.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "pregunta-filosofica",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "Are we not super heroes anymore?",
+     "texto_es": "¿Ya no somos superhéroes?"
+    }
+   ],
+   "lugar": "Plataforma cósmica",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-252-v5.jpg"
+  }
+ ],
+ "lugar": "Espacio cósmico / Multiverso en reconstrucción",
+ "numero_comic": 9,
+ "pagina": 252,
+ "archivo": "paginas/page-252.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5809,
+ "_seg": 19.9
+}

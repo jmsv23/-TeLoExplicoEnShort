@@ -1,0 +1,175 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards exige saber la verdad sobre la repentina aparición de los sobrevivientes y su paradero, mientras se observan planos intercalados de Thanos contemplando gigantescas estatuas en Battleworld.",
+ "personajes": [
+  "Valeria Richards",
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Valeria Richards investiga la llegada de los sobrevivientes de la balsa",
+  "Thanos explora el territorio de Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    140,
+    1000
+   ],
+   "descripcion": "Primer plano del rostro de Valeria Richards mirando fijamente hacia adelante con expresión seria y decidida.",
+   "prompt_en": "Close-up portrait of a young blonde girl with blue eyes looking determined and serious, soft blue lighting background.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "investigacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I want to know what REALLY happened.",
+     "texto_es": "Quiero saber qué pasó REALMENTE."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-149-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    140,
+    0,
+    290,
+    1000
+   ],
+   "descripcion": "Primer plano del rostro de Thanos con su casco característico y expresión impasible.",
+   "prompt_en": "Close-up of Thanos wearing his golden helmet, purple skin, side profile, stern expression.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thanos",
+    "cabal"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "\"I want to know who these people are.\"",
+     "texto_es": "\"Quiero saber quiénes son estas personas.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-149-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    290,
+    0,
+    444,
+    1000
+   ],
+   "descripcion": "Primer plano de la cabeza de una antigua estatua de piedra esculpida de un monstruo cornudo.",
+   "prompt_en": "Close-up of a carved stone statue head depicting a horned beast warrior with sharp teeth.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "estatua",
+    "ruinas"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "\"I want to know where they disappeared to.\"",
+     "texto_es": "\"Quiero saber a dónde desaparecieron.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-149-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    444,
+    0,
+    592,
+    1000
+   ],
+   "descripcion": "Primer plano de Valeria Richards con la mirada intensa y el ceño fruncido manifestando su determinación.",
+   "prompt_en": "Close-up of a blonde young girl looking fiercely focused and intense, neutral light blue background.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "determinacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I want to know what they're capable of.",
+     "texto_es": "Quiero saber de qué son capaces."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-149-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    592,
+    0,
+    976,
+    1000
+   ],
+   "descripcion": "Vista trasera de Thanos parado frente a enormes estatuas de piedra en ruinas en un terreno desértico y brumoso.",
+   "prompt_en": "Wide shot from behind Thanos looking up at giant colossal stone statues of ancient warriors in a foggy, rocky wasteland.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "estatuas",
+    "battleworld",
+    "exploracion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "\"And more than anything else...\"",
+     "texto_es": "\"Y más que cualquier otra cosa...\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-149-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 149,
+ "archivo": "paginas/page-149.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5622,
+ "_seg": 17.0
+}

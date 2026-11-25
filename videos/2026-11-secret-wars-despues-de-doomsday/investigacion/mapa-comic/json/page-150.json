@@ -1,0 +1,90 @@
+{
+ "tipo": "historia",
+ "resumen": "Thanos llega a El Escudo, la monumental muralla de Battleworld, contemplando su inmensidad y reflexionando sobre la misteriosa amenaza que sostiene la pared y el temor que esto infunde en el Dios Emperador Doom.",
+ "personajes": [
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Thanos contempla El Escudo",
+  "Thanos planea descubrir qué asusta a Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    966,
+    1000
+   ],
+   "descripcion": "Vista panorámica gigantesca del imponente muro de El Escudo iluminado por la luz superior del sol. En la base, entre monolitos de piedra y enormes estatuas rotas, Thanos se encuentra de pie contemplando la estructura.",
+   "prompt_en": "Wide epic shot of a giant monolithic stone wall reaching up to a bright sunny sky, with ancient stone statues and ruins at the base, a single purple alien titan warrior viewed from behind looking at the wall.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-escudo",
+    "battleworld",
+    "thanos"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE SHIELD.",
+     "texto_es": "EL ESCUDO."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Thanos",
+     "texto": "...We have to find out what they want.",
+     "texto_es": "...Tenemos que averiguar qué quieren."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-150-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    665,
+    760,
+    951,
+    968
+   ],
+   "descripcion": "Primer plano del rostro de Thanos sonriendo de manera astuta y siniestra con su casco puesto.",
+   "prompt_en": "Close-up panel of Thanos smiling maliciously, detailed expression under his golden helmet, sinister lighting.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "retrato"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Thanos",
+     "texto": "And why it scares God so badly.",
+     "texto_es": "Y por qué asusta tanto a Dios."
+    }
+   ],
+   "lugar": "El Escudo, Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-150-v2.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Battleworld",
+ "numero_comic": 3,
+ "pagina": 150,
+ "archivo": "paginas/page-150.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4108,
+ "_seg": 13.0
+}

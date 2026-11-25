@@ -1,0 +1,234 @@
+{
+ "tipo": "historia",
+ "resumen": "Sue Storm le narra a su hijo Franklin la historia mítica de la creación de Battleworld, explicando cómo Dios Emperador Doom salvó a todos tras la destrucción del universo anterior y convirtió a Johnny Storm en el sol. Al final, Franklin le pregunta qué le sucedió al tío Ben (la Cosa), pero Sue prefiere contar esa historia en el futuro.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Franklin Richards",
+  "Doctor Doom / Dios Emperador Doom",
+  "Antorcha Humana",
+  "la Cosa (Ben Grimm) / El Escudo"
+ ],
+ "eventos_clave": [
+  "Sue Storm relata la historia de la fundación de Battleworld a su hijo Franklin.",
+  "Explicación de la mitología de Doom como creador del nuevo mundo y de Johnny Storm convertida en el sol de Battleworld.",
+  "Franklin pregunta por el destino desconocido de su tío Ben."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    32,
+    337,
+    699
+   ],
+   "descripcion": "Ilustración de una batalla caótica en tiempos oscuros con villanos y criaturas luchando bajo rayos de energía.",
+   "prompt_en": "Comic book panel depicting a dark chaotic battlefield with futuristic villains shooting laser beams in a apocalyptic setting.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "mito-de-creacion",
+    "guerra"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "When it was forged, this world was a frightening place. A dark and dangerous time.",
+     "texto_es": "Cuando fue forjado, este mundo era un lugar aterrador. Un tiempo oscuro y peligroso."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "It was night, and all that seemed to exist was war. That was when your grandfather died...",
+     "texto_es": "Era de noche, y todo lo que parecía existir era la guerra. Fue entonces cuando murió tu abuelo..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "And we would have died as well...",
+     "texto_es": "Y nosotros también habríamos muerto..."
+    }
+   ],
+   "lugar": "Battleworld (en el mito de la creación)",
+   "tono": "dramático",
+   "recorte": "vinetas/page-174-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    706,
+    337,
+    967
+   ],
+   "descripcion": "Primer plano de Sue Storm hablando cariñosamente con una expresión serena y esperanzada.",
+   "prompt_en": "Close up portrait of a blonde woman in a purple costume smiling warmly while telling a bedtime story.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sue-storm",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "But there was a light. Brilliant and blinding...",
+     "texto_es": "Pero hubo una luz. Brillante y cegadora..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "It was your father.",
+     "texto_es": "Era tu padre."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "afectuoso",
+   "recorte": "vinetas/page-174-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    343,
+    32,
+    591,
+    967
+   ],
+   "descripcion": "Figura gloriosa y poderosa alzando la mano para proyectar un estallido de luz dorada celestial que transforma el paisaje desértico.",
+   "prompt_en": "Epic wide panel of a caped figure shooting bright golden energy beam across a desolate rocky landscape, godlike power concept art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "creacion-de-battleworld",
+    "poder-divino"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "He made a world from nothing.",
+     "texto_es": "Él hizo un mundo de la nada."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "He made a world that was everything.",
+     "texto_es": "Él hizo un mundo que lo era todo."
+    }
+   ],
+   "lugar": "Battleworld (en el mito de la creación)",
+   "tono": "epico",
+   "recorte": "vinetas/page-174-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    597,
+    32,
+    831,
+    967
+   ],
+   "descripcion": "Sue Storm acunando el cuerpo caído de un hombre, mientras al fondo la Antorcha Humana arde de energía dorada y una figura divina se alza junto a ella.",
+   "prompt_en": "Comic panel depicting a blonde superheroine holding a fallen comrade on a battlefield, with a glowing flaming figure in the background and a metallic savior figure beside them.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Antorcha Humana",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "los-cuatro-fantasticos",
+    "antorcha-humana",
+    "sol-de-battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "That was the day the Fantastic Four died and was replaced with something better.",
+     "texto_es": "Ese fue el día en que los Cuatro Fantásticos murieron y fueron reemplazados por algo mejor."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Your father helped me bury my father and then together we brought order to this world.",
+     "texto_es": "Tu padre me ayudó a enterrar a mi padre y luego juntos trajimos orden a este mundo."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Your uncle Johnny even became the sun so there would be less night.",
+     "texto_es": "Tu tío Johnny incluso se convirtió en el sol para que hubiera menos noche."
+    }
+   ],
+   "lugar": "Battleworld (en el mito de la creación)",
+   "tono": "melancolico",
+   "recorte": "vinetas/page-174-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    834,
+    32,
+    974,
+    967
+   ],
+   "descripcion": "Sue Storm abrazando con ternura a su joven hijo Franklin mientras le responde al oído.",
+   "prompt_en": "Close up panel of a loving mother hugging her young son tight in bed, emotional intimate moment.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sue-storm",
+    "franklin-richards",
+    "tio-ben",
+    "la-cosa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "But what happened to Uncle Ben? You never say.",
+     "texto_es": "Pero ¿qué le pasó al tío Ben? Nunca lo dices."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Because that, young man, is another story for another day.",
+     "texto_es": "Porque esa, joven, es otra historia para otro día."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "For when you are older.",
+     "texto_es": "Para cuando seas mayor."
+    }
+   ],
+   "lugar": "Castillo de Doom",
+   "tono": "intimo",
+   "recorte": "vinetas/page-174-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 174,
+ "archivo": "paginas/page-174.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6072,
+ "_seg": 21.5
+}

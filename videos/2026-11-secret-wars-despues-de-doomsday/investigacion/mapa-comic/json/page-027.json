@@ -1,0 +1,178 @@
+{
+ "tipo": "historia",
+ "resumen": "Cíclope, impregnado con la Fuerza Fénix, se eleva radiante proclamando 'Es amor'. Mientras tanto, en tierra, los Guardianes de la Galaxia sufren trágicas bajas en medio de la incursión final; Rocket y Groot caen en combate y Star-Lord es repentinamente teletransportado lejos del equipo por Manifold hacia la balsa de salvamento.",
+ "personajes": [
+  "Cíclope (con el Fénix)",
+  "Drax",
+  "Rocket",
+  "Gamora",
+  "Star-Lord",
+  "Groot"
+ ],
+ "eventos_clave": [
+  "Cíclope canaliza el poder del Fénix",
+  "Caída de Rocket y Groot en batalla",
+  "Star-Lord es teletransportado a la balsa de salvamento"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    396,
+    1000
+   ],
+   "descripcion": "Cíclope, renacido como el avatar de la Fuerza Fénix, flota majestuosamente en el cielo envuelto en una deslumbrante luz dorada con enormes alas de fuego.",
+   "prompt_en": "A powerful cosmic superhero with giant glowing golden phoenix energy wings floating in a bright sky, dramatic lighting, comic art style by Esad Ribić.",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "fuerza-fenix",
+    "ciclope",
+    "ultima-incursion",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "It's love.",
+     "texto_es": "Es amor."
+    }
+   ],
+   "lugar": "Tierra-616 (Cielo sobre Manhattan)",
+   "tono": "divino",
+   "recorte": "vinetas/page-027-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    396,
+    33,
+    663,
+    971
+   ],
+   "descripcion": "Drax dispara su arma pesada mientras expresa su odio por la Tierra, al tiempo que Rocket Raccoon responde protestando justo antes de ser alcanzado por un ataque enemigo.",
+   "prompt_en": "Drax firing a heavy blaster rifle in a battlefield while Rocket Raccoon gets struck by enemy fire, dramatic action comic page.",
+   "personajes": [
+    "Drax",
+    "Rocket",
+    "Gamora"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "guardianes-de-la-galaxia",
+    "batalla",
+    "ultima-incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Drax",
+     "texto": "Drax hates this. Drax hates Earth.",
+     "texto_es": "Drax odia esto. Drax odia la Tierra."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "You're tellin' me, big guy. Center of the universe my ass... This place is a giant, stinkin' pile of--",
+     "texto_es": "Me lo dices a mí, grandulón. Centro del universo, mis nalgas... Este lugar es una gigante y apestosa pila de--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Rocket",
+     "texto": "AARGGHH!",
+     "texto_es": "¡AARGGHH!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "FWWOOSH",
+     "texto_es": "FWWOOSH"
+    }
+   ],
+   "lugar": "Tierra-616 (Campo de batalla)",
+   "tono": "caotico",
+   "recorte": "vinetas/page-027-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    663,
+    33,
+    1000,
+    1000
+   ],
+   "descripcion": "Gamora y Drax se lamentan por la caida de Rocket y Groot, mientras Star-Lord comienza a ser envuelto por una luz dorada de teletransporte y desaparece misteriosamente.",
+   "prompt_en": "Comic book scene with Gamora kneeling over fallen allies as Star-Lord turns transparent and vanishes in a flash of golden teleportation light.",
+   "personajes": [
+    "Gamora",
+    "Drax",
+    "Star-Lord",
+    "Rocket",
+    "Groot"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "teletransporte",
+    "guardianes-de-la-galaxia",
+    "muerte"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Drax",
+     "texto": "No! Rocket...",
+     "texto_es": "¡No! Rocket..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Drax",
+     "texto": "Groot...",
+     "texto_es": "Groot..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Oh, man... Hurry! We need to...",
+     "texto_es": "Oh, cielos... ¡Rápido! Necesitamos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "What...",
+     "texto_es": "Qué..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "The...",
+     "texto_es": "Demonios..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Gamora",
+     "texto": "Quill? Where did he go?!",
+     "texto_es": "¡¿Quill?! ¡¿A dónde fue?!"
+    }
+   ],
+   "lugar": "Tierra-616 (Campo de batalla)",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-027-v3.jpg"
+  }
+ ],
+ "lugar": "Tierra-616",
+ "numero_comic": 1,
+ "pagina": 27,
+ "archivo": "paginas/page-027.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5016,
+ "_seg": 17.8
+}

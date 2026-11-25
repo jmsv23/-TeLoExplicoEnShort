@@ -1,0 +1,83 @@
+{
+ "tipo": "historia",
+ "resumen": "Miles Morales se emociona al darse cuenta de que está haciendo equipo y balanceándose en telarañas junto al Spider-Man original (Peter Parker) a través de los rascacielos de Battleworld.",
+ "personajes": [
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)"
+ ],
+ "eventos_clave": [
+  "Peter Parker y Miles Morales hacen equipo",
+  "Balanceo en telaraña por Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    38,
+    283,
+    271
+   ],
+   "descripcion": "Primer plano de perfil de Miles Morales con su traje negro y rojo, mirando sorprendido y entusiasmado.",
+   "prompt_en": "Close-up profile view of Miles Morales wearing his black and red Spider-Man mask, eye lens wide with excitement.",
+   "personajes": [
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "miles-morales",
+    "spider-man",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Oh, hell yes.",
+     "texto_es": "Oh, demonios, sí."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "entusiasmado",
+   "recorte": "vinetas/page-248-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    0,
+    971,
+    1000
+   ],
+   "descripcion": "Gran viñeta de página completa que muestra a Peter Parker y Miles Morales balanceándose juntos con sus telarañas entre imponentes rascacielos al atardecer.",
+   "prompt_en": "Dynamic epic splash page of classic Spider-Man in red and blue suit alongside Miles Morales in black and red suit web-swinging between massive city skyscrapers at sunset.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "spider-man",
+    "peter-parker",
+    "miles-morales",
+    "balanceo",
+    "battleworld",
+    "equipo"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-248-v2.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 248,
+ "archivo": "paginas/page-248.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4030,
+ "_seg": 13.0
+}

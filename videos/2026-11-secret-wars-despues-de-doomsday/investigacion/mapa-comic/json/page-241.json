@@ -1,0 +1,157 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther y Namor activan el Código Sundiata en Wakanda, un cifrado antiguo transmitido por historia oral a través de las generaciones que les permite acceder a los secretos y artefactos ocultos de la región.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Descubrimiento y activación del Código Sundiata en Wakanda",
+  "Exploración del legado y la historia oral de Wakanda"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    362,
+    78,
+    471,
+    469
+   ],
+   "descripcion": "Un puño de energía brillante dorada dibujado de forma esquemática sobre un fondo blanco.",
+   "prompt_en": "Schematic glow of a golden energy fist outline on a clean white background, comic art style",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "codigo-sundiata",
+    "energia",
+    "simbolo"
+   ],
+   "textos": [],
+   "recorte": "vinetas/page-241-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    417,
+    569,
+    526,
+    969
+   ],
+   "descripcion": "Primer plano detallado de la palma de una mano sosteniendo o proyectando un destello de luz brillante dorada.",
+   "prompt_en": "Close up of a hand glowing with radiant golden energy on the palm, detailed comic book art",
+   "personajes": [
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "codigo-sundiata",
+    "magia",
+    "energia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "It's the Sundiata code. A hidden cipher within the region's oral history.",
+     "texto_es": "Es el código Sundiata. Un cifrado oculto dentro de la historia oral de la región."
+    }
+   ],
+   "recorte": "vinetas/page-241-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    547,
+    0,
+    697,
+    899
+   ],
+   "descripcion": "Black Panther en su traje agachado entre la densa vegetación selvática de Wakanda, observando el entorno.",
+   "prompt_en": "Black Panther crouched in lush green Wakandan jungle foliage, looking focused, comic panel art",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "wakanda",
+    "black-panther",
+    "selva"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "WAKANDA.",
+     "texto_es": "WAKANDA."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "It worked...",
+     "texto_es": "Funcionó..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "It's a theory about tradition. Of exactly how Wakandan excellence has been passed down through the generations. Passed down through blood.",
+     "texto_es": "Es una teoría sobre la tradición. De cómo exactamente la excelencia wakandiana se ha transmitido a través de las generaciones. Transmitida a través de la sangre."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Ah. I see...",
+     "texto_es": "Ah. Ya veo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "...Blood.",
+     "texto_es": "...Sangre."
+    }
+   ],
+   "recorte": "vinetas/page-241-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    697,
+    0,
+    1000,
+    901
+   ],
+   "descripcion": "Vista desde la espalda de Black Panther observando una visión o monumento antiguo con figuras wakandianas tradicionales junto a un obelisco sagrado.",
+   "prompt_en": "Black Panther seen from behind looking at ancient tribal Wakandan figures standing next to a carved stone obelisk in the jungle, dramatic lighting comic art",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "wakanda",
+    "historia-ancestral",
+    "obelisco",
+    "tradicion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "So we remember where we came from...",
+     "texto_es": "Así recordamos de dónde venimos..."
+    }
+   ],
+   "recorte": "vinetas/page-241-v4.jpg"
+  }
+ ],
+ "lugar": "Wakanda",
+ "numero_comic": 7,
+ "pagina": 241,
+ "archivo": "paginas/page-241.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5003,
+ "_seg": 18.0
+}

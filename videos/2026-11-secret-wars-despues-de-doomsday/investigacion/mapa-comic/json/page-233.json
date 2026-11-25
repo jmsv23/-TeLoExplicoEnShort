@@ -1,0 +1,231 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico confronta verbalmente a Doctor Doom antes de su duelo decisivo. Reed explica que intentó convencer a Owen Reece de buscar una solución mejor para el universo, mientras Doom se mofa de la incapacidad de Reed para salvar a su familia y justifica sus acciones dictatoriales en Battleworld.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Confrontación verbal entre Mister Fantástico y Dios Emperador Doom",
+  "Doom recrimina a Reed no haber salvado a su familia",
+  "Doom chasquea los dedos listo para pelear"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    37,
+    332,
+    370
+   ],
+   "descripcion": "Doctor Doom aparece envuelto en capas de luz sobre Mister Fantástico, gritándole indignado.",
+   "prompt_en": "Comic book style, close shot of Doctor Doom in hooded cape glowing with light, looking down angrily",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "RICHARDDSSSS! You had to meddle, didn't you?",
+     "texto_es": "¡RICHARDDSSSS! Tenías que entrometerte, ¿verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Of course you did. You're a meddler.",
+     "texto_es": "Por supuesto que sí. Eres un entrometido."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Battleworld",
+   "tono": "hostil",
+   "recorte": "vinetas/page-233-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    381,
+    332,
+    963
+   ],
+   "descripcion": "Mister Fantástico arrodillado y exhausto responde a Doom frente a la larga capa del villano.",
+   "prompt_en": "Comic book style, Reed Richards kneeling exhausted in a brown tinted room speaking to Doom's long cape",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You have some great plan, I expect. What is it this time, Reed? A new idea? A fresh take on the very old problem of you and I? Have you built another great machine?",
+     "texto_es": "Tienes algún gran plan, me imagino. ¿Qué es esta vez, Reed? ¿Una idea nueva? ¿Un nuevo punto de vista sobre el antiquísimo problema entre tú y yo? ¿Has construido otra gran máquina?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "No. Nothing like that. I just came to convince Owen that, perhaps, there's a better solution to all this than you.",
+     "texto_es": "No. Nada de eso. Solo vine a convencer a Owen de que, tal vez, hay una solución mejor para todo esto que tú."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-233-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    332,
+    38,
+    467,
+    963
+   ],
+   "descripcion": "Primer plano panorámico horizontal de los ojos llenos de furia de la máscara metalica de Doctor Doom.",
+   "prompt_en": "Extreme close-up of Doctor Doom's metal mask and intense glowing red eyes in horizontal wide panel",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "A better solution...",
+     "texto_es": "Una mejor solución..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Your entire life, you have been distracted with the modern concerns so precious to you and your kind. Ethics, and order, and society... when all that has ever mattered was survival. I saved millions, Reed. Owen saved millions.",
+     "texto_es": "Toda tu vida te has distraído con las preocupaciones modernas tan valiosas para ti y los tuyos. Ética, orden y sociedad... cuando lo único que ha importado siempre ha sido la supervivencia. Yo salvé a millones, Reed. Owen salvó a millones."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-233-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    468,
+    38,
+    759,
+    526
+   ],
+   "descripcion": "Mister Fantástico encorvado de pie escuchando la provocación de Doom.",
+   "prompt_en": "Comic panel showing tired bearded Reed Richards standing weak while listening to Doom",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And what was it you said when you appeared here on my world? All you could save was yourself. You couldn't even save your family.",
+     "texto_es": "¿Y qué fue lo que dijiste cuando apareciste aquí en mi mundo? Lo único que pudiste salvar fue a ti mismo. Ni siquiera pudiste salvar a tu familia."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Battleworld",
+   "tono": "provocador",
+   "recorte": "vinetas/page-233-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    468,
+    532,
+    759,
+    963
+   ],
+   "descripcion": "Primer plano del rostro barbudo de Mister Fantástico mirando con furia e indignación.",
+   "prompt_en": "Close-up portrait of bearded Reed Richards looking intensely angry and offended",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "primer-plano",
+    "furia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "How dare you.",
+     "texto_es": "¿Cómo te atreves?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Battleworld",
+   "tono": "rabioso",
+   "recorte": "vinetas/page-233-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    759,
+    38,
+    994,
+    963
+   ],
+   "descripcion": "Doctor Doom chasquea los dedos con desdén mientras sentencia el destino de Reed.",
+   "prompt_en": "Doctor Doom in hooded mask snapping his fingers with energy effect, medium close shot",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "enfrentamiento-final"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "SNAP",
+     "texto_es": "SNAP"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Haven't you been paying attention, Reed? I dare quite a bit. I dared to choose between living and dying for millions. And now I'll choose for you as well.",
+     "texto_es": "¿Es que no has estado prestando atención, Reed? Me atrevo a bastante. Me atreví a elegir entre vivir y morir por millones. Y ahora elegiré por ti también."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula, Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-233-v6.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula, Battleworld",
+ "numero_comic": 9,
+ "pagina": 233,
+ "archivo": "paginas/page-233.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6577,
+ "_seg": 24.6
+}

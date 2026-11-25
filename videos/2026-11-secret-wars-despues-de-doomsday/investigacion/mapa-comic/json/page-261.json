@@ -1,0 +1,146 @@
+{
+ "tipo": "historia",
+ "resumen": "Un recuento de la historia de los Illuminati y las Incursiones: la formación del grupo para enfrentar la colisión de universos, sus intentos desesperados usando poderes divinos para detenerlas, y finalmente su caída en la moral al recurrir a la destrucción de planetas enteros.",
+ "personajes": [
+  "Narrador",
+  "Namor",
+  "Doctor Strange",
+  "Iron Man",
+  "Black Panther",
+  "Capitán América",
+  "Black Bolt",
+  "Mister Fantástico"
+ ],
+ "eventos_clave": [
+  "Origen de las Incursiones",
+  "Reuniones secretas de los Illuminati",
+  "Intento de detener las Incursiones con las Gemas del Infinito",
+  "Destrucción de universos alternativos con bombas de antimateria"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    40,
+    34,
+    348,
+    963
+   ],
+   "descripcion": "Los Illuminati se encuentran reunidos en torno a una mesa pentagonal en las sombras para discutir la amenaza de la colisión de universos.",
+   "prompt_en": "A group of superhero strategists including Namor, Doctor Strange, Iron Man, Black Panther, Captain America, and Black Bolt seated at a futuristic meeting table in a dark chamber, dramatic lighting, comic art style.",
+   "personajes": [
+    "Namor",
+    "Doctor Strange",
+    "Iron Man",
+    "Black Panther",
+    "Capitán América",
+    "Black Bolt",
+    "Mister Fantástico"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "illuminati",
+    "reunion-secret-wars",
+    "incursiones"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "It started in secret, with the Illuminati.",
+     "texto_es": "Empezó en secreto, con los Illuminati."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "When they discovered that universes were colliding, the smartest and very best of us attempted to save everyone.",
+     "texto_es": "Cuando descubrieron que los universos estaban colisionando, los más inteligentes y mejores de nosotros intentaron salvar a todos."
+    }
+   ],
+   "lugar": "Sala de reuniones de los Illuminati",
+   "tono": "solemne",
+   "recorte": "vinetas/page-261-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    352,
+    34,
+    658,
+    963
+   ],
+   "descripcion": "El Capitán América en medio del espacio canaliza una fuerza inmensa de energía cósmica para intentar frenar la colisión de dos universos.",
+   "prompt_en": "Captain America in space unleashing a massive beam of cosmic energy from his hand toward colliding planets, bright pink cosmic background, epic comic art.",
+   "personajes": [
+    "Capitán América"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "capitan-america",
+    "gemas-del-infinito",
+    "incursiones"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "They tried everything to prevent the incursions. The improbable...",
+     "texto_es": "Intentaron todo para prevenir las incursiones. Lo improbable..."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The impossible...",
+     "texto_es": "Lo imposible..."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "dramático",
+   "recorte": "vinetas/page-261-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    662,
+    34,
+    968,
+    963
+   ],
+   "descripcion": "En un paisaje rojizo desolado bajo un planeta colosal en el cielo, Namor sostiene con resolución un inyector de antimateria listo para destruir el mundo, flanqueado por Doctor Strange, Black Bolt y Mister Fantástico.",
+   "prompt_en": "Namor holding a sci-fi antimatter detonator device on a barren red planet, flanked by Doctor Strange and Black Bolt under colliding planets, comic book style.",
+   "personajes": [
+    "Namor",
+    "Doctor Strange",
+    "Black Bolt",
+    "Mister Fantástico"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "destruccion-de-mundos",
+    "inyector-de-antimateria",
+    "illuminati"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And then, eventually, the unthinkable-- destroying worlds!",
+     "texto_es": "Y luego, finalmente, lo impensable... ¡destruir mundos!"
+    }
+   ],
+   "lugar": "Planeta en punto de incursión",
+   "tono": "oscuro",
+   "recorte": "vinetas/page-261-v3.jpg"
+  }
+ ],
+ "lugar": "Varios",
+ "numero_comic": 1,
+ "pagina": 261,
+ "archivo": "paginas/page-261.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4742,
+ "_seg": 16.0
+}

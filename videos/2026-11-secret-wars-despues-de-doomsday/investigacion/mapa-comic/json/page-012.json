@@ -1,0 +1,104 @@
+{
+ "tipo": "historia",
+ "resumen": "Se muestra el punto de incursión sobre Manhattan (Tierra-616) con masivas naves voladoras de combate y los héroes como Hulk, Spider-Man y Thor listos para la batalla final. La narración expone cómo los líderes del mundo trataron de calmar a la población ante el inevitable fin de la realidad.",
+ "personajes": [
+  "Hulk",
+  "Spider-Man (Peter Parker)",
+  "Thor (Jane Foster)",
+  "Capitán América"
+ ],
+ "eventos_clave": [
+  "Inicio de la última incursión entre Tierra-616 y Tierra-1610",
+  "Los héroes de la Tierra-616 se movilizan sobre Manhattan",
+  "Revelación a escala global sobre la destrucción inminente del mundo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Una impresionante splash page que muestra enormes helicarriers y naves de batalla sobrevolando los rascacielos de Manhattan bajo un cielo rojizo por la incursión. En primer plano, Hulk salta, Spider-Man se columpia de una nave y Thor vuela junto a otros Vengadores.",
+   "prompt_en": "Epic comic book splash page of giant futuristic helicarriers and spaceships hovering over Manhattan skyscrapers under a reddish glowing sky, superheroes like Hulk leaping, Spider-Man web-swinging, and Thor flying into battle, cinematic composition by Esad Ribic",
+   "personajes": [
+    "Hulk",
+    "Spider-Man (Peter Parker)",
+    "Thor (Jane Foster)",
+    "Capitán América"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ultima-incursion",
+    "tierra-616",
+    "manhattan",
+    "vengadores"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "MANHATTAN. EARTH-616. THE INCURSION POINT BETWEEN BOTH WORLDS.",
+     "texto_es": "MANHATTAN. TIERRA-616. EL PUNTO DE INCURSIÓN ENTRE AMBOS MUNDOS."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"WE TOLD THE TRUTH.\"",
+     "texto_es": "\"DIJIMOS LA VERDAD.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"WE INFORMED THE VARIOUS WORLD LEADERS WHAT WE HAD LEARNED THAT MORNING, AND THEN WE WATCHED AS THEY TOLD THEIR NATIONS.\"",
+     "texto_es": "\"INFORMAMOS A LOS DISTINTOS LÍDERES MUNDIALES DE LO QUE HABÍAMOS APRENDIDO ESA MAÑANA, Y LUEGO OBSERVAMOS CÓMO SE LO CONTABAN A SUS NACIONES.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"IT WAS THE CHANCELLOR IN GERMANY, THE PRIME MINISTERS IN BRITAIN AND JAPAN, IT WAS THE ROYAL FAMILY IN RIYADH...AND HERE, IT WAS THE PRESIDENT.\"",
+     "texto_es": "\"FUE LA CANCILLER EN ALEMANIA, LOS PRIMEROS MINISTROS EN GRAN BRETAÑA Y JAPÓN, FUE LA FAMILIA REAL EN RIAD... Y AQUÍ, FUE EL PRESIDENTE.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"THE LANGUAGE THEY USED--THEIR MESSAGE--WAS ALMOST ALL THE SAME.\"",
+     "texto_es": "\"EL LENGUAJE QUE USARON —SU MENSAJE— ERA CASI EL MISMO.\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"'REMAIN CALM. THE WORLD IS IN GRAVE DANGER, BUT WE--THOSE IN POWER--ARE DOING EVERYTHING WE CAN TO FIND SOME SOLUTION TO THIS TERRIBLE PROBLEM.'\"",
+     "texto_es": "\"'MANTENGAN LA CALMA. EL MUNDO ESTÁ EN GRAVE PELIGRO, PERO NOSOTROS —QUIENES ESTÁN EN EL PODER— ESTAMOS HACIENDO TODO LO POSIBLE PARA ENCONTRAR ALGUNA SOLUCIÓN A ESTE TERRIBLE PROBLEMA.'\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"BUT NO ONE BELIEVED THEM...\"",
+     "texto_es": "\"PERO NADIE LES CREYÓ...\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"HOW COULD THEY?\"",
+     "texto_es": "\"¿CÓMO PODRÍAN?\""
+    }
+   ],
+   "lugar": "Manhattan, Tierra-616",
+   "tono": "apocalíptico",
+   "recorte": "vinetas/page-012-v1.jpg"
+  }
+ ],
+ "lugar": "Manhattan, Tierra-616",
+ "numero_comic": 1,
+ "pagina": 12,
+ "archivo": "paginas/page-012.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4835,
+ "_seg": 19.1
+}

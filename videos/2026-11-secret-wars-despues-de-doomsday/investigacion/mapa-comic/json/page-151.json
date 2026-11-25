@@ -1,0 +1,50 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título para el Capítulo 06 de Secret Wars, titulada 'We raise them up... just so we can pull them down', acompañada por una ilustración superior en escala de grises que muestra a guerreros y bestias en batalla.",
+ "personajes": [],
+ "eventos_clave": [
+  "Inicio del Capítulo 06"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de apertura de capítulo con el número 06 estilizado, el título de la entrega en tipografía sin serif y una ilustración superior recortada en forma de arco que muestra una encarnizada batalla de criaturas y guerreros.",
+   "prompt_en": "Comic book chapter title page with number 06 and text 'WE RAISE THEM UP... JUST SO WE CAN PULL THEM DOWN', featuring a circular cropped grayscale artwork of fantasy warriors and monsters in battle at the top.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "capitulo-06",
+    "secret-wars",
+    "battleworld",
+    "titulo-capitulo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Título",
+     "texto": "06 WE RAISE THEM UP... JUST SO WE CAN PULL THEM DOWN",
+     "texto_es": "06 LOS ELEVAMOS... SOLO PARA PODER DERRIBARLOS"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-151-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 6,
+ "pagina": 151,
+ "archivo": "paginas/page-151.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2996,
+ "_seg": 7.4
+}

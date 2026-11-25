@@ -1,0 +1,217 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom en su forma divina se enfrenta a los supervivientes de la Tierra-616, entre ellos Mister Fantástico, Spider-Man y Thanos. Reed señala con escepticismo el hecho de que Doom se haya puesto en un trono, mientras que Thanos desafía abiertamente su estatus divino. La conversación culmina con Doom afirmando rotundamente su divinidad.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Spider-Man (Peter Parker)",
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Doctor Doom justifica sus acciones alegando haber salvado lo insalvable",
+  "Thanos desafía la divinidad de Doctor Doom",
+  "Doctor Doom declara 'Yo soy Dios'"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    33,
+    283,
+    968
+   ],
+   "descripcion": "Vista en contrapicado de las piernas de Reed Richards en primer plano mientras Doctor Doom, envuelto en un manto blanco y luz dorada resplandeciente, desciende flotando al fondo.",
+   "prompt_en": "Comic book panel, low angle shot of superhero legs in foreground, glowing white-armored god-like figure floating down from misty blue sky in glowing yellow light.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "confrontacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes. I did what you and all of your ilk could not.",
+     "texto_es": "Sí. Hice lo que tú y todos los de tu ralea no pudieron hacer."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I saved the unsavable in the face of total annihilation.",
+     "texto_es": "Salvé lo insalvable ante la aniquilación total."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I am a miracle worker. But here you are, so you must be as well.",
+     "texto_es": "Soy un hacedor de milagros. Pero aquí están, así que ustedes también deben serlo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-123-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    296,
+    33,
+    549,
+    674
+   ],
+   "descripcion": "Mister Fantástico con barba y traje azul con el logo 4 habla junto a Spider-Man en su traje morado/rojo.",
+   "prompt_en": "Bearded superhero in blue suit with a 4 on chest talking standing next to a purple and red suited Spider-Man against rocky icy background.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reed-richards",
+    "spider-man",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "We built a ship. All we saved was ourselves.",
+     "texto_es": "Construimos una nave. Lo único que salvamos fue a nosotros mismos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "I can't help but notice you decided to put yourself on a throne.",
+     "texto_es": "No puedo evitar notar que decidiste ponerte en un trono."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Yeah. We're all absolutely shocked by that. Just floored.",
+     "texto_es": "Sí. Todos estamos absolutamente sorprendidos por eso. Simplemente atónitos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-123-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    296,
+    680,
+    550,
+    968
+   ],
+   "descripcion": "Primer plano de la máscara metálica de Doctor Doom con ojos oscuros y fríos.",
+   "prompt_en": "Extreme close up of metal Doctor Doom mask with glowing white eyes.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doctor-doom",
+    "mascara"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "A throne?",
+     "texto_es": "¿Un trono?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I've had a throne for quite some time. A throne was my birthright. I've placed myself a good bit higher than that.",
+     "texto_es": "He tenido un trono durante bastante tiempo. Un trono era mi derecho de nacimiento. Me he colocado bastante más arriba que eso."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "arrogante",
+   "recorte": "vinetas/page-123-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    562,
+    33,
+    982,
+    718
+   ],
+   "descripcion": "Thanos de pie con postura imponente, mirando hacia arriba con expresión desafiante mientras cuestiona las afirmaciones de Doom.",
+   "prompt_en": "Powerful alien warlord Thanos in golden headpiece and blue gold armor looking up with an open defiant expression.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "desafio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Have you? I have my doubts.",
+     "texto_es": "¿Ah sí? Tengo mis dudas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "If one plays at being a god, one would not shy away from saying it.",
+     "texto_es": "Si uno juega a ser un dios, no rehuiría decirlo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-123-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    562,
+    726,
+    982,
+    968
+   ],
+   "descripcion": "Plano detalle del rostro de Doctor Doom a través del visor de su máscara metálica, revelando su ojo azul mirando fijamente.",
+   "prompt_en": "Close up of an eye looking out from behind a metal visor helmet, intense glare.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "momento-clave"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I am God.",
+     "texto_es": "Yo soy Dios."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-123-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 123,
+ "archivo": "paginas/page-123.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5584,
+ "_seg": 18.4
+}

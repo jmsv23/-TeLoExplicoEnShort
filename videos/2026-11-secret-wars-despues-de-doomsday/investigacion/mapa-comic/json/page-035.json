@@ -1,0 +1,188 @@
+{
+ "tipo": "historia",
+ "resumen": "Reed Richards intenta desesperadamente rescatar el módulo de la balsa de salvamento donde viaja su familia durante la incursión final, pero el compartimento se destruye. Tras la trágica pérdida de Sue Storm, sus hijos y la Cosa, Reed ordena desolado cerrar los escudos de contención.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Capitana Marvel (Carol Danvers)",
+  "Star-Lord",
+  "Black Panther (T'Challa)"
+ ],
+ "eventos_clave": [
+  "Destrucción del módulo de la familia de Reed Richards",
+  "Separación y pérdida de Sue Storm y los niños",
+  "Activación defensiva del escudo de la balsa"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    32,
+    307,
+    497
+   ],
+   "descripcion": "Mister Fantástico intenta recuperar el módulo de evacuación proyectando un campo de fuerza o sus extremidades elásticas.",
+   "prompt_en": "Mister Fantastic stretching out his hands towards a floating energy sphere in space, comic book style",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"GO!\"",
+     "texto_es": "\"¡VAYA!\""
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "PULLING THEM BACK NOW... WAIT...",
+     "texto_es": "Trayéndolos de vuelta ahora... espera..."
+    }
+   ],
+   "recorte": "vinetas/page-035-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    506,
+    307,
+    966
+   ],
+   "descripcion": "El módulo revienta bruscamente separando violentamente los brazos estirados de Reed.",
+   "prompt_en": "Comic book panel showing Mister Fantastic's stretched arm snapping back amidst a violent shockwave",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "tragedia"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BAAM!",
+     "texto_es": "¡BAAM!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "NO!",
+     "texto_es": "¡NO!"
+    }
+   ],
+   "recorte": "vinetas/page-035-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    322,
+    32,
+    631,
+    966
+   ],
+   "descripcion": "Reed Richards grita deshecho por la angustia al comprender que su familia ha muerto, siendo contenido y consolado por Capitana Marvel, Star-Lord y Black Panther.",
+   "prompt_en": "Mister Fantastic screaming in agony while held back by Captain Marvel, Star-Lord and Black Panther inside a damaged raft cockpit",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Capitana Marvel (Carol Danvers)",
+    "Star-Lord",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-familia-richards",
+    "balsa",
+    "desesperacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "NNOOOOOOOO!",
+     "texto_es": "¡NNOOOOOOOO!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "THEY'RE GONE. THE SECTION JUST SPLINTERED INTO... OH, GOD...",
+     "texto_es": "Se han ido. La sección acaba de fragmentarse en... oh, Dios..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "GET THE SHIELD BACK UP, T'CHALLA!",
+     "texto_es": "¡VUELVE A LEVANTAR EL ESCUDO, T'CHALLA!"
+    }
+   ],
+   "recorte": "vinetas/page-035-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    638,
+    32,
+    796,
+    966
+   ],
+   "descripcion": "Vista exterior de la balsa espacial mientras el brazo estirado de Reed regresa hacia la escotilla.",
+   "prompt_en": "Exterior shot of futuristic spherical ark with elastic arm retracting into an airlock opening",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "espacio"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "\"GET THE SHIELD UP!\"",
+     "texto_es": "\"¡LEVANTEN EL ESCUDO!\""
+    }
+   ],
+   "recorte": "vinetas/page-035-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    804,
+    32,
+    948,
+    966
+   ],
+   "descripcion": "El campo de fuerza dorado se activa cerrando herméticamente el casco exterior de la balsa.",
+   "prompt_en": "A glowing energy shield barrier deploying across the metallic hull of a futuristic spacecraft",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "escudo"
+   ],
+   "textos": [],
+   "recorte": "vinetas/page-035-v5.jpg"
+  }
+ ],
+ "lugar": "Balsa de Salvamento (Life Raft)",
+ "numero_comic": 1,
+ "pagina": 35,
+ "archivo": "paginas/page-035.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5584,
+ "_seg": 20.5
+}

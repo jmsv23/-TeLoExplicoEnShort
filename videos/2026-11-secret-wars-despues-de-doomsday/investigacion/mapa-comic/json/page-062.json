@@ -1,0 +1,125 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Siniestro conversa amablemente con Brian Braddock en una plataforma de duelo rodeada por miembros de los Thor Corps, elogiando la tremenda fuerza del Capitán Britania. Tras admitir su curiosidad, Mister Siniestro arremete agresivamente contra él con su báculo.",
+ "personajes": [
+  "Mister Siniestro",
+  "Capitán Britania / James Braddock",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Duelo ceremonial entre Bar Sinister y Higher Avalon",
+  "Mister Siniestro ataca a Brian Braddock"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    506,
+    1000
+   ],
+   "descripcion": "Mister Siniestro y Brian Braddock sostienen báculos deslumbrantes en una arena elevada, mientras varios Thor Corps observan el encuentro.",
+   "prompt_en": "Comic panel of Mister Sinister holding a glowing stun staff facing Captain Britain on an elevated arena platform surrounded by Thor Corps observers.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania / James Braddock",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "bar-sinister",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "There's no denying that you're a strapping young lad, Master Brian.",
+     "texto_es": "No se puede negar que eres un joven robusto, amo Brian."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Stun sticks to unconsciousness is the order of the day, but I'd wager that not only could you lift a small castle, but you could also beat me to pulp with just a normal stave, couldn't you?",
+     "texto_es": "Los báculos aturdidores hasta la pérdida del conocimiento son la orden del día, pero apuesto a que no solo podrías levantar un pequeño castillo, sino que también podrías hacerme pulpa solo con un bastón normal, ¿verdad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "Let's just say... I'm strong enough.",
+     "texto_es": "Digamos que... soy lo suficientemente fuerte."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tension",
+   "recorte": "vinetas/page-062-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    492,
+    29,
+    977,
+    345
+   ],
+   "descripcion": "Primer plano de Mister Siniestro esbozando una sonrisa astuta y calculadora.",
+   "prompt_en": "Close-up comic illustration of Mister Sinister smiling slyly and schemingly.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Well, now you've gone and made me curious.",
+     "texto_es": "Bueno, ahora has hecho que me dé curiosidad."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-062-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    508,
+    342,
+    977,
+    1000
+   ],
+   "descripcion": "Mister Siniestro salta violentamente hacia adelante blandiendo su báculo con furia.",
+   "prompt_en": "Dynamic action comic panel of Mister Sinister jumping mid-air and swinging his glowing staff with intense rage.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "combate",
+    "mister-siniestro",
+    "accion"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "accion",
+   "recorte": "vinetas/page-062-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 62,
+ "archivo": "paginas/page-062.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4732,
+ "_seg": 15.6
+}

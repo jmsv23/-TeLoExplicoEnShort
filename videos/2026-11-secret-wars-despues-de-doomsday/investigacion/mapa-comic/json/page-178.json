@@ -1,0 +1,50 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título correspondiente al Capítulo 07 de Secret Wars, titulado 'Beyond', acompañada por la ilustración de una colosal nave voladora.",
+ "personajes": [],
+ "eventos_clave": [
+  "Inicio del capítulo 07: Beyond"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de título para el Capítulo 07 'Beyond', que presenta una viñeta circular superior con una enorme nave aérea de guerra y el texto del capítulo en la parte inferior.",
+   "prompt_en": "Monochrome comic book chapter title page featuring a giant flying battleship inside a circular frame, with the text '07 BEYOND' written beneath it in clean minimalist typography.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "titulo-capitulo",
+    "beyond",
+    "battleworld",
+    "nave-espacial"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Título",
+     "texto": "07 BEYOND",
+     "texto_es": "07 MÁS ALLÁ"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-178-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 178,
+ "archivo": "paginas/page-178.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2735,
+ "_seg": 5.9
+}

@@ -1,0 +1,59 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración épica de portada sin texto creada por Alex Ross para la saga Secret Wars, mostrando a una colosal Cosa (Ben Grimm) rodeando en el espacio a numerosos héroes de Marvel cayendo en medio de la destrucción de mundos e incursiones cósmicas, incluyendo a Hulk, Capitana Marvel, Spider-Man (Miles Morales), Mister Fantástico y Black Bolt.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Hulk",
+  "Capitana Marvel (Carol Danvers)",
+  "Spider-Man (Miles Morales)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Black Bolt",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Incursión final",
+  "Destrucción del Multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración a página completa de Alex Ross con una masa monumental de súper héroes cayendo libremente a través de la órbita terrestre y el espacio exterior, dominados por una gigantesca mano y cara compuestas de roca pertenecientes a La Cosa.",
+   "prompt_en": "Comic book full page cover art by Alex Ross featuring a massive ensemble of superhero characters falling through cosmic space with Earth colliding in the background and a colossal rocky titan surrounding them.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo",
+    "Hulk",
+    "Capitana Marvel (Carol Danvers)",
+    "Spider-Man (Miles Morales)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Black Bolt",
+    "Namor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "incursion-final",
+    "secret-wars",
+    "multiverso",
+    "alex-ross",
+    "espacio-exterior"
+   ],
+   "textos": [],
+   "recorte": "vinetas/page-266-v1.jpg"
+  }
+ ],
+ "lugar": "Espacio exterior / Órbita de la Tierra",
+ "numero_comic": 1,
+ "pagina": 266,
+ "archivo": "paginas/page-266.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3081,
+ "_seg": 9.1
+}

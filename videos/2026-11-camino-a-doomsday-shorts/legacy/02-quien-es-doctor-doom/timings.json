@@ -1,0 +1,1232 @@
+{
+ "duracion": 45.92,
+ "coincidencia": 0.963,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.071,
+   "fin": 5.375
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 5.735,
+   "fin": 34.951
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 35.552,
+   "fin": 41.942
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 42.282,
+   "fin": 45.728
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 2.413
+  },
+  {
+   "id": "2",
+   "nombre": "Se cree mejor",
+   "inicio": 2.413,
+   "fin": 5.735
+  },
+  {
+   "id": "3",
+   "nombre": "Nació pobre",
+   "inicio": 5.735,
+   "fin": 8.717
+  },
+  {
+   "id": "4",
+   "nombre": "Ciencia y magia",
+   "inicio": 8.717,
+   "fin": 11.059
+  },
+  {
+   "id": "5",
+   "nombre": "Reed lo avisó",
+   "inicio": 11.059,
+   "fin": 16.603
+  },
+  {
+   "id": "6",
+   "nombre": "Explotó",
+   "inicio": 16.603,
+   "fin": 19.668
+  },
+  {
+   "id": "7",
+   "nombre": "La máscara",
+   "inicio": 19.668,
+   "fin": 23.434
+  },
+  {
+   "id": "8",
+   "nombre": "Rey de Latveria",
+   "inicio": 23.434,
+   "fin": 25.998
+  },
+  {
+   "id": "9",
+   "nombre": "Sin guerra",
+   "inicio": 25.998,
+   "fin": 29.223
+  },
+  {
+   "id": "10",
+   "nombre": "Tony + Strange",
+   "inicio": 29.223,
+   "fin": 35.873
+  },
+  {
+   "id": "11",
+   "nombre": "Ciencia, magia, corona",
+   "inicio": 35.873,
+   "fin": 39.318
+  },
+  {
+   "id": "12",
+   "nombre": "No es cualquiera",
+   "inicio": 39.318,
+   "fin": 42.282
+  },
+  {
+   "id": "13",
+   "nombre": "Siguiente número",
+   "inicio": 42.282,
+   "fin": 45.92
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.992,
+   "t_est": 1.0,
+   "ancla": "único"
+  },
+  {
+   "id": "1.3",
+   "t": 1.772,
+   "t_est": 2.3,
+   "ancla": "Marvel"
+  },
+  {
+   "id": "2.1",
+   "t": 2.413,
+   "t_est": 3.5,
+   "ancla": "cree"
+  },
+  {
+   "id": "2.2",
+   "t": 3.153,
+   "t_est": 4.5,
+   "ancla": "todos"
+  },
+  {
+   "id": "2.3",
+   "t": 3.594,
+   "t_est": 5.4,
+   "ancla": "héroes"
+  },
+  {
+   "id": "2.4",
+   "t": 4.474,
+   "t_est": 6.4,
+   "ancla": "veces"
+  },
+  {
+   "id": "2.5",
+   "t": 4.935,
+   "t_est": 6.9,
+   "ancla": "demuestra"
+  },
+  {
+   "id": "3.1",
+   "t": 5.735,
+   "t_est": 7.4,
+   "ancla": "Victor"
+  },
+  {
+   "id": "3.2",
+   "t": 6.996,
+   "t_est": 8.5,
+   "ancla": "pobre"
+  },
+  {
+   "id": "3.3",
+   "t": 7.376,
+   "t_est": 9.2,
+   "ancla": "Latveria"
+  },
+  {
+   "id": "4.1",
+   "t": 8.717,
+   "t_est": 9.9,
+   "ancla": "genio"
+  },
+  {
+   "id": "4.2",
+   "t": 9.238,
+   "t_est": 11.2,
+   "ancla": "ciencia"
+  },
+  {
+   "id": "4.3",
+   "t": 10.218,
+   "t_est": 12.0,
+   "ancla": "magia"
+  },
+  {
+   "id": "5.1",
+   "t": 11.059,
+   "t_est": 13.2,
+   "ancla": "universidad"
+  },
+  {
+   "id": "5.2",
+   "t": 11.98,
+   "t_est": 14.0,
+   "ancla": "Reed"
+  },
+  {
+   "id": "5.3",
+   "t": 12.84,
+   "t_est": 14.9,
+   "ancla": "advirtió"
+  },
+  {
+   "id": "5.4",
+   "t": 13.601,
+   "t_est": 15.8,
+   "ancla": "cálculos"
+  },
+  {
+   "id": "5.5",
+   "t": 15.502,
+   "t_est": 16.3,
+   "ancla": "escuchó"
+  },
+  {
+   "id": "6.1",
+   "t": 16.603,
+   "t_est": 17.3,
+   "ancla": "experimento"
+  },
+  {
+   "id": "6.2",
+   "t": 17.144,
+   "t_est": 18.4,
+   "ancla": "explotó"
+  },
+  {
+   "id": "6.3",
+   "t": 18.306,
+   "t_est": 19.4,
+   "ancla": "rostro"
+  },
+  {
+   "id": "7.1",
+   "t": 19.668,
+   "t_est": 20.5,
+   "ancla": "entonces"
+  },
+  {
+   "id": "7.2",
+   "t": 20.87,
+   "t_est": 21.5,
+   "ancla": "máscara"
+  },
+  {
+   "id": "7.3",
+   "t": 21.29,
+   "t_est": 22.8,
+   "ancla": "metal"
+  },
+  {
+   "id": "7.4",
+   "t": 22.112,
+   "t_est": 23.5,
+   "ancla": "culpa"
+  },
+  {
+   "id": "8.1",
+   "t": 23.434,
+   "t_est": 24.4,
+   "ancla": "gobierna"
+  },
+  {
+   "id": "8.2",
+   "t": 23.894,
+   "t_est": 25.3,
+   "ancla": "Latveria"
+  },
+  {
+   "id": "8.3",
+   "t": 24.856,
+   "t_est": 26.2,
+   "ancla": "inmunidad"
+  },
+  {
+   "id": "8.4",
+   "t": 25.397,
+   "t_est": 27.0,
+   "ancla": "diplomática"
+  },
+  {
+   "id": "9.1",
+   "t": 25.998,
+   "t_est": 27.6,
+   "ancla": "ningún"
+  },
+  {
+   "id": "9.2",
+   "t": 27.32,
+   "t_est": 28.4,
+   "ancla": "tocarlo"
+  },
+  {
+   "id": "9.3",
+   "t": 28.542,
+   "t_est": 29.3,
+   "ancla": "guerra"
+  },
+  {
+   "id": "10.1",
+   "t": 29.223,
+   "t_est": 30.4,
+   "ancla": "Imagina"
+  },
+  {
+   "id": "10.2",
+   "t": 29.843,
+   "t_est": 31.3,
+   "ancla": "Tony"
+  },
+  {
+   "id": "10.3",
+   "t": 31.005,
+   "t_est": 32.5,
+   "ancla": "Strange"
+  },
+  {
+   "id": "10.4",
+   "t": 31.526,
+   "t_est": 34.0,
+   "ancla": "fusionados"
+  },
+  {
+   "id": "10.5",
+   "t": 32.828,
+   "t_est": 35.0,
+   "ancla": "persona"
+  },
+  {
+   "id": "10.6",
+   "t": 33.83,
+   "t_est": 35.9,
+   "ancla": "país"
+  },
+  {
+   "id": "11.1",
+   "t": 35.873,
+   "t_est": 36.7,
+   "ancla": "Doom"
+  },
+  {
+   "id": "11.2",
+   "t": 36.594,
+   "t_est": 37.5,
+   "ancla": "ciencia"
+  },
+  {
+   "id": "11.3",
+   "t": 37.375,
+   "t_est": 38.2,
+   "ancla": "magia"
+  },
+  {
+   "id": "11.4",
+   "t": 38.236,
+   "t_est": 38.9,
+   "ancla": "corona"
+  },
+  {
+   "id": "12.1",
+   "t": 39.318,
+   "t_est": 39.8,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "12.2",
+   "t": 40.38,
+   "t_est": 41.0,
+   "ancla": "pelea"
+  },
+  {
+   "id": "12.3",
+   "t": 41.521,
+   "t_est": 42.0,
+   "ancla": "cualquiera"
+  },
+  {
+   "id": "12.4",
+   "t": 41.949,
+   "t_est": 42.9,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "13.1",
+   "t": 42.282,
+   "t_est": 43.6,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "13.2",
+   "t": 43.725,
+   "t_est": 44.4,
+   "ancla": "multiverso"
+  },
+  {
+   "id": "13.3",
+   "t": 45.327,
+   "t_est": 45.2,
+   "ancla": "enredos"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Doctor",
+   "seg": "S1",
+   "inicio": 0.071,
+   "fin": 0.351
+  },
+  {
+   "w": "Doom",
+   "seg": "S1",
+   "inicio": 0.411,
+   "fin": 0.591
+  },
+  {
+   "w": "es",
+   "seg": "S1",
+   "inicio": 0.691,
+   "fin": 0.792
+  },
+  {
+   "w": "el",
+   "seg": "S1",
+   "inicio": 0.832,
+   "fin": 0.932
+  },
+  {
+   "w": "único",
+   "seg": "S1",
+   "inicio": 0.992,
+   "fin": 1.192
+  },
+  {
+   "w": "villano",
+   "seg": "S1",
+   "inicio": 1.252,
+   "fin": 1.552
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 1.592,
+   "fin": 1.672
+  },
+  {
+   "w": "Marvel",
+   "seg": "S1",
+   "inicio": 1.772,
+   "fin": 2.113
+  },
+  {
+   "w": "que",
+   "seg": "S1",
+   "inicio": 2.153,
+   "fin": 2.233
+  },
+  {
+   "w": "se",
+   "seg": "S1",
+   "inicio": 2.273,
+   "fin": 2.353
+  },
+  {
+   "w": "cree",
+   "seg": "S1",
+   "inicio": 2.413,
+   "fin": 2.633
+  },
+  {
+   "w": "mejor",
+   "seg": "S1",
+   "inicio": 2.693,
+   "fin": 2.873
+  },
+  {
+   "w": "que",
+   "seg": "S1",
+   "inicio": 2.933,
+   "fin": 3.033
+  },
+  {
+   "w": "todos",
+   "seg": "S1",
+   "inicio": 3.153,
+   "fin": 3.373
+  },
+  {
+   "w": "los",
+   "seg": "S1",
+   "inicio": 3.433,
+   "fin": 3.534
+  },
+  {
+   "w": "héroes...",
+   "seg": "S1",
+   "inicio": 3.594,
+   "fin": 3.914
+  },
+  {
+   "w": "y",
+   "seg": "S1",
+   "inicio": 4.254,
+   "fin": 4.334
+  },
+  {
+   "w": "a",
+   "seg": "S1",
+   "inicio": 4.374,
+   "fin": 4.414
+  },
+  {
+   "w": "veces",
+   "seg": "S1",
+   "inicio": 4.474,
+   "fin": 4.734
+  },
+  {
+   "w": "lo",
+   "seg": "S1",
+   "inicio": 4.815,
+   "fin": 4.875
+  },
+  {
+   "w": "demuestra.",
+   "seg": "S1",
+   "inicio": 4.935,
+   "fin": 5.375
+  },
+  {
+   "w": "Victor",
+   "seg": "S2",
+   "inicio": 5.735,
+   "fin": 6.015
+  },
+  {
+   "w": "von",
+   "seg": "S2",
+   "inicio": 6.075,
+   "fin": 6.286
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 6.286,
+   "fin": 6.496
+  },
+  {
+   "w": "nació",
+   "seg": "S2",
+   "inicio": 6.596,
+   "fin": 6.876
+  },
+  {
+   "w": "pobre",
+   "seg": "S2",
+   "inicio": 6.996,
+   "fin": 7.256
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 7.276,
+   "fin": 7.336
+  },
+  {
+   "w": "Latveria.",
+   "seg": "S2",
+   "inicio": 7.376,
+   "fin": 7.837
+  },
+  {
+   "w": "Se",
+   "seg": "S2",
+   "inicio": 8.137,
+   "fin": 8.217
+  },
+  {
+   "w": "volvió",
+   "seg": "S2",
+   "inicio": 8.257,
+   "fin": 8.517
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 8.577,
+   "fin": 8.637
+  },
+  {
+   "w": "genio",
+   "seg": "S2",
+   "inicio": 8.717,
+   "fin": 8.958
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 8.998,
+   "fin": 9.078
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 9.118,
+   "fin": 9.158
+  },
+  {
+   "w": "ciencia",
+   "seg": "S2",
+   "inicio": 9.238,
+   "fin": 9.558
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 9.578,
+   "fin": 9.598
+  },
+  {
+   "w": "estudió",
+   "seg": "S2",
+   "inicio": 9.758,
+   "fin": 10.178
+  },
+  {
+   "w": "magia.",
+   "seg": "S2",
+   "inicio": 10.218,
+   "fin": 10.559
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 10.859,
+   "fin": 10.939
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 10.959,
+   "fin": 11.019
+  },
+  {
+   "w": "universidad,",
+   "seg": "S2",
+   "inicio": 11.059,
+   "fin": 11.599
+  },
+  {
+   "w": "Reed",
+   "seg": "S2",
+   "inicio": 11.98,
+   "fin": 12.14
+  },
+  {
+   "w": "Richards",
+   "seg": "S2",
+   "inicio": 12.22,
+   "fin": 12.62
+  },
+  {
+   "w": "le",
+   "seg": "S2",
+   "inicio": 12.72,
+   "fin": 12.8
+  },
+  {
+   "w": "advirtió",
+   "seg": "S2",
+   "inicio": 12.84,
+   "fin": 13.241
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 13.301,
+   "fin": 13.381
+  },
+  {
+   "w": "sus",
+   "seg": "S2",
+   "inicio": 13.421,
+   "fin": 13.541
+  },
+  {
+   "w": "cálculos",
+   "seg": "S2",
+   "inicio": 13.601,
+   "fin": 13.961
+  },
+  {
+   "w": "estaban",
+   "seg": "S2",
+   "inicio": 13.981,
+   "fin": 14.382
+  },
+  {
+   "w": "mal.",
+   "seg": "S2",
+   "inicio": 14.442,
+   "fin": 14.642
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 15.022,
+   "fin": 15.242
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 15.362,
+   "fin": 15.462
+  },
+  {
+   "w": "escuchó.",
+   "seg": "S2",
+   "inicio": 15.502,
+   "fin": 15.883
+  },
+  {
+   "w": "Su",
+   "seg": "S2",
+   "inicio": 16.483,
+   "fin": 16.563
+  },
+  {
+   "w": "experimento",
+   "seg": "S2",
+   "inicio": 16.603,
+   "fin": 17.084
+  },
+  {
+   "w": "explotó",
+   "seg": "S2",
+   "inicio": 17.144,
+   "fin": 17.545
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 17.565,
+   "fin": 17.585
+  },
+  {
+   "w": "le",
+   "seg": "S2",
+   "inicio": 17.785,
+   "fin": 17.845
+  },
+  {
+   "w": "dejó",
+   "seg": "S2",
+   "inicio": 17.885,
+   "fin": 18.106
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 18.166,
+   "fin": 18.226
+  },
+  {
+   "w": "rostro",
+   "seg": "S2",
+   "inicio": 18.306,
+   "fin": 18.566
+  },
+  {
+   "w": "marcado.",
+   "seg": "S2",
+   "inicio": 18.626,
+   "fin": 19.027
+  },
+  {
+   "w": "Desde",
+   "seg": "S2",
+   "inicio": 19.408,
+   "fin": 19.628
+  },
+  {
+   "w": "entonces",
+   "seg": "S2",
+   "inicio": 19.668,
+   "fin": 20.069
+  },
+  {
+   "w": "vive",
+   "seg": "S2",
+   "inicio": 20.189,
+   "fin": 20.389
+  },
+  {
+   "w": "tras",
+   "seg": "S2",
+   "inicio": 20.429,
+   "fin": 20.589
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 20.649,
+   "fin": 20.79
+  },
+  {
+   "w": "máscara",
+   "seg": "S2",
+   "inicio": 20.87,
+   "fin": 21.17
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 21.19,
+   "fin": 21.25
+  },
+  {
+   "w": "metal,",
+   "seg": "S2",
+   "inicio": 21.29,
+   "fin": 21.591
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 21.611,
+   "fin": 21.631
+  },
+  {
+   "w": "culpa",
+   "seg": "S2",
+   "inicio": 22.112,
+   "fin": 22.372
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 22.512,
+   "fin": 22.552
+  },
+  {
+   "w": "Reed.",
+   "seg": "S2",
+   "inicio": 22.653,
+   "fin": 22.833
+  },
+  {
+   "w": "Hoy",
+   "seg": "S2",
+   "inicio": 23.233,
+   "fin": 23.374
+  },
+  {
+   "w": "gobierna",
+   "seg": "S2",
+   "inicio": 23.434,
+   "fin": 23.854
+  },
+  {
+   "w": "Latveria",
+   "seg": "S2",
+   "inicio": 23.894,
+   "fin": 24.335
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 24.355,
+   "fin": 24.375
+  },
+  {
+   "w": "tiene",
+   "seg": "S2",
+   "inicio": 24.555,
+   "fin": 24.756
+  },
+  {
+   "w": "inmunidad",
+   "seg": "S2",
+   "inicio": 24.856,
+   "fin": 25.317
+  },
+  {
+   "w": "diplomática:",
+   "seg": "S2",
+   "inicio": 25.397,
+   "fin": 25.978
+  },
+  {
+   "w": "ningún",
+   "seg": "S2",
+   "inicio": 25.998,
+   "fin": 26.619
+  },
+  {
+   "w": "héroe",
+   "seg": "S2",
+   "inicio": 26.739,
+   "fin": 27.019
+  },
+  {
+   "w": "puede",
+   "seg": "S2",
+   "inicio": 27.079,
+   "fin": 27.26
+  },
+  {
+   "w": "tocarlo",
+   "seg": "S2",
+   "inicio": 27.32,
+   "fin": 27.7
+  },
+  {
+   "w": "sin",
+   "seg": "S2",
+   "inicio": 27.8,
+   "fin": 27.941
+  },
+  {
+   "w": "provocar",
+   "seg": "S2",
+   "inicio": 27.981,
+   "fin": 28.361
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 28.421,
+   "fin": 28.501
+  },
+  {
+   "w": "guerra.",
+   "seg": "S2",
+   "inicio": 28.542,
+   "fin": 28.802
+  },
+  {
+   "w": "Imagina",
+   "seg": "S2",
+   "inicio": 29.223,
+   "fin": 29.623
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 29.643,
+   "fin": 29.663
+  },
+  {
+   "w": "Tony",
+   "seg": "S2",
+   "inicio": 29.843,
+   "fin": 30.064
+  },
+  {
+   "w": "Stark",
+   "seg": "S2",
+   "inicio": 30.084,
+   "fin": 30.384
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 30.545,
+   "fin": 30.585
+  },
+  {
+   "w": "Doctor",
+   "seg": "S2",
+   "inicio": 30.665,
+   "fin": 30.985
+  },
+  {
+   "w": "Strange",
+   "seg": "S2",
+   "inicio": 31.005,
+   "fin": 31.386
+  },
+  {
+   "w": "fusionados",
+   "seg": "S2",
+   "inicio": 31.526,
+   "fin": 32.047
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 32.067,
+   "fin": 32.107
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 32.347,
+   "fin": 32.467
+  },
+  {
+   "w": "sola",
+   "seg": "S2",
+   "inicio": 32.548,
+   "fin": 32.748
+  },
+  {
+   "w": "persona,",
+   "seg": "S2",
+   "inicio": 32.828,
+   "fin": 33.189
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 33.509,
+   "fin": 33.629
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 33.669,
+   "fin": 33.749
+  },
+  {
+   "w": "país",
+   "seg": "S2",
+   "inicio": 33.83,
+   "fin": 33.99
+  },
+  {
+   "w": "entero",
+   "seg": "S2",
+   "inicio": 34.09,
+   "fin": 34.45
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 34.491,
+   "fin": 34.551
+  },
+  {
+   "w": "su",
+   "seg": "S2",
+   "inicio": 34.591,
+   "fin": 34.671
+  },
+  {
+   "w": "lado.",
+   "seg": "S2",
+   "inicio": 34.711,
+   "fin": 34.951
+  },
+  {
+   "w": "Eso",
+   "seg": "S3",
+   "inicio": 35.552,
+   "fin": 35.712
+  },
+  {
+   "w": "es",
+   "seg": "S3",
+   "inicio": 35.752,
+   "fin": 35.813
+  },
+  {
+   "w": "Doom:",
+   "seg": "S3",
+   "inicio": 35.873,
+   "fin": 36.133
+  },
+  {
+   "w": "ciencia,",
+   "seg": "S3",
+   "inicio": 36.594,
+   "fin": 37.014
+  },
+  {
+   "w": "magia",
+   "seg": "S3",
+   "inicio": 37.375,
+   "fin": 37.695
+  },
+  {
+   "w": "y",
+   "seg": "S3",
+   "inicio": 37.715,
+   "fin": 37.736
+  },
+  {
+   "w": "una",
+   "seg": "S3",
+   "inicio": 38.076,
+   "fin": 38.176
+  },
+  {
+   "w": "corona.",
+   "seg": "S3",
+   "inicio": 38.236,
+   "fin": 38.577
+  },
+  {
+   "w": "Por",
+   "seg": "S3",
+   "inicio": 39.017,
+   "fin": 39.138
+  },
+  {
+   "w": "eso",
+   "seg": "S3",
+   "inicio": 39.158,
+   "fin": 39.298
+  },
+  {
+   "w": "Doomsday",
+   "seg": "S3",
+   "inicio": 39.318,
+   "fin": 39.839
+  },
+  {
+   "w": "no",
+   "seg": "S3",
+   "inicio": 39.959,
+   "fin": 40.039
+  },
+  {
+   "w": "es",
+   "seg": "S3",
+   "inicio": 40.079,
+   "fin": 40.179
+  },
+  {
+   "w": "una",
+   "seg": "S3",
+   "inicio": 40.219,
+   "fin": 40.319
+  },
+  {
+   "w": "pelea",
+   "seg": "S3",
+   "inicio": 40.38,
+   "fin": 40.68
+  },
+  {
+   "w": "contra",
+   "seg": "S3",
+   "inicio": 40.76,
+   "fin": 40.96
+  },
+  {
+   "w": "un",
+   "seg": "S3",
+   "inicio": 41.041,
+   "fin": 41.101
+  },
+  {
+   "w": "villano",
+   "seg": "S3",
+   "inicio": 41.141,
+   "fin": 41.461
+  },
+  {
+   "w": "cualquiera.",
+   "seg": "S3",
+   "inicio": 41.521,
+   "fin": 41.942
+  },
+  {
+   "w": "Siguiente",
+   "seg": "S4",
+   "inicio": 42.282,
+   "fin": 42.683
+  },
+  {
+   "w": "en",
+   "seg": "S4",
+   "inicio": 42.723,
+   "fin": 42.803
+  },
+  {
+   "w": "la",
+   "seg": "S4",
+   "inicio": 42.843,
+   "fin": 42.883
+  },
+  {
+   "w": "serie:",
+   "seg": "S4",
+   "inicio": 42.943,
+   "fin": 43.244
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 43.604,
+   "fin": 43.685
+  },
+  {
+   "w": "multiverso,",
+   "seg": "S4",
+   "inicio": 43.725,
+   "fin": 44.366
+  },
+  {
+   "w": "explicado",
+   "seg": "S4",
+   "inicio": 44.546,
+   "fin": 45.087
+  },
+  {
+   "w": "sin",
+   "seg": "S4",
+   "inicio": 45.107,
+   "fin": 45.287
+  },
+  {
+   "w": "enredos.",
+   "seg": "S4",
+   "inicio": 45.327,
+   "fin": 45.728
+  }
+ ]
+}

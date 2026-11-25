@@ -1,0 +1,47 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de transición temporal que marca un salto cronológico de tres semanas en la trama de Secret Wars.",
+ "personajes": [],
+ "eventos_clave": [
+  "Salto temporal de tres semanas"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página minimalista de fondo blanco con el emblema geométrico de la máscara del Dios Emperador Doom en gris y la frase impresas 'THREE WEEKS LATER'.",
+   "prompt_en": "Minimalist white transition page with a light gray stylized geometric icon of Doctor Doom's mask inside a square frame, below which reads 'THREE WEEKS LATER' in light gray sans-serif text, clean graphic layout.",
+   "personajes": [],
+   "valor_video": 1,
+   "etiquetas": [
+    "transicion-temporal",
+    "tres-semanas-despues",
+    "emblema-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THREE WEEKS LATER",
+     "texto_es": "TRES SEMANAS DESPUÉS"
+    }
+   ],
+   "recorte": "vinetas/page-152-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 5,
+ "pagina": 152,
+ "archivo": "paginas/page-152.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3043,
+ "_seg": 8.0
+}

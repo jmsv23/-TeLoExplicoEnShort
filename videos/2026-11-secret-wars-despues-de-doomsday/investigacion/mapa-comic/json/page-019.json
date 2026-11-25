@@ -1,0 +1,199 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante la incursión final entre universos, los héroes libran una batalla desesperada. She-Hulk y Hulk observan la gigantesca estructura aún en pie tras los bombardeos. Mientras tanto, Nick Fury y Hawkeye intentan comunicarse con la Ciudad tras perder el contacto con las fuerzas de incursión, recibiendo la trágica recomendación de activar el arma de destrucción planetaria.",
+ "personajes": [
+  "Hulk",
+  "She-Hulk",
+  "Colossus",
+  "Nightcrawler",
+  "Hawkeye",
+  "Nick Fury",
+  "[soldado]"
+ ],
+ "eventos_clave": [
+  "Batalla durante la incursión final entre universos",
+  "Pérdida de comunicación con la fuerza de incursión",
+  "Nick Fury recibe la orden de desplegar el arma del juicio final"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    378,
+    1000
+   ],
+   "descripcion": "Hulk escala entre los escombros de una estructura mientras misiles y helicópteros impactan contra una gigantesca torre cilíndrica envuelta en explosiones y fuego.",
+   "prompt_en": "Giant green Hulk climbing through smoking rubble in a warzone, massive futuristic high-rise building being struck by missiles and explosions in the background, comic art style by Esad Ribic.",
+   "personajes": [
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "batalla",
+    "destruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "ninguno",
+     "texto": "BOOM",
+     "texto_es": "¡BOOM!"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "ninguno",
+     "texto": "WHZZ",
+     "texto_es": "¡ZUUUM!"
+    }
+   ],
+   "lugar": "Zona de incursión",
+   "tono": "caótico",
+   "recorte": "vinetas/page-019-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    317,
+    0,
+    721,
+    1000
+   ],
+   "descripcion": "She-Hulk sonríe sosteniendo un trozo de escombro metálico. Al fondo, Nightcrawler se teletransporta sobre la espalda de Colossus. En primer plano, Hulk camina victorioso entre el humo.",
+   "prompt_en": "She-Hulk standing among wreckage alongside a muscular Hulk surrounded by smoke and fire, Nightcrawler teleporting behind them with Colossus, comic book style.",
+   "personajes": [
+    "She-Hulk",
+    "Nightcrawler",
+    "Colossus",
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "heroes",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "She-Hulk",
+     "texto": "I say, 'Let's go for a ride'...and whoa, baby--it's a roller coaster. I can't believe that thing is still standing.",
+     "texto_es": "Dije: 'Vamos a dar un paseo'... y vaya, viejo, es una montaña rusa. No puedo creer que esa cosa siga en pie."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "ninguno",
+     "texto": "POP",
+     "texto_es": "¡POP!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "Yes. It's still standing...",
+     "texto_es": "Sí. Sigue en pie..."
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "tenso",
+   "recorte": "vinetas/page-019-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    721,
+    0,
+    1000,
+    694
+   ],
+   "descripcion": "Hawkeye trabaja apresuradamente en unos circuitos entre los escombros mientras Nick Fury agachado habla por su comunicador.",
+   "prompt_en": "Hawkeye working on electronic equipment in wreckage next to Nick Fury speaking into a communicator, surrounded by flames.",
+   "personajes": [
+    "Hawkeye",
+    "Nick Fury",
+    "Hulk"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "comunicaciones",
+    "estragos-guerra"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hulk",
+     "texto": "\"FOR NOW.\"",
+     "texto_es": "\"POR AHORA.\""
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nick Fury",
+     "texto": "We've lost communication with the Incursion force.",
+     "texto_es": "Hemos perdido la comunicación con la fuerza de Incursión."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nick Fury",
+     "texto": "Patch me through to the City, Hawkeye. Any time you can shave off of your very best would be greatly appr--",
+     "texto_es": "Conéctame con la Ciudad, Hawkeye. Cualquier segundo que puedas ahorrarte se agradecería enor--"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hawkeye",
+     "texto": "Got 'em.",
+     "texto_es": "Los tengo."
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "urgente",
+   "recorte": "vinetas/page-019-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    721,
+    694,
+    1000,
+    1000
+   ],
+   "descripcion": "Primer plano de un holograma en una pantalla táctica mostrando a un oficial con casco respondiendo al informe de Fury.",
+   "prompt_en": "Hologram display of a futuristic general officer wearing a helmet communicating through a digital interface screen.",
+   "personajes": [
+    "Nick Fury",
+    "[soldado]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "holograma",
+    "ordenes-finales"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Nick Fury",
+     "texto": "General. How goes the war?",
+     "texto_es": "General. ¿Cómo va la guerra?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[soldado]",
+     "texto": "Oh, best war ever... We've failed to secure the Incursion site on the other Earth. So you're just gonna have to launch your doomsday worldkiller weapon and hope for the best. As much as I hate to admit it...",
+     "texto_es": "Oh, la mejor guerra de la historia... Hemos fallado en asegurar el punto de Incursión en la otra Tierra. Así que van a tener que lanzar su arma matamundos del juicio final y esperar lo mejor. Por mucho que me me odie admitirlo..."
+    }
+   ],
+   "lugar": "Canal de comunicación militar",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-019-v4.jpg"
+  }
+ ],
+ "lugar": "Tierra en proceso de incursión",
+ "numero_comic": 1,
+ "pagina": 19,
+ "archivo": "paginas/page-019.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5210,
+ "_seg": 19.0
+}

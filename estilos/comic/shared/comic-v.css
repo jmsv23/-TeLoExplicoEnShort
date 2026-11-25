@@ -1,0 +1,21 @@
+/* Complemento VERTICAL del kit cómic para piezas generadas con _lf/lib_h (Shorts de los long-form).
+   Trae lo que solo existía en comic-h.css: sello de estado, clips de video en viñeta y barra (oculta). */
+.com .prog { display: none; }
+.com .sello {
+  position: absolute; padding: 10px 26px; border: 8px solid currentColor; border-radius: 10px;
+  font: 400 58px/1 var(--f-ttl); text-transform: uppercase; letter-spacing: .03em; white-space: nowrap;
+  background: rgba(255, 243, 214, .92); box-shadow: 8px 8px 0 var(--tinta); z-index: 20;
+}
+.com .sello--heroe { color: var(--heroe); }
+.com .sello--rojo { color: var(--rojo); }
+.com .sello--doom { color: var(--doom-osc); }
+.com .sello--multi { color: var(--multi); }
+.com .sello--ceniza { color: var(--ceniza); }
+.com .sello--tinta { color: var(--tinta); }
+.com .vclip { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.com .vtrama { position: absolute; inset: 0; pointer-events: none; opacity: .35; }
+.com .vtag {
+  position: absolute; left: 0; top: 0; padding: 6px 16px; background: var(--rojo); color: var(--papel);
+  font: 400 36px/1 var(--f-ttl); border-right: 6px solid var(--tinta); border-bottom: 6px solid var(--tinta); z-index: 3;
+}
+.com .panel img { width: 100%; height: 100%; object-fit: cover; display: block; }

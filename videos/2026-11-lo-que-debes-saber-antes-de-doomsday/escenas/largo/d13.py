@@ -1,0 +1,45 @@
+"""DATO 13 · Wanda vuelve con Doom (VisionQuest)."""
+from lib_h import pho, ph, svgimg, L
+
+
+def build(S):
+    s = S.scene(S.w("Dato trece"), bg="rojo", enter="ink", pat="pat-benday-fuerte")
+    s.text("d", "DATO 13", "ttl", "amarillo", 480, 200, s.start + 0.05, size=150, rot=-5, misreg=True)
+    t = S.w("Bruja Escarlata")
+    s.img("sw", "a-scarlet.jpg", 1060, 100, 720, 800, t, frm="R", pos="50% 20%", label="LA BRUJA ESCARLATA")
+    t = S.w("Doom")
+    s.com("dm", "doomMask", 480, 640, 300, 350, t, how="drop")
+    t = S.w("VisionQuest")
+    s.img("vq", "a-visionquest.jpg", 100, 380, 300, 420, t, frm="L", pos="50% 30%")
+    s.sello("sp", "¡SPOILER!", 520, 960, t + 0.3, color="tinta", rot=-6)
+
+    s = S.scene(S.w("Recuerda"), bg="multi", enter="halftone", color="multi")
+    t = S.w("Wundagore")
+    s.obj("mt", L.svgbox("0 0 900 500", '<polygon points="40,480 300,90 420,220 560,40 860,480" fill="#4B1580" stroke="#0B0B14" stroke-width="12" stroke-linejoin="round"/><polygon points="300,90 340,150 280,170 250,160" fill="#FFF3D6" stroke="#0B0B14" stroke-width="6"/><polygon points="560,40 610,120 540,130 510,110" fill="#FFF3D6" stroke="#0B0B14" stroke-width="6"/>', 1000, 556), 960, 620, t)
+    s.text("wun", "MONTE WUNDAGORE", "kw", "amarillo", 960, 180, t + 0.2, size=110, rot=-3)
+    t = S.w("Darkhold")
+    s.text("crack", "¡KRRRAK!", "ono", "rojo", 960, 560, t, rot=-6, hold=0.9)
+    s.sfx("rumble", t, -4)
+    t = S.w("muerta")
+    s.sello("rip", "¿MUERTA?", 1500, 880, t, color="tinta", rot=-8)
+    t = S.w("Mira")
+    s.text("mira", "¡MIRA!", "ono", "amarillo", 480, 880, t, rot=-6, hold=0.6)
+
+    c = S.clip(0)
+    s = S.scene(c["start"] - 0.35, bg="tinta", enter="cut")
+    s.video("pc", c["src"], c["in"], c["start"], c["end"] - c["start"], 100, 150, 1720, 710, tag="POSCRÉDITOS · VISIONQUEST", frm="B", slam=False, pos="58% 50%")
+
+    s = S.scene(S.w("Eso no suena"), bg="doom", enter="ink", pat="pat-benday-fuerte")
+    s.code("")
+    s.flash(s.start)
+    s.sfx("bam", s.start, -2)
+    t = S.w("reclutamiento")
+    s.text("rec", "RECLUTAMIENTO", "kw", "rojo", 960, 180, t, size=150, rot=-4, misreg=True, zoom=True)
+    t = S.w("revivió")
+    s.img("wf", "lf/tr-wanda-llora.jpg", 120, 340, 900, 520, t, frm="L", pos="35% 40%", label="WANDA · TRÁILER")
+    t = S.w("Elizabeth Olsen")
+    s.img("ol", "a-olsen-crop.jpg", 1180, 300, 560, 640, t, frm="R", pos="50% 25%", label="ELIZABETH OLSEN")
+    t = S.w("confirmada")
+    s.sello("conf", "CONFIRMADA", 1460, 880, t, color="heroe", rot=-8)
+    t = S.w("llorando")
+    s.pulse("wf", t, 1.06)

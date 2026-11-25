@@ -1,0 +1,59 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración completa de Dios Emperador Doom en su trono en Battleworld, acompañado por el Sheriff Strange y su familia: Sue Storm, Valeria Richards y Franklin Richards en la distancia.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Franklin Richards",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "Retrato de la corte y familia de Dios Emperador Doom en Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Dios Emperador Doom sentado en su trono vegetal/arbóreo en actitud meditativa con las manos juntas. A la izquierda destaca el Sheriff Strange. A la derecha, Sue Storm permanece de pie y Valeria Richards aparece sentada en la base. Al fondo, a través de una grieta mística, Franklin Richards observa sentado en el espacio junto a Galactus.",
+   "prompt_en": "Painted comic art cover showing God Emperor Doom sitting on an organic tree throne in white armor, flanked by Sheriff Doctor Strange on the left, white-suited Sue Storm and Valeria Richards on the right, with a purple cosmic portal in the background featuring Franklin Richards.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Franklin Richards",
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld",
+    "familia-doom",
+    "sheriff-strange",
+    "sue-storm",
+    "valeria-richards"
+   ],
+   "textos": [],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "majestuoso y solemne",
+   "recorte": "vinetas/page-269-v1.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": null,
+ "pagina": 269,
+ "archivo": "paginas/page-269.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3348,
+ "_seg": 12.3
+}

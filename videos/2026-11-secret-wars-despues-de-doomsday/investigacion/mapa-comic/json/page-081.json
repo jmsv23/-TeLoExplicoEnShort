@@ -1,0 +1,154 @@
+{
+ "tipo": "historia",
+ "resumen": "Un Thor herido e impalado por una lanza utiliza el poder de Mjolnir para invocar rayos y cubrir la retirada de su hermano, alentándolo a volar lejos del combate.",
+ "personajes": [
+  "Thor"
+ ],
+ "eventos_clave": [
+  "Sacrificio de Thor",
+  "Ataque con el rayo de Mjolnir"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    33,
+    303,
+    333
+   ],
+   "descripcion": "Primer plano del rostro angustiado de Thor gritando a su compañero que huya.",
+   "prompt_en": "Close up of a battle-worn Norse god with helmet and beard shouting desperately",
+   "personajes": [
+    "Thor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor",
+    "grito",
+    "batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor",
+     "texto": "FLY, BROTHER! FLY!",
+     "texto_es": "¡VUELA, HERMANO! ¡VUELA!"
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-081-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    342,
+    303,
+    969
+   ],
+   "descripcion": "Thor se arrodilla en el suelo e invoca un poderoso rayo azul a través de Mjolnir.",
+   "prompt_en": "Armored Thor kneeling and raising Mjolnir with lightning crackling around him",
+   "personajes": [
+    "Thor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor",
+    "mjolnir",
+    "rayo"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "KRAKKD",
+     "texto_es": "KRAKKD"
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "epico",
+   "recorte": "vinetas/page-081-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    314,
+    35,
+    574,
+    969
+   ],
+   "descripcion": "Thor sufre un brutal impacto de combate mientras grita de agonia sosteniendo su martillo encendido.",
+   "prompt_en": "Thor taking a heavy hit in combat with energy sparks around him, yelling in pain",
+   "personajes": [
+    "Thor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor",
+    "combate",
+    "agonía"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "STTHHH!",
+     "texto_es": "STTHHH!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor",
+     "texto": "ARRGGHH!",
+     "texto_es": "¡ARRGGHH!"
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-081-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    584,
+    35,
+    980,
+    969
+   ],
+   "descripcion": "Una enorme lanza atraviesa brutalmente el cuerpo de Thor de espaldas durante el clímax de la pelea.",
+   "prompt_en": "Thor being pierced through the torso by a long spear from behind in dramatic comic action style",
+   "personajes": [
+    "Thor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor",
+    "lanza",
+    "empalado",
+    "muerte-thor"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "ZZZZNNNN",
+     "texto_es": "ZZZZNNNN"
+    }
+   ],
+   "lugar": "Campo de batalla",
+   "tono": "trágico",
+   "recorte": "vinetas/page-081-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": null,
+ "pagina": 81,
+ "archivo": "paginas/page-081.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5114,
+ "_seg": 22.2
+}

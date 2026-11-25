@@ -1,0 +1,190 @@
+{
+ "tipo": "historia",
+ "resumen": "En la arena de Doomstadt, Lord Braddock (Capitán Britania) se enfrenta a Mister Siniestro en un juicio por combate. Braddock asesta un golpe devastador decapitando a Siniestro, creyendo haber ganado la pelea. Mientras la multitud reacciona, el Maestro advierte que vencer a Siniestro no es tan sencillo. Instantes después, el cuerpo sin cabeza de Siniestro se agacha de manera escalofriante para recoger su propia cabeza cercenada del suelo.",
+ "personajes": [
+  "Capitán Britania",
+  "Mister Siniestro",
+  "Maestro",
+  "Madelyne Pryor",
+  "[espectador de la Casa Braddock]",
+  "[espectadora rubia]"
+ ],
+ "eventos_clave": [
+  "decapitacion-de-siniestro",
+  "combate-por-juicio",
+  "resurreccion-de-siniestro"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    381,
+    1000
+   ],
+   "descripcion": "Lord Braddock propina un potente golpe con su bastón místico cargado de energía a Mister Siniestro, decapitándolo limpiamente con un destello azul de fuerza.",
+   "prompt_en": "A superhero in a blue and red suit strikes a dark armored villain with a glowing light staff, decapitating him with a wide glowing arc of energy, comic book action scene.",
+   "personajes": [
+    "Capitán Britania",
+    "Mister Siniestro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "decapitacion",
+    "combate",
+    "duelo",
+    "accion"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "WHAAMM",
+     "texto_es": "¡WHAAMM!"
+    }
+   ],
+   "lugar": "Arena de Doomstadt",
+   "tono": "violento, impactante",
+   "recorte": "vinetas/page-063-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    396,
+    35,
+    715,
+    650
+   ],
+   "descripcion": "Vista panorámica del centro de la arena donde Lord Braddock alza victorioso su bastón brillante mientras el cuerpo y la cabeza cercenada de Siniestro yacen sobre el suelo delante de la corte.",
+   "prompt_en": "Wide shot of a superhero holding a glowing staff high above his head in victory inside an arena, with a decapitated body lying on the floor.",
+   "personajes": [
+    "Capitán Britania",
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "victoria",
+    "arena",
+    "duelo"
+   ],
+   "textos": [],
+   "lugar": "Arena de Doomstadt",
+   "tono": "triunfal",
+   "recorte": "vinetas/page-063-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    396,
+    653,
+    715,
+    970
+   ],
+   "descripcion": "Plano de reacción de Madelyne Pryor sorprendida conversando con Maestro, un anciano Hulk verde con barba.",
+   "prompt_en": "Close up reaction shot of a dark-haired woman expressing excitement talking to an old green Hulk with a long white beard in a comic book frame.",
+   "personajes": [
+    "Madelyne Pryor",
+    "Maestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reaccion",
+    "espectadores",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Madelyne Pryor",
+     "texto": "Look, Maestro! Lord Braddock hit him so hard, the Baron came asunder!",
+     "texto_es": "¡Mira, Maestro! ¡Lord Braddock lo golpeó tan fuerte que el barón se hizo pedazos!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "Hmmmm. If only defeating Sinister was that easy.",
+     "texto_es": "Hmmmm. Si tan solo derrotar a Siniestro fuera así de fácil."
+    }
+   ],
+   "lugar": "Arena de Doomstadt",
+   "tono": "intriga, tension",
+   "recorte": "vinetas/page-063-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    726,
+    35,
+    975,
+    345
+   ],
+   "descripcion": "Un familiar de la casa Braddock y una mujer rubia miran espantados al percatarse del peligro y le gritan a Brian.",
+   "prompt_en": "Close-up of a shocked bearded warrior and a blonde woman yelling in panic, comic panel.",
+   "personajes": [
+    "[espectador de la Casa Braddock]",
+    "[espectadora rubia]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "advertencia",
+    "panico",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[espectador de la Casa Braddock]",
+     "texto": "Brian! Look out!",
+     "texto_es": "¡Brian! ¡Cuidado!"
+    }
+   ],
+   "lugar": "Arena de Doomstadt",
+   "tono": "alarmante",
+   "recorte": "vinetas/page-063-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    726,
+    355,
+    975,
+    970
+   ],
+   "descripcion": "El cuerpo acéfalo de Mister Siniestro se agacha a las espaldas de Braddock para levantar su propia cabeza del suelo, la cual comienza a hablar.",
+   "prompt_en": "A creepy headless figure in dark armor reaches down to pick up its own severed head from the ground behind an unsuspecting superhero back view, eerie horror comic style.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitán Britania"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "terror",
+    "resurreccion",
+    "giro-trama",
+    "siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Consider... my... thirst...",
+     "texto_es": "Considera... mi... sed..."
+    }
+   ],
+   "lugar": "Arena de Doomstadt",
+   "tono": "terrorífico, perturbador",
+   "recorte": "vinetas/page-063-v5.jpg"
+  }
+ ],
+ "lugar": "Doomstadt, Battleworld",
+ "numero_comic": 2,
+ "pagina": 63,
+ "archivo": "paginas/page-063.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5560,
+ "_seg": 19.5
+}

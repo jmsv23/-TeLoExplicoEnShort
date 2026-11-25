@@ -1,0 +1,197 @@
+{
+ "tipo": "historia",
+ "resumen": "Flashback donde se muestra cómo Doctor Doom, Doctor Strange y Hombre Molécula enfrentaron a los Todopoderosos (Beyonders). Hombre Molécula utilizó un ejército de versiones alternativas de sí mismo como una bomba multiversal para atraer a los Beyonders y desafiarlos directamente.",
+ "personajes": [
+  "Doctor Doom",
+  "Doctor Strange",
+  "Hombre Molécula (Owen Reece)",
+  "Beyonders"
+ ],
+ "eventos_clave": [
+  "Revelación de la bomba de Hombres Molécula",
+  "Enfrentamiento directo contra los Todopoderosos (Beyonders)",
+  "Desafío icónico de Doctor Doom ('I. DOOM.')"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    35,
+    320,
+    375
+   ],
+   "descripcion": "Doctor Doom y Doctor Strange en un espacio místico observando un destello de energía glowing mientras Owen Reece habla en retrospectiva.",
+   "prompt_en": "Comic book panel showing Doctor Doom and Doctor Strange looking down at a glowing cloud of cosmic energy in a mysterious temple room.",
+   "personajes": [
+    "Doctor Doom",
+    "Doctor Strange"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "origen-del-plan",
+    "hombre-molecula",
+    "flashback"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "While the Swans were busy killing me's... you and I were busy building something else.",
+     "texto_es": "Mientras las Cisnes estaban ocupadas matando a mis otros yo... tú y yo estábamos ocupados construyendo algo más."
+    }
+   ],
+   "lugar": "Espacio fuera del tiempo",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-142-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    381,
+    320,
+    965
+   ],
+   "descripcion": "Un ejército infinito de clones idénticos del Hombre Molécula alineados en una masa resplandeciente rosa y blanca.",
+   "prompt_en": "Comic book panel showing hundreds of identical duplicate clones of Molecule Man standing side by side in a glowing pink light, ethereal atmospheric perspective.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "multiverso",
+    "bomba-molecula",
+    "clones"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "A better bomb.",
+     "texto_es": "Una bomba mejor."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "A better me.",
+     "texto_es": "Un mejor yo."
+    }
+   ],
+   "lugar": "Espacio fuera del tiempo",
+   "tono": "epico",
+   "recorte": "vinetas/page-142-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    321,
+    17,
+    532,
+    983
+   ],
+   "descripcion": "Tres imponentes figuras cósmicas (los Beyonders) sobre una plataforma tecnológica flotante rodeada de una nebulosa brillante en el cosmos.",
+   "prompt_en": "Wide comic panel depicting three colossal divine Beyonder silhouettes standing on a futuristic flying platform amidst a glowing starry nebula background.",
+   "personajes": [
+    "Beyonders"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "beyonders",
+    "todopoderosos",
+    "amenaza-cosmica"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Beyonders",
+     "texto": "We are Beyond. Dreamers. Destroyers. All of reality our whim.",
+     "texto_es": "Somos el Más Allá. Soñadores. Destructores. Toda la realidad a nuestro antojo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Beyonders",
+     "texto": "Who dares stand before us?",
+     "texto_es": "¿Quién se atreve a ponerse de pie ante nosotros?"
+    }
+   ],
+   "lugar": "El Más Allá / Cosmos",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-142-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    549,
+    32,
+    780,
+    295
+   ],
+   "descripcion": "Primerísimo primer plano del ojo de Doctor Doom mirando intensamente a través de la abertura de su máscara metálica.",
+   "prompt_en": "Extreme close-up panel of Doctor Doom's eye framed by his iconic grey metal armor mask, intense determined gaze.",
+   "personajes": [
+    "Doctor Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "primer-plano",
+    "desafio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "I. Doom.",
+     "texto_es": "Yo. Doom."
+    }
+   ],
+   "lugar": "El Más Allá",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-142-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    532,
+    296,
+    995,
+    983
+   ],
+   "descripcion": "Doctor Doom, Doctor Strange y Hombre Molécula sobre su nave/plataforma voladora lanzándose hacia la inmensa explosión divina de los Beyonders.",
+   "prompt_en": "Epic comic panel of Doctor Doom, Doctor Strange, and Molecule Man riding a futuristic floating vessel into a blinding white explosion of cosmic energy in deep space.",
+   "personajes": [
+    "Doctor Doom",
+    "Doctor Strange",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "batalla-final",
+    "beyonders",
+    "explosion-cosmica"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "We couldn't stop the Beyonders from destroying everything, but we could draw them out...",
+     "texto_es": "No pudimos evitar que los Todopoderosos lo destruyeran todo, pero pudimos hacer que se mostraran..."
+    }
+   ],
+   "lugar": "El Más Allá",
+   "tono": "climatico",
+   "recorte": "vinetas/page-142-v5.jpg"
+  }
+ ],
+ "lugar": "El Más Allá / Espacio fuera del tiempo",
+ "numero_comic": null,
+ "pagina": 142,
+ "archivo": "paginas/page-142.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5517,
+ "_seg": 16.8
+}

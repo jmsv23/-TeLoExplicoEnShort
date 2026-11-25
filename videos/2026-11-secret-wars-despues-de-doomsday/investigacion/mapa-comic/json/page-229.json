@@ -1,0 +1,255 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hacedor de-evoluciona a Mister Fantástico convirtiéndolo en un primate primitivo mientras alardea sobre la manipulación temporal. Sin embargo, Reed Richards se recupera de inmediato y confronta al Hacedor, quien es sorpresivamente transformado y cortado en rodajas por el Hombre Molécula.",
+ "personajes": [
+  "El Hacedor",
+  "Mister Fantástico",
+  "Hombre Molécula"
+ ],
+ "eventos_clave": [
+  "traicion-del-hacedor",
+  "derrota-del-hacedor",
+  "intervencion-del-hombre-molecula"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    169,
+    1000
+   ],
+   "descripcion": "El Hacedor habla triunfante frente a Mister Fantástico, quien muestra signos de agotamiento o transformación física.",
+   "prompt_en": "Comic book panel showing futuristic villain with dome helmet standing over a bearded man in a warm glowing atmosphere.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "But I did it. I overcame, like we always do.",
+     "texto_es": "Pero lo logré. Lo superé, como siempre hacemos."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "arrogante",
+   "recorte": "vinetas/page-229-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    169,
+    0,
+    337,
+    1000
+   ],
+   "descripcion": "El Hacedor sostiene una conversación pseudocientífica mientras Mister Fantástico se deforma violentamente e involuciona.",
+   "prompt_en": "Futuristic character speaking while another man physically deforms and mutates into a primitive ape-like form, sketch style comic panel.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "involucion",
+    "viaje-en-el-tiempo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "The interesting thing about all this is that it's not like conventional time travel. It's not point-to-point, more like a closed temporal environment-- so theoretically, one should only be able to move forward in time. To evolve. However, you and I know differently, don't we? One actually can holistically visit the past.",
+     "texto_es": "Lo interesante de todo esto es que no es como el viaje en el tiempo convencional. No es de punto a punto, sino más bien un entorno temporal cerrado, así que teóricamente uno solo debería poder avanzar en el tiempo. Evolucionar. Sin embargo, tú y yo sabemos que no es así, ¿verdad? Uno realmente puede visitar el pasado de manera holística."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-229-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    337,
+    0,
+    492,
+    1000
+   ],
+   "descripcion": "El brazo deformado y peludo de Mister Fantástico intenta alcanzar al Hacedor, quien lo esquiva imperturbable.",
+   "prompt_en": "Comic panel close-up of a hairy mutated arm reaching towards a smooth futuristic character helmet.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mutacion",
+    "el-hacedor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "It's a place of regret, and, my goodness, does it hurt.",
+     "texto_es": "Es un lugar de arrepentimiento y, válgame Dios, cómo duele."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "cruel",
+   "recorte": "vinetas/page-229-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    492,
+    0,
+    652,
+    1000
+   ],
+   "descripcion": "Mister Fantástico se encuentra totalmente convertido en un simio primitivo mientras El Hacedor lo contempla con desprecio.",
+   "prompt_en": "Futuristic villain looking down at a caveman-like ape man roaring on the floor.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "traicion",
+    "involucion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "I suppose I could apologize for this betrayal. But I saw you almost start crying up there with that woman who isn't your wife, and I just couldn't tolerate that kind of weakness.",
+     "texto_es": "Supongo que podría disculparme por esta traición. Pero te vi a punto de empezar a llorar allá arriba con esa mujer que no es tu esposa, y simplemente no pude tolerar ese tipo de debilidad."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "despectivo",
+   "recorte": "vinetas/page-229-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    652,
+    33,
+    980,
+    349
+   ],
+   "descripcion": "Plano medio del casco brillante de El Hacedor mientras continúa cuestionando a Mister Fantástico.",
+   "prompt_en": "Close-up of a high tech metallic helmet with a single glowing eye visor, warm yellow lighting.",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "monologo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "What's the endgame here? Nostalgia for something that was never yours anyway? Really, Reed... ...who's interested in a weepy god?",
+     "texto_es": "¿Cuál es el objetivo final aquí? ¿Nostalgia por algo que nunca fue tuyo de todos modos? En serio, Reed... ¿a quién le interesa un dios llorón?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "burlón",
+   "recorte": "vinetas/page-229-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    652,
+    357,
+    980,
+    649
+   ],
+   "descripcion": "Mister Fantástico aparece sano y salvo detrás del Hacedor, tomándolo por sorpresa.",
+   "prompt_en": "Comic panel close up, a bearded hero appearing behind a surprised futuristic villain.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "ME.",
+     "texto_es": "A MÍ."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Hmmm?",
+     "texto_es": "¿Mmm?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "sorpresivo",
+   "recorte": "vinetas/page-229-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    652,
+    656,
+    980,
+    963
+   ],
+   "descripcion": "El Hacedor es reducido y rebanado en discos de pepperoni/madera por el Hombre Molécula (Owen Reece), quien está sentado plácidamente comiendo pizza.",
+   "prompt_en": "A comic book character sliced into multiple wooden disc slices falling apart while a glowing man sits cross-legged eating pizza in the background.",
+   "personajes": [
+    "El Hacedor",
+    "Hombre Molécula"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-del-hacedor",
+    "hombre-molecula",
+    "pizza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "HURK!",
+     "texto_es": "¡HURK!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula",
+     "texto": "DID YOU KNOW THAT ONE ACTUALLY CAN HOLISTICALLY ENJOY PIZZA? AND IT COMES IN SLICES!",
+     "texto_es": "¿SABÍAS QUE UNO REALMENTE PUEDE DISFRUTAR LA PIZZA DE MANERA HOLÍSTICA? ¡Y VIENE EN REBANADAS!"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "surrealista",
+   "recorte": "vinetas/page-229-v7.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula (Battleworld)",
+ "numero_comic": 8,
+ "pagina": 229,
+ "archivo": "paginas/page-229.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6585,
+ "_seg": 25.2
+}

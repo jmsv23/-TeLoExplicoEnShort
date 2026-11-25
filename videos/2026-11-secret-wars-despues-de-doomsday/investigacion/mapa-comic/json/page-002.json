@@ -1,0 +1,38 @@
+{
+ "tipo": "extra",
+ "resumen": "Página minimalista en blanco con el emblema o símbolo estilizado de Doctor Doom en la parte superior central.",
+ "personajes": [],
+ "eventos_clave": [],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página casi vacía en blanco con un pequeño logotipo gris centrado cerca de la parte superior que muestra la máscara estilizada de Doctor Doom enmarcada en una figura geométrica cuadrada con diamantes.",
+   "prompt_en": "Minimalist white comic book page with a small gray graphic icon of Doctor Doom's mask in a square geometric frame at the top center.",
+   "personajes": [],
+   "valor_video": 1,
+   "etiquetas": [
+    "doctor-doom",
+    "logo",
+    "simbolo"
+   ],
+   "textos": [],
+   "tono": "neutral",
+   "recorte": "vinetas/page-002-v1.jpg"
+  }
+ ],
+ "numero_comic": null,
+ "pagina": 2,
+ "archivo": "paginas/page-002.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2783,
+ "_seg": 10.1
+}

@@ -1,0 +1,76 @@
+{
+ "tipo": "historia",
+ "resumen": "En medio del cataclismo de la incursión final entre la Tierra-616 y la Tierra-1610, una legión de superhéroes se lanza al ataque aéreo contra una masiva flota de helicarriers y naves de combate invasoras bajo un cielo rojo apocalíptico.",
+ "personajes": [
+  "Iron Man",
+  "Storm",
+  "Thor (Jane Foster)",
+  "Hulk",
+  "la Cosa (Ben Grimm)",
+  "Sue Storm / Mujer Invisible",
+  "Spider-Man (Peter Parker)",
+  "Doctor Strange",
+  "Capitana Marvel (Carol Danvers)",
+  "Capitán América",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Incursión final entre la Tierra-616 y la Tierra-1610",
+  "Carga masiva de los superhéroes contra la flota enemiga"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica de doble página repleta de héroes volando y saltando en formación defensiva hacia una gran flota de naves aéreas y helicarriers bajo un resplandeciente cielo rojo durante la destrucción de los mundos.",
+   "prompt_en": "Epic comic book double splash page of superhero legion charging through the sky against a giant fleet of futuristic helicarriers and jet fighters under a glowing reddish apocalyptic sky, high detail, dramatic perspective.",
+   "personajes": [
+    "Iron Man",
+    "Storm",
+    "Thor (Jane Foster)",
+    "Hulk",
+    "la Cosa (Ben Grimm)",
+    "Sue Storm / Mujer Invisible",
+    "Spider-Man (Peter Parker)",
+    "Doctor Strange",
+    "Capitana Marvel (Carol Danvers)",
+    "Capitán América",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ultima-incursion",
+    "tierra-616",
+    "tierra-1610",
+    "helicarrier",
+    "batalla-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "\"I THINK WE'RE GOING TO HAVE TO FIGHT OUR WAY OUT OF THIS.\"",
+     "texto_es": "\"Creo que vamos a tener que abrirnos paso luchando para salir de esta.\""
+    }
+   ],
+   "lugar": "Cielo sobre la Tierra durante la Incursión Final",
+   "tono": "épico",
+   "recorte": "vinetas/page-265-v1.jpg"
+  }
+ ],
+ "lugar": "Cielo sobre la Tierra",
+ "numero_comic": 1,
+ "pagina": 265,
+ "archivo": "paginas/page-265.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3498,
+ "_seg": 10.2
+}

@@ -1,0 +1,262 @@
+{
+ "tipo": "historia",
+ "resumen": "Nathaniel Richards se comunica mediante holograma con Valeria Richards desde el laboratorio para informarle sobre la radiación ambiental del planeta y la fuente de energía. Bentley-23 le muestra varios drones recuperados por la Máquina Nocturna (Night Machine). Nathaniel deduce un patrón geométrico de búsqueda, dejando a Valeria intrigada analizando el artefacto.",
+ "personajes": [
+  "Valeria Richards",
+  "Nathaniel Richards",
+  "Bentley-23"
+ ],
+ "eventos_clave": [
+  "Nathaniel Richards transmite a Valeria descubrimientos sobre la fuente de energía del planeta",
+  "Bentley-23 confirma el hallazgo de más drones por parte de la Máquina Nocturna",
+  "Nathaniel advierte un patrón de búsqueda geométrico y Valeria cuestiona el origen de esa tecnología"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    34,
+    381,
+    345
+   ],
+   "descripcion": "Nathaniel Richards sostiene un emisor holográfico mientras le informa a Valeria sobre un avance en sus experimentos.",
+   "prompt_en": "A blonde man in a dark suit holding a glowing blue holographic device, close-up shot, comic art style.",
+   "personajes": [
+    "Nathaniel Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "holograma",
+    "nathaniel-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "Well, speaking of...",
+     "texto_es": "Bueno, hablando de..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "We've had a breakthrough in our little experiment.",
+     "texto_es": "Hemos tenido un avance en nuestro pequeño experimento."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-157-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    351,
+    381,
+    701
+   ],
+   "descripcion": "Valeria Richards con su uniforme blanco observa el holograma de Nathaniel mientras indaga por la fuente de poder de su padre.",
+   "prompt_en": "A young blonde girl in a futuristic white suit looking at a blue holographic projection of a man, comic art style.",
+   "personajes": [
+    "Valeria Richards",
+    "Nathaniel Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "holograma",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "You finally filtered out the background radiation of the planet and found the source of my father's power?",
+     "texto_es": "¿Al fin filtraste la radiación de fondo del planeta y encontraste la fuente del poder de mi padre?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "Uh-huh.",
+     "texto_es": "Aha."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Where?",
+     "texto_es": "¿Dónde?"
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "analítico",
+   "recorte": "vinetas/page-157-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    24,
+    705,
+    391,
+    984
+   ],
+   "descripcion": "Primer plano del rostro de Nathaniel Richards mirando hacia la cámara con expresión confiada.",
+   "prompt_en": "Close-up of a blonde man with a slight smirk looking directly at the camera, comic art style.",
+   "personajes": [
+    "Nathaniel Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "nathaniel-richards",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "You're standing on it.",
+     "texto_es": "Estás parada sobre ella."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "revelador",
+   "recorte": "vinetas/page-157-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    395,
+    34,
+    654,
+    969
+   ],
+   "descripcion": "Nathaniel Richards extiende el brazo holográfico mientras Bentley-23 le muestra la cabeza de un dron recién recuperado.",
+   "prompt_en": "A man in a black suit extending his arm with a hologram while a young boy in a white suit with number 13 holds a metallic spherical drone head, comic art style.",
+   "personajes": [
+    "Nathaniel Richards",
+    "Bentley-23",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "bentley-23",
+    "dron"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Okay, I gotta go then. I'll re--",
+     "texto_es": "Bien, me tengo que ir entonces. Volveré a..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "Oh, hey, wait! One final interesting item... the Night Machine found more of these drone things.",
+     "texto_es": "¡Oh, oye, espera! Un último asunto interesante... la Máquina Nocturna encontró más de estas cosas tipo drones."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley-23",
+     "texto": "Six this time.",
+     "texto_es": "Seis esta vez."
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "informativo",
+   "recorte": "vinetas/page-157-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    663,
+    31,
+    977,
+    392
+   ],
+   "descripcion": "Nathaniel Richards examina la cabeza del dron observando el patrón de búsqueda.",
+   "prompt_en": "A man looking down thoughtfully at a futuristic spherical drone in his hands, comic art style.",
+   "personajes": [
+    "Nathaniel Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "nathaniel-richards",
+    "dron",
+    "patron-geometrico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "We added the new locations in with the others we found. It extrapolates out to a geometric search pattern.",
+     "texto_es": "Añadimos las nuevas ubicaciones a las otras que encontramos. Se extrapola a un patrón de búsqueda geométrico."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "Somebody's looking for something.",
+     "texto_es": "Alguien está buscando algo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Nathaniel Richards",
+     "texto": "What do you think?",
+     "texto_es": "¿Qué piensas?"
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "intriga",
+   "recorte": "vinetas/page-157-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    663,
+    398,
+    977,
+    969
+   ],
+   "descripcion": "Valeria Richards examina de cerca un complejo artefacto circular tecnológico brillante.",
+   "prompt_en": "Side profile close-up of a blonde girl looking into a bright blue glowing sci-fi machine, comic art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "tecnologia",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "*Sigh*",
+     "texto_es": "*Suspiro*"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Who's building this crap?",
+     "texto_es": "¿Quién está construyendo esta porquería?"
+    }
+   ],
+   "lugar": "Laboratorio de la Fundación Futuro",
+   "tono": "frustración",
+   "recorte": "vinetas/page-157-v6.jpg"
+  }
+ ],
+ "lugar": "Laboratorio de la Fundación Futuro",
+ "numero_comic": null,
+ "pagina": 157,
+ "archivo": "paginas/page-157.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7905,
+ "_seg": 31.1
+}

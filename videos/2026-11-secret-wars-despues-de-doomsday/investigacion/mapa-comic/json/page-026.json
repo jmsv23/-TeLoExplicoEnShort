@@ -1,0 +1,177 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras la incursión avanza y las defensas perimetrales caen, Cíclope se prepara para abrir el Huevo del Fénix y eclosionar su inmenso poder cósmico.",
+ "personajes": [
+  "Cíclope (con el Fénix)"
+ ],
+ "eventos_clave": [
+  "Cíclope eclosiona el Huevo del Fénix",
+  "La incursión destruye las defensas"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    412,
+    1000
+   ],
+   "descripcion": "Una enorme estación espacial o artefacto tecnológico libera deslumbrantes destellos de luz dorada y rayos de energía brillante hacia todas direcciones.",
+   "prompt_en": "Massive circular orbital station unleashing blinding golden light rays and energy beams across the space background, comic book style",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "huevo-fenix",
+    "incursion-final",
+    "energia-fenix"
+   ],
+   "textos": [],
+   "lugar": "Órbita terrestre",
+   "tono": "épico",
+   "recorte": "vinetas/page-026-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    412,
+    33,
+    597,
+    966
+   ],
+   "descripcion": "Los rayos de luz cruzan el cielo pasando cerca de una nave espacial y una torre de vigilancia mientras las alertas suenan.",
+   "prompt_en": "Beams of intense bright orange light shooting past a futuristic airship and building structure, sky filled with light",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "incursion-final",
+    "alerta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[IA de la nave]",
+     "texto": "\"Alert, Professor...\"",
+     "texto_es": "\"Alerta, Profesor...\""
+    }
+   ],
+   "lugar": "Cielo / Base de combate",
+   "tono": "tenso",
+   "recorte": "vinetas/page-026-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    605,
+    33,
+    982,
+    458
+   ],
+   "descripcion": "Cíclope está parado sobre una gran estructura alienígena metálica, observando el Huevo del Fénix resplandeciente en forma de cápsula ovoide.",
+   "prompt_en": "Cyclops standing on giant metallic robotic hand looking down at a glowing white-orange egg capsule, sci-fi interior",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "huevo-fenix",
+    "ciclope"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[IA de la nave]",
+     "texto": "There is an eighty-nine percent chance that our defense perimeter will be breached by hostiles in the next minute.",
+     "texto_es": "Hay un ochenta y nueve por ciento de probabilidad de que nuestro perímetro defensivo sea traspasado por hostiles en el próximo minuto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "A minute will be more than enough... for the Phoenix Egg is ready to hatch.",
+     "texto_es": "Un minuto será más que suficiente... porque el Huevo del Fénix está listo para eclosionar."
+    }
+   ],
+   "lugar": "Nave/Base de los X-Men",
+   "tono": "dramático",
+   "recorte": "vinetas/page-026-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    605,
+    467,
+    982,
+    786
+   ],
+   "descripcion": "Cíclope abre con sus manos la parte superior del Huevo del Fénix, revelando una intensa luz dorada en su interior.",
+   "prompt_en": "Cyclops pulling open a glowing golden egg structure with his hands, bright light emanating from inside",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "huevo-fenix",
+    "eclosion",
+    "fuerza-fenix"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "There you are, old friend...",
+     "texto_es": "Ahí estás, viejo amigo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "Remember me?",
+     "texto_es": "¿Me recuerdas?"
+    }
+   ],
+   "lugar": "Nave/Base de los X-Men",
+   "tono": "intenso",
+   "recorte": "vinetas/page-026-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    605,
+    792,
+    982,
+    966
+   ],
+   "descripcion": "Primer plano del rostro de Cíclope sonriendo maniáticamente, reflejando el fulgor en forma de X del Fénix en su visor.",
+   "prompt_en": "Extreme close-up of Cyclops smiling maniacally, ruby visor glowing in X shape with bright orange light",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ciclope-fenix",
+    "primer-plano",
+    "sonrisa-maniatica"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "Remember how this feels?",
+     "texto_es": "¿Recuerdas cómo se siente esto?"
+    }
+   ],
+   "lugar": "Nave/Base de los X-Men",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-026-v5.jpg"
+  }
+ ],
+ "lugar": "Órbita / Nave espacial de los X-Men",
+ "numero_comic": 1,
+ "pagina": 26,
+ "archivo": "paginas/page-026.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4636,
+ "_seg": 15.1
+}

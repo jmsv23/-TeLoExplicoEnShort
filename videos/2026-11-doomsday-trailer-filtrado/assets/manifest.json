@@ -1,0 +1,262 @@
+{
+ "_nota": "Migrado de Camino a Doomsday (motor _lf). Imágenes: fotogramas, recortes e ilustraciones propias (sin URL: respaldar con ./tl assets respaldar). Fuentes de video: los archivos originales del motor.",
+ "imagenes": [
+  {
+   "id": "a-bestia",
+   "archivo": "img/a-bestia.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-ciclope",
+   "archivo": "img/a-ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-fox",
+   "archivo": "img/a-fox.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-magneto",
+   "archivo": "img/a-magneto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-nightcrawler",
+   "archivo": "img/a-nightcrawler.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-scarlet",
+   "archivo": "img/a-scarlet.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-tobey",
+   "archivo": "img/a-tobey.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-xavier",
+   "archivo": "img/a-xavier.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "a-yelena",
+   "archivo": "img/a-yelena.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "doomsday-logo",
+   "archivo": "img/doomsday-logo.png",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/battleworld",
+   "archivo": "img/lf/battleworld.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/doom-comic-clasico",
+   "archivo": "img/lf/doom-comic-clasico.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/doomsday-poster",
+   "archivo": "img/lf/doomsday-poster.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/ciclope",
+   "archivo": "img/lf/lf02/ciclope.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/deadpool",
+   "archivo": "img/lf/lf02/deadpool.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/doombots-ejercito",
+   "archivo": "img/lf/lf02/doombots-ejercito.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/edificio-baxter",
+   "archivo": "img/lf/lf02/edificio-baxter.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/jean-grey-fox",
+   "archivo": "img/lf/lf02/jean-grey-fox.webp",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/loki",
+   "archivo": "img/lf/lf02/loki.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/mapa-latveria",
+   "archivo": "img/lf/lf02/mapa-latveria.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/reencuentro-martillo",
+   "archivo": "img/lf/lf02/reencuentro-martillo.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/reencuentro-steve",
+   "archivo": "img/lf/lf02/reencuentro-steve.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/reencuentro-thor",
+   "archivo": "img/lf/lf02/reencuentro-thor.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/tormenta-fox",
+   "archivo": "img/lf/lf02/tormenta-fox.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/lf02/torre-vengadores",
+   "archivo": "img/lf/lf02/torre-vengadores.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-doom-cerca",
+   "archivo": "img/lf/tr-doom-cerca.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-magneto",
+   "archivo": "img/lf/tr-magneto.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-reed",
+   "archivo": "img/lf/tr-reed.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-steve-cerca",
+   "archivo": "img/lf/tr-steve-cerca.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  },
+  {
+   "id": "lf/tr-trono",
+   "archivo": "img/lf/tr-trono.jpg",
+   "url": null,
+   "pagina": null,
+   "fuente": "Camino a Doomsday (fotograma/recorte/ilustración)",
+   "pin": true
+  }
+ ],
+ "fuentes_video": [
+  {
+   "id": "lf-t04-steve-bebe-vidas-robadas",
+   "url": null,
+   "archivo_original": "_motion/assets/video/camino-a-doomsday/lf/lf-t04-steve-bebe-vidas-robadas.mp4"
+  }
+ ],
+ "cortes": [
+  {
+   "id": "largo-c01",
+   "fuente": "lf-t04-steve-bebe-vidas-robadas",
+   "inicio": 4.6,
+   "fin": 11.3,
+   "tipo": "voz",
+   "bloque": "e7"
+  }
+ ]
+}

@@ -1,0 +1,169 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom se muestra ante los héroes sobrevivientes exigiendo su sumisión con una falsa clemencia. Sin embargo, Cíclope, alimentado por la Fuerza Fénix, rechaza su oferta y afirma que nada permanece bajo el dominio de Doom para siempre, señalando que las cosas cambian y evolucionan.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Cíclope (con el Fénix)"
+ ],
+ "eventos_clave": [
+  "Doom exige la rendición de los héroes sobrevivientes.",
+  "Cíclope imbuidos con el poder de la Fuerza Fénix desafía la autoridad suprema de Dios Emperador Doom."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    565,
+    1000
+   ],
+   "descripcion": "Gran explosión de energía dorada con escombros flotando. Dios Emperador Doom de espaldas con su capa blanca flotante se alza radiante frente a la figura flotante de Cíclope con el poder del Fénix.",
+   "prompt_en": "Comic book full page panel showing a godlike figure in white cloak standing amidst glowing golden explosion energy, facing a floating figure engulfed in Phoenix fire, high contrast comic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "fenix",
+    "battleworld",
+    "enfrentamiento"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "THWMMM",
+     "texto_es": "THWMMM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I understand this must be confusing for all of you, but take heart, for while I am mighty, I am also merciful.",
+     "texto_es": "Entiendo que esto debe ser confuso para todos ustedes, pero cobren ánimo, porque aunque soy poderoso, también soy misericordioso."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-124-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    565,
+    34,
+    712,
+    967
+   ],
+   "descripcion": "Primer plano del rostro enmascarado del Dios Emperador Doom apretando su puño con firmeza mientras exige la sumisión de sus oponentes.",
+   "prompt_en": "Close up comic panel of Doctor Doom wearing his silver metal mask and white hood, clenched fist raised, backlit with warm light.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "discurso",
+    "amenaza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "I will give you a moment to... readjust your old ways of thinking. Then you will bend your knee and bow your head at my feet.",
+     "texto_es": "Les daré un momento para... reajustar sus viejas formas de pensar. Luego hincarán la rodilla e inclinarán la cabeza a mis pies."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Believe in me... for this world is mine.",
+     "texto_es": "Crean en mí... porque este mundo es mío."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "arrogante",
+   "recorte": "vinetas/page-124-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    713,
+    34,
+    853,
+    967
+   ],
+   "descripcion": "Detalle parcial del rostro y mano de Doom desintegrándose o viéndose envuelto por la poderosa energía lumínica lanzada por el Fénix.",
+   "prompt_en": "Comic panel showing intense light dissolving a metallic armored face close-up with debris floating.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "fenix",
+    "ataque",
+    "resistencia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "I do not need a moment. And I do not need your mercy.",
+     "texto_es": "No necesito un momento. Y no necesito tu misericordia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "For holding a thing--shaping a thing--does not make it yours forever...",
+     "texto_es": "Porque sostener una cosa... moldear una cosa... no la hace tuya para siempre..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-124-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    854,
+    34,
+    990,
+    967
+   ],
+   "descripcion": "Primer plano de la máscara y visor de Cíclope envuelto en la fulgurante y brillante aura del Fénix mientras contesta filosóficamente a Doom.",
+   "prompt_en": "Comic panel close-up of Cyclops visor face engulfed in bright yellow Phoenix flames, glowing eyes, epic backlight.",
+   "personajes": [
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "fenix",
+    "ciclope",
+    "evolucion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cíclope (con el Fénix)",
+     "texto": "Things change... They evolve...",
+     "texto_es": "Las cosas cambian... Evolucionan..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "poderoso",
+   "recorte": "vinetas/page-124-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 124,
+ "archivo": "paginas/page-124.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4421,
+ "_seg": 13.7
+}

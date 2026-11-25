@@ -1,0 +1,173 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom observa consternado el avance de las hordas de zombis mientras Hulk combate en medio del caos de Battleworld y alguien exclama desesperadamente el nombre de Victor.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hulk",
+  "Sue Storm / Mujer Invisible"
+ ],
+ "eventos_clave": [
+  "Invasión de la horda zombi",
+  "Batalla por Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    41,
+    169,
+    966
+   ],
+   "descripcion": "Primer plano de la mirada de Doctor Doom observando la batalla desde lo alto con expresión seria.",
+   "prompt_en": "Close up of Doctor Doom metal mask looking down solemnly in gray scale tones, comic book art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "NO.",
+     "texto_es": "NO."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-219-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    172,
+    0,
+    563,
+    1000
+   ],
+   "descripcion": "Vista amplia de una multitud desenfrenada de zombis avanzando y gritando en medio del campo de batalla.",
+   "prompt_en": "Wide shot of a horde of undead zombies charging forward frantically in a battlefield, glowing light effect.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "zombies",
+    "battleworld",
+    "el-escudo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[zombi]",
+     "texto": "GLORY AND HONOR!",
+     "texto_es": "¡GLORIA Y HONOR!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[zombi]",
+     "texto": "GLORY AND HONOR!",
+     "texto_es": "¡GLORIA Y HONOR!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[zombi]",
+     "texto": "BRAINSSS!",
+     "texto_es": "¡CEREBROOS!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "caótico",
+   "recorte": "vinetas/page-219-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    553,
+    0,
+    1000,
+    470
+   ],
+   "descripcion": "Hulk luchando enfurecido al frente contra la horda de zombis que intenta someterlo.",
+   "prompt_en": "Green giant Hulk fighting off a mass of zombies on a misty battlefield, dynamic composition.",
+   "personajes": [
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hulk",
+    "zombies",
+    "batalla"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-219-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    553,
+    240,
+    1000,
+    755
+   ],
+   "descripcion": "Doctor Doom visto desde atrás, rodeado por un deslumbrante resplandor azul de energía divina.",
+   "prompt_en": "Doctor Doom in hooded white cloak seen from behind, surrounded by glowing cyan magic power aura.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "poder-mistico"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-219-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    647,
+    750,
+    977,
+    966
+   ],
+   "descripcion": "Close-up del rostro de Doctor Doom iluminado en azul mientras reacciona con angustia al escuchar su nombre de pila.",
+   "prompt_en": "Close up panel of Doctor Doom metal mask illuminated by blue light, eyes wide with distress.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "climax"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "VICTOR!",
+     "texto_es": "¡VICTOR!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "urgente",
+   "recorte": "vinetas/page-219-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 8,
+ "pagina": 219,
+ "archivo": "paginas/page-219.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5595,
+ "_seg": 18.7
+}

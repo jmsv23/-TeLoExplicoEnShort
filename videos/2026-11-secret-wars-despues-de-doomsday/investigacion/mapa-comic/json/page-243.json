@@ -1,0 +1,262 @@
+{
+ "tipo": "historia",
+ "resumen": "En un Wakanda restaurado en el tiempo, T'Challa inspira a un grupo de jóvenes científicos exploradores para lanzar el programa de exploración espacial wakandiano hacia las estrellas. De repente, sienten un temblor sísmico y T'Challa los alerta para que miren al cielo.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "[pioneros wakandianos]"
+ ],
+ "eventos_clave": [
+  "T'Challa inspira a los pioneros espacial de Wakanda",
+  "Presentación de la misión espacial de Wakanda hacia el planeta M23-671A",
+  "Aparición súbita de microtemblores previo a un evento en el cielo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    35,
+    323,
+    526
+   ],
+   "descripcion": "T'Challa con el traje de Black Panther coloca afectuosamente su mano sobre el hombro de N'Kono junto a T'Dori en una zona frondosa de Wakanda.",
+   "prompt_en": "Black Panther in suit placing hand on shoulder of young Wakandan scientist pioneer in futuristic traditional outfit, lush green foliage background, comic book style",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[pioneros wakandianos]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "wakanda",
+    "black-panther",
+    "t-challa",
+    "reconstruccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Kimo, T'Dori... very, very well done.",
+     "texto_es": "Kimo, T'Dori... muy, muy bien hecho."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T me)",
+     "texto": "N'Kono, your father's grandfather was T'Konda--the Black Panther of his time.",
+     "texto_es": "N'Kono, el abuelo de tu padre fue T'Konda, el Pantera Negra de su época."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "He was called 'The Wall,' and now his spirit, like all other previous Panthers, lives within me.",
+     "texto_es": "Lo llamaban 'La Muralla', y ahora su espíritu, como el de todos los demás Panteras anteriores, vive dentro de mí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "I feel his pride when I look at you.",
+     "texto_es": "Siento su orgullo cuando te miro."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "inspirador",
+   "recorte": "vinetas/page-243-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    23,
+    530,
+    323,
+    966
+   ],
+   "descripcion": "T'Challa alza el brazo señalando hacia arriba mientras da un discurso lleno de liderazgo frente al grupo de exploradores.",
+   "prompt_en": "Black Panther raising arm pointing up while speaking to a group of young African pioneers, vibrant nature background, superhero comic page",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[pioneros wakandianos]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "wakanda",
+    "liderazgo",
+    "discurso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Pride.",
+     "texto_es": "Orgullo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Pride, and not shame, which is what we feel for the world out there.",
+     "texto_es": "Orgullo, y no vergüenza, que es lo que sentimos por el mundo exterior."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Great societies are crumbling around us, and the old men who run them are out of ideas.",
+     "texto_es": "Las grandes sociedades se están desmoronando a nuestro alrededor, y los ancianos que las dirigen se han quedado sin ideas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "So all eyes turn to you, our children--to build us something better.",
+     "texto_es": "Así que todas las miradas se vuelven hacia ustedes, nuestros hijos, para construirnos algo mejor."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "epico",
+   "recorte": "vinetas/page-243-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    333,
+    35,
+    654,
+    552
+   ],
+   "descripcion": "Black Panther extiende la mano sosteniendo una esfera de energía azul brillante que proyecta la imagen de un sistema estelar.",
+   "prompt_en": "Black Panther holding a glowing blue energy orb glowing in his hand, showing a hologram of space, futuristic Marvel comic panel",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "esfera-de-energia",
+    "programa-espacial",
+    "tecnologia-wakandiana"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "This is M23-671A. An M-class planet circling an orange dwarf 241 light-years away.",
+     "texto_es": "Este es M23-671A. Un planeta de clase M que orbita alrededor de una enana naranja a 241 años luz de distancia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "The West has abandoned space, and the East crawls when it could run... as a result, Wakanda now possesses the preeminent space program on the planet...",
+     "texto_es": "El Occidente ha abandonado el espacio, y el Oriente se arrastra cuando podría correr... como resultado, Wakanda posee ahora el programa espacial preeminente del planeta..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "But we must do more, go farther... to somewhere no human has ever been.",
+     "texto_es": "Pero debemos hacer más, ir más lejos... a un lugar donde ningún humano haya estado jamás."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Your prize, Makers... are the stars themselves.",
+     "texto_es": "Su premio, Creadores... son las estrellas mismas."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "maravilloso",
+   "recorte": "vinetas/page-243-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    333,
+    558,
+    654,
+    966
+   ],
+   "descripcion": "Los jóvenes pioneros wakandianos miran asombrados la proyección brillante frente a ellos.",
+   "prompt_en": "Young African futuristic scientists looking in wonder at a bright glowing orb off-camera, dramatic lighting, detailed comic art",
+   "personajes": [
+    "[pioneros wakandianos]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "asombro",
+    "descubrimiento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[pioneros wakandianos]",
+     "texto": "The stars... oh, wow...",
+     "texto_es": "Las estrellas... oh, vaya..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[pioneros wakandianos]",
+     "texto": "I know. You dream a thing, and the idea that it could become real... amazing.",
+     "texto_es": "Lo sé. Sueñas algo, y la idea de que pueda hacerse realidad... asombroso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[pioneros wakandianos]",
+     "texto": "Hey... do you guys feel that... like little micro-tremors?",
+     "texto_es": "Oigan... ¿sienten eso... como pequeños microtemblores?"
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-243-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    663,
+    35,
+    977,
+    966
+   ],
+   "descripcion": "El grupo siente una vibración en el suelo de la selva; Black Panther se gira seriamente y ordena mirar hacia el cielo.",
+   "prompt_en": "Black Panther and Wakandan group reacting to ground shaking in jungle, looking up with surprise and tension, wide comic panel",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "[pioneros wakandianos]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "temblor",
+    "tencion",
+    "incursion",
+    "final-de-capitulo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[pioneros wakandianos]",
+     "texto": "Hrmph. I'm not seeing anything.",
+     "texto_es": "Hrmph. No estoy viendo nada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Turn around...",
+     "texto_es": "Dense la vuelta..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Look up.",
+     "texto_es": "Miren hacia arriba."
+    }
+   ],
+   "lugar": "Wakanda",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-243-v5.jpg"
+  }
+ ],
+ "lugar": "Wakanda",
+ "numero_comic": 9,
+ "pagina": 243,
+ "archivo": "paginas/page-243.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7014,
+ "_seg": 25.8
+}

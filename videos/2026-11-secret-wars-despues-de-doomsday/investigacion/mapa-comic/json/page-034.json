@@ -1,0 +1,231 @@
+{
+ "tipo": "historia",
+ "resumen": "En el interior de la balsa de salvamento de la Tierra-616, Black Panther inicia la cuenta regresiva de cinco segundos para apagar temporalmente el escudo de la nave. Mientras Mister Fantástico vigila desesperado la integridad del casco, el módulo posterior donde están Sue Storm, Ben Grimm, Johnny Storm y los niños sufre una falla catastrófica y empieza a quebrarse.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Capitana Marvel (Carol Danvers)",
+  "Thor (Jane Foster)",
+  "Star-Lord",
+  "Sue Storm / Mujer Invisible",
+  "la Cosa (Ben Grimm)",
+  "Antorcha Humana",
+  "Franklin Richards",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Desconexión del escudo de la balsa de salvamento",
+  "Ruptura del casco del módulo posterior de la balsa",
+  "Separación trágica de los Cuatro Fantásticos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    312,
+    1000
+   ],
+   "descripcion": "En el puente de mando de la balsa de salvamento, Black Panther opera los controles del escudo mientras Mister Fantástico le da instrucciones agitado. Detrás de ellos están Capitana Marvel, Star-Lord y Jane Foster Thor.",
+   "prompt_en": "Comic panel showing superheroes inside a futuristic spaceship cockpit. A black hero in dark suit controls glowing consoles while a brown-haired man in blue suit speaks anxiously. Other heroes stand in the background.",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Capitana Marvel (Carol Danvers)",
+    "Star-Lord",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "ultima-incursion",
+    "puente-de-mando"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Okay... It's going to take a full five-second cycle to power down the shield... I can instantly slam it back into place, but Reed...",
+     "texto_es": "De acuerdo... Va a llevar un ciclo completo de cinco segundos apagar el escudo... Puedo volver a activarlo al instante, pero Reed..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "If hull integrity goes below ninety percent, I have to turn it back on no matter what, understand? We'll lose EVERYTHING if I don't.",
+     "texto_es": "Si la integridad del casco cae por debajo del noventa por ciento, tengo que volver a encenderlo sea como sea, ¿entiendes? Lo perderemos TODO si no lo hago."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "I understand.",
+     "texto_es": "Entiendo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Do it.",
+     "texto_es": "Hazlo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Okay. In five...",
+     "texto_es": "De acuerdo. En cinco..."
+    }
+   ],
+   "lugar": "Puente de mando de la balsa de salvamento",
+   "tono": "tenso",
+   "recorte": "vinetas/page-034-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    296,
+    15,
+    725,
+    250
+   ],
+   "descripcion": "Primer plano dramático del rostro angustiado de Reed Richards gritando preocupado por su esposa.",
+   "prompt_en": "Close up comic panel of a bearded man with wide terrified blue eyes shouting in distress inside a spaceship.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "desesperacion",
+    "reed-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "\"Four...\"",
+     "texto_es": "\"Cuatro...\""
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Hold on, Susan...",
+     "texto_es": "Resiste, Susan..."
+    }
+   ],
+   "lugar": "Balsa de salvamento",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-034-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    312,
+    230,
+    725,
+    1000
+   ],
+   "descripcion": "En la sección trasera de la balsa, Sue Storm proyecta un campo de fuerza para mantener la estructura mientras Ben Grimm protege a Valeria y Franklin, y la Antorcha Humana arde en llamas a la derecha.",
+   "prompt_en": "Comic panel inside a breaking spaceship. A blonde superheroine in a black suit strains to project a forcefield while a rocky giant holds two kids and a glowing fire guy stands nearby.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "la Cosa (Ben Grimm)",
+    "Antorcha Humana",
+    "Franklin Richards",
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "los-cuatro-fantasticos",
+    "campo-de-fuerza",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "\"Three...\"",
+     "texto_es": "\"Tres...\""
+    }
+   ],
+   "lugar": "Módulo posterior de la balsa",
+   "tono": "dramático",
+   "recorte": "vinetas/page-034-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    458,
+    762,
+    725,
+    965
+   ],
+   "descripcion": "Primer plano de perfil de Sue Storm mirando con dolor y resignación mientras sostiene su campo de energía.",
+   "prompt_en": "Close up comic panel profile of a blonde superheroine looking down with sad expression amidst glowing light.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "sue-storm",
+    "sufrimiento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "\"Two...\"",
+     "texto_es": "\"Dos...\""
+    }
+   ],
+   "lugar": "Módulo posterior de la balsa",
+   "tono": "trágico",
+   "recorte": "vinetas/page-034-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    735,
+    34,
+    982,
+    965
+   ],
+   "descripcion": "Primer plano impactante de Sue Storm gritando aterrorizada mientras el casco de la nave se fractura violentamente detrás de ella.",
+   "prompt_en": "Dramatic close-up comic panel of a blonde woman screaming in horror as energy crackles and mechanical metal fractures around her face.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "destruccion",
+    "ruptura-casco",
+    "tragedia",
+    "sue-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Desconocido",
+     "texto": "KKKKK K",
+     "texto_es": "KKKKK K"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "\"One...\"",
+     "texto_es": "\"Uno...\""
+    }
+   ],
+   "lugar": "Módulo posterior de la balsa",
+   "tono": "caótico",
+   "recorte": "vinetas/page-034-v5.jpg"
+  }
+ ],
+ "lugar": "Balsa de salvamento de la Tierra-616",
+ "numero_comic": 1,
+ "pagina": 34,
+ "archivo": "paginas/page-034.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6795,
+ "_seg": 28.8
+}

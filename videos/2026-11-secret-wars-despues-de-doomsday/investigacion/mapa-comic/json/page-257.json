@@ -1,0 +1,212 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards reúne a los miembros de la Fundación Futuro en el Edificio Baxter para comunicarles con frialdad y franqueza que el reloj marca el fin del mundo en cuatro días (95 horas).",
+ "personajes": [
+  "Valeria Richards",
+  "Franklin Richards",
+  "[miembros de la Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Valeria Richards advierte a la Fundación Futuro sobre la cuenta regresiva del fin del mundo",
+  "El reloj digital marca 95 horas antes del colapso del multiverso / incursion final"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    36,
+    276,
+    966
+   ],
+   "descripcion": "Valeria Richards de pie con los brazos cruzados con un traje blanco con el número 6, dirigiéndose a su audiencia en el Edificio Baxter.",
+   "prompt_en": "Comic panel showing young girl Valeria Richards with blond hair and white suit with number 6, arms crossed, talking seriously, futuristic red ambient background inside the Baxter Building.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "edificio-baxter",
+    "fundacion-futuro",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE BAXTER BUILDING.",
+     "texto_es": "EL EDIFICIO BAXTER."
+    },
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "VALERIA RICHARDS DAUGHTER OF MISTER FANTASTIC",
+     "texto_es": "VALERIA RICHARDS HIJA DE MISTER FANTÁSTICO"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "OKAY.",
+     "texto_es": "De acuerdo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "LISTEN UP. YOU KNOW ME. I DON'T LIKE TO BE DRAMATIC...",
+     "texto_es": "Escuchen. Me conocen. No me gusta ser dramática..."
+    }
+   ],
+   "lugar": "Edificio Baxter",
+   "tono": "serio",
+   "recorte": "vinetas/page-257-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    284,
+    36,
+    508,
+    966
+   ],
+   "descripcion": "Valeria Richards levanta un dedo mientras explica las razones de su tono directo y pragmático.",
+   "prompt_en": "Comic panel close-up of young blond girl pointing her index finger up explaining logically, white suit with number 6.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "explicacion",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "BUT WE HAVE TO TALK ABOUT THIS...",
+     "texto_es": "Pero tenemos que hablar de esto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "AND I COULD USE TERMS LIKE \"COUNTDOWN\" AND \"TIMETABLE,\" BUT I DON'T WANT TO DO THAT, BECAUSE...",
+     "texto_es": "Y podría usar términos como \"cuenta regresiva\" y \"cronograma\", pero no quiero hacer eso, porque..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "ONE: I DON'T LIKE TO CAUSE A PANIC. WE ALL KNOW STUDIES HAVE SHOWN THAT PEOPLE RESPOND UNPREDICTABLY IN HIGH PRESSURE SITUATIONS, AND WE NEED AS FEW VARIABLES AS POSSIBLE RIGHT NOW.",
+     "texto_es": "Uno: No me gusta causar pánico. Todos sabemos que los estudios han demostrado que la gente responde de manera impredecible en situaciones de alta presión, y necesitamos tan pocas variables como sea posible en este momento."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "AND TWO: YOU'RE A BUNCH A GIANT FREAKING BABIES.",
+     "texto_es": "Y dos: Son un grupo de gigantescos bebés de porquería."
+    }
+   ],
+   "lugar": "Edificio Baxter",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-257-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    516,
+    36,
+    725,
+    966
+   ],
+   "descripcion": "Valeria continúa dirigiéndose al grupo mientras la silueta de los oyentes rodea el plano inferior.",
+   "prompt_en": "Comic panel medium shot of young girl talking to a crowd of children and aliens, foreground showing silhouettes of people.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards",
+    "[miembros de la Fundación Futuro]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "discurso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "BUT SINCE WE'RE ALSO FRIENDS--AND KEEPING THE AFOREMENTIONED TIMETABLE IN MIND...I THINK YOU NEED TO KNOW THAT FROM THIS POINT FORWARD, I'M SUBSCRIBING TO THE THEORY OF TOUGH LOVE.",
+     "texto_es": "Pero dado que también somos amigos, y teniendo en cuenta el cronograma antes mencionado... creo que necesitan saber que desde este punto en adelante, me suscribo a la teoría del amor apache."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "LIKE, I'VE TRANSFERRED THE MONEY AND THE PACKAGE IS IN THE MAIL.",
+     "texto_es": "O sea, ya transferí el dinero y el paquete está en el correo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "SO LISTEN UP, DUMMIES...",
+     "texto_es": "Así que escuchen, tontos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "SEE THIS CLOCK?",
+     "texto_es": "¿Ven este reloj?"
+    }
+   ],
+   "lugar": "Edificio Baxter",
+   "tono": "determinado",
+   "recorte": "vinetas/page-257-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    725,
+    36,
+    1000,
+    1000
+   ],
+   "descripcion": "Valeria Richards señala una pantalla gigante con una cuenta regresiva que muestra '95:42:03', rodeada por los niños y criaturas de la Fundación Futuro como Franklin Richards y Dragon Man.",
+   "prompt_en": "Comic panel wide shot showing young girl Valeria pointing at a giant glowing digital timer displaying 95:42:03, surrounded by diverse kids and alien members of Future Foundation in a red illuminated room.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards",
+    "[miembros de la Fundación Futuro]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "cuenta-regresiva",
+    "fin-del-mundo",
+    "fundacion-futuro",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "IT SAYS THAT IN FOUR DAYS THE WORLD IS ENDING.",
+     "texto_es": "Dice que en cuatro días se acaba el mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "AND THE CLOCK DON'T LIE.",
+     "texto_es": "Y el reloj no miente."
+    }
+   ],
+   "lugar": "Edificio Baxter",
+   "tono": "dramático",
+   "recorte": "vinetas/page-257-v4.jpg"
+  }
+ ],
+ "lugar": "Edificio Baxter",
+ "numero_comic": 1,
+ "pagina": 257,
+ "archivo": "paginas/page-257.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5938,
+ "_seg": 22.4
+}

@@ -1,0 +1,1033 @@
+{
+ "duracion": 40.64,
+ "coincidencia": 0.983,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.111,
+   "fin": 4.054
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 4.454,
+   "fin": 30.465
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 30.946,
+   "fin": 37.86
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 38.221,
+   "fin": 40.446
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 2.373
+  },
+  {
+   "id": "2",
+   "nombre": "El elegido",
+   "inicio": 2.373,
+   "fin": 4.454
+  },
+  {
+   "id": "3",
+   "nombre": "Sam Wilson",
+   "inicio": 4.454,
+   "fin": 8.717
+  },
+  {
+   "id": "4",
+   "nombre": "La duda",
+   "inicio": 8.717,
+   "fin": 12.6
+  },
+  {
+   "id": "5",
+   "nombre": "Un nuevo mundo",
+   "inicio": 12.6,
+   "fin": 16.423
+  },
+  {
+   "id": "6",
+   "nombre": "Sin suero",
+   "inicio": 16.423,
+   "fin": 21.687
+  },
+  {
+   "id": "7",
+   "nombre": "Red Hulk",
+   "inicio": 21.687,
+   "fin": 26.136
+  },
+  {
+   "id": "8",
+   "nombre": "El brazalete",
+   "inicio": 26.136,
+   "fin": 30.946
+  },
+  {
+   "id": "9",
+   "nombre": "Confirmado",
+   "inicio": 30.946,
+   "fin": 34.253
+  },
+  {
+   "id": "10",
+   "nombre": "Zapatos de Steve",
+   "inicio": 34.253,
+   "fin": 38.221
+  },
+  {
+   "id": "11",
+   "nombre": "Siguiente número",
+   "inicio": 38.221,
+   "fin": 40.64
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.932,
+   "t_est": 0.7,
+   "ancla": "entregó"
+  },
+  {
+   "id": "1.3",
+   "t": 1.432,
+   "t_est": 1.4,
+   "ancla": "escudo"
+  },
+  {
+   "id": "2.1",
+   "t": 2.373,
+   "t_est": 2.8,
+   "ancla": "elegido"
+  },
+  {
+   "id": "2.2",
+   "t": 3.373,
+   "t_est": 3.6,
+   "ancla": "superpoderes"
+  },
+  {
+   "id": "3.1",
+   "t": 4.454,
+   "t_est": 4.4,
+   "ancla": "Sam"
+  },
+  {
+   "id": "3.2",
+   "t": 5.515,
+   "t_est": 5.6,
+   "ancla": "Halcón"
+  },
+  {
+   "id": "3.3",
+   "t": 6.255,
+   "t_est": 6.6,
+   "ancla": "recibió"
+  },
+  {
+   "id": "3.4",
+   "t": 7.716,
+   "t_est": 7.4,
+   "ancla": "Endgame"
+  },
+  {
+   "id": "4.1",
+   "t": 8.717,
+   "t_est": 8.4,
+   "ancla": "serie"
+  },
+  {
+   "id": "4.2",
+   "t": 10.679,
+   "t_est": 10.9,
+   "ancla": "dudó"
+  },
+  {
+   "id": "4.3",
+   "t": 11.139,
+   "t_est": 11.9,
+   "ancla": "merecía"
+  },
+  {
+   "id": "5.1",
+   "t": 12.6,
+   "t_est": 13.2,
+   "ancla": "Capitán"
+  },
+  {
+   "id": "5.2",
+   "t": 13.881,
+   "t_est": 14.4,
+   "ancla": "nuevo"
+  },
+  {
+   "id": "5.3",
+   "t": 15.222,
+   "t_est": 15.9,
+   "ancla": "verdad"
+  },
+  {
+   "id": "6.1",
+   "t": 16.423,
+   "t_est": 16.9,
+   "ancla": "suero"
+  },
+  {
+   "id": "6.2",
+   "t": 18.604,
+   "t_est": 18.5,
+   "ancla": "vibranium"
+  },
+  {
+   "id": "6.3",
+   "t": 19.365,
+   "t_est": 20.0,
+   "ancla": "entrenamiento"
+  },
+  {
+   "id": "6.4",
+   "t": 20.626,
+   "t_est": 21.0,
+   "ancla": "carácter"
+  },
+  {
+   "id": "7.1",
+   "t": 21.687,
+   "t_est": 22.1,
+   "ancla": "película"
+  },
+  {
+   "id": "7.2",
+   "t": 22.549,
+   "t_est": 23.2,
+   "ancla": "Red"
+  },
+  {
+   "id": "7.3",
+   "t": 24.372,
+   "t_est": 24.4,
+   "ancla": "Ross"
+  },
+  {
+   "id": "7.4",
+   "t": 24.693,
+   "t_est": 25.1,
+   "ancla": "transformado"
+  },
+  {
+   "id": "8.1",
+   "t": 26.136,
+   "t_est": 26.6,
+   "ancla": "brazalete"
+  },
+  {
+   "id": "8.2",
+   "t": 27.419,
+   "t_est": 28.0,
+   "ancla": "equipo"
+  },
+  {
+   "id": "8.3",
+   "t": 28.341,
+   "t_est": 29.0,
+   "ancla": "jugador"
+  },
+  {
+   "id": "8.4",
+   "t": 29.663,
+   "t_est": 30.3,
+   "ancla": "símbolo"
+  },
+  {
+   "id": "9.1",
+   "t": 30.946,
+   "t_est": 31.6,
+   "ancla": "Anthony"
+  },
+  {
+   "id": "9.2",
+   "t": 32.008,
+   "t_est": 32.8,
+   "ancla": "confirmado"
+  },
+  {
+   "id": "9.3",
+   "t": 33.371,
+   "t_est": 33.8,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "10.1",
+   "t": 34.253,
+   "t_est": 34.9,
+   "ancla": "Sam"
+  },
+  {
+   "id": "10.2",
+   "t": 36.016,
+   "t_est": 36.2,
+   "ancla": "presión"
+  },
+  {
+   "id": "10.3",
+   "t": 36.958,
+   "t_est": 37.2,
+   "ancla": "zapatos"
+  },
+  {
+   "id": "10.4",
+   "t": 37.52,
+   "t_est": 38.0,
+   "ancla": "Steve"
+  },
+  {
+   "id": "11.1",
+   "t": 38.221,
+   "t_est": 38.9,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "11.2",
+   "t": 39.263,
+   "t_est": 39.5,
+   "ancla": "regreso"
+  },
+  {
+   "id": "11.3",
+   "t": 40.065,
+   "t_est": 40.1,
+   "ancla": "X-Men"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Steve",
+   "seg": "S1",
+   "inicio": 0.111,
+   "fin": 0.351
+  },
+  {
+   "w": "Rogers",
+   "seg": "S1",
+   "inicio": 0.431,
+   "fin": 0.792
+  },
+  {
+   "w": "entregó",
+   "seg": "S1",
+   "inicio": 0.932,
+   "fin": 1.272
+  },
+  {
+   "w": "el",
+   "seg": "S1",
+   "inicio": 1.312,
+   "fin": 1.392
+  },
+  {
+   "w": "escudo.",
+   "seg": "S1",
+   "inicio": 1.432,
+   "fin": 1.832
+  },
+  {
+   "w": "Y",
+   "seg": "S1",
+   "inicio": 2.132,
+   "fin": 2.213
+  },
+  {
+   "w": "el",
+   "seg": "S1",
+   "inicio": 2.273,
+   "fin": 2.333
+  },
+  {
+   "w": "elegido",
+   "seg": "S1",
+   "inicio": 2.373,
+   "fin": 2.773
+  },
+  {
+   "w": "no",
+   "seg": "S1",
+   "inicio": 2.793,
+   "fin": 2.833
+  },
+  {
+   "w": "tenía",
+   "seg": "S1",
+   "inicio": 3.033,
+   "fin": 3.333
+  },
+  {
+   "w": "superpoderes.",
+   "seg": "S1",
+   "inicio": 3.373,
+   "fin": 4.054
+  },
+  {
+   "w": "Sam",
+   "seg": "S2",
+   "inicio": 4.454,
+   "fin": 4.694
+  },
+  {
+   "w": "Wilson,",
+   "seg": "S2",
+   "inicio": 4.774,
+   "fin": 5.235
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 5.415,
+   "fin": 5.475
+  },
+  {
+   "w": "Halcón,",
+   "seg": "S2",
+   "inicio": 5.515,
+   "fin": 5.955
+  },
+  {
+   "w": "recibió",
+   "seg": "S2",
+   "inicio": 6.255,
+   "fin": 6.576
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 6.616,
+   "fin": 6.676
+  },
+  {
+   "w": "escudo",
+   "seg": "S2",
+   "inicio": 6.696,
+   "fin": 7.016
+  },
+  {
+   "w": "al",
+   "seg": "S2",
+   "inicio": 7.056,
+   "fin": 7.116
+  },
+  {
+   "w": "final",
+   "seg": "S2",
+   "inicio": 7.176,
+   "fin": 7.416
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 7.456,
+   "fin": 7.516
+  },
+  {
+   "w": "Endgame.",
+   "seg": "S2",
+   "inicio": 7.716,
+   "fin": 8.217
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 8.517,
+   "fin": 8.577
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 8.597,
+   "fin": 8.657
+  },
+  {
+   "w": "serie",
+   "seg": "S2",
+   "inicio": 8.717,
+   "fin": 8.917
+  },
+  {
+   "w": "Falcon",
+   "seg": "S2",
+   "inicio": 8.997,
+   "fin": 9.318
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 9.398,
+   "fin": 9.438
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 9.498,
+   "fin": 9.558
+  },
+  {
+   "w": "Soldado",
+   "seg": "S2",
+   "inicio": 9.598,
+   "fin": 9.978
+  },
+  {
+   "w": "del",
+   "seg": "S2",
+   "inicio": 10.018,
+   "fin": 10.138
+  },
+  {
+   "w": "Invierno",
+   "seg": "S2",
+   "inicio": 10.198,
+   "fin": 10.558
+  },
+  {
+   "w": "dudó",
+   "seg": "S2",
+   "inicio": 10.679,
+   "fin": 10.979
+  },
+  {
+   "w": "si",
+   "seg": "S2",
+   "inicio": 10.999,
+   "fin": 11.099
+  },
+  {
+   "w": "merecía",
+   "seg": "S2",
+   "inicio": 11.139,
+   "fin": 11.539
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 11.579,
+   "fin": 11.659
+  },
+  {
+   "w": "título.",
+   "seg": "S2",
+   "inicio": 11.739,
+   "fin": 12.12
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 12.48,
+   "fin": 12.56
+  },
+  {
+   "w": "Capitán",
+   "seg": "S2",
+   "inicio": 12.6,
+   "fin": 12.96
+  },
+  {
+   "w": "América:",
+   "seg": "S2",
+   "inicio": 13.0,
+   "fin": 13.42
+  },
+  {
+   "w": "Un",
+   "seg": "S2",
+   "inicio": 13.741,
+   "fin": 13.821
+  },
+  {
+   "w": "nuevo",
+   "seg": "S2",
+   "inicio": 13.881,
+   "fin": 14.081
+  },
+  {
+   "w": "mundo,",
+   "seg": "S2",
+   "inicio": 14.161,
+   "fin": 14.421
+  },
+  {
+   "w": "ya",
+   "seg": "S2",
+   "inicio": 14.441,
+   "fin": 14.481
+  },
+  {
+   "w": "lo",
+   "seg": "S2",
+   "inicio": 14.841,
+   "fin": 14.922
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 14.982,
+   "fin": 15.062
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 15.102,
+   "fin": 15.182
+  },
+  {
+   "w": "verdad.",
+   "seg": "S2",
+   "inicio": 15.222,
+   "fin": 15.582
+  },
+  {
+   "w": "No",
+   "seg": "S2",
+   "inicio": 16.002,
+   "fin": 16.082
+  },
+  {
+   "w": "tiene",
+   "seg": "S2",
+   "inicio": 16.122,
+   "fin": 16.323
+  },
+  {
+   "w": "suero",
+   "seg": "S2",
+   "inicio": 16.423,
+   "fin": 16.663
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 16.703,
+   "fin": 16.783
+  },
+  {
+   "w": "súper",
+   "seg": "S2",
+   "inicio": 16.843,
+   "fin": 17.213
+  },
+  {
+   "w": "soldado:",
+   "seg": "S2",
+   "inicio": 17.213,
+   "fin": 17.583
+  },
+  {
+   "w": "tiene",
+   "seg": "S2",
+   "inicio": 17.924,
+   "fin": 18.124
+  },
+  {
+   "w": "alas",
+   "seg": "S2",
+   "inicio": 18.144,
+   "fin": 18.464
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 18.504,
+   "fin": 18.564
+  },
+  {
+   "w": "vibranium,",
+   "seg": "S2",
+   "inicio": 18.604,
+   "fin": 19.165
+  },
+  {
+   "w": "entrenamiento",
+   "seg": "S2",
+   "inicio": 19.365,
+   "fin": 20.065
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 20.085,
+   "fin": 20.265
+  },
+  {
+   "w": "mucho",
+   "seg": "S2",
+   "inicio": 20.365,
+   "fin": 20.566
+  },
+  {
+   "w": "carácter.",
+   "seg": "S2",
+   "inicio": 20.626,
+   "fin": 21.026
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 21.446,
+   "fin": 21.507
+  },
+  {
+   "w": "su",
+   "seg": "S2",
+   "inicio": 21.567,
+   "fin": 21.647
+  },
+  {
+   "w": "película",
+   "seg": "S2",
+   "inicio": 21.687,
+   "fin": 22.048
+  },
+  {
+   "w": "enfrenta",
+   "seg": "S2",
+   "inicio": 22.068,
+   "fin": 22.489
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 22.509,
+   "fin": 22.529
+  },
+  {
+   "w": "Red",
+   "seg": "S2",
+   "inicio": 22.549,
+   "fin": 22.609
+  },
+  {
+   "w": "Hulk,",
+   "seg": "S2",
+   "inicio": 22.97,
+   "fin": 23.27
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 23.611,
+   "fin": 23.671
+  },
+  {
+   "w": "presidente",
+   "seg": "S2",
+   "inicio": 23.731,
+   "fin": 24.212
+  },
+  {
+   "w": "Ross",
+   "seg": "S2",
+   "inicio": 24.372,
+   "fin": 24.593
+  },
+  {
+   "w": "transformado.",
+   "seg": "S2",
+   "inicio": 24.693,
+   "fin": 25.334
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 25.735,
+   "fin": 25.835
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 25.876,
+   "fin": 25.996
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 26.036,
+   "fin": 26.096
+  },
+  {
+   "w": "brazalete",
+   "seg": "S2",
+   "inicio": 26.136,
+   "fin": 26.597
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 26.637,
+   "fin": 26.697
+  },
+  {
+   "w": "capitán",
+   "seg": "S2",
+   "inicio": 26.757,
+   "fin": 27.138
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 27.198,
+   "fin": 27.258
+  },
+  {
+   "w": "un",
+   "seg": "S2",
+   "inicio": 27.298,
+   "fin": 27.379
+  },
+  {
+   "w": "equipo:",
+   "seg": "S2",
+   "inicio": 27.419,
+   "fin": 27.779
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 28.22,
+   "fin": 28.281
+  },
+  {
+   "w": "jugador",
+   "seg": "S2",
+   "inicio": 28.341,
+   "fin": 28.661
+  },
+  {
+   "w": "cambia,",
+   "seg": "S2",
+   "inicio": 28.762,
+   "fin": 29.102
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 29.122,
+   "fin": 29.583
+  },
+  {
+   "w": "símbolo",
+   "seg": "S2",
+   "inicio": 29.663,
+   "fin": 29.984
+  },
+  {
+   "w": "se",
+   "seg": "S2",
+   "inicio": 30.044,
+   "fin": 30.124
+  },
+  {
+   "w": "queda.",
+   "seg": "S2",
+   "inicio": 30.164,
+   "fin": 30.465
+  },
+  {
+   "w": "Anthony",
+   "seg": "S3",
+   "inicio": 30.946,
+   "fin": 31.267
+  },
+  {
+   "w": "Mackie",
+   "seg": "S3",
+   "inicio": 31.327,
+   "fin": 31.627
+  },
+  {
+   "w": "está",
+   "seg": "S3",
+   "inicio": 31.748,
+   "fin": 31.948
+  },
+  {
+   "w": "confirmado",
+   "seg": "S3",
+   "inicio": 32.008,
+   "fin": 32.509
+  },
+  {
+   "w": "en",
+   "seg": "S3",
+   "inicio": 32.569,
+   "fin": 32.65
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 32.67,
+   "fin": 32.75
+  },
+  {
+   "w": "reparto",
+   "seg": "S3",
+   "inicio": 32.81,
+   "fin": 33.151
+  },
+  {
+   "w": "de",
+   "seg": "S3",
+   "inicio": 33.191,
+   "fin": 33.291
+  },
+  {
+   "w": "Doomsday.",
+   "seg": "S3",
+   "inicio": 33.371,
+   "fin": 33.892
+  },
+  {
+   "w": "Sam",
+   "seg": "S3",
+   "inicio": 34.253,
+   "fin": 34.513
+  },
+  {
+   "w": "llega",
+   "seg": "S3",
+   "inicio": 34.573,
+   "fin": 34.814
+  },
+  {
+   "w": "con",
+   "seg": "S3",
+   "inicio": 34.874,
+   "fin": 34.994
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 35.034,
+   "fin": 35.095
+  },
+  {
+   "w": "escudo",
+   "seg": "S3",
+   "inicio": 35.135,
+   "fin": 35.475
+  },
+  {
+   "w": "y",
+   "seg": "S3",
+   "inicio": 35.495,
+   "fin": 35.515
+  },
+  {
+   "w": "con",
+   "seg": "S3",
+   "inicio": 35.756,
+   "fin": 35.856
+  },
+  {
+   "w": "la",
+   "seg": "S3",
+   "inicio": 35.896,
+   "fin": 35.956
+  },
+  {
+   "w": "presión",
+   "seg": "S3",
+   "inicio": 36.016,
+   "fin": 36.297
+  },
+  {
+   "w": "de",
+   "seg": "S3",
+   "inicio": 36.337,
+   "fin": 36.397
+  },
+  {
+   "w": "llenar",
+   "seg": "S3",
+   "inicio": 36.457,
+   "fin": 36.758
+  },
+  {
+   "w": "los",
+   "seg": "S3",
+   "inicio": 36.818,
+   "fin": 36.918
+  },
+  {
+   "w": "zapatos",
+   "seg": "S3",
+   "inicio": 36.958,
+   "fin": 37.339
+  },
+  {
+   "w": "de",
+   "seg": "S3",
+   "inicio": 37.379,
+   "fin": 37.459
+  },
+  {
+   "w": "Steve.",
+   "seg": "S3",
+   "inicio": 37.52,
+   "fin": 37.86
+  },
+  {
+   "w": "Siguiente:",
+   "seg": "S4",
+   "inicio": 38.221,
+   "fin": 38.682
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 39.123,
+   "fin": 39.183
+  },
+  {
+   "w": "regreso",
+   "seg": "S4",
+   "inicio": 39.263,
+   "fin": 39.644
+  },
+  {
+   "w": "de",
+   "seg": "S4",
+   "inicio": 39.704,
+   "fin": 39.764
+  },
+  {
+   "w": "los",
+   "seg": "S4",
+   "inicio": 39.804,
+   "fin": 39.904
+  },
+  {
+   "w": "X-Men.",
+   "seg": "S4",
+   "inicio": 40.065,
+   "fin": 40.446
+  }
+ ]
+}

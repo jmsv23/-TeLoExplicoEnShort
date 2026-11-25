@@ -1,0 +1,56 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título para el capítulo 3 de Secret Wars, titulado 'The Eye of Doom', que presenta una vista ilustrada de Doctor Doom y Sheriff Strange caminando por los jardines del Castillo Doom.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Inicio del capítulo 3: The Eye of Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de diseño tipográfico que anuncia el capítulo 03 'THE EYE OF DOOM', acompañada por una viñeta circular superior en tonos grises que muestra a Doctor Doom y Stephen Strange caminando en los jardines de Castle Doom.",
+   "prompt_en": "Comic chapter title page featuring the large number 03 and the title 'THE EYE OF DOOM', with a semi-circular illustration at the top depicting two fantasy figures walking through a serene Asian-inspired garden with a stream, stone bridge, and pavilion in monochromatic artwork.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 2,
+   "etiquetas": [
+    "titulo-capitulo",
+    "the-eye-of-doom",
+    "battleworld",
+    "castle-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Título",
+     "texto": "03 THE EYE OF DOOM",
+     "texto_es": "03 EL OJO DE DOOM"
+    }
+   ],
+   "lugar": "Battleworld / Castle Doom",
+   "tono": "formal",
+   "recorte": "vinetas/page-086-v1.jpg"
+  }
+ ],
+ "lugar": "Battleworld / Castle Doom",
+ "numero_comic": 3,
+ "pagina": 86,
+ "archivo": "paginas/page-086.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3062,
+ "_seg": 7.5
+}

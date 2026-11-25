@@ -1,0 +1,196 @@
+{
+ "tipo": "historia",
+ "resumen": "Tras salir de la balsa de salvamento, la Cabal explora el entorno desértico e inhóspito de Battleworld. Proxima Midnight captura a un habitante nativo con casco y Thanos lo interroga para descubrir dónde se encuentran, aprendiendo que están en un mundo creado por las propias manos de Doom.",
+ "personajes": [
+  "Thanos",
+  "Proxima Midnight",
+  "El Hacedor",
+  "Corvus Glaive",
+  "Cisne Negro",
+  "[habitante de Battleworld]"
+ ],
+ "eventos_clave": [
+  "La Cabal descubre que sobrevivió a la inmensidad del colapso del espacio-tiempo",
+  "Proxima Midnight captura a un nativo de Battleworld",
+  "Thanos interroga al nativo sobre la naturaleza de este nuevo mundo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    27,
+    33,
+    529,
+    357
+   ],
+   "descripcion": "El Hacedor analiza los controles de la balsa de salvamento mientras revisa las lecturas del nuevo universo.",
+   "prompt_en": "Comic panel showing a futuristic villain with a dome helmet looking up at computer screens in a dark spaceship cockpit, vertical layout",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "analisis",
+    "el-hacedor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Not our Earth. Not any planet in our native galaxy.",
+     "texto_es": "No es nuestra Tierra. Ni ningún planeta de nuestra galaxia nativa."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BE-DOOP.",
+     "texto_es": "BE-DOOP."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "But we're alive, so the design you stole worked.",
+     "texto_es": "Pero estamos vivos, así que el diseño que robaste funcionó."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "I've also accessed the Raft's diagnostics. The compression of all space-time might have led to some kind of external distortion while we were in stasis--but there is something very wrong with these readings.",
+     "texto_es": "También he accedido a los diagnósticos de la Balsa. La compresión de todo el espacio-tiempo podría haber provocado algún tipo de distorsión externa mientras estábamos en estasis... pero hay algo muy mal con estas lecturas."
+    }
+   ],
+   "lugar": "Balsa de salvamento / Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-083-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    27,
+    366,
+    529,
+    968
+   ],
+   "descripcion": "Vista panorámica en un desierto amarillo de Battleworld donde Proxima Midnight arrastra a un pequeño nativo con casco hacia Thanos y el resto de la Cabal.",
+   "prompt_en": "Wide comic panel of a golden alien desert landscape, a tall warrior woman dragging a small alien prisoner toward a muscular titan villain wearing armor",
+   "personajes": [
+    "Proxima Midnight",
+    "Thanos",
+    "Corvus Glaive",
+    "Cisne Negro",
+    "[habitante de Battleworld]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "cabal",
+    "captura"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Proxima Midnight",
+     "texto": "Thanos! I found this one trying to slip away. Perhaps he can tell us--",
+     "texto_es": "¡Thanos! Encontré a este intentando escabullirse. Tal vez pueda decirnos..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Yes, Proxima...",
+     "texto_es": "Sí, Proxima..."
+    }
+   ],
+   "lugar": "Superficie de Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-083-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    539,
+    33,
+    799,
+    968
+   ],
+   "descripcion": "Thanos levanta por el cuello al habitante amarillo con casco de cristal mientras Proxima Midnight observa detenidamente.",
+   "prompt_en": "Medium shot of Thanos holding a yellow alien by the neck in a barren alien landscape, dramatic low angle lighting",
+   "personajes": [
+    "Thanos",
+    "Proxima Midnight",
+    "[habitante de Battleworld]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "interrogatorio",
+    "thanos",
+    "dominacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Perhaps he can. Tell me, creature. Tell me... Where... are we?",
+     "texto_es": "Tal vez pueda. Dime, criatura. Dime... ¿Dónde... estamos?"
+    }
+   ],
+   "lugar": "Superficie de Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-083-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    807,
+    33,
+    992,
+    968
+   ],
+   "descripcion": "Plano cerrado del nativo aterrorizado explicando la creación de este mundo a Thanos, quien lo mira fríamente exigiendo una respuesta concreta.",
+   "prompt_en": "Close-up split panel of a frightened alien in a bubble helmet on left and Thanos' sinister face looking down on right",
+   "personajes": [
+    "Thanos",
+    "[habitante de Battleworld]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "revelacion",
+    "latverion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[habitante de Battleworld]",
+     "texto": "Th-this is Doom's world... which he made to test both the faithful and the unforgiven. The firmament, created with his own hands.",
+     "texto_es": "E-este es el mundo de Doom... el cual hizo para poner a prueba tanto a los fieles como a los imperdonables. El firmamento, creado con sus propias manos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "I want a name, you dithering, feeble worm. This place?",
+     "texto_es": "Quiero un nombre, gusano vacilante y débil. ¿Este lugar?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[habitante de Battleworld]",
+     "texto": "The high born call it Latverion. Believers call it God's Kingdom. But everyone else--we common folk--call it something else. We call it...",
+     "texto_es": "Los de cuna alta lo llaman Latverion. Los creyentes lo llaman el Reino de Dios. Pero todos los demás, la gente común, lo llamamos de otra forma. Lo llamamos..."
+    }
+   ],
+   "lugar": "Superficie de Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-083-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 3,
+ "pagina": 83,
+ "archivo": "paginas/page-083.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5689,
+ "_seg": 19.4
+}

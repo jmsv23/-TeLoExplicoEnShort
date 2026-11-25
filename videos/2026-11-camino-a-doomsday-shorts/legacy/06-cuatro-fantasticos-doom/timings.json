@@ -1,0 +1,1166 @@
+{
+ "duracion": 46.83,
+ "coincidencia": 0.898,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.131,
+   "fin": 5.275
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 5.776,
+   "fin": 37.639
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 37.659,
+   "fin": 43.752
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 44.073,
+   "fin": 46.659
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 3.073
+  },
+  {
+   "id": "2",
+   "nombre": "No son de aquí",
+   "inicio": 3.073,
+   "fin": 6.776
+  },
+  {
+   "id": "3",
+   "nombre": "La familia",
+   "inicio": 6.776,
+   "fin": 13.782
+  },
+  {
+   "id": "4",
+   "nombre": "Tierra retrofuturista",
+   "inicio": 13.782,
+   "fin": 18.085
+  },
+  {
+   "id": "5",
+   "nombre": "Compañeros",
+   "inicio": 18.085,
+   "fin": 21.988
+  },
+  {
+   "id": "6",
+   "nombre": "La advertencia",
+   "inicio": 21.988,
+   "fin": 24.751
+  },
+  {
+   "id": "7",
+   "nombre": "Doom no escuchó",
+   "inicio": 24.751,
+   "fin": 28.439
+  },
+  {
+   "id": "8",
+   "nombre": "El alumno brillante",
+   "inicio": 28.439,
+   "fin": 34.893
+  },
+  {
+   "id": "9",
+   "nombre": "Doom en escena",
+   "inicio": 34.893,
+   "fin": 37.96
+  },
+  {
+   "id": "10",
+   "nombre": "No solo héroes",
+   "inicio": 37.96,
+   "fin": 41.167
+  },
+  {
+   "id": "11",
+   "nombre": "Reed contra Doom",
+   "inicio": 41.167,
+   "fin": 44.073
+  },
+  {
+   "id": "12",
+   "nombre": "Siguiente número",
+   "inicio": 44.073,
+   "fin": 46.83
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.291,
+   "t_est": 0.4,
+   "ancla": "Cuatro"
+  },
+  {
+   "id": "1.3",
+   "t": 1.712,
+   "t_est": 1.9,
+   "ancla": "First"
+  },
+  {
+   "id": "2.1",
+   "t": 3.073,
+   "t_est": 3.5,
+   "ancla": "nuestro"
+  },
+  {
+   "id": "2.2",
+   "t": 3.802,
+   "t_est": 4.2,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "2.3",
+   "t": 4.635,
+   "t_est": 5.0,
+   "ancla": "cambia"
+  },
+  {
+   "id": "3.1",
+   "t": 6.776,
+   "t_est": 7.3,
+   "ancla": "Reed"
+  },
+  {
+   "id": "3.2",
+   "t": 8.618,
+   "t_est": 8.9,
+   "ancla": "Sue"
+  },
+  {
+   "id": "3.3",
+   "t": 10.246,
+   "t_est": 10.3,
+   "ancla": "Johnny"
+  },
+  {
+   "id": "3.4",
+   "t": 12.496,
+   "t_est": 11.4,
+   "ancla": "Grimm"
+  },
+  {
+   "id": "4.1",
+   "t": 13.782,
+   "t_est": 13.0,
+   "ancla": "familia"
+  },
+  {
+   "id": "4.2",
+   "t": 15.263,
+   "t_est": 14.3,
+   "ancla": "Tierra"
+  },
+  {
+   "id": "4.3",
+   "t": 17.004,
+   "t_est": 15.6,
+   "ancla": "sesenta"
+  },
+  {
+   "id": "5.1",
+   "t": 18.085,
+   "t_est": 16.9,
+   "ancla": "cómics"
+  },
+  {
+   "id": "5.2",
+   "t": 19.166,
+   "t_est": 18.0,
+   "ancla": "compañero"
+  },
+  {
+   "id": "5.3",
+   "t": 21.247,
+   "t_est": 19.4,
+   "ancla": "Doom"
+  },
+  {
+   "id": "6.1",
+   "t": 21.988,
+   "t_est": 20.8,
+   "ancla": "advirtió"
+  },
+  {
+   "id": "6.2",
+   "t": 23.369,
+   "t_est": 21.7,
+   "ancla": "fallaría"
+  },
+  {
+   "id": "7.1",
+   "t": 24.751,
+   "t_est": 22.9,
+   "ancla": "escuchó"
+  },
+  {
+   "id": "7.2",
+   "t": 25.633,
+   "t_est": 23.9,
+   "ancla": "explotó"
+  },
+  {
+   "id": "7.3",
+   "t": 27.277,
+   "t_est": 25.0,
+   "ancla": "culpa"
+  },
+  {
+   "id": "8.1",
+   "t": 28.439,
+   "t_est": 27.0,
+   "ancla": "alumno"
+  },
+  {
+   "id": "8.2",
+   "t": 31.005,
+   "t_est": 29.0,
+   "ancla": "ganaba"
+  },
+  {
+   "id": "8.3",
+   "t": 32.608,
+   "t_est": 30.3,
+   "ancla": "armaduras"
+  },
+  {
+   "id": "8.4",
+   "t": 33.089,
+   "t_est": 31.4,
+   "ancla": "rayos"
+  },
+  {
+   "id": "9.1",
+   "t": 34.893,
+   "t_est": 32.4,
+   "ancla": "película"
+  },
+  {
+   "id": "9.2",
+   "t": 35.314,
+   "t_est": 33.3,
+   "ancla": "termina"
+  },
+  {
+   "id": "9.3",
+   "t": 36.296,
+   "t_est": 34.2,
+   "ancla": "apareciendo"
+  },
+  {
+   "id": "10.1",
+   "t": 37.96,
+   "t_est": 35.7,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "10.2",
+   "t": 39.062,
+   "t_est": 36.8,
+   "ancla": "solo"
+  },
+  {
+   "id": "10.3",
+   "t": 40.044,
+   "t_est": 37.9,
+   "ancla": "villano"
+  },
+  {
+   "id": "11.1",
+   "t": 41.167,
+   "t_est": 38.8,
+   "ancla": "Reed"
+  },
+  {
+   "id": "11.2",
+   "t": 41.688,
+   "t_est": 39.8,
+   "ancla": "contra"
+  },
+  {
+   "id": "11.3",
+   "t": 42.049,
+   "t_est": 40.6,
+   "ancla": "hombre"
+  },
+  {
+   "id": "11.4",
+   "t": 42.63,
+   "t_est": 41.3,
+   "ancla": "odia"
+  },
+  {
+   "id": "11.5",
+   "t": 43.211,
+   "t_est": 42.0,
+   "ancla": "universidad"
+  },
+  {
+   "id": "12.1",
+   "t": 44.073,
+   "t_est": 42.7,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "12.2",
+   "t": 45.416,
+   "t_est": 44.1,
+   "ancla": "escudo"
+  },
+  {
+   "id": "12.3",
+   "t": 45.937,
+   "t_est": 44.9,
+   "ancla": "Capitán"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Los",
+   "seg": "S1",
+   "inicio": 0.131,
+   "fin": 0.211
+  },
+  {
+   "w": "Cuatro",
+   "seg": "S1",
+   "inicio": 0.291,
+   "fin": 0.531
+  },
+  {
+   "w": "Fantásticos",
+   "seg": "S1",
+   "inicio": 0.591,
+   "fin": 1.112
+  },
+  {
+   "w": "que",
+   "seg": "S1",
+   "inicio": 1.152,
+   "fin": 1.232
+  },
+  {
+   "w": "viste",
+   "seg": "S1",
+   "inicio": 1.332,
+   "fin": 1.532
+  },
+  {
+   "w": "en",
+   "seg": "S1",
+   "inicio": 1.572,
+   "fin": 1.652
+  },
+  {
+   "w": "First",
+   "seg": "S1",
+   "inicio": 1.712,
+   "fin": 1.973
+  },
+  {
+   "w": "Steps",
+   "seg": "S1",
+   "inicio": 1.993,
+   "fin": 2.293
+  },
+  {
+   "w": "no",
+   "seg": "S1",
+   "inicio": 2.593,
+   "fin": 2.673
+  },
+  {
+   "w": "son",
+   "seg": "S1",
+   "inicio": 2.753,
+   "fin": 2.893
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 2.933,
+   "fin": 3.033
+  },
+  {
+   "w": "nuestro",
+   "seg": "S1",
+   "inicio": 3.073,
+   "fin": 3.334
+  },
+  {
+   "w": "universo.",
+   "seg": "S1",
+   "inicio": 3.374,
+   "fin": 3.854
+  },
+  {
+   "w": "Y",
+   "seg": "S1",
+   "inicio": 4.194,
+   "fin": 4.294
+  },
+  {
+   "w": "eso",
+   "seg": "S1",
+   "inicio": 4.354,
+   "fin": 4.535
+  },
+  {
+   "w": "cambia",
+   "seg": "S1",
+   "inicio": 4.635,
+   "fin": 4.895
+  },
+  {
+   "w": "todo.",
+   "seg": "S1",
+   "inicio": 4.995,
+   "fin": 5.275
+  },
+  {
+   "w": "Pedro",
+   "seg": "S2",
+   "inicio": 5.776,
+   "fin": 6.016
+  },
+  {
+   "w": "Pascal",
+   "seg": "S2",
+   "inicio": 6.096,
+   "fin": 6.336
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 6.336,
+   "fin": 6.576
+  },
+  {
+   "w": "Reed",
+   "seg": "S2",
+   "inicio": 6.776,
+   "fin": 6.936
+  },
+  {
+   "w": "Richards,",
+   "seg": "S2",
+   "inicio": 7.016,
+   "fin": 7.437
+  },
+  {
+   "w": "Vanessa",
+   "seg": "S2",
+   "inicio": 7.617,
+   "fin": 7.957
+  },
+  {
+   "w": "Kirby",
+   "seg": "S2",
+   "inicio": 8.037,
+   "fin": 8.358
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 8.418,
+   "fin": 8.618
+  },
+  {
+   "w": "Sue,",
+   "seg": "S2",
+   "inicio": 8.618,
+   "fin": 8.818
+  },
+  {
+   "w": "Joseph",
+   "seg": "S2",
+   "inicio": 9.218,
+   "fin": 9.599
+  },
+  {
+   "w": "Quinn",
+   "seg": "S2",
+   "inicio": 9.659,
+   "fin": 9.952
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 9.952,
+   "fin": 10.246
+  },
+  {
+   "w": "Johnny",
+   "seg": "S2",
+   "inicio": 10.246,
+   "fin": 10.539
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 10.819,
+   "fin": 10.88
+  },
+  {
+   "w": "Ebon",
+   "seg": "S2",
+   "inicio": 10.96,
+   "fin": 11.2
+  },
+  {
+   "w": "Moss-Bachrach",
+   "seg": "S2",
+   "inicio": 11.28,
+   "fin": 11.685
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 11.685,
+   "fin": 12.09
+  },
+  {
+   "w": "Ben",
+   "seg": "S2",
+   "inicio": 12.09,
+   "fin": 12.496
+  },
+  {
+   "w": "Grimm.",
+   "seg": "S2",
+   "inicio": 12.496,
+   "fin": 12.901
+  },
+  {
+   "w": "La",
+   "seg": "S2",
+   "inicio": 13.321,
+   "fin": 13.401
+  },
+  {
+   "w": "primera",
+   "seg": "S2",
+   "inicio": 13.442,
+   "fin": 13.722
+  },
+  {
+   "w": "familia",
+   "seg": "S2",
+   "inicio": 13.782,
+   "fin": 14.082
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 14.122,
+   "fin": 14.202
+  },
+  {
+   "w": "Marvel",
+   "seg": "S2",
+   "inicio": 14.282,
+   "fin": 14.622
+  },
+  {
+   "w": "vive",
+   "seg": "S2",
+   "inicio": 14.703,
+   "fin": 14.883
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 14.903,
+   "fin": 14.983
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 15.023,
+   "fin": 15.143
+  },
+  {
+   "w": "Tierra",
+   "seg": "S2",
+   "inicio": 15.263,
+   "fin": 15.523
+  },
+  {
+   "w": "retrofuturista",
+   "seg": "S2",
+   "inicio": 15.643,
+   "fin": 16.364
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 16.424,
+   "fin": 16.504
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 16.564,
+   "fin": 16.664
+  },
+  {
+   "w": "años",
+   "seg": "S2",
+   "inicio": 16.744,
+   "fin": 16.924
+  },
+  {
+   "w": "sesenta.",
+   "seg": "S2",
+   "inicio": 17.004,
+   "fin": 17.385
+  },
+  {
+   "w": "En",
+   "seg": "S2",
+   "inicio": 17.845,
+   "fin": 17.905
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 17.945,
+   "fin": 18.045
+  },
+  {
+   "w": "cómics,",
+   "seg": "S2",
+   "inicio": 18.085,
+   "fin": 18.425
+  },
+  {
+   "w": "Reed",
+   "seg": "S2",
+   "inicio": 18.706,
+   "fin": 18.906
+  },
+  {
+   "w": "fue",
+   "seg": "S2",
+   "inicio": 18.986,
+   "fin": 19.106
+  },
+  {
+   "w": "compañero",
+   "seg": "S2",
+   "inicio": 19.166,
+   "fin": 19.666
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 19.706,
+   "fin": 19.766
+  },
+  {
+   "w": "universidad",
+   "seg": "S2",
+   "inicio": 19.827,
+   "fin": 20.347
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 20.427,
+   "fin": 20.507
+  },
+  {
+   "w": "Victor",
+   "seg": "S2",
+   "inicio": 20.627,
+   "fin": 20.927
+  },
+  {
+   "w": "von",
+   "seg": "S2",
+   "inicio": 20.987,
+   "fin": 21.247
+  },
+  {
+   "w": "Doom.",
+   "seg": "S2",
+   "inicio": 21.247,
+   "fin": 21.508
+  },
+  {
+   "w": "Le",
+   "seg": "S2",
+   "inicio": 21.888,
+   "fin": 21.948
+  },
+  {
+   "w": "advirtió",
+   "seg": "S2",
+   "inicio": 21.988,
+   "fin": 22.389
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 22.449,
+   "fin": 22.549
+  },
+  {
+   "w": "su",
+   "seg": "S2",
+   "inicio": 22.589,
+   "fin": 22.649
+  },
+  {
+   "w": "experimento",
+   "seg": "S2",
+   "inicio": 22.709,
+   "fin": 23.249
+  },
+  {
+   "w": "fallaría.",
+   "seg": "S2",
+   "inicio": 23.369,
+   "fin": 23.83
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 24.37,
+   "fin": 24.591
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 24.631,
+   "fin": 24.731
+  },
+  {
+   "w": "escuchó,",
+   "seg": "S2",
+   "inicio": 24.751,
+   "fin": 25.132
+  },
+  {
+   "w": "todo",
+   "seg": "S2",
+   "inicio": 25.372,
+   "fin": 25.573
+  },
+  {
+   "w": "explotó,",
+   "seg": "S2",
+   "inicio": 25.633,
+   "fin": 26.014
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 26.034,
+   "fin": 26.054
+  },
+  {
+   "w": "desde",
+   "seg": "S2",
+   "inicio": 26.355,
+   "fin": 26.575
+  },
+  {
+   "w": "entonces",
+   "seg": "S2",
+   "inicio": 26.615,
+   "fin": 27.056
+  },
+  {
+   "w": "lo",
+   "seg": "S2",
+   "inicio": 27.116,
+   "fin": 27.196
+  },
+  {
+   "w": "culpa.",
+   "seg": "S2",
+   "inicio": 27.277,
+   "fin": 27.577
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 28.018,
+   "fin": 28.098
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 28.159,
+   "fin": 28.299
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 28.339,
+   "fin": 28.399
+  },
+  {
+   "w": "alumno",
+   "seg": "S2",
+   "inicio": 28.439,
+   "fin": 28.78
+  },
+  {
+   "w": "más",
+   "seg": "S2",
+   "inicio": 28.88,
+   "fin": 29.0
+  },
+  {
+   "w": "brillante",
+   "seg": "S2",
+   "inicio": 29.06,
+   "fin": 29.521
+  },
+  {
+   "w": "contra",
+   "seg": "S2",
+   "inicio": 29.582,
+   "fin": 29.762
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 29.802,
+   "fin": 29.862
+  },
+  {
+   "w": "compañero",
+   "seg": "S2",
+   "inicio": 29.922,
+   "fin": 30.323
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 30.383,
+   "fin": 30.484
+  },
+  {
+   "w": "siempre",
+   "seg": "S2",
+   "inicio": 30.604,
+   "fin": 30.844
+  },
+  {
+   "w": "le",
+   "seg": "S2",
+   "inicio": 30.904,
+   "fin": 30.965
+  },
+  {
+   "w": "ganaba",
+   "seg": "S2",
+   "inicio": 31.005,
+   "fin": 31.285
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 31.345,
+   "fin": 31.426
+  },
+  {
+   "w": "exámenes,",
+   "seg": "S2",
+   "inicio": 31.466,
+   "fin": 31.927
+  },
+  {
+   "w": "pero",
+   "seg": "S2",
+   "inicio": 32.267,
+   "fin": 32.388
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 32.468,
+   "fin": 32.568
+  },
+  {
+   "w": "armaduras",
+   "seg": "S2",
+   "inicio": 32.608,
+   "fin": 33.029
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 33.049,
+   "fin": 33.069
+  },
+  {
+   "w": "rayos",
+   "seg": "S2",
+   "inicio": 33.089,
+   "fin": 33.65
+  },
+  {
+   "w": "cósmicos.",
+   "seg": "S2",
+   "inicio": 33.711,
+   "fin": 34.212
+  },
+  {
+   "w": "Y",
+   "seg": "S2",
+   "inicio": 34.673,
+   "fin": 34.733
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 34.773,
+   "fin": 34.833
+  },
+  {
+   "w": "película",
+   "seg": "S2",
+   "inicio": 34.893,
+   "fin": 35.254
+  },
+  {
+   "w": "termina",
+   "seg": "S2",
+   "inicio": 35.314,
+   "fin": 35.635
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 35.715,
+   "fin": 35.855
+  },
+  {
+   "w": "Doom",
+   "seg": "S2",
+   "inicio": 35.915,
+   "fin": 36.116
+  },
+  {
+   "w": "apareciendo",
+   "seg": "S2",
+   "inicio": 36.296,
+   "fin": 36.837
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 36.877,
+   "fin": 36.938
+  },
+  {
+   "w": "escena.",
+   "seg": "S2",
+   "inicio": 36.978,
+   "fin": 37.639
+  },
+  {
+   "w": "Por",
+   "seg": "S3",
+   "inicio": 37.659,
+   "fin": 37.779
+  },
+  {
+   "w": "eso",
+   "seg": "S3",
+   "inicio": 37.819,
+   "fin": 37.94
+  },
+  {
+   "w": "Doomsday",
+   "seg": "S3",
+   "inicio": 37.96,
+   "fin": 38.521
+  },
+  {
+   "w": "no",
+   "seg": "S3",
+   "inicio": 38.782,
+   "fin": 38.862
+  },
+  {
+   "w": "es",
+   "seg": "S3",
+   "inicio": 38.922,
+   "fin": 38.982
+  },
+  {
+   "w": "solo",
+   "seg": "S3",
+   "inicio": 39.062,
+   "fin": 39.243
+  },
+  {
+   "w": "héroes",
+   "seg": "S3",
+   "inicio": 39.263,
+   "fin": 39.623
+  },
+  {
+   "w": "contra",
+   "seg": "S3",
+   "inicio": 39.704,
+   "fin": 39.904
+  },
+  {
+   "w": "un",
+   "seg": "S3",
+   "inicio": 39.964,
+   "fin": 40.004
+  },
+  {
+   "w": "villano.",
+   "seg": "S3",
+   "inicio": 40.044,
+   "fin": 40.425
+  },
+  {
+   "w": "Es",
+   "seg": "S3",
+   "inicio": 40.946,
+   "fin": 41.046
+  },
+  {
+   "w": "Reed",
+   "seg": "S3",
+   "inicio": 41.167,
+   "fin": 41.407
+  },
+  {
+   "w": "contra",
+   "seg": "S3",
+   "inicio": 41.688,
+   "fin": 41.888
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 41.928,
+   "fin": 42.008
+  },
+  {
+   "w": "hombre",
+   "seg": "S3",
+   "inicio": 42.049,
+   "fin": 42.249
+  },
+  {
+   "w": "que",
+   "seg": "S3",
+   "inicio": 42.309,
+   "fin": 42.409
+  },
+  {
+   "w": "lo",
+   "seg": "S3",
+   "inicio": 42.469,
+   "fin": 42.55
+  },
+  {
+   "w": "odia",
+   "seg": "S3",
+   "inicio": 42.63,
+   "fin": 42.81
+  },
+  {
+   "w": "desde",
+   "seg": "S3",
+   "inicio": 42.87,
+   "fin": 43.051
+  },
+  {
+   "w": "la",
+   "seg": "S3",
+   "inicio": 43.111,
+   "fin": 43.171
+  },
+  {
+   "w": "universidad.",
+   "seg": "S3",
+   "inicio": 43.211,
+   "fin": 43.752
+  },
+  {
+   "w": "Siguiente:",
+   "seg": "S4",
+   "inicio": 44.073,
+   "fin": 44.474
+  },
+  {
+   "w": "quién",
+   "seg": "S4",
+   "inicio": 44.494,
+   "fin": 44.955
+  },
+  {
+   "w": "carga",
+   "seg": "S4",
+   "inicio": 45.015,
+   "fin": 45.256
+  },
+  {
+   "w": "el",
+   "seg": "S4",
+   "inicio": 45.296,
+   "fin": 45.376
+  },
+  {
+   "w": "escudo",
+   "seg": "S4",
+   "inicio": 45.416,
+   "fin": 45.717
+  },
+  {
+   "w": "del",
+   "seg": "S4",
+   "inicio": 45.777,
+   "fin": 45.897
+  },
+  {
+   "w": "Capitán",
+   "seg": "S4",
+   "inicio": 45.937,
+   "fin": 46.278
+  },
+  {
+   "w": "América.",
+   "seg": "S4",
+   "inicio": 46.318,
+   "fin": 46.659
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther y Namor usan la Llave de Agamotto para acceder al oculto Sanctum Sanctorum de Doctor Strange. Al ingresar, son recibidos por una enorme proyección holográfica de Doctor Strange que les cuestiona si son dignos y si conocen la historia secreta del mundo.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "Black Panther y Namor abren el Sanctum Sanctorum oculto de Strange",
+  "Aparición del mensaje holográfico grabado por Doctor Strange",
+  "El holograma pone a prueba la legitimidad de quienes poseen la Llave de Agamotto"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    33,
+    319,
+    297
+   ],
+   "descripcion": "Black Panther muestra la brillante Llave de Agamotto en su mano mientras habla con Namor.",
+   "prompt_en": "Black Panther holding a glowing golden eye key while talking to Namor in dark cinematic illumination, comic book art",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "llave-de-agamotto",
+    "black-panther",
+    "namor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "You forget...",
+     "texto_es": "Olvidas..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Stephen left us a key.",
+     "texto_es": "Stephen nos dejó una llave."
+    }
+   ],
+   "lugar": "Entrada del Sanctum Sanctorum",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-169-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    303,
+    319,
+    966
+   ],
+   "descripcion": "Namor sujetando su tridente y Black Panther se adentran en un portal de piedra pesada que se abre ruidosamente.",
+   "prompt_en": "Namor holding a trident walking alongside Black Panther into a massive opened ancient stone door, grand epic scale",
+   "personajes": [
+    "Namor",
+    "Black Panther (T meChalla)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sanctum-sanctorum",
+    "namor",
+    "black-panther"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "And whatever might be hidden inside.",
+     "texto_es": "Y lo que sea que esté escondido dentro."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Entorno",
+     "texto": "KRRRRMMMM",
+     "texto_es": "KRRRRMMMM"
+    }
+   ],
+   "lugar": "Entrada del Sanctum Sanctorum",
+   "tono": "épico",
+   "recorte": "vinetas/page-169-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    330,
+    0,
+    680,
+    1000
+   ],
+   "descripcion": "Una gigante cabeza holográfica de color azul translúcido de Doctor Strange se manifiesta ante las diminutas siluetas de Namor y Black Panther.",
+   "prompt_en": "A gigantic blue translucent glowing hologram of Doctor Strange face speaking to tiny superhero figures in a vast dark room",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Namor",
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "holograma-strange",
+    "sanctum-sanctorum",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Greetings, traveler.",
+     "texto_es": "Saludos, viajero."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "If you have found this--my Sanctum Sanctorum--it means you have braved the World Sea, the Great Leviathan horde, and the hidden isle itself...",
+     "texto_es": "Si has encontrado esto —mi Sanctum Sanctorum— significa que has desafiado el Mar del Mundo, la horda del Gran Leviatán y la mismísima isla oculta..."
+    }
+   ],
+   "lugar": "Sanctum Sanctorum",
+   "tono": "místico",
+   "recorte": "vinetas/page-169-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    695,
+    33,
+    976,
+    351
+   ],
+   "descripcion": "Vista en primer plano de Black Panther y Namor de espaldas observando el holograma azul de Doctor Strange.",
+   "prompt_en": "Close-up silhouette of superhero heroes looking at glowing mystical hologram projection of a wizard's face",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "black-panther",
+    "namor",
+    "holograma-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It also means that you have in your possession the Key of Agamotto, which could have only passed from my dying hand into yours.",
+     "texto_es": "También significa que tienes en tu poder la Llave de Agamotto, la cual solo pudo haber pasado de mi mano moribunda a la tuya."
+    }
+   ],
+   "lugar": "Sanctum Sanctorum",
+   "tono": "solemne",
+   "recorte": "vinetas/page-169-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    695,
+    358,
+    976,
+    966
+   ],
+   "descripcion": "Namor y Black Panther junto a imponentes estatuas de gárgolas de piedra mientras el holograma de Strange formula un acertijo.",
+   "prompt_en": "Heroes standing next to dark stone gargoyle statues in mystical hall with glowing spectral blue face in background",
+   "personajes": [
+    "Namor",
+    "Black Panther (T'Challa)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "memento-mori",
+    "sanctum-sanctorum",
+    "doctor-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "But was it given freely? Or was it taken without merit? The answer to this question will determine my true intent: tell me, traveler, do you know the secret history of the world?",
+     "texto_es": "¿Pero fue dada libremente? ¿O fue tomada sin mérito? La respuesta a esta pregunta determinará mi verdadera intención: dime, viajero, ¿conoces la historia secreta del mundo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Memento mori?",
+     "texto_es": "¿Memento mori?"
+    }
+   ],
+   "lugar": "Sanctum Sanctorum",
+   "tono": "igmático",
+   "recorte": "vinetas/page-169-v5.jpg"
+  }
+ ],
+ "lugar": "Sanctum Sanctorum de Doctor Strange (Isla de Agamotto)",
+ "numero_comic": 7,
+ "pagina": 169,
+ "archivo": "paginas/page-169.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6261,
+ "_seg": 22.2
+}

@@ -1,0 +1,188 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther (T'Challa) y Namor llegan a El Escudo. Mientras Namor cuestiona la efectividad de su misión y se burla sarcásticamente del título de 'Rey de los Muertos' de T'Challa, este se prepara para invocar sus poderes sobrenaturales.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Llegada a El Escudo",
+  "T'Challa usa sus facultades como Rey de los Muertos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    29,
+    344,
+    970
+   ],
+   "descripcion": "Vista panorámica de El Escudo, una colosal muralla que se extiende por el horizonte. T'Challa y Namor están en lo alto cerca de una estructura con forma de arco.",
+   "prompt_en": "Panoramic wide shot of a massive ancient stone wall extending into the distance across a barren mountain landscape under a light sky, two comic heroes stand near an archway in the upper right",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "battleworld",
+    "llegada"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE SHIELD.",
+     "texto_es": "EL ESCUDO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "There were almost actual tears.",
+     "texto_es": "Casi hubo lágrimas de verdad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Stay with the courageous.",
+     "texto_es": "Quédate con los valientes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "I'm going down.",
+     "texto_es": "Voy para abajo."
+    }
+   ],
+   "lugar": "El Escudo (The Shield)",
+   "recorte": "vinetas/page-184-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    355,
+    30,
+    536,
+    969
+   ],
+   "descripcion": "Namor en primer plano observando desde atrás a T'Challa descender hacia la niebla mientras expresa su escepticismo sobre la misión.",
+   "prompt_en": "Over-the-shoulder view of Namor looking down at Black Panther walking down a rocky slope filled with light misty vapors",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-escudo",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "Hmm. It wasn't like I was volunteering to go, T'Challa.",
+     "texto_es": "Hmm. Tampoco es que me ofreciera voluntario para ir, T'Challa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "After all, I thought we were charging into battle with Stephen Strange's secret arsenal...",
+     "texto_es": "Después de todo, pensé que íbamos a lanzarnos a la batalla con el arsenal secreto de Stephen Strange..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "Honestly, I don't even know what we're doing here.",
+     "texto_es": "Honestamente, ni siquiera sé qué hacemos aquí."
+    }
+   ],
+   "lugar": "El Escudo (The Shield)",
+   "recorte": "vinetas/page-184-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    549,
+    31,
+    694,
+    970
+   ],
+   "descripcion": "Plano detalle de la mano enguantada de Black Panther sosteniendo esferas místicas brillantes, mientras a lo lejos Namor continúa hablando sentado en la colina.",
+   "prompt_en": "Close-up detail of a superhero's gloved hand holding small glowing spheres, misty backdrop with a distant seated figure",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "rey-de-los-muertos",
+    "artefacto"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "And one other thing...this \"King of the Dead\" appellation you've been spouting since before our first incursion...",
+     "texto_es": "Y otra cosa... ese apelativo de \"Rey de los Muertos\" que has estado pregonando desde antes de nuestra primera incursión..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "...it's ambiguous, and, frankly...",
+     "texto_es": "...es ambiguo y, francamente..."
+    }
+   ],
+   "lugar": "El Escudo (The Shield)",
+   "recorte": "vinetas/page-184-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    708,
+    30,
+    994,
+    969
+   ],
+   "descripcion": "Black Panther se agacha decididamente y arroja las esferas brillantes al suelo, creando humo espeso mientras le responde tajantemente a Namor.",
+   "prompt_en": "Comic panel of Black Panther in a dynamic low crouch throwing glowing spheres onto the misty ground, smoke rising around him",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "rey-de-los-muertos",
+    "invocacion",
+    "accion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "...don't you think it's getting a bit old?",
+     "texto_es": "...¿no crees que se está volviendo un poco viejo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "No. I don't.",
+     "texto_es": "No. No lo creo."
+    }
+   ],
+   "lugar": "El Escudo (The Shield)",
+   "recorte": "vinetas/page-184-v4.jpg"
+  }
+ ],
+ "lugar": "El Escudo (The Shield)",
+ "numero_comic": 7,
+ "pagina": 184,
+ "archivo": "paginas/page-184.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5993,
+ "_seg": 21.3
+}

@@ -1,0 +1,198 @@
+{
+ "tipo": "historia",
+ "resumen": "El Doctor Doom y Sue Storm observan desde su mirador el combate donde Mister Fantástico (Reed Richards) lucha en el campo de batalla. Reconociendo finalmente a su eterno rival, Doom decide intervenir personalmente en el conflicto y desciende a la batalla.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Mister Fantástico",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Doom reconoce a Reed Richards entre los supervivientes de la balsa",
+  "Doom decide descender personalmente a la batalla"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    37,
+    287,
+    627
+   ],
+   "descripcion": "Sue Storm y Doctor Doom observan la figura gigante proyectada de Mister Fantástico (Reed Richards) estirándose durante la batalla.",
+   "prompt_en": "Comic book panel showing a blonde woman in white and a hooded masked monarch looking at a holographic projection of a stretching superhero with a beard.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom",
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "reed-richards",
+    "doom-dios",
+    "sue-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "I don't know what it is about this one, my love...",
+     "texto_es": "No sé qué tiene este, mi amor..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "But there's something different about him. Something... special.",
+     "texto_es": "Pero hay algo diferente en él. Algo... especial."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-121-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    635,
+    287,
+    966
+   ],
+   "descripcion": "Primer plano del Doctor Doom con su icónica máscara metálica y capucha blanca, contemplando fijamente a su rival.",
+   "prompt_en": "Close up panel of Doctor Doom wearing a silver iron mask and white hooded cloak, looking down intensely.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "rivalidad"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Indeed there is. I spent years looking in every corner of every kingdom for some version of you...",
+     "texto_es": "En efecto. Pasé años buscando en cada rincón de cada reino alguna versión de ti..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "And now here you are. Brought before me.",
+     "texto_es": "Y ahora aquí estás. Traído ante mí."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-121-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    291,
+    37,
+    592,
+    966
+   ],
+   "descripcion": "Vista panorámica del caótico campo de batalla lleno de humo y miembros del Thor Corps combatiendo, con la figura de Sue y Doom observando.",
+   "prompt_en": "Wide comic panel showing a smoky chaotic battlefield filled with warrior Thors fighting, viewed from above by glowing ethereal figures.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom",
+    "Mister Fantástico",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "batalla-campo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Susan, summon the surgeons. Tell them to prepare for wounded.",
+     "texto_es": "Susan, llama a los cirujanos. Diles que se preparen para los heridos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Has something caught your eye, my love?",
+     "texto_es": "¿Algo ha llamado tu atención, mi amor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Yes, my queen. It stirs me to action.",
+     "texto_es": "Sí, mi reina. Me impulsa a actuar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "But fear not...",
+     "texto_es": "Pero no temas..."
+    }
+   ],
+   "lugar": "Campo de batalla, Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-121-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    594,
+    37,
+    978,
+    966
+   ],
+   "descripcion": "Primer plano extremo de los ojos de Doom dentro de la máscara, mientras una potente onda de poder (onomatopeya WHOOUMMFFF) resuena en el campo de batalla.",
+   "prompt_en": "Extreme close up of a villain's eyes inside a silver metal mask, with huge yellow sound effect letters sound wave below on a smoky field.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Thor Corps",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "onomatopeya",
+    "teletransporte"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I will return shortly.",
+     "texto_es": "Regresaré en breve."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "WHOOUMMFFF",
+     "texto_es": "WHOOUMMFFF"
+    }
+   ],
+   "lugar": "Campo de batalla, Battleworld",
+   "tono": "imponente",
+   "recorte": "vinetas/page-121-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 121,
+ "archivo": "paginas/page-121.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5418,
+ "_seg": 20.0
+}

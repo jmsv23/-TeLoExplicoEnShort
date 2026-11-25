@@ -1,0 +1,248 @@
+{
+ "tipo": "historia",
+ "resumen": "Mientras Maximus y su ejército distraen a las fuerzas de Doom, el Hacedor y Reed Richards preparan una misión de infiltración junto a Star-Lord para recuperar lo más valioso del Multiverso. Reed contacta a T'Challa para ejecutar sus planes secretos.",
+ "personajes": [
+  "El Hacedor",
+  "Mister Fantástico",
+  "Star-Lord"
+ ],
+ "eventos_clave": [
+  "El Hacedor explica el plan de distracción usando a Maximus contra Doom.",
+  "El equipo de infiltración prepara la nave pilotada por Star-Lord.",
+  "Reed Richards contacta a T'Challa para activar sus planes secretos."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    36,
+    307,
+    374
+   ],
+   "descripcion": "Vista del área exterior de la instalación 'Project 42' en el terreno de Battleworld.",
+   "prompt_en": "Aerial view of a sci-fi desert canyon complex on Battleworld, comic book art style.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "project-42",
+    "battleworld",
+    "infiltracion"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "PROJECT 42.",
+     "texto_es": "PROYECTO 42."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Witness, Richards...a sweet symphony...",
+     "texto_es": "Observa, Richards... una dulce sinfonía..."
+    }
+   ],
+   "lugar": "Project 42",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-182-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    381,
+    307,
+    969
+   ],
+   "descripcion": "El Hacedor inclinado sonriendo mientras le habla a Reed Richards, quien está de espaldas.",
+   "prompt_en": "The Maker in a sleek black suit leaning forward and talking slyly, medium shot, comic book art.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "planificacion",
+    "el-hacedor",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "...orchestrated by me to perfection-- Maximus and his army have engaged the forces of Doom.",
+     "texto_es": "...orquestada por mí a la perfección-- Maximus y su ejército ya han atacado a las fuerzas de Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "With one hand we distract them, while with the other...",
+     "texto_es": "Con una mano los distraemos, mientras que con la otra..."
+    }
+   ],
+   "lugar": "Project 42",
+   "tono": "calculador",
+   "recorte": "vinetas/page-182-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    320,
+    31,
+    737,
+    969
+   ],
+   "descripcion": "Reed Richards bajando una escalera en el hangar cerca de la nave donde Star-Lord les da el visto bueno desde la cabina.",
+   "prompt_en": "Mister Fantastic in blue uniform walking down steps holding a bag near a futuristic spaceship with Star-Lord inside giving a thumbs up, comic book splash page panel.",
+   "personajes": [
+    "Mister Fantástico",
+    "Star-Lord",
+    "El Hacedor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hangar",
+    "star-lord",
+    "nave-espacial",
+    "infiltracion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "...we slip a small team--us--past them to steal the most valuable thing that's left of the Multiverse.",
+     "texto_es": "...infiltramos a un equipo pequeño --nosotros-- entre ellos para robar lo más valioso que queda del Multiverso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Are you sure you can pilot us in there undetected, Star-Lord?",
+     "texto_es": "¿Estás seguro de que puedes pilotarnos allí sin ser detectados, Star-Lord?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Absolutely.",
+     "texto_es": "Absolutamente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Probably.",
+     "texto_es": "Probablemente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "There's a decent chance.",
+     "texto_es": "Hay una posibilidad decente."
+    }
+   ],
+   "lugar": "Hangar del Proyecto 42",
+   "tono": "humorístico",
+   "recorte": "vinetas/page-182-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    746,
+    31,
+    982,
+    416
+   ],
+   "descripcion": "Primer plano del rostro del Hacedor con una mirada siniestra y confiada.",
+   "prompt_en": "Close up of The Maker's face smiling villainously, realistic comic book illustration.",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Then all we need is for the battle to last long enough to obscure our arrival and departure.",
+     "texto_es": "Entonces todo lo que necesitamos es que la batalla dure lo suficiente como para ocultar nuestra llegada y salida."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Call me a pessimist, but I don't think the frothy mob of Maximus is going to take us the distance.",
+     "texto_es": "Llámame pesimista, pero no creo que la turbulenta multitud de Maximus vaya a aguantar mucho tiempo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Time for revelations, Reed...",
+     "texto_es": "Es hora de las revelaciones, Reed..."
+    }
+   ],
+   "lugar": "Hangar del Proyecto 42",
+   "tono": "intenso",
+   "recorte": "vinetas/page-182-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    746,
+    417,
+    982,
+    969
+   ],
+   "descripcion": "Perfil de Mister Fantástico ajustando su auricular y llamando a T'Challa.",
+   "prompt_en": "Mister Fantastic profile touching his earpiece communicator, talking, comic book style.",
+   "personajes": [
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-fantastico",
+    "comunicador",
+    "tchalla"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Unleash those secret plans of yours.",
+     "texto_es": "Desata esos planes secretos tuyos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Actually, they're not my plans at all.",
+     "texto_es": "De hecho, no son mis planes en absoluto."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Comunicador",
+     "texto": "BE-DOOP",
+     "texto_es": "BE-DOOP"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Can you hear me, T'Challa?",
+     "texto_es": "¿Puedes oírme, T'Challa?"
+    }
+   ],
+   "lugar": "Hangar del Proyecto 42",
+   "tono": "determinado",
+   "recorte": "vinetas/page-182-v5.jpg"
+  }
+ ],
+ "lugar": "Project 42",
+ "numero_comic": 7,
+ "pagina": 182,
+ "archivo": "paginas/page-182.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5102,
+ "_seg": 16.4
+}

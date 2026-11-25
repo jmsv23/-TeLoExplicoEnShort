@@ -1,0 +1,1135 @@
+{
+ "duracion": 45.76,
+ "coincidencia": 0.944,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.151,
+   "fin": 7.916
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 8.336,
+   "fin": 35.88
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 36.221,
+   "fin": 42.613
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 43.114,
+   "fin": 45.659
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 5.314
+  },
+  {
+   "id": "2",
+   "nombre": "Los originales",
+   "inicio": 5.314,
+   "fin": 8.636
+  },
+  {
+   "id": "3",
+   "nombre": "Reunión imposible",
+   "inicio": 8.636,
+   "fin": 11.538
+  },
+  {
+   "id": "4",
+   "nombre": "Los derechos",
+   "inicio": 11.538,
+   "fin": 16.24
+  },
+  {
+   "id": "5",
+   "nombre": "Preparando el terreno",
+   "inicio": 16.24,
+   "fin": 18.602
+  },
+  {
+   "id": "6",
+   "nombre": "Xavier en Strange",
+   "inicio": 18.602,
+   "fin": 23.044
+  },
+  {
+   "id": "7",
+   "nombre": "Se suman",
+   "inicio": 23.044,
+   "fin": 29.888
+  },
+  {
+   "id": "8",
+   "nombre": "De otra Tierra",
+   "inicio": 29.888,
+   "fin": 32.273
+  },
+  {
+   "id": "9",
+   "nombre": "La banda",
+   "inicio": 32.273,
+   "fin": 36.221
+  },
+  {
+   "id": "10",
+   "nombre": "Misma pantalla",
+   "inicio": 36.221,
+   "fin": 39.507
+  },
+  {
+   "id": "11",
+   "nombre": "Multiverso abierto",
+   "inicio": 39.507,
+   "fin": 43.114
+  },
+  {
+   "id": "12",
+   "nombre": "Siguiente número",
+   "inicio": 43.114,
+   "fin": 45.76
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 0.151,
+   "t_est": 0.2,
+   "ancla": "Profesor"
+  },
+  {
+   "id": "1.3",
+   "t": 1.012,
+   "t_est": 1.0,
+   "ancla": "Magneto"
+  },
+  {
+   "id": "1.4",
+   "t": 1.652,
+   "t_est": 1.6,
+   "ancla": "Cíclope"
+  },
+  {
+   "id": "1.5",
+   "t": 2.352,
+   "t_est": 2.2,
+   "ancla": "Bestia"
+  },
+  {
+   "id": "1.6",
+   "t": 3.033,
+   "t_est": 2.7,
+   "ancla": "Rondador"
+  },
+  {
+   "id": "2.1",
+   "t": 5.314,
+   "t_est": 3.8,
+   "ancla": "originales"
+  },
+  {
+   "id": "2.2",
+   "t": 5.914,
+   "t_est": 4.8,
+   "ancla": "Fox"
+  },
+  {
+   "id": "2.3",
+   "t": 7.395,
+   "t_est": 5.7,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "3.1",
+   "t": 8.636,
+   "t_est": 6.5,
+   "ancla": "reunión"
+  },
+  {
+   "id": "3.2",
+   "t": 9.496,
+   "t_est": 7.6,
+   "ancla": "imposible"
+  },
+  {
+   "id": "4.1",
+   "t": 11.538,
+   "t_est": 9.3,
+   "ancla": "derechos"
+  },
+  {
+   "id": "4.2",
+   "t": 12.078,
+   "t_est": 10.6,
+   "ancla": "mutantes"
+  },
+  {
+   "id": "4.3",
+   "t": 12.878,
+   "t_est": 11.8,
+   "ancla": "Disney"
+  },
+  {
+   "id": "4.4",
+   "t": 13.559,
+   "t_est": 12.7,
+   "ancla": "Fox"
+  },
+  {
+   "id": "4.5",
+   "t": 14.272,
+   "t_est": 13.6,
+   "ancla": "diecinueve"
+  },
+  {
+   "id": "5.1",
+   "t": 16.24,
+   "t_est": 14.4,
+   "ancla": "preparando"
+  },
+  {
+   "id": "5.2",
+   "t": 16.761,
+   "t_est": 15.4,
+   "ancla": "terreno"
+  },
+  {
+   "id": "6.1",
+   "t": 18.602,
+   "t_est": 16.8,
+   "ancla": "apareció"
+  },
+  {
+   "id": "6.2",
+   "t": 19.302,
+   "t_est": 18.4,
+   "ancla": "Xavier"
+  },
+  {
+   "id": "6.3",
+   "t": 20.303,
+   "t_est": 19.6,
+   "ancla": "Strange"
+  },
+  {
+   "id": "6.4",
+   "t": 21.703,
+   "t_est": 20.9,
+   "ancla": "locura"
+  },
+  {
+   "id": "7.1",
+   "t": 23.044,
+   "t_est": 21.9,
+   "ancla": "suman"
+  },
+  {
+   "id": "7.2",
+   "t": 23.444,
+   "t_est": 23.2,
+   "ancla": "Ian"
+  },
+  {
+   "id": "7.3",
+   "t": 24.485,
+   "t_est": 24.3,
+   "ancla": "James"
+  },
+  {
+   "id": "7.4",
+   "t": 25.606,
+   "t_est": 25.4,
+   "ancla": "Alan"
+  },
+  {
+   "id": "7.5",
+   "t": 26.546,
+   "t_est": 26.3,
+   "ancla": "Kelsey"
+  },
+  {
+   "id": "7.6",
+   "t": 27.547,
+   "t_est": 27.1,
+   "ancla": "Rebecca"
+  },
+  {
+   "id": "7.7",
+   "t": 28.607,
+   "t_est": 27.8,
+   "ancla": "Channing"
+  },
+  {
+   "id": "8.1",
+   "t": 29.888,
+   "t_est": 28.1,
+   "ancla": "Todos"
+  },
+  {
+   "id": "8.2",
+   "t": 30.75,
+   "t_est": 29.1,
+   "ancla": "Tierra"
+  },
+  {
+   "id": "9.1",
+   "t": 32.273,
+   "t_est": 30.8,
+   "ancla": "banda"
+  },
+  {
+   "id": "9.2",
+   "t": 33.615,
+   "t_est": 33.5,
+   "ancla": "reunida"
+  },
+  {
+   "id": "9.3",
+   "t": 34.818,
+   "t_est": 34.6,
+   "ancla": "gira"
+  },
+  {
+   "id": "9.4",
+   "t": 35.599,
+   "t_est": 35.6,
+   "ancla": "nueva"
+  },
+  {
+   "id": "10.1",
+   "t": 36.221,
+   "t_est": 36.8,
+   "ancla": "Mutantes"
+  },
+  {
+   "id": "10.2",
+   "t": 36.822,
+   "t_est": 37.8,
+   "ancla": "Avengers"
+  },
+  {
+   "id": "10.3",
+   "t": 38.244,
+   "t_est": 38.5,
+   "ancla": "pantalla"
+  },
+  {
+   "id": "11.1",
+   "t": 39.507,
+   "t_est": 39.8,
+   "ancla": "multiverso"
+  },
+  {
+   "id": "11.2",
+   "t": 40.389,
+   "t_est": 41.0,
+   "ancla": "nadie"
+  },
+  {
+   "id": "11.3",
+   "t": 41.431,
+   "t_est": 41.9,
+   "ancla": "cuántos"
+  },
+  {
+   "id": "11.4",
+   "t": 42.312,
+   "t_est": 42.5,
+   "ancla": "llegar"
+  },
+  {
+   "id": "12.1",
+   "t": 43.114,
+   "t_est": 43.3,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "12.2",
+   "t": 44.476,
+   "t_est": 44.1,
+   "ancla": "volver"
+  },
+  {
+   "id": "12.3",
+   "t": 45.198,
+   "t_est": 44.9,
+   "ancla": "Endgame"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Profesor",
+   "seg": "S1",
+   "inicio": 0.151,
+   "fin": 0.431
+  },
+  {
+   "w": "X,",
+   "seg": "S1",
+   "inicio": 0.671,
+   "fin": 0.891
+  },
+  {
+   "w": "Magneto,",
+   "seg": "S1",
+   "inicio": 1.012,
+   "fin": 1.492
+  },
+  {
+   "w": "Cíclope,",
+   "seg": "S1",
+   "inicio": 1.652,
+   "fin": 2.152
+  },
+  {
+   "w": "Bestia",
+   "seg": "S1",
+   "inicio": 2.352,
+   "fin": 2.733
+  },
+  {
+   "w": "y",
+   "seg": "S1",
+   "inicio": 2.753,
+   "fin": 2.773
+  },
+  {
+   "w": "Rondador",
+   "seg": "S1",
+   "inicio": 3.033,
+   "fin": 3.393
+  },
+  {
+   "w": "Nocturno.",
+   "seg": "S1",
+   "inicio": 3.453,
+   "fin": 3.973
+  },
+  {
+   "w": "Los",
+   "seg": "S1",
+   "inicio": 4.514,
+   "fin": 4.614
+  },
+  {
+   "w": "X-Men",
+   "seg": "S1",
+   "inicio": 4.854,
+   "fin": 5.194
+  },
+  {
+   "w": "originales",
+   "seg": "S1",
+   "inicio": 5.314,
+   "fin": 5.754
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 5.774,
+   "fin": 5.854
+  },
+  {
+   "w": "Fox",
+   "seg": "S1",
+   "inicio": 5.914,
+   "fin": 6.114
+  },
+  {
+   "w": "están",
+   "seg": "S1",
+   "inicio": 6.275,
+   "fin": 6.475
+  },
+  {
+   "w": "en",
+   "seg": "S1",
+   "inicio": 6.535,
+   "fin": 6.575
+  },
+  {
+   "w": "Avengers:",
+   "seg": "S1",
+   "inicio": 6.635,
+   "fin": 7.115
+  },
+  {
+   "w": "Doomsday.",
+   "seg": "S1",
+   "inicio": 7.395,
+   "fin": 7.916
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 8.336,
+   "fin": 8.416
+  },
+  {
+   "w": "una",
+   "seg": "S2",
+   "inicio": 8.476,
+   "fin": 8.576
+  },
+  {
+   "w": "reunión",
+   "seg": "S2",
+   "inicio": 8.636,
+   "fin": 8.896
+  },
+  {
+   "w": "que",
+   "seg": "S2",
+   "inicio": 8.956,
+   "fin": 9.036
+  },
+  {
+   "w": "parecía",
+   "seg": "S2",
+   "inicio": 9.096,
+   "fin": 9.436
+  },
+  {
+   "w": "imposible.",
+   "seg": "S2",
+   "inicio": 9.496,
+   "fin": 10.017
+  },
+  {
+   "w": "Marvel",
+   "seg": "S2",
+   "inicio": 10.537,
+   "fin": 10.897
+  },
+  {
+   "w": "recuperó",
+   "seg": "S2",
+   "inicio": 10.977,
+   "fin": 11.337
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 11.377,
+   "fin": 11.478
+  },
+  {
+   "w": "derechos",
+   "seg": "S2",
+   "inicio": 11.538,
+   "fin": 11.798
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 11.838,
+   "fin": 11.918
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 11.938,
+   "fin": 12.038
+  },
+  {
+   "w": "mutantes",
+   "seg": "S2",
+   "inicio": 12.078,
+   "fin": 12.478
+  },
+  {
+   "w": "cuando",
+   "seg": "S2",
+   "inicio": 12.498,
+   "fin": 12.798
+  },
+  {
+   "w": "Disney",
+   "seg": "S2",
+   "inicio": 12.878,
+   "fin": 13.159
+  },
+  {
+   "w": "compró",
+   "seg": "S2",
+   "inicio": 13.179,
+   "fin": 13.519
+  },
+  {
+   "w": "Fox",
+   "seg": "S2",
+   "inicio": 13.559,
+   "fin": 13.979
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 13.999,
+   "fin": 14.039
+  },
+  {
+   "w": "dos",
+   "seg": "S2",
+   "inicio": 14.099,
+   "fin": 14.186
+  },
+  {
+   "w": "mil",
+   "seg": "S2",
+   "inicio": 14.186,
+   "fin": 14.272
+  },
+  {
+   "w": "diecinueve.",
+   "seg": "S2",
+   "inicio": 14.272,
+   "fin": 14.359
+  },
+  {
+   "w": "Desde",
+   "seg": "S2",
+   "inicio": 14.399,
+   "fin": 15.62
+  },
+  {
+   "w": "entonces",
+   "seg": "S2",
+   "inicio": 15.66,
+   "fin": 16.02
+  },
+  {
+   "w": "fue",
+   "seg": "S2",
+   "inicio": 16.08,
+   "fin": 16.2
+  },
+  {
+   "w": "preparando",
+   "seg": "S2",
+   "inicio": 16.24,
+   "fin": 16.62
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 16.661,
+   "fin": 16.721
+  },
+  {
+   "w": "terreno:",
+   "seg": "S2",
+   "inicio": 16.761,
+   "fin": 17.141
+  },
+  {
+   "w": "Patrick",
+   "seg": "S2",
+   "inicio": 17.601,
+   "fin": 17.901
+  },
+  {
+   "w": "Stewart",
+   "seg": "S2",
+   "inicio": 17.921,
+   "fin": 18.321
+  },
+  {
+   "w": "ya",
+   "seg": "S2",
+   "inicio": 18.442,
+   "fin": 18.582
+  },
+  {
+   "w": "apareció",
+   "seg": "S2",
+   "inicio": 18.602,
+   "fin": 18.982
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 19.042,
+   "fin": 19.202
+  },
+  {
+   "w": "Xavier",
+   "seg": "S2",
+   "inicio": 19.302,
+   "fin": 19.702
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 19.822,
+   "fin": 19.882
+  },
+  {
+   "w": "Doctor",
+   "seg": "S2",
+   "inicio": 19.942,
+   "fin": 20.283
+  },
+  {
+   "w": "Strange",
+   "seg": "S2",
+   "inicio": 20.303,
+   "fin": 20.683
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 20.783,
+   "fin": 20.863
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 20.883,
+   "fin": 20.963
+  },
+  {
+   "w": "multiverso",
+   "seg": "S2",
+   "inicio": 21.023,
+   "fin": 21.483
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 21.503,
+   "fin": 21.563
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 21.603,
+   "fin": 21.643
+  },
+  {
+   "w": "locura.",
+   "seg": "S2",
+   "inicio": 21.703,
+   "fin": 22.084
+  },
+  {
+   "w": "Ahora",
+   "seg": "S2",
+   "inicio": 22.664,
+   "fin": 22.864
+  },
+  {
+   "w": "se",
+   "seg": "S2",
+   "inicio": 22.904,
+   "fin": 22.984
+  },
+  {
+   "w": "suman",
+   "seg": "S2",
+   "inicio": 23.044,
+   "fin": 23.304
+  },
+  {
+   "w": "Ian",
+   "seg": "S2",
+   "inicio": 23.444,
+   "fin": 23.645
+  },
+  {
+   "w": "McKellen,",
+   "seg": "S2",
+   "inicio": 23.665,
+   "fin": 24.145
+  },
+  {
+   "w": "James",
+   "seg": "S2",
+   "inicio": 24.485,
+   "fin": 24.745
+  },
+  {
+   "w": "Marsden,",
+   "seg": "S2",
+   "inicio": 24.805,
+   "fin": 25.225
+  },
+  {
+   "w": "Alan",
+   "seg": "S2",
+   "inicio": 25.606,
+   "fin": 25.826
+  },
+  {
+   "w": "Cumming,",
+   "seg": "S2",
+   "inicio": 25.866,
+   "fin": 26.226
+  },
+  {
+   "w": "Kelsey",
+   "seg": "S2",
+   "inicio": 26.546,
+   "fin": 26.846
+  },
+  {
+   "w": "Grammer,",
+   "seg": "S2",
+   "inicio": 26.866,
+   "fin": 27.267
+  },
+  {
+   "w": "Rebecca",
+   "seg": "S2",
+   "inicio": 27.547,
+   "fin": 27.887
+  },
+  {
+   "w": "Romijn",
+   "seg": "S2",
+   "inicio": 27.987,
+   "fin": 28.367
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 28.487,
+   "fin": 28.527
+  },
+  {
+   "w": "Channing",
+   "seg": "S2",
+   "inicio": 28.607,
+   "fin": 28.867
+  },
+  {
+   "w": "Tatum.",
+   "seg": "S2",
+   "inicio": 28.908,
+   "fin": 29.248
+  },
+  {
+   "w": "Todos",
+   "seg": "S2",
+   "inicio": 29.888,
+   "fin": 30.109
+  },
+  {
+   "w": "vienen",
+   "seg": "S2",
+   "inicio": 30.149,
+   "fin": 30.369
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 30.409,
+   "fin": 30.489
+  },
+  {
+   "w": "otra",
+   "seg": "S2",
+   "inicio": 30.55,
+   "fin": 30.69
+  },
+  {
+   "w": "Tierra.",
+   "seg": "S2",
+   "inicio": 30.75,
+   "fin": 31.071
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 31.551,
+   "fin": 31.632
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 31.692,
+   "fin": 31.832
+  },
+  {
+   "w": "ver",
+   "seg": "S2",
+   "inicio": 31.892,
+   "fin": 32.032
+  },
+  {
+   "w": "a",
+   "seg": "S2",
+   "inicio": 32.052,
+   "fin": 32.072
+  },
+  {
+   "w": "tu",
+   "seg": "S2",
+   "inicio": 32.133,
+   "fin": 32.233
+  },
+  {
+   "w": "banda",
+   "seg": "S2",
+   "inicio": 32.273,
+   "fin": 32.473
+  },
+  {
+   "w": "favorita",
+   "seg": "S2",
+   "inicio": 32.533,
+   "fin": 32.894
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 32.934,
+   "fin": 33.014
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 33.054,
+   "fin": 33.155
+  },
+  {
+   "w": "dos",
+   "seg": "S2",
+   "inicio": 33.175,
+   "fin": 33.365
+  },
+  {
+   "w": "mil",
+   "seg": "S2",
+   "inicio": 33.365,
+   "fin": 33.555
+  },
+  {
+   "w": "reunida,",
+   "seg": "S2",
+   "inicio": 33.615,
+   "fin": 34.056
+  },
+  {
+   "w": "ahora",
+   "seg": "S2",
+   "inicio": 34.477,
+   "fin": 34.637
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 34.678,
+   "fin": 34.738
+  },
+  {
+   "w": "gira",
+   "seg": "S2",
+   "inicio": 34.818,
+   "fin": 35.018
+  },
+  {
+   "w": "con",
+   "seg": "S2",
+   "inicio": 35.058,
+   "fin": 35.158
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 35.199,
+   "fin": 35.259
+  },
+  {
+   "w": "banda",
+   "seg": "S2",
+   "inicio": 35.319,
+   "fin": 35.539
+  },
+  {
+   "w": "nueva.",
+   "seg": "S2",
+   "inicio": 35.599,
+   "fin": 35.88
+  },
+  {
+   "w": "Mutantes",
+   "seg": "S3",
+   "inicio": 36.221,
+   "fin": 36.661
+  },
+  {
+   "w": "y",
+   "seg": "S3",
+   "inicio": 36.681,
+   "fin": 36.701
+  },
+  {
+   "w": "Avengers",
+   "seg": "S3",
+   "inicio": 36.822,
+   "fin": 37.222
+  },
+  {
+   "w": "por",
+   "seg": "S3",
+   "inicio": 37.303,
+   "fin": 37.403
+  },
+  {
+   "w": "fin",
+   "seg": "S3",
+   "inicio": 37.483,
+   "fin": 37.643
+  },
+  {
+   "w": "comparten",
+   "seg": "S3",
+   "inicio": 37.703,
+   "fin": 38.184
+  },
+  {
+   "w": "pantalla.",
+   "seg": "S3",
+   "inicio": 38.244,
+   "fin": 38.705
+  },
+  {
+   "w": "Y",
+   "seg": "S3",
+   "inicio": 39.166,
+   "fin": 39.206
+  },
+  {
+   "w": "con",
+   "seg": "S3",
+   "inicio": 39.246,
+   "fin": 39.367
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 39.387,
+   "fin": 39.467
+  },
+  {
+   "w": "multiverso",
+   "seg": "S3",
+   "inicio": 39.507,
+   "fin": 39.948
+  },
+  {
+   "w": "abierto,",
+   "seg": "S3",
+   "inicio": 40.008,
+   "fin": 40.369
+  },
+  {
+   "w": "nadie",
+   "seg": "S3",
+   "inicio": 40.389,
+   "fin": 41.01
+  },
+  {
+   "w": "sabe",
+   "seg": "S3",
+   "inicio": 41.09,
+   "fin": 41.35
+  },
+  {
+   "w": "cuántos",
+   "seg": "S3",
+   "inicio": 41.431,
+   "fin": 41.771
+  },
+  {
+   "w": "más",
+   "seg": "S3",
+   "inicio": 41.851,
+   "fin": 41.992
+  },
+  {
+   "w": "pueden",
+   "seg": "S3",
+   "inicio": 42.072,
+   "fin": 42.272
+  },
+  {
+   "w": "llegar.",
+   "seg": "S3",
+   "inicio": 42.312,
+   "fin": 42.613
+  },
+  {
+   "w": "Siguiente:",
+   "seg": "S4",
+   "inicio": 43.114,
+   "fin": 43.515
+  },
+  {
+   "w": "por",
+   "seg": "S4",
+   "inicio": 43.535,
+   "fin": 43.976
+  },
+  {
+   "w": "qué",
+   "seg": "S4",
+   "inicio": 44.016,
+   "fin": 44.136
+  },
+  {
+   "w": "hay",
+   "seg": "S4",
+   "inicio": 44.236,
+   "fin": 44.316
+  },
+  {
+   "w": "que",
+   "seg": "S4",
+   "inicio": 44.356,
+   "fin": 44.436
+  },
+  {
+   "w": "volver",
+   "seg": "S4",
+   "inicio": 44.476,
+   "fin": 44.717
+  },
+  {
+   "w": "a",
+   "seg": "S4",
+   "inicio": 44.757,
+   "fin": 44.777
+  },
+  {
+   "w": "ver",
+   "seg": "S4",
+   "inicio": 44.857,
+   "fin": 44.977
+  },
+  {
+   "w": "Endgame.",
+   "seg": "S4",
+   "inicio": 45.198,
+   "fin": 45.659
+  }
+ ]
+}

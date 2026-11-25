@@ -1,0 +1,28 @@
+/* Cómic · skin de miniaturas: tinta gruesa, Ben-Day, Bangers/Anton, colores planos de la serie */
+@font-face{font-family:Bangers;src:url({FONTS}/Bangers.ttf)}@font-face{font-family:Anton;src:url({FONTS}/Anton.ttf)}
+@font-face{font-family:Comic;src:url({FONTS}/ComicNeue-Bold.ttf)}
+body{background:#FFF3D6;font-family:Anton;color:#0B0B14}
+.lienzo{position:absolute;inset:0;background:#1FA85A;background-image:radial-gradient(rgba(11,11,20,.22) 22%,transparent 24%);background-size:16px 16px}
+.hero{position:absolute;right:24px;top:24px;width:640px;height:672px;object-fit:cover;border:12px solid #0B0B14;box-shadow:14px 14px 0 #0B0B14;transform:rotate(2deg)}
+.fade{display:none}
+.hero-v{position:absolute;left:30px;top:30px;width:1020px;height:1150px;object-fit:cover;border:14px solid #0B0B14;box-shadow:16px 16px 0 #0B0B14}
+.fade-v{display:none}
+.kick{display:inline-block;font-family:Comic;font-size:40px;background:#FFD400;border:6px solid #0B0B14;padding:6px 20px;transform:rotate(-3deg);box-shadow:8px 8px 0 #0B0B14}
+.short .kick{font-size:58px}
+.l1,.l2{font-family:Bangers;line-height:.92;letter-spacing:.01em;color:#FFF3D6;-webkit-text-stroke:10px #0B0B14;paint-order:stroke fill;
+  text-shadow:10px 10px 0 #0B0B14;font-size:150px;transform:rotate(-4deg);margin-top:18px}
+.l2{color:#FFD400;font-size:190px}
+.short .l1{font-size:170px}.short .l2{font-size:200px}
+.sub{font-family:Comic;font-size:44px;color:#FFF3D6;-webkit-text-stroke:2px #0B0B14;margin-top:12px}
+.sello{display:inline-block;margin-top:20px;font-family:Anton;font-size:60px;color:#E8212B;border:8px solid #E8212B;background:#FFF3D6;
+  padding:6px 26px;transform:rotate(-8deg);box-shadow:6px 6px 0 #0B0B14}
+.fila{position:absolute;left:40px;bottom:30px;display:flex;gap:16px}
+.short .fila{left:0;right:0;bottom:120px;justify-content:center}
+.fila div{width:120px;height:150px;border:7px solid #0B0B14;box-shadow:6px 6px 0 #0B0B14;overflow:hidden;background:#FFF3D6}
+.fila img{width:100%;height:100%;object-fit:cover}
+.fila .fila-q{display:flex;align-items:center;justify-content:center}.fila-q .l2{font-size:110px;margin:0;transform:none}
+.vs-a,.vs-b{position:absolute;top:0;width:640px;height:720px;object-fit:cover}.vs-a{left:0}.vs-b{right:0}
+.vs-linea{position:absolute;left:628px;top:-40px;width:24px;height:800px;background:#FFD400;border:7px solid #0B0B14;transform:rotate(4deg)}
+.fade-b{position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,11,20,0) 45%,rgba(11,11,20,.75))}
+.vs-et{position:absolute;top:24px;font-size:110px;margin:0}.vs-et-a{left:30px}.vs-et-b{right:30px}
+.largo .centro .l1{font-size:120px}.largo .centro .l2{font-size:150px}

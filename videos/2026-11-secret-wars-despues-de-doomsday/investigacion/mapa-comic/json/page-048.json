@@ -1,0 +1,137 @@
+{
+ "tipo": "historia",
+ "resumen": "Se relata el mito cosmogónico de la creación de Battleworld, donde tras la nada absoluta, el Dios Doom creó la luz y toda la existencia cósmica.",
+ "personajes": [],
+ "eventos_clave": [
+  "Mito de la creación de Battleworld",
+  "El Dios Doom crea la luz"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    241,
+    1000
+   ],
+   "descripcion": "Un fondo completamente oscuro y texturizado que representa la nada cósmica antes de la existencia.",
+   "prompt_en": "A dark, textured void of total nothingness in deep space.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "nada-cosmica",
+    "creacion-battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "There was nothing.",
+     "texto_es": "No había nada."
+    }
+   ],
+   "lugar": "El Vacío",
+   "tono": "solemne",
+   "recorte": "vinetas/page-048-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    241,
+    0,
+    485,
+    1000
+   ],
+   "descripcion": "Un estallido de luz anaranjada y dorada emergiendo en el centro del espacio cósmico.",
+   "prompt_en": "A central glowing burst of warm orange and golden light breaking through space background.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "luz-cosmica",
+    "creacion-battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Followed by everything.",
+     "texto_es": "Seguido por todo."
+    }
+   ],
+   "lugar": "El Cosmos en creación",
+   "tono": "épico",
+   "recorte": "vinetas/page-048-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    485,
+    0,
+    725,
+    1000
+   ],
+   "descripcion": "Una nebulosa estelar en espiral llena de partículas brillantes y polvo cósmico.",
+   "prompt_en": "A swirling star nebula with glowing particles of creation and cosmic dust in deep space.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "nebulosa",
+    "creacion-battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Swirling, burning specks of creation that circled life-giving suns.",
+     "texto_es": "Partículas de creación giratorias y ardientes que rodeaban soles dadores de vida."
+    }
+   ],
+   "lugar": "El Cosmos",
+   "tono": "místico",
+   "recorte": "vinetas/page-048-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    725,
+    0,
+    968,
+    1000
+   ],
+   "descripcion": "Un sol resplandeciente e intenso brillando en medio del espacio repleto de diminutas estrellas.",
+   "prompt_en": "A brilliant, glowing sun emitting bright light floating against a starry cosmic space background.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "sol",
+    "creacion-battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "God Doom... created the light.",
+     "texto_es": "El Dios Doom... creó la luz."
+    }
+   ],
+   "lugar": "El Cosmos",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-048-v4.jpg"
+  }
+ ],
+ "lugar": "El Cosmos",
+ "numero_comic": 2,
+ "pagina": 48,
+ "archivo": "paginas/page-048.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4480,
+ "_seg": 14.0
+}

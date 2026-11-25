@@ -1,0 +1,213 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Castillo Doom, un miembro del Thor Corps con aspecto de jabalí se presenta ante Dios Emperador Doom para reportar disturbios graves tras el hallazgo de un objeto herético en el reino de Utópolis. Valeria Richards explica que su equipo científico descubrió el objeto y avisó al Sheriff Strange. Al entender la gravedad de lo sucedido, Doom decide investigar personalmente la situación.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Thor Corps (varios Thors)"
+ ],
+ "eventos_clave": [
+  "El Thor Jabalí informa a Dios Emperador Doom sobre la amenaza hallada en Utópolis",
+  "Doom decide juzgar e investigar la anomalía con sus propios ojos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    32,
+    33,
+    396,
+    411
+   ],
+   "descripcion": "Vista panorámica del imponente Castillo Doom erigido en Battleworld.",
+   "prompt_en": "Aerial shot of a massive dark gothic castle fortress carved into a mountain, established shot comic book art style.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "castle-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "CASTLE DOOM.",
+     "texto_es": "CASTILLO DOOM."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-117-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    416,
+    430,
+    994
+   ],
+   "descripcion": "Un Thor con rostro de jabalí se arrodilla ante el trono de Dios Emperador Doom mientras Sue Storm y Valeria Richards observan desde los lados.",
+   "prompt_en": "A humanoid boar warrior in superhero armor kneeling before an ethereal ruler wearing white and armor seated on a stone throne, accompanied by blonde women in white suits.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "thor-corps",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "All-Father. I beseech you, hear my prayer.",
+     "texto_es": "Padre de Todos. Te lo suplico, escucha mi plegaria."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "A supplicant? What is this?",
+     "texto_es": "¿Un suplicante? ¿Qué es esto?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I think I know. Earlier today I informed the Sheriff that my science team had found something potentially heretical in the Kingdom of Utopolis. He sent your lawmen to investigate.",
+     "texto_es": "Creo que lo sé. Hoy más temprano le informé al Alguacil que mi equipo científico encontró algo potencialmente herético en el Reino de Utópolis. Envió a tus agentes de la ley a investigar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'm guessing things aren't going too well, Father.",
+     "texto_es": "Me imagino que las cosas no van muy bien, Padre."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "solemne",
+   "recorte": "vinetas/page-117-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    431,
+    0,
+    617,
+    988
+   ],
+   "descripcion": "Primer plano del Thor jabalí explicando la amenaza antinatural que se desarrolla en Utópolis.",
+   "prompt_en": "Close up comic frame of an anthropomorphic boar warrior wearing Thor armor and purple cape speaking with determination.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "utopolis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Very well, Thor. Continue.",
+     "texto_es": "Muy bien, Thor. Continúa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "There is chaos in your kingdoms and we need your guiding hand, All-Father.",
+     "texto_es": "Hay caos en tus reinos y necesitamos tu mano guiadora, Padre de Todos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "I have no doubt we can prevail--regardless of the cost--but there is something unnatural at work here, and you needed to know.",
+     "texto_es": "No tengo dudas de que podemos prevalecer, sin importar el costo, pero hay algo antinatural sucediendo aquí, y debías saberlo."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-117-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    618,
+    29,
+    976,
+    638
+   ],
+   "descripcion": "Doom se levanta de su trono y camina al frente seguido por Sue y Valeria, pasando al lado del Thor arrodillado.",
+   "prompt_en": "Comic panel showing a powerful ruler in white hood and cape walking forward followed by two blonde women in futuristic white suits, past a kneeling beast warrior.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Perhaps. But most men cannot tell foolishness from foresight...",
+     "texto_es": "Tal vez. Pero la mayoría de los hombres no pueden distinguir la insensatez de la previsión..."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "autoritario",
+   "recorte": "vinetas/page-117-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    618,
+    649,
+    976,
+    971
+   ],
+   "descripcion": "Dios Emperador Doom desciende las escaleras del palacio para encargarse personalmente del problema.",
+   "prompt_en": "Wide shot of a hooded figure in white armor walking down stone steps inside a subterranean alien palace hallway, comic art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "So I judge things with my own eyes...",
+     "texto_es": "Así que juzgaré las cosas con mis propios ojos..."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "decidido",
+   "recorte": "vinetas/page-117-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 117,
+ "archivo": "paginas/page-117.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6133,
+ "_seg": 22.0
+}

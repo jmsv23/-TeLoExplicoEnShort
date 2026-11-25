@@ -1,0 +1,215 @@
+{
+ "tipo": "historia",
+ "resumen": "Un Thor veterano instruye a un nuevo recluta de los Thor Corps mientras vuelan sobre Battleworld en un carro tirado por cabras gigantes. Observan las tierras de Alto Avalon y a su gobernante, el Barón James Braddock, quien aguarda el juicio del Dios Emperador Doom.",
+ "personajes": [
+  "Thor Corps (varios Thors)",
+  "Capitán Britania / James Braddock"
+ ],
+ "eventos_clave": [
+  "Patrulla de los Thor Corps sobre Battleworld",
+  "Introducción al reino de Alto Avalon y al Barón James Braddock"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    370,
+    585
+   ],
+   "descripcion": "Un Thor experimentado y un joven recluta viajan por los cielos en un carro volador tirado por dos grandes cabras místicas sobre Battleworld.",
+   "prompt_en": "Comic panel showing two Thors riding a chariot pulled by giant goats high above a fantasy kingdom in Battleworld, artistic superhero style.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "doomgard",
+    "alto-avalon"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "The All-Father is God King of this world.",
+     "texto_es": "El Padre de Todos es el Dios Rey de este mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "But the world you know--the kingdoms--extend only from the Great Ocean in the northern hemisphere to the Badlands in the south.",
+     "texto_es": "Pero el mundo que conoces... los reinos... se extienden solo desde el Gran Océano en el hemisferio norte hasta las Tierras Baldías en el sur."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Our home, the precinct of Doomgard, lies west of Doomstadt and Castle Doom itself.",
+     "texto_es": "Nuestro hogar, el recinto de Doomgard, yace al oeste de Doomstadt y del propio Castillo Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Look now! Below us is Higher Avalon, from which you hail. And the impetus for today's justice.",
+     "texto_es": "¡Mira ahora! Debajo de nosotros está Alto Avalon, de donde provienes. Y el impulso para la justicia de hoy."
+    }
+   ],
+   "lugar": "Cielos de Battleworld",
+   "recorte": "vinetas/page-055-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    590,
+    370,
+    1000
+   ],
+   "descripcion": "El joven Thor contempla la vista sosteniendo su martillo en alto mientras escucha a su mentor.",
+   "prompt_en": "Close up of a young Thor holding Mjolnir aloft looking down from a flying chariot, comic book style.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "It looks so different from up here.",
+     "texto_es": "Se ve tan diferente desde aquí arriba."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Aye. Newfound power leads to new perspective, boy--which will serve you well from this day forward.",
+     "texto_es": "Sí. Un poder recién descubierto conduce a una nueva perspectiva, muchacho... lo cual te servirá bien a partir de hoy."
+    }
+   ],
+   "lugar": "Cielos de Battleworld",
+   "recorte": "vinetas/page-055-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    375,
+    30,
+    755,
+    710
+   ],
+   "descripcion": "Vista de los nobles de Alto Avalon, incluyendo al Barón James Braddock y su familia en un balcón de su fortaleza.",
+   "prompt_en": "Royalty standing on a balcony of a medieval futuristic castle, Captain Britain design, comic style.",
+   "personajes": [
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "alto-avalon",
+    "james-braddock",
+    "barones"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "All told, there are almost one hundred major and minor houses...your Higher Avalon being only one.",
+     "texto_es": "En total, hay casi cien casas mayores y menores... siendo tu Alto Avalon solo una de ellas."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "We have jurisdiction over all of them. Understand? Even now, your former liege, Baron James Braddock, waits for us to deliver God's justice.",
+     "texto_es": "Tenemos jurisdicción sobre todas ellas. ¿Entiendes? Incluso ahora, tu antiguo señor, el Barón James Braddock, espera a que entreguemos la justicia de Dios."
+    }
+   ],
+   "lugar": "Alto Avalon",
+   "recorte": "vinetas/page-055-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    375,
+    715,
+    755,
+    970
+   ],
+   "descripcion": "El carro de los Thor pasa por encima del palacio real de Alto Avalon.",
+   "prompt_en": "Flying chariot passing over a medieval kingdom balcony, distant perspective comic art.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "alto-avalon",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Once, as a boy, I saw the Baron from the street. He waved at those of us gathered in the crowd. He seemed above the whims of others--certainly above waiting on us.",
+     "texto_es": "Una vez, de niño, vi al Barón desde la calle. Saludó con la mano a los que estábamos reunidos en la multitud. Parecía estar por encima de los caprichos de otros... ciertamente por encima de esperarnos a nosotros."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "Yes. To a peasant, a baron would surely seem a king. Just as to a baron, a king might seem a god. For some, this is a comfort, for others, it is less so.",
+     "texto_es": "Sí. Para un campesino, un barón ciertamente parecería un rey. Al igual que para un barón, un rey podría parecer un dios. Para algunos, esto es un consuelo; para otros, lo es menos."
+    }
+   ],
+   "lugar": "Alto Avalon",
+   "recorte": "vinetas/page-055-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    760,
+    30,
+    985,
+    970
+   ],
+   "descripcion": "Los Thors vuelan sobre un extraño terreno con agujas de cristal rosa y fósiles de cuernos gigantes mientras conversan.",
+   "prompt_en": "Thor flying over surreal pink crystal landscape with giant horns jutting from the earth, atmospheric comic art.",
+   "personajes": [
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "thor-corps",
+    "paisaje"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "No small number of God's children spend their days in the light of Doom's favor. Others fall outside his grace, but many... live their lives in between.",
+     "texto_es": "Un número no menor de los hijos de Dios pasan sus días a la luz del favor de Doom. Otros caen fuera de su gracia, pero muchos... viven sus vidas en el medio."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "This, I believe, is the unrefined state of man. The beliefs of one putting them in conflict with another--kingdoms at war with other kingdoms.",
+     "texto_es": "Esto, creo, es el estado no refinado del hombre. Las creencias de uno los ponen en conflicto con otro... reinos en guerra con otros reinos."
+    }
+   ],
+   "lugar": "Cielos de Battleworld",
+   "recorte": "vinetas/page-055-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 55,
+ "archivo": "paginas/page-055.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6330,
+ "_seg": 22.9
+}

@@ -1,0 +1,170 @@
+{
+ "tipo": "historia",
+ "resumen": "A través de un mensaje holográfico pregrabado, Doctor Strange guía a Black Panther y Namor hasta su posesión más valiosa: un Guantelete del Infinito completamente funcional de un universo nativo de esa sección de Battleworld. Black Panther se coloca el Guantelete del Infinito, reconociéndolo como la única arma capaz de rivalizar con el Dios Emperador Doom.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Black Panther (T'Challa)",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Black Panther encuentra y reclama el Guantelete del Infinito",
+  "Doctor Strange revela su plan de contingencia póstumo contra el Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    190,
+    970
+   ],
+   "descripcion": "Una imagen holográfica azul flotante del rostro de Doctor Strange habla sobre cómo creó esa sección de Battleworld sabiendo que contenía las Gemas del Infinito de su universo nativo.",
+   "prompt_en": "Hologram glowing blue projection of Doctor Strange talking in a comic book style panel, cosmic dark background",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "holograma",
+    "doctor-strange",
+    "battleworld",
+    "gemas-del-infinito"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Each section is a slice of a single native universe. Which is why when I found one containing all the gems, I made sure that Castle Doom was built in that section.",
+     "texto_es": "Cada sección es un fragmento de un solo universo nativo. Es por eso que cuando encontré una que contenía todas las gemas, me aseguré de que el Castillo Doom fuera construido en esa sección."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I leave to you my most precious possession...",
+     "texto_es": "Les dejo mi posesión más preciada..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-171-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    190,
+    35,
+    372,
+    970
+   ],
+   "descripcion": "Black Panther y Namor observan un cofre abierto que brilla con energía dorada en la penumbra.",
+   "prompt_en": "Comic panel showing Black Panther opening a glowing golden chest while Namor watches him suspiciously in a dark environment",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "black-panther",
+    "namor",
+    "cofre-misterioso"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "What do you think?",
+     "texto_es": "¿Qué piensas?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Namor",
+     "texto": "Don't look at me. We both know I can't be trusted.",
+     "texto_es": "No me mires a mí. Ambos sabemos que no se puede confiar en mí."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-171-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    372,
+    0,
+    830,
+    1000
+   ],
+   "descripcion": "Plano entero e icónico de Black Panther sosteniendo la tapa de la caja mientras se coloca el Guantelete del Infinito con todas las Gemas del Infinito brillando con luz resplandeciente.",
+   "prompt_en": "Full shot of Black Panther wielding the fully powered Infinity Gauntlet radiating immense golden energy, dramatic comic book art style by Esad Ribic",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "black-panther",
+    "gemas-del-infinito",
+    "momento-epico"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-171-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    830,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Primer plano del holograma azul de Doctor Strange advirtiéndoles sobre el verdadero poder del Guantelete para derrotar a Doom.",
+   "prompt_en": "Close up of a glowing blue holographic projection of Doctor Strange delivering a solemn warning, dark background",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-strange",
+    "holograma",
+    "doom-dios",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "An Infinity Gauntlet.",
+     "texto_es": "Un Guantelete del Infinito."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Use it wisely, and if you must, use it quickly...",
+     "texto_es": "Úsenlo con sabiduría, y si deben hacerlo, úsenlo rápidamente..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "For it just may be the only thing on this world with which one can smite god.",
+     "texto_es": "Porque tal vez sea la única cosa en este mundo con la que uno pueda derribar a un dios."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-171-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 6,
+ "pagina": 171,
+ "archivo": "paginas/page-171.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4897,
+ "_seg": 16.6
+}

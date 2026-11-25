@@ -1,0 +1,137 @@
+{
+ "tipo": "historia",
+ "resumen": "Cuatro días después de los preparativos, la Fundación Futuro logra terminar a tiempo la balsa de salvamento antes del inicio de la incursión final entre la Tierra-616 y la Tierra-1610 (Ultimate). Valeria y Franklin Richards observan los acontecimientos y advierten que la Tierra del universo rival también se ha preparado para el enfrentamiento.",
+ "personajes": [
+  "Valeria Richards",
+  "Franklin Richards",
+  "[Fundación Futuro]"
+ ],
+ "eventos_clave": [
+  "Inicio del evento de incursión final.",
+  "La Fundación Futuro finaliza la balsa de supervivencia."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    34,
+    417,
+    966
+   ],
+   "descripcion": "Vista aérea interior de la base de la Fundación Futuro donde los jóvenes miembros celebran haber terminado a tiempo la balsa de salvamento mientras se declara el inicio del evento de incursión.",
+   "prompt_en": "High angle shot inside a futuristic laboratory base filled with technical equipment and structural beams, young heroes wearing superhero costumes with numbers on their chests gathering on a central platform, wide perspective comic book illustration.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards",
+    "[Fundación Futuro]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "fundacion-futuro",
+    "incursion",
+    "preparativos-balsa"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "Four days later. Incursion event commences.",
+     "texto_es": "Cuatro días después. Comienza el evento de incursión."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[niño de la Fundación Futuro]",
+     "texto": "Oh, man... We finished, and it appears it was just in time.",
+     "texto_es": "Cielos... Terminamos, y parece que fue justo a tiempo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Yeah, but we may have bigger problems than just the end of the world.",
+     "texto_es": "Sí, pero podríamos tener problemas más grandes que solo el fin del mundo."
+    }
+   ],
+   "lugar": "Edificio Baxter / Base de la Fundación Futuro",
+   "tono": "tension",
+   "recorte": "vinetas/page-264-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    417,
+    34,
+    693,
+    966
+   ],
+   "descripcion": "Vista panorámica del cielo de la ciudad teñido de rojo intenso con la silueta de otro planeta chocando e impactando contra la atmósfera terrestre.",
+   "prompt_en": "Panoramic shot of New York city skyline shadowed beneath an apocalyptic glowing red sky with a massive colliding planet disintegrating into debris, comic book artwork.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "ultima-incursion",
+    "colision-tierras",
+    "apocalipsis"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "\"We predicted that two Earths from different universes were going to collide...\"",
+     "texto_es": "\"Predijimos que dos Tierras de universos diferentes iban a chocar...\""
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "\"...Which was bad enough...\"",
+     "texto_es": "\"...Lo cual ya era bastante malo...\""
+    }
+   ],
+   "lugar": "Nueva York",
+   "tono": "epico",
+   "recorte": "vinetas/page-264-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    693,
+    34,
+    966,
+    966
+   ],
+   "descripcion": "Primer plano de Valeria Richards señalando hacia arriba con expresión concentrada y seria, acompañada por Franklin Richards y otros niños de la Fundación Futuro.",
+   "prompt_en": "Close up of a young blonde girl in a white superhero suit pointing up towards the sky with a serious look, surrounded by other children in futuristic uniforms, comic book panel.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards",
+    "[Fundación Futuro]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "But they came to the same conclusion!",
+     "texto_es": "¡Pero ellos llegaron a la misma conclusión!"
+    }
+   ],
+   "lugar": "Edificio Baxter / Base de la Fundación Futuro",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-264-v3.jpg"
+  }
+ ],
+ "lugar": "Edificio Baxter / Nueva York",
+ "numero_comic": 0,
+ "pagina": 264,
+ "archivo": "paginas/page-264.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4107,
+ "_seg": 13.8
+}

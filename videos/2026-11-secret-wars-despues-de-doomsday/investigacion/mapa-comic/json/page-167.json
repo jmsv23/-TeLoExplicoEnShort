@@ -1,0 +1,279 @@
+{
+ "tipo": "historia",
+ "resumen": "En Bar Sinister, Mister Siniestro conversa con la Capitana Marvel sobre las órdenes del Dios Emperador Doom de desplegar sus tropas contra los rebeldes. Después de intercambiar varios golpes para 'aclarar la mente', ambos coinciden en una opción mucho más caótica y deciden actuar de manera maliciosa contra la voluntad de Doom.",
+ "personajes": [
+  "Mister Siniestro",
+  "Capitana Marvel (Carol Danvers)"
+ ],
+ "eventos_clave": [
+  "Mister Siniestro evalúa la orden de Doom de enviar a sus tropas.",
+  "Capitana Marvel y Mister Siniestro acuerdan causar caos y rebelarse de forma traviesa."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    33,
+    334,
+    987
+   ],
+   "descripcion": "En el elegante y decadente Bar Sinister, Mister Siniestro gesticula mientras conversa con la Capitana Marvel, quien descansa sobre un sofá rojo sostenida por una copa.",
+   "prompt_en": "Comic book panel, interior of Bar Sinister, Mister Sinister in black suit with pale face talking to Captain Marvel sitting on a red couch, futuristic fantasy bar background.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "bar-sinister",
+    "battleworld",
+    "conspiracion"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "BAR SINISTER.",
+     "texto_es": "BAR SINIESTRO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "I have some ideas. But you first.",
+     "texto_es": "Tengo algunas ideas. Pero tú primero."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Okay, my dear Captain. God Doom wants me to send a full complement of warriors to disabuse these nonbelievers of their sinful ways.",
+     "texto_es": "Bien, mi querida Capitana. El Dios Doom quiere que envíe un complemento completo de guerreros para desengañar a estos no creyentes de sus caminos pecaminosos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "I could send less. A pittance perhaps?",
+     "texto_es": "¿Podría enviar menos? ¿Una miseria tal vez?"
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "cínico",
+   "recorte": "vinetas/page-167-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    341,
+    33,
+    469,
+    969
+   ],
+   "descripcion": "La Capitana Marvel le propina un poderoso puñetazo en la cara a Mister Siniestro, echándolo hacia atrás abruptamente y tirando su bebida.",
+   "prompt_en": "Action comic panel, Captain Marvel punching Mister Sinister in the face, head flying back, glass spilling, sound effect CRACK, dynamic action shot.",
+   "personajes": [
+    "Mister Siniestro",
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "golpe",
+    "violencia",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "CRACK",
+     "texto_es": "CRACK"
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "violento",
+   "recorte": "vinetas/page-167-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    486,
+    33,
+    743,
+    280
+   ],
+   "descripcion": "Mister Siniestro se toca el labio ensangrentado y habla sarcásticamente mientras reflexiona.",
+   "prompt_en": "Comic panel close-up of Mister Sinister rubbing his chin, blood on his mouth, sinister smirking expression.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sarcasmo",
+    "conspiracion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Or I could send everyone. Because I'm a good, good boy.",
+     "texto_es": "O podría enviarlos a todos. Porque soy un chico muy, muy bueno."
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "sarcástico",
+   "recorte": "vinetas/page-167-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    486,
+    286,
+    743,
+    508
+   ],
+   "descripcion": "Mister Siniestro recibe otro fuerte golpe en la cabeza que lo sacude violentamente.",
+   "prompt_en": "Comic panel close-up of Mister Sinister getting slapped violently across the face, sound effect SMACK, motion blur.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "golpe",
+    "humor-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "SMACK",
+     "texto_es": "SMACK"
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "cómico",
+   "recorte": "vinetas/page-167-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    486,
+    513,
+    743,
+    736
+   ],
+   "descripcion": "Mister Siniestro levanta la mano para detener los golpes, habiendo tenido una nueva idea brillante.",
+   "prompt_en": "Comic panel of Mister Sinister holding his hand up defensively, realizing something with a subtle grin.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "revelacion",
+    "plan"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Wait... I've got it now. I know what we should do.",
+     "texto_es": "Espera... Ya lo tengo. Sé lo que deberíamos hacer."
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-167-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    486,
+    741,
+    743,
+    969
+   ],
+   "descripcion": "La Capitana Marvel apreta sus puños rojos, lista para más acción si es necesario.",
+   "prompt_en": "Comic panel close-up profile of Captain Marvel with blonde hair, red glove clenched in a fist, intense stern expression.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "amenaza",
+    "preparacion"
+   ],
+   "textos": [],
+   "lugar": "Bar Sinister",
+   "tono": "serio",
+   "recorte": "vinetas/page-167-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    757,
+    31,
+    981,
+    509
+   ],
+   "descripcion": "Primer plano del rostro de Mister Siniestro con una sonrisa maliciosa e inquietante.",
+   "prompt_en": "Extreme close-up panel of Mister Sinister smiling mischievously, pale skin, red diamond on forehead, villainous expression.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "sonrisa-malvada",
+    "traicion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Let's be naughty!",
+     "texto_es": "¡Seamos traviesos!"
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "malicioso",
+   "recorte": "vinetas/page-167-v7.jpg"
+  },
+  {
+   "n": 8,
+   "bbox": [
+    757,
+    517,
+    981,
+    971
+   ],
+   "descripcion": "Primer plano de la Capitana Marvel sonriendo con locura y entusiasmo ante la propuesta de Siniestro.",
+   "prompt_en": "Extreme close-up of Captain Marvel smiling wildly with bright blue eyes, red diamond mark on forehead, blonde hair Mohawk.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "sonrisa-malvada",
+    "alianza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel (Carol Danvers)",
+     "texto": "Now you're talking.",
+     "texto_es": "Ahora estás hablando."
+    }
+   ],
+   "lugar": "Bar Sinister",
+   "tono": "entusiasta",
+   "recorte": "vinetas/page-167-v8.jpg"
+  }
+ ],
+ "lugar": "Bar Sinister, Battleworld",
+ "numero_comic": 7,
+ "pagina": 167,
+ "archivo": "paginas/page-167.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6206,
+ "_seg": 22.9
+}

@@ -1,0 +1,172 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Doom y Sue Storm observan desde lo alto la aproximación de las fuerzas invasoras rebeldes compuestas por clones de Mister Siniestro, zombis y la Horda de Aniquilación liderada por Thanos. Mientras observan el avance del ejército, una misteriosa luz de teletransporte aparece a espaldas de Sue Storm.",
+ "personajes": [
+  "Doctor Doom",
+  "Sue Storm",
+  "Thanos",
+  "Mister Siniestro",
+  "Hulk",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Ataque a Battleworld",
+  "Llegada de la Horda de Aniquilación",
+  "Thanos lidera la invasión"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    36,
+    266,
+    963
+   ],
+   "descripcion": "Los clones de Mister Siniestro y una versión zombi de Hulk rugen enardecidos mientras encabezan el avance de las tropas.",
+   "prompt_en": "Comic panel showing Mister Sinister clones and a zombie Hulk screaming violently in a war scene.",
+   "personajes": [
+    "Mister Siniestro",
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "zombies",
+    "mister-siniestro",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Desconocido",
+     "texto": "ZZZZWWWWROOOOOOO",
+     "texto_es": "ZZZZWWWWROOOOOOO"
+    }
+   ],
+   "lugar": "El Escudo / Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-206-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    278,
+    36,
+    434,
+    963
+   ],
+   "descripcion": "Plano medio de Doctor Doom vistiendo su atuendo blanco con máscara de metal observando solemnemente, mientras Sue Storm lo mira preocupada.",
+   "prompt_en": "Close-up comic panel of Doctor Doom in a white hood looking solemn beside Sue Storm.",
+   "personajes": [
+    "Doctor Doom",
+    "Sue Storm"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doctor-doom",
+    "sue-storm"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom",
+     "texto": "Yes. Here they come...",
+     "texto_es": "Sí. Aquí vienen..."
+    }
+   ],
+   "lugar": "El Escudo / Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-206-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    446,
+    36,
+    595,
+    963
+   ],
+   "descripcion": "Una densa nube de polvo y humo se levanta sobre la llanura desértica mientras se escuchan los estridentes sonidos de la horda acercándose.",
+   "prompt_en": "Wide landscape comic panel showing a large cloud of dust covering the horizon with sound effect text.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "invasion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Desconocido",
+     "texto": "ZZZZWWWW ROOOOOOO",
+     "texto_es": "ZZZZWWWW ROOOOOOO"
+    }
+   ],
+   "lugar": "El Escudo / Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-206-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    595,
+    0,
+    1000,
+    963
+   ],
+   "descripcion": "Thanos avanza montado en un insecto alienígena gigante comandando a la Horda de Aniquilación. En la esquina inferior derecha, una viñeta secundaria muestra a Sue Storm y Valeria sorprendidas por un haz azul de energía.",
+   "prompt_en": "Large comic panel showing Thanos riding a giant insect craft leading the Annihilation Horde, with an inset of Sue Storm looking at a glowing teleportation beam.",
+   "personajes": [
+    "Thanos",
+    "Sue Storm",
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thanos",
+    "horda-de-aniquilacion",
+    "invasion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Doctor Doom",
+     "texto": "...The Annihilation Horde.",
+     "texto_es": "...La Horda de Aniquilación."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Desconocido",
+     "texto": "ZZZZWWWW ROOOOOOO",
+     "texto_es": "ZZZZWWWW ROOOOOOO"
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Desconocido",
+     "texto": "ZIMM!",
+     "texto_es": "¡ZIMM!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm",
+     "texto": "Victor?",
+     "texto_es": "¿Victor?"
+    }
+   ],
+   "lugar": "El Escudo / Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-206-v4.jpg"
+  }
+ ],
+ "lugar": "El Escudo / Battleworld",
+ "numero_comic": 7,
+ "pagina": 206,
+ "archivo": "paginas/page-206.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5595,
+ "_seg": 18.0
+}

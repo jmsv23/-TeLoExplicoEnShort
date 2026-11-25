@@ -1,0 +1,187 @@
+{
+ "tipo": "historia",
+ "resumen": "Un Thor anciano del Thor Corps se enfrenta a enemigos desconocidos en un desierto de Battleworld. Tras ser gravemente herido por una espada gigantesca, le ordena a su compañero Thor novato que huya a través de un portal y le advierta al Sheriff Strange que han encontrado la muerte.",
+ "personajes": [
+  "Thor Corps",
+  "[Thor anciano]",
+  "[Thor joven]"
+ ],
+ "eventos_clave": [
+  "El sacrificio del Thor anciano",
+  "Descubrimiento de la amenaza en Battleworld",
+  "El Thor novato escapa para avisar al Sheriff Strange"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    31,
+    305,
+    362
+   ],
+   "descripcion": "Primer plano de un Thor anciano con parche en el ojo y casco alado, gritando con rabia y determinación.",
+   "prompt_en": "Close-up of an elderly warrior Thor with a red beard and an eyepatch under a metallic winged helmet, shouting with rage, comic art style by Esad Ribic.",
+   "personajes": [
+    "[Thor anciano]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "retrato"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "...my goddoomed grave.",
+     "texto_es": "...mi maldita tumba."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-080-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    29,
+    368,
+    292,
+    970
+   ],
+   "descripcion": "El Thor anciano empuja violentamente a una criatura enemigo con casco de cristal transparente mientras le ordena a otro Thor que huya.",
+   "prompt_en": "An old muscular warrior punching a creature with a spherical glass helmet, another warrior in armor in the background, epic comic action panel.",
+   "personajes": [
+    "[Thor anciano]",
+    "[Thor joven]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "GO!",
+     "texto_es": "¡VETE!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "accion",
+   "recorte": "vinetas/page-080-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    295,
+    0,
+    735,
+    994
+   ],
+   "descripcion": "Gran viñeta central donde el Thor anciano es atravesado por la espalda por una enorme cuchilla curvada mientras su capa roja ondea.",
+   "prompt_en": "Dynamic epic shot of an old warrior with a red cape being struck from behind by a massive curved blade, big yellow sound effect text behind him.",
+   "personajes": [
+    "[Thor anciano]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "muerte",
+    "impacto",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "FFFTTK-KT",
+     "texto_es": "FFFTTK-KT"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "HURK!",
+     "texto_es": "¡HURK!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tragico",
+   "recorte": "vinetas/page-080-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    722,
+    36,
+    948,
+    597
+   ],
+   "descripcion": "El joven Thor huye hacia un portal circular mientras el Thor anciano le grita que le informe al Sheriff Strange.",
+   "prompt_en": "A young warrior running away towards a glowing portal while looking back, dusty desolate ground, dramatic scene.",
+   "personajes": [
+    "[Thor joven]",
+    "[Thor anciano]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "huida",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor joven]",
+     "texto": "GO! GO NOW!",
+     "texto_es": "¡VAMOS! ¡VÁMONOS YA!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor anciano]",
+     "texto": "TELL THE SHERIFF THAT WE FOUND DEATH HERE!",
+     "texto_es": "¡DILE AL ALGUACIL QUE ENCONTRAMOS LA MUERTE AQUÍ!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "urgente",
+   "recorte": "vinetas/page-080-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    722,
+    480,
+    951,
+    969
+   ],
+   "descripcion": "Plano contrapicado del Thor anciano cayendo de rodillas malherido en medio de una nube de polvo.",
+   "prompt_en": "Low-angle shot of a heavily armored wounded warrior collapsing on his knees amidst rising dust.",
+   "personajes": [
+    "[Thor anciano]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "sacrificio"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "desolado",
+   "recorte": "vinetas/page-080-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 2,
+ "pagina": 80,
+ "archivo": "paginas/page-080.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5705,
+ "_seg": 21.9
+}

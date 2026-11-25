@@ -1,0 +1,48 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título del capítulo 4 de Secret Wars titulado 'The Disquiet Heart of God'.",
+ "personajes": [],
+ "eventos_clave": [
+  "Título de capítulo"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de título de diseño minimalista sobre fondo blanco con el emblema de la máscara del Doctor Doom y la inscripción 'THE DISQUIET HEART OF GOD'.",
+   "prompt_en": "Minimalist chapter title page on a solid white background, featuring a stylized light grey emblem of Doctor Doom's mask encased in a square, with light grey sans-serif text reading 'THE DISQUIET HEART OF GOD' beneath it.",
+   "personajes": [],
+   "valor_video": 1,
+   "etiquetas": [
+    "titulo-capitulo",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE DISQUIET HEART OF GOD",
+     "texto_es": "EL CORAZÓN INQUIETO DE DIOS"
+    }
+   ],
+   "lugar": "Desconocido",
+   "tono": "solemne",
+   "recorte": "vinetas/page-094-v1.jpg"
+  }
+ ],
+ "lugar": "Desconocido",
+ "numero_comic": 4,
+ "pagina": 94,
+ "archivo": "paginas/page-094.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 2952,
+ "_seg": 7.4
+}

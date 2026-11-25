@@ -1,0 +1,207 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards analiza proyecciones de diversas anomalías y figuras alternativas frente al Dios Emperador Doom, identificando patrones y constantes preocupantes.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Valeria Richards",
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Black Panther (T'Challa)",
+  "Namor"
+ ],
+ "eventos_clave": [
+  "Valeria analiza las proyecciones de Battleworld",
+  "Valeria le muestra a Doom variables y constantes sospechosas"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    35,
+    335,
+    417
+   ],
+   "descripcion": "Doctor Doom con capa y máscara habla con Valeria Richards en un entorno iluminado.",
+   "prompt_en": "Doctor Doom in white hooded cloak talking to young blonde woman Valeria in bright ambient light, comic page panel",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "familia-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "An updated projection, Valeria?",
+     "texto_es": "¿Una proyección actualizada, Valeria?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "More favorable, of course. But actually less predictable...",
+     "texto_es": "Más favorable, por supuesto. Pero en realidad menos predecible..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-120-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    427,
+    335,
+    966
+   ],
+   "descripcion": "Valeria observa proyecciones etéreas donde se aprecian a Spider-Man, Miles Morales y otros luchando.",
+   "prompt_en": "Ethereal ghostly projections of superheroes including Spider-Man and Miles Morales floating in clouds, comic style",
+   "personajes": [
+    "Valeria Richards",
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "proyecciones",
+    "multiverso",
+    "variables"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Like I said before, we have analogs of many of the things I'm seeing, but there are slight--or in some cases, rather large--differences...",
+     "texto_es": "Como dije antes, tenemos análogos de muchas de las cosas que estoy viendo, pero hay pequeñas... o en algunos casos, bastante grandes... diferencias..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Call them variables.",
+     "texto_es": "Llámales variables."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "analítico",
+   "recorte": "vinetas/page-120-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    346,
+    35,
+    696,
+    305
+   ],
+   "descripcion": "Primer plano del rostro de Valeria Richards mientras reflexiona sobre las constantes del multiverso.",
+   "prompt_en": "Close up of a blonde young woman with blue eyes speaking with a serious expression, comic art style",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "reflexion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "See the same variable enough times and it becomes a constant.",
+     "texto_es": "Ves la misma variable las suficientes veces y se convierte en una constante."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "All of which sends me leaping to some pretty dramatic conclusions. I think I might want to take a much harder look at all this.",
+     "texto_es": "Todo lo cual me lleva a sacar algunas conclusiones bastante dramáticas. Creo que tal vez quiera examinar todo esto con mucho más detenimiento."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "serio",
+   "recorte": "vinetas/page-120-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    346,
+    314,
+    696,
+    966
+   ],
+   "descripcion": "Proyección holográfica etérea de Black Panther luchando contra Namor, mientras Valeria habla en segundo plano.",
+   "prompt_en": "Hologram glowing projection of Black Panther holding a spear against Namor, golden cloud background, comic page panel",
+   "personajes": [
+    "Valeria Richards",
+    "Black Panther (T'Challa)",
+    "Namor",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "combate-holograma",
+    "black-panther",
+    "namor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I must confess... there is something disquieting and familiar about all of this.",
+     "texto_es": "Debo confesar... hay algo inquietante y familiar en todo esto."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-120-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    655,
+    35,
+    1000,
+    966
+   ],
+   "descripcion": "Valeria Richards en primer plano llamando a Victor von Doom, quien la observa desde atrás.",
+   "prompt_en": "Blonde woman looking at camera talking, with hooded Doom standing behind her, warm glow background, comic illustration",
+   "personajes": [
+    "Valeria Richards",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "doom-dios",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Victor, look here...",
+     "texto_es": "Victor, mira aquí..."
+    }
+   ],
+   "lugar": "Castillo de Doom, Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-120-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo de Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 120,
+ "archivo": "paginas/page-120.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5348,
+ "_seg": 17.8
+}

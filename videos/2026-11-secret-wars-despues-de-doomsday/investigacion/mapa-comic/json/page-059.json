@@ -1,0 +1,146 @@
+{
+ "tipo": "historia",
+ "resumen": "Se presenta el Castillo Doom en Battleworld, custodiado por Galactus como centinela. Dentro del castillo, el Dios Emperador Doom preside la Alta Corte sentado en su trono labrado en el árbol Yggdrasil, flanqueado por el Sheriff Strange, Sue Storm y el Capitán Britania, mientras los Thors presentan a los acusados ante la corte.",
+ "personajes": [
+  "Galactus",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Doctor Strange (Sheriff Strange)",
+  "Sue Storm / Mujer Invisible",
+  "Capitán Britania / James Braddock",
+  "Thor Corps (varios Thors)"
+ ],
+ "eventos_clave": [
+  "Presentación de Galactus como guardián del Castillo Doom.",
+  "Presentación del trono del Dios Emperador Doom en Yggdrasil.",
+  "La Alta Corte de Battleworld recibe a los acusados."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    436,
+    1000
+   ],
+   "descripcion": "Vista aérea del impresionante Castillo Doom erigido sobre las ramas colosales de Yggdrasil, con Galactus envuelto en energía estelar dorada custodiándolo como un centinela gigante.",
+   "prompt_en": "Aerial high angle view of Castle Doom built atop colossal Yggdrasil tree branches, with Galactus glowing as a cosmic sentinel standing guard over the fortress, epic scale, comic book art by Esad Ribic.",
+   "personajes": [
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "castle-doom",
+    "galactus",
+    "yggdrasil",
+    "battleworld",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Where a world-eating sentinel stands guard over Castle Doom.",
+     "texto_es": "Donde un centinela devorador de mundos custodia el Castillo Doom."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-059-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    432,
+    32,
+    770,
+    968
+   ],
+   "descripcion": "El interior de la Alta Corte. El Dios Emperador Doom descansa sobre un trono vegetal vivo tallado de las raíces de Yggdrasil, rodeado por Sue Storm y consejeros. A la izquierda, un rayo místico de teletransporte se manifiesta en el suelo ante el Sheriff Strange.",
+   "prompt_en": "Wide shot of the High Court room inside Castle Doom, God Emperor Doom sitting in a massive root throne made from Yggdrasil, with Sue Storm beside him and Sheriff Strange standing in front of a glowing magic lightning beam on the floor.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)",
+    "Sue Storm / Mujer Invisible",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "alta-corte",
+    "battleworld",
+    "doom-dios",
+    "sheriff-strange",
+    "yggdrasil"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Where the High Court convenes.",
+     "texto_es": "Donde la Alta Corte se reúne."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Efecto de sonido",
+     "texto": "VMMM BOOM",
+     "texto_es": "VMMM BOOM"
+    }
+   ],
+   "lugar": "Alta Corte, Castillo Doom",
+   "tono": "solemne",
+   "recorte": "vinetas/page-059-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    770,
+    32,
+    980,
+    968
+   ],
+   "descripcion": "Plano medio de la corte. El Dios Emperador Doom observa impasible desde el trono, flanqueado por Sheriff Strange, Capitán Britania y Sue Storm. En primer plano a la derecha, un veterano Thor con parche en el ojo anuncia el inicio del juicio.",
+   "prompt_en": "Medium shot of God Emperor Doom on his wooden root throne flanked by Sue Storm and Sheriff Strange, with a bearded one-eyed Thor in the foreground speaking to the court, detailed comic art.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)",
+    "Sue Storm / Mujer Invisible",
+    "Capitán Britania / James Braddock",
+    "Thor Corps (varios Thors)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "alta-corte",
+    "thor-corps",
+    "yggdrasil"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And where God Doom himself sits in judgment on his throne, Yggdrasil--the World Tree.",
+     "texto_es": "Y donde el mismísimo Dios Doom se sienta a juzgar en su trono, Yggdrasil--el Árbol del Mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps (varios Thors)",
+     "texto": "As ordered: The accused.",
+     "texto_es": "Como se ordenó: Los acusados."
+    }
+   ],
+   "lugar": "Alta Corte, Castillo Doom",
+   "tono": "imponente",
+   "recorte": "vinetas/page-059-v3.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 2,
+ "pagina": 59,
+ "archivo": "paginas/page-059.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4843,
+ "_seg": 16.1
+}

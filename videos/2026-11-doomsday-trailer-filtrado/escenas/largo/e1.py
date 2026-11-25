@@ -1,0 +1,50 @@
+"""ESCENA 1 · Abre en Latveria."""
+from esc_largo._k import LFV, I, SV, tag
+
+
+def build(S):
+    s = S.scene(S.w("Escena uno"), bg="doom", enter="ink", pat="pat-benday-fuerte")
+    tag(s, "F", s.start + 0.1)
+    s.svg("ds", SV + "doomstadt.svg", 960, 560, 1760, 990, s.start + 0.05, how="pop")
+    s.kenburns("ds", s.start, S.peek("Esto cuadra"), scale=1.1, y=-20)
+    t = S.w("Latveria")
+    s.text("lat", "LATVERIA", "ttl", "amarillo", 520, 210, t, size=130, rot=-4, misreg=True)
+    t = S.w("Dumstat")
+    s.text("ds2", "DOOMSTADT", "ttl", "papel", 1400, 210, t, size=130, rot=3)
+    t = S.w("niebla verde")
+    s.text("nb", "NIEBLA VERDE", "kw", "doom", 960, 940, t, size=80, rot=-3)
+
+    s = S.scene(S.w("Esto cuadra"), bg="papel", enter="halftone")
+    s.text("cu", "¡ESTO CUADRA!", "ono", "rojo", 960, 180, s.start + 0.05, rot=-5, hold=0.9)
+    tag(s, "K", S.peek("cómics"))
+    s.img("dc", "lf/doom-comic-clasico.jpg", 1480, 560, 380, 480, S.peek("cómics"), frm="R", label="CÓMICS", rot=3)
+    t = S.w("Jásenstat")
+    s.text("hs", "HASSENSTADT", "ttl", "tinta", 960, 420, t, size=150, rot=-3)
+    t = S.w("le puso su nombre")
+    s.draw("tach", "M560 410 L1360 430", "rojo", t, w=26, dur=0.3)
+    s.text("ds", "DOOMSTADT", "ttl", "doom", 960, 640, t + 0.3, size=170, rot=-4, misreg=True, zoom=True)
+
+    s = S.scene(S.w("Y ya circula"), bg="tinta", enter="cut")
+    tag(s, "N", s.start + 0.2)
+    s.img("mapa", I + "mapa-latveria.jpg", 460, 60, 1000, 960, s.start + 0.05, frm="B", pos="40% 60%")
+    s.kenburns("mapa", s.start + 0.3, S.peek("Y lo siguiente"), scale=1.35, x=60, y=-120)
+    t = S.w("mercancía")
+    s.cap("merch", "¿MERCANCÍA DE LA PELÍCULA?", t, left=40, top=880, width=860)
+
+    s = S.scene(S.w("Y lo siguiente"), bg="doom", enter="whip")
+    tag(s, "F", s.start + 0.1)
+    t = S.w("logo")
+    s.video("logo", LFV + "lf-t09-logo-verde.mp4", 0.0, s.start + 0.1, S.peek("Pero atención") - s.start - 0.1, 210, 140, 1500, 700, tag="TRÁILER 1")
+    t = S.w("verde")
+    s.text("vd", "¡VERDE!", "ono", "amarillo", 1500, 880, t, rot=-6, hold=0.8)
+
+    s = S.scene(S.w("Pero atención"), bg="papel", enter="pageflip", color="rojo")
+    s.text("at", "¡ATENCIÓN!", "ono", "rojo", 960, 110, s.start + 0.05, rot=-4, hold=0.8)
+    t = S.w("primer tráiler")
+    s.img("t1", "lf/tr-trono.jpg", 60, 170, 860, 480, t, frm="L", label="TRÁILER 1 (OFICIAL)")
+    s.svg("filt", SV + "doomstadt.svg", 1420, 410, 860, 484, t + 0.5, how="pop")
+    s.text("fl", "FILTRACIÓN", "kw", "rojo", 1420, 700, t + 0.6, size=70, rot=3)
+    t = S.w("puede ser real")
+    s.svg("bal", SV + "balanza.svg", 960, 830, 520, 325, t, how="drop")
+    t = S.w("inventar")
+    s.text("inv", "¿O INVENTADO?", "ono", "rojo", 960, 560, t, rot=-6, hold=0.9, zoom=True)

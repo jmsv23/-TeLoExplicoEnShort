@@ -1,0 +1,182 @@
+{
+  "_nota": "Barrido de ./tl radar barrido. Cada consulta es 1 llamada a bx (Brave). Mantén el total bajo ~35. 'sitios' restringe a esos dominios; 'idioma' es la región de búsqueda.",
+  "noticias": [
+    {
+      "vertical": "cine",
+      "q": "movie",
+      "sitios": [
+        "deadline.com",
+        "variety.com",
+        "hollywoodreporter.com"
+      ]
+    },
+    {
+      "vertical": "cine",
+      "q": "trailer",
+      "sitios": [
+        "ign.com",
+        "collider.com",
+        "empireonline.com",
+        "ew.com"
+      ]
+    },
+    {
+      "vertical": "cine",
+      "q": "casting OR cast joins",
+      "sitios": [
+        "deadline.com",
+        "variety.com",
+        "thewrap.com"
+      ]
+    },
+    {
+      "vertical": "cine",
+      "q": "box office weekend"
+    },
+    {
+      "vertical": "cine",
+      "q": "sequel OR remake OR reboot announced"
+    },
+    {
+      "vertical": "tv",
+      "q": "series renewed OR canceled streaming",
+      "sitios": [
+        "deadline.com",
+        "variety.com",
+        "hollywoodreporter.com"
+      ]
+    },
+    {
+      "vertical": "comics",
+      "q": "Marvel Studios"
+    },
+    {
+      "vertical": "comics",
+      "q": "DC Studios James Gunn"
+    },
+    {
+      "vertical": "comics",
+      "q": "Marvel Comics OR DC Comics new series",
+      "sitios": [
+        "comicbook.com",
+        "screenrant.com",
+        "cbr.com",
+        "gamesradar.com"
+      ]
+    },
+    {
+      "vertical": "comics",
+      "q": "comic book adaptation movie OR series"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "game announced OR revealed",
+      "sitios": [
+        "ign.com",
+        "gamespot.com",
+        "videogameschronicle.com",
+        "eurogamer.net"
+      ]
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "leak OR insider",
+      "sitios": [
+        "insider-gaming.com",
+        "videogameschronicle.com",
+        "gematsu.com",
+        "bloomberg.com"
+      ]
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "delayed OR cancelled game"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "Nintendo Switch 2",
+      "sitios": [
+        "nintendolife.com",
+        "ign.com",
+        "gamespot.com"
+      ]
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "PlayStation OR Xbox",
+      "sitios": [
+        "blog.playstation.com",
+        "news.xbox.com",
+        "ign.com",
+        "gamespot.com"
+      ]
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "GTA 6 Rockstar"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "video game movie OR series adaptation"
+    },
+    {
+      "vertical": "es",
+      "q": "Marvel DC noticias",
+      "idioma": "es"
+    },
+    {
+      "vertical": "es",
+      "q": "videojuegos anuncio tráiler",
+      "idioma": "es"
+    },
+    {
+      "vertical": "es",
+      "q": "película tráiler estreno",
+      "idioma": "es"
+    }
+  ],
+  "comunidad": [
+    {
+      "vertical": "comics",
+      "q": "avengers doomsday"
+    },
+    {
+      "vertical": "comics",
+      "q": "mcu marvel"
+    },
+    {
+      "vertical": "comics",
+      "q": "dc universe superman batman"
+    },
+    {
+      "vertical": "comics",
+      "q": "spider-man"
+    },
+    {
+      "vertical": "comics",
+      "q": "x-men"
+    },
+    {
+      "vertical": "cine",
+      "q": "star wars"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "gta 6"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "nintendo switch 2"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "playstation 5"
+    },
+    {
+      "vertical": "videojuegos",
+      "q": "pokemon"
+    }
+  ],
+  "ruido": "\\b(deals?|ofertas?|descuentos?|black friday|cyber monday|amazon|nfl|football|nba|horoscop|recipe|receta|flights?|vuelos?|airline)\\b",
+  "_nota_comunidad": "Brave solo devuelve hilos (Reddit/foros) con consultas específicas: pon franquicias, no temas genéricos. El barrido añade además hasta 8 temas calientes."
+}

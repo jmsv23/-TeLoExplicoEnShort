@@ -1,0 +1,132 @@
+{
+ "titulo": "Avengers: Doomsday — los equipos, sus niveles de poder y quién pelea contra quién",
+ "fecha": "2026-11-24",
+ "formato": "largo+short",
+ "estilo": "comic",
+ "voz": null,
+ "serie": null,
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo",
+   "comic": {
+    "partes": [
+     [
+      "p1",
+      [
+       "hook",
+       "equipos",
+       "doom"
+      ]
+     ],
+     [
+      "p2",
+      [
+       "d1",
+       "d2",
+       "d3"
+      ]
+     ],
+     [
+      "p3",
+      [
+       "d4",
+       "d5"
+      ]
+     ],
+     [
+      "p4",
+      [
+       "d6",
+       "d7"
+      ]
+     ],
+     [
+      "p5",
+      [
+       "ranking",
+       "cierre"
+      ]
+     ]
+    ],
+    "dias": 23,
+    "placa": [
+     "d(\\d+)",
+     "DUELO",
+     7
+    ]
+   },
+   "partes": true,
+   "clip_lufs": -21
+  },
+  {
+   "id": "short-01",
+   "tipo": "short",
+   "slug": "thor-vs-doctor-doom",
+   "comic": {
+    "partes": [
+     [
+      "s1",
+      [
+       "hook",
+       "uno",
+       "dos",
+       "tres",
+       "cuatro"
+      ]
+     ]
+    ],
+    "dias": 23,
+    "placa": [
+     "^$",
+     "",
+     0
+    ]
+   },
+   "gaps": {
+    "seccion": 0.3,
+    "clip": 0.25,
+    "cola": 0.9
+   },
+   "clip_lufs": -21
+  }
+ ],
+ "musica": {
+  "comic": {
+   "hook": "hook",
+   "equipos": "misterio",
+   "doom": "doom",
+   "d1": "accion",
+   "d2": "accion",
+   "d3": "misterio",
+   "d4": "misterio",
+   "d5": "accion",
+   "d6": "doom",
+   "d7": "accion",
+   "ranking": "bonus",
+   "cierre": "hook",
+   "uno": "accion",
+   "dos": "doom",
+   "tres": "misterio",
+   "cuatro": "accion"
+  }
+ },
+ "pronunciacion": [],
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": {
+   "largo": "hecho",
+   "short-01": "hecho"
+  },
+  "montaje": {
+   "largo": "hecho",
+   "short-01": "hecho"
+  },
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {}
+}

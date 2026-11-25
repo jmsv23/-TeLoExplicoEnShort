@@ -1,0 +1,208 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico (Reed Richards) y el Dios Emperador Doom (Victor von Doom) luchan cuerpo a cuerpo en el clímax de Battleworld. Reed envuelve a Doom con sus extremidades elásticas. Mientras pelean, intercambian palabras sobre la superioridad moral y el uso del poder divino, con Doom exigiendo que Reed admita si cree que lo habría hecho mejor que él.",
+ "personajes": [
+  "Mister Fantástico",
+  "Doctor Doom / Dios Emperador Doom"
+ ],
+ "eventos_clave": [
+  "Duelo final entre Mister Fantástico y Doctor Doom",
+  "Confrontación filosófica sobre el poder absoluto y la restauración de la existencia"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    17,
+    36,
+    287,
+    469
+   ],
+   "descripcion": "Mister Fantástico usa sus brazos y cuello estirados para inmovilizar a Doctor Doom mientras luchan en el aire.",
+   "prompt_en": "Comic panel showing stretched elastic superhero holding down a masked armored villain in a cape in a bright lit void, watercolor artistic style.",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "batalla-final",
+    "poderes-elasticos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "...You think you are better than I am.",
+     "texto_es": "...Piensas que eres mejor que yo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-237-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    16,
+    452,
+    335,
+    995
+   ],
+   "descripcion": "Plano medio de Reed Richards esforzándose con expresión tensa mientras sostiene a Doom con sus brazos elásticos.",
+   "prompt_en": "Comic panel close-up of a bearded male hero with strained expression struggling while stretching his arms around a dark threat, soft orange lighting.",
+   "personajes": [
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "enfrentamiento",
+    "confesion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "No, Victor. You're wrong.",
+     "texto_es": "No, Victor. Estás equivocado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "I've always believed you could be better than what you are.",
+     "texto_es": "Siempre he creído que podrías ser mejor de lo que eres."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-237-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    269,
+    147,
+    597,
+    856
+   ],
+   "descripcion": "Doctor Doom envuelto por completo por las extremidades serpenteantes de Mister Fantástico flotando en un espacio en blanco.",
+   "prompt_en": "Comic art depicting a hooded armored figure tightly constricted by thick snake-like elastic limbs in mid-air.",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "constriccion",
+    "combate-fisico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "No. I mean now.",
+     "texto_es": "No. Me refiero a ahora."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "This moment.",
+     "texto_es": "Este momento."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "intenso",
+   "recorte": "vinetas/page-237-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    583,
+    14,
+    786,
+    963
+   ],
+   "descripcion": "Doctor Doom agarra la cara de Reed Richards quemándolo con energía mística mientras la electricidad chispea.",
+   "prompt_en": "Comic panel showing an armored hand grabbing a hero's face with burning glowing energy effects, sound effect SFX FFSSSZZZ.",
+   "personajes": [
+    "Mister Fantástico",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "ataque-magico",
+    "agoni-a"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "FFSSSZZZ",
+     "texto_es": "FFSSSZZZ"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "If you had this power, you think you could have solved it all--solved everything...",
+     "texto_es": "Si tuvieras este poder, piensas que podrías haberlo resuelto todo... resuelto todo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "You think you could have done so...much... better...",
+     "texto_es": "Piensas que podrías haberlo hecho tan... mucho... mejor..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-237-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    784,
+    18,
+    993,
+    982
+   ],
+   "descripcion": "Primer plano de la máscara metálica de Doctor Doom, mirando fijamente con rabia y vulnerabilidad a su rival.",
+   "prompt_en": "Extreme close-up panel of a metal mask eyehole revealing a desperate staring eye, hooded figure, glowing warm colors.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "primer-plano",
+    "revelacion-emocional",
+    "climax"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Don't you?",
+     "texto_es": "¿No es así?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Don't you?!",
+     "texto_es": "¡¿No es así?!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-237-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 237,
+ "archivo": "paginas/page-237.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5228,
+ "_seg": 17.8
+}

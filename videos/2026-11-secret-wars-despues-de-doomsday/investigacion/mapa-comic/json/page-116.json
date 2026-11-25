@@ -1,0 +1,211 @@
+{
+ "tipo": "historia",
+ "resumen": "En el reino de Utópolis en Battleworld, miembros del Thor Corps se ven superados en combate contra los supervivientes de las balsas de salvamento. Mientras la batalla se complica, un Thor con aspecto de jabalí decide elevar una plegaria y solicitar la intervención directa de Dios Emperador Doom. Maximus y El Hacedor observan la escena desconcertados.",
+ "personajes": [
+  "El Hacedor",
+  "Maximus",
+  "[Thor Corps]"
+ ],
+ "eventos_clave": [
+  "Enfrentamiento en el Reino de Utópolis",
+  "Un miembro del Thor Corps reza a Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    375,
+    335
+   ],
+   "descripcion": "Un miembro del Thor Corps gritando al aire con su martillo listo, convocando refuerzos para la batalla.",
+   "prompt_en": "Comic book panel, a muscular superhero warrior wearing Thor helmet and holding a glowing hammer shouting bravely, dramatic lighting",
+   "personajes": [
+    "[Thor Corps]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "utopolis",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE KINGDOM OF UTOPOLIS.",
+     "texto_es": "EL REINO DE UTÓPOLIS."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor Corps]",
+     "texto": "TAKE HEART, BROTHERS AND SISTERS--I HAVE SOUNDED THE ALARM, AND SUMMONED THE HOST!",
+     "texto_es": "¡TENGAN ÁNIMO, HERMANOS Y HERMANAS! ¡HE SONADO LA ALARMA Y HE CONVOCADO A LA HUESTE!"
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-116-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    270,
+    450,
+    1000
+   ],
+   "descripcion": "Un Thor antropomórfico con cabeza de jabalí agachado en combate, preocupado por las bajas y la fuga de los fugitivos.",
+   "prompt_en": "Comic panel, a boar-headed Thor warrior crouched down in a battlefield holding a giant hammer, action comic art style",
+   "personajes": [
+    "[Thor Corps]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "combate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor Corps]",
+     "texto": "THIS WILL NOT WAIT, BROTHER! THE BATTLE GOES POORLY.",
+     "texto_es": "¡ESTO NO ESPERARÁ, HERMANO! LA BATALLA VA MAL."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor Corps]",
+     "texto": "TWO OF OUR NUMBER ARE BADLY INJURED. WE CANNOT HOLD QUARANTINE, AND IF THESE ROGUES SCATTER, SOME WILL SURELY ESCAPE TO OTHER KINGDOMS BEFORE REINFORCEMENTS ARRIVE.",
+     "texto_es": "DOS DE LOS NUESTROS ESTÁN GRAVEMENTE HERIDOS. NO PODEMOS MANTENER LA CUARENTENA, Y SI ESTOS RUFIANES SE DISPERSAN, ALGUNOS SEGURAMENTE ESCAPARÁN A OTROS REINOS ANTES DE QUE LLEGUEN REFUERZOS."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "urgente",
+   "recorte": "vinetas/page-116-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    375,
+    35,
+    688,
+    356
+   ],
+   "descripcion": "El Thor jabalí se arrodilla apoyado en su martillo, preparando su espíritu para invocar la ayuda divina.",
+   "prompt_en": "Comic panel, boar Thor kneeling solemnly resting his hands on a war hammer, dramatic shadows",
+   "personajes": [
+    "[Thor Corps]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "oracion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor Corps]",
+     "texto": "LAWLESSNESS IS A DISEASE. AN INFECTIOUS WOUND WE CANNOT LET ROT THE WORLD.",
+     "texto_es": "LA ANARQUÍA ES UNA ENFERMEDAD. UNA HERIDA INFECCIOSA QUE NO PODEMOS PERMITIR QUE PUDRA EL MUNDO."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor Corps]",
+     "texto": "I MUST TAKE THIS MATTER TO GOD.",
+     "texto_es": "DEBO LLEVAR ESTE ASUNTO ANTE DIOS."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-116-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    410,
+    335,
+    688,
+    1000
+   ],
+   "descripcion": "Maximus y El Hacedor observan al Thor jabalí desde la distancia, comentando sobre su actitud.",
+   "prompt_en": "Comic panel, sci-fi villains looking at a glowing figure in the distance, blue holographic light",
+   "personajes": [
+    "El Hacedor",
+    "Maximus"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "maximus",
+    "observacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus",
+     "texto": "VIOLENCE. VIOLENCE. HOW THE SIMPLE LOVE THEIR VIOLENCE. IT'S SO PREDICTABLE--MOST THINGS ARE. WHICH IS WHY I DO SO LOVE SURPRISES...",
+     "texto_es": "VIOLENCIA. VIOLENCIA. CÓMO LES ENCANTA LA VIOLENCIA A LOS SIMPLES. ES TAN PREDECIBLE... LA MAYORÍA DE LAS COSAS LO SON. POR ESO ME ENCANTAN LAS SORPRESAS..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Maximus",
+     "texto": "LOOK THERE, MAKER. WHAT IS THAT CURIOUS MAN UP TO? SURRENDER? PACIFISM?",
+     "texto_es": "MIRA ALLÍ, HACEDOR. ¿QUÉ HACE ESE CURIOSO HOMBRE? ¿RENDICIÓN? ¿PACIFISMO?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Something a bit more foreboding, Maximus...",
+     "texto_es": "Algo un poco más amedrentador, Maximus..."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-116-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    704,
+    35,
+    980,
+    965
+   ],
+   "descripcion": "Vista panorámica del Thor jabalí levantando su martillo al cielo, envuelto en relámpagos mientras reza a Doom.",
+   "prompt_en": "Comic panel, warrior holding glowing thunder hammer up into the sky with bolts of lightning, low angle shot",
+   "personajes": [
+    "[Thor Corps]",
+    "El Hacedor"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "rayo",
+    "doom-dios",
+    "oracion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "El Hacedor",
+     "texto": "...I believe he is praying.",
+     "texto_es": "...Creo que está rezando."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "imponente",
+   "recorte": "vinetas/page-116-v5.jpg"
+  }
+ ],
+ "lugar": "Utópolis, Battleworld",
+ "numero_comic": 3,
+ "pagina": 116,
+ "archivo": "paginas/page-116.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5403,
+ "_seg": 18.7
+}

@@ -1,0 +1,49 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de texto introductorio que anuncia la inminente colisión de las últimas dos Tierras restantes en el multiverso.",
+ "personajes": [],
+ "eventos_clave": [
+  "Incursión final",
+  "Colisión de las Tierras"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Fondo blanco minimalista con un emblema geométrico gris centrado arriba y tres frases de texto introductorio en letras mayúsculas color gris.",
+   "prompt_en": "Minimalist graphic design page on white background featuring a grey geometric symbol on top and centered bold text reading THE MULTIVERSE IS DYING. ONLY TWO UNIVERSES REMAIN. TODAY, EARTHS COLLIDE.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "incursion-final",
+    "multiverso",
+    "introduccion",
+    "secret-wars"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "THE MULTIVERSE IS DYING. ONLY TWO UNIVERSES REMAIN. TODAY, EARTHS COLLIDE.",
+     "texto_es": "EL MULTIVERSO ESTÁ MURIENDO. SOLO QUEDAN DOS UNIVERSOS. HOY, LAS TIERRAS COLISIONAN."
+    }
+   ],
+   "recorte": "vinetas/page-007-v1.jpg"
+  }
+ ],
+ "lugar": "Multiverso",
+ "numero_comic": 1,
+ "pagina": 7,
+ "archivo": "paginas/page-007.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3091,
+ "_seg": 11.5
+}

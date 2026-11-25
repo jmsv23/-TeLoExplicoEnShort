@@ -10,7 +10,7 @@ from . import assets as A
 from . import flujo as F
 from . import miniaturas as M
 from . import voces as VO
-from .proyecto import Video
+from .proyecto import Video, die
 
 
 def main():
@@ -78,6 +78,13 @@ def main():
     p = sp.add_parser("voces", help="listar | respaldar <slug> <nombre en Voicebox> | restaurar <slug>")
     p.add_argument("accion", choices=["listar", "respaldar", "restaurar"])
     p.add_argument("args", nargs="*")
+    p = sp.add_parser("radar", help="barrido | youtube <consultas…> | reporte  (research/radar/<fecha>/)")
+    p.add_argument("accion", choices=["barrido", "youtube", "reporte"])
+    p.add_argument("consultas", nargs="*", help="youtube: consultas a buscar")
+    p.add_argument("--fecha", help="carpeta research/radar/<fecha> (default: hoy)")
+    p.add_argument("--ventana", choices=["24h", "72h", "7d"], default="7d", help="barrido: antigüedad máxima")
+    p.add_argument("--vertical", nargs="*", help="barrido: solo cine | tv | comics | videojuegos | es")
+    p.add_argument("-n", type=int, default=20, help="youtube: resultados por consulta")
 
     a = ap.parse_args()
     c = a.cmd
@@ -112,7 +119,12 @@ def main():
         from .render import hoja
         v = Video(a.video)
         for p_ in v.seleccion(a.piezas):
-            hoja(v.build / "render" / f"{p_}-final.mp4", v.build / "revision" / f"{p_}.jpg", a.cada)
+            f = v.build / "render" / f"{p_}-final.mp4"
+            if not f.exists():  # sin render final: revisa el draft
+                f = v.build / "render" / f"{p_}-final.draft.mp4"
+            if not f.exists():
+                die(f"{p_}: no hay render (./tl render {v.dir.name} {p_} --draft)")
+            hoja(f, v.build / "revision" / f"{p_}.jpg", a.cada)
     elif c == "miniaturas":
         M.render(Video(a.video), a.ids or None)
     elif c == "qa":
@@ -160,6 +172,9 @@ def main():
             VO.respaldar(a.args[0], a.args[1])
         elif a.accion == "restaurar":
             VO.restaurar(a.args[0])
+    elif c == "radar":
+        from . import radar
+        radar.main(a)
 
 
 if __name__ == "__main__":

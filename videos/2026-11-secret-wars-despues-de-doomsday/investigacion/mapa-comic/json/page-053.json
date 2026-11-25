@@ -1,0 +1,188 @@
+{
+ "tipo": "historia",
+ "resumen": "Un equipo de investigación en el dominio de Utópolis examina un misterioso objeto enterrado que parece ser una nave o balsa sepultada. Discuten la extraña composición subatómica de la materia exótica de la balsa mientras especulan sobre el encubrimiento oficial que atribuyó el hallazgo a un terremoto.",
+ "personajes": [
+  "Alex Power",
+  "[humanoide alado]",
+  "[investigador cibernético]",
+  "[investigador alienígena]"
+ ],
+ "eventos_clave": [
+  "Descubrimiento de la balsa de supervivencia en Battleworld",
+  "Investigación científica de la materia exótica de la balsa"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    31,
+    351,
+    597
+   ],
+   "descripcion": "Un grupo de investigadores vistiendo trajes de protección ambiental examinan la enorme estructura metálica enterrada en el terreno desértico de Utópolis.",
+   "prompt_en": "Comic panel showing researchers in suits examining a massive buried alien metallic hull in a desert landscape, atmospheric lighting.",
+   "personajes": [
+    "Alex Power",
+    "[investigador alienígena]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "utopolis",
+    "investigacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[investigador alienígena]",
+     "texto": "Oh, it's a cover. The earthquake story is a ruse.",
+     "texto_es": "Oh, es una tapadera. La historia del terremoto es un ardid."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[investigador alienígena]",
+     "texto": "Fabricated, I'm sure, so that the good people of Utopolis don't freak out when they learn another Hulk got loose on the mainland.",
+     "texto_es": "Inventada, estoy seguro, para que la buena gente de Utópolis no entre en pánico cuando se entere de que otro Hulk andaba suelto en el continente."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-053-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    23,
+    606,
+    351,
+    971
+   ],
+   "descripcion": "Un investigador sentado encima del casco metálico conversa con sus compañeros mientras tocan la superficie petrificada.",
+   "prompt_en": "Comic panel close-up of sci-fi explorers in helmets touching a giant smooth alien artifact under a cosmic sky.",
+   "personajes": [
+    "Alex Power",
+    "[investigador alienígena]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa",
+    "utopolis"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "My God...",
+     "texto_es": "Dios mío..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[investigador sentado]",
+     "texto": "Yeah. Hulks are the worst.",
+     "texto_es": "Sí. Los Hulks son lo peor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[investigador alienígena]",
+     "texto": "That must be it.",
+     "texto_es": "Debe ser eso."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "intrigado",
+   "recorte": "vinetas/page-053-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    366,
+    31,
+    523,
+    971
+   ],
+   "descripcion": "Primer plano del rostro de un examinador con un implante cibernético en el ojo izquierdo analizando la estructura del objeto.",
+   "prompt_en": "Panoramic close-up of a purple alien humanoid with a mechanical eye implant, looking analytical.",
+   "personajes": [
+    "personaje no identificado"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "analisis",
+    "tecnologia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "personaje no identificado",
+     "texto": "The subatomic structure of this object is...unusual. First glance, my best guess would be some kind of fabricated exotic matter.",
+     "texto_es": "La estructura subatómica de este objeto es... inusual. A primera vista, mi mejor suposición sería que se trata de algún tipo de materia exótica fabricada."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "analítico",
+   "recorte": "vinetas/page-053-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    523,
+    31,
+    977,
+    971
+   ],
+   "descripcion": "Vista amplia de la colosal estructura de la balsa semisepultada mientras el equipo camina a su alrededor y habla con el Ministro.",
+   "prompt_en": "Wide comic panel showing a colossal buried craft shell in a canyon, with small sci-fi characters standing near its base.",
+   "personajes": [
+    "Alex Power",
+    "[humanoide alado]",
+    "[investigador alienígena]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "balsa",
+    "hallazgo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[humanoide alado]",
+     "texto": "Alex... this really is quite something.",
+     "texto_es": "Alex... esto realmente es algo impresionante."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "So what would you like for us to do, Minister?",
+     "texto_es": "Entonces, ¿qué le gustaría que hiciéramos, Ministro?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[investigador alienígena]",
+     "texto": "What do you think?",
+     "texto_es": "¿Tú qué piensas?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[investigador alienígena]",
+     "texto": "You're a digger...",
+     "texto_es": "Eres un excavador..."
+    }
+   ],
+   "lugar": "Utópolis, Battleworld",
+   "tono": "revelador",
+   "recorte": "vinetas/page-053-v4.jpg"
+  }
+ ],
+ "lugar": "Utópolis, Battleworld",
+ "numero_comic": 2,
+ "pagina": 53,
+ "archivo": "paginas/page-053.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4859,
+ "_seg": 16.8
+}

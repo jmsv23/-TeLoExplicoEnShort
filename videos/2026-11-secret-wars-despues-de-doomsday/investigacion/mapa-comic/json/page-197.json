@@ -1,0 +1,106 @@
+{
+ "tipo": "historia",
+ "resumen": "El Maestro aparece volando en una gigantesca nave de guerra modificada con restos prehistóricos y colmillos de mamut, guiando a las fuerzas de los Rompemundos al combate.",
+ "personajes": [
+  "Maestro"
+ ],
+ "eventos_clave": [
+  "Ataque del Maestro a Battleworld",
+  "Despliegue de los Rompemundos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    755,
+    1000
+   ],
+   "descripcion": "Una enorme nave de guerra voladora de metal envejecido con colmillos y cráneo de mamut gigante en la proa navega a través del cielo entre las nubes.",
+   "prompt_en": "Extremely large sci-fi flying warship carrier with colossal mammoth skull and tusks mounted on the front bow, soaring through cloudy blue skies, cinematic perspective from below, comic art style by Esad Ribic.",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "nave-de-guerra",
+    "battleworld",
+    "maestro",
+    "worldbreakers"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "For the Maestro is here.",
+     "texto_es": "Porque el Maestro está aquí."
+    }
+   ],
+   "lugar": "Cielo sobre Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-197-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    751,
+    35,
+    1000,
+    712
+   ],
+   "descripcion": "El Maestro, un Hulk anciano con barba blanca y armadura, permanece firme sobre la proa de la nave junto a los enormes colmillos de mamut.",
+   "prompt_en": "Old muscular green Hulk with white long hair and beard standing atop the bow of a warship next to giant tusks, looking heroic, comic art style.",
+   "personajes": [
+    "Maestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "maestro",
+    "pose-heroica"
+   ],
+   "textos": [],
+   "lugar": "Cubierta de la nave del Maestro",
+   "tono": "epico",
+   "recorte": "vinetas/page-197-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    770,
+    722,
+    1000,
+    970
+   ],
+   "descripcion": "Primer plano del rostro del Maestro gritando la orden de ataque a sus tropas.",
+   "prompt_en": "Close up of an old bearded green Hulk shouting with rage and authority, comic book style.",
+   "personajes": [
+    "Maestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "maestro",
+    "grito-de-guerra"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Maestro",
+     "texto": "Worldbreakers... go!",
+     "texto_es": "¡Rompemundos... a ellos!"
+    }
+   ],
+   "lugar": "Cubierta de la nave del Maestro",
+   "tono": "intenso",
+   "recorte": "vinetas/page-197-v3.jpg"
+  }
+ ],
+ "lugar": "Cielo de Battleworld",
+ "numero_comic": 6,
+ "pagina": 197,
+ "archivo": "paginas/page-197.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3401,
+ "_seg": 9.9
+}

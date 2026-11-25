@@ -1,0 +1,126 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante una caótica batalla campal con seres colosales y guerreros caídos, un deslumbrante portal de energía se abre en medio del campo de batalla, llamando la atención de los combatientes presentes.",
+ "personajes": [
+  "Hulk",
+  "Thor",
+  "Capitana Marvel",
+  "[soldados de Doom]"
+ ],
+ "eventos_clave": [
+  "Aparición de un misterioso portal de luz",
+  "Ataque de criaturas colosales en Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    467,
+    1000
+   ],
+   "descripcion": "Vista panorámica de una sangrienta batalla donde seres gigantescos se alzan sobre héroes caídos como Hulk y miembros de los Thor Corps. Un hacha y espada están clavadas en el suelo.",
+   "prompt_en": "Comic panel showing giant rocky monsters towering over defeated superheroes like Hulk on a battlefield, cinematic scale, high detail comic book style.",
+   "personajes": [
+    "Hulk",
+    "Thor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "batalla",
+    "gigantes"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"I WANT YOU TO DEVOUR THEM FOR ME.\"",
+     "texto_es": "\"Quiero que los devores por mí.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-218-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    470,
+    0,
+    708,
+    1000
+   ],
+   "descripcion": "Primer plano de un guerrero con máscara roja y pelo rubio reaccionando con angustia y sorpresa ante un sonido deslumbrante y repentino.",
+   "prompt_en": "Close up of a comic hero wearing a red helmet screaming in surprise as a bright light flashes beside him, dynamic action style.",
+   "personajes": [
+    "[superhéroe enmascarado]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "onomatopeya",
+    "sorpresa"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "FWASSSSH!",
+     "texto_es": "¡FWASSSSH!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[superhéroe enmascarado]",
+     "texto": "WHAT NOW?",
+     "texto_es": "¿Y AHORA QUÉ?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-218-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    677,
+    30,
+    977,
+    965
+   ],
+   "descripcion": "En un escenario desértico, una silueta de heroína (Capitana Marvel) y soldados fuertemente armados observan la apertura de un portal rectangular brillante que emite un rayo de luz deslumbrante.",
+   "prompt_en": "A glowing yellow portal opens in a dusty sci-fi battlefield as futuristic soldiers and a blonde female hero watch in shock, wide shot comic art.",
+   "personajes": [
+    "Capitana Marvel",
+    "[soldados de Doom]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "portal",
+    "luz-brillante",
+    "aparicion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitana Marvel",
+     "texto": "THERE'S SOMETHING COMING THROUGH!",
+     "texto_es": "¡VIENE ALGO A TRAVÉS DE AHÍ!"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-218-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 218,
+ "archivo": "paginas/page-218.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4051,
+ "_seg": 13.2
+}

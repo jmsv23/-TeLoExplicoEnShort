@@ -1,0 +1,302 @@
+{
+ "tipo": "historia",
+ "resumen": "Spider-Man (Peter Parker) y Spider-Man (Miles Morales) conversan sobre una hamburguesa guardada en el bolsillo de Miles durante años en animación suspendida. Le ofrecen la hamburguesa al Hombre Molécula (Owen Reece), quien se la come hambriento y revela a las dos arañas que él es la fuente del poder del Dios Emperador Doom.",
+ "personajes": [
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Miles Morales le entrega su hamburguesa guardada al Hombre Molécula",
+  "El Hombre Molécula revela ser la fuente del poder absoluto de Victor von Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    32,
+    35,
+    327,
+    496
+   ],
+   "descripcion": "Spider-Man (Peter Parker) cuestiona a Spider-Man (Miles Morales) sobre cómo olvidó que llevaba una hamburguesa en su bolsillo.",
+   "prompt_en": "Comic panel showing Peter Parker's Spider-Man talking to Miles Morales' Spider-Man in a plain white background, waist-up shot.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "conversacion",
+    "hamburguesa",
+    "spider-man"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "How do you forget you have a hamburger in your pocket?",
+     "texto_es": "¿Cómo olvidas que tienes una hamburguesa en el bolsillo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "We've been busy.",
+     "texto_es": "Hemos estado ocupados."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "It's a hamburger.",
+     "texto_es": "Es una hamburguesa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Hamburgers are what I like. Puberty is rough, Pete. I'm starving all day long. 'Cause I'm gonna be big.",
+     "texto_es": "Las hamburguesas me gustan. La pubertad es dura, Pete. Tengo hambre todo el día. Porque voy a ser grande."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "No, Miles. I mean, where did you get it? Don't say your pocket.",
+     "texto_es": "No, Miles. Quiero decir, ¿de dónde la sacaste? No me digas que de tu bolsillo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "From home. You know, my Earth.",
+     "texto_es": "De mi casa. Ya sabes, mi Tierra."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "cómico",
+   "recorte": "vinetas/page-164-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    32,
+    507,
+    327,
+    968
+   ],
+   "descripcion": "Peter Parker hace cuentas de cuántos años tiene la hamburguesa y concluye que no deberían comérsela.",
+   "prompt_en": "Comic panel of two Spider-Men talking about an old hamburger, clean line art with vivid red and black suits.",
+   "personajes": [
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "conversacion",
+    "humor",
+    "spider-man"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "So you're telling me that's an eight-year, three-week-old hamburger?",
+     "texto_es": "¿Así que me estás diciendo que esa es una hamburguesa de ocho años y tres semanas de antigüedad?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "I don't think the suspended animation counts.",
+     "texto_es": "No creo que la animación suspendida cuente."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Okay. So that's a three-week-old hamburger?",
+     "texto_es": "Vale. ¿Entonces es una hamburguesa de tres semanas?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Yeah.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "And?",
+     "texto_es": "¿Y?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Miles Morales)",
+     "texto": "Oh, man. He shouldn't eat that.",
+     "texto_es": "Cielos. No debería comerse eso."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "cómico",
+   "recorte": "vinetas/page-164-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    327,
+    290,
+    492,
+    630
+   ],
+   "descripcion": "Hombre Molécula (Owen Reece) aparece de cabeza comiéndose complacido la hamburguesa.",
+   "prompt_en": "Floating upside-down golden glowing head of an older man eating a hamburger enthusiastically, white background.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "hamburguesa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Ohhhh, so good.",
+     "texto_es": "Ohhhh, qué buena."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "surrealista",
+   "recorte": "vinetas/page-164-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    498,
+    35,
+    818,
+    688
+   ],
+   "descripcion": "Hombre Molécula flota flotando eufórico entre Miles Morales y Peter Parker mientras recupera fuerza.",
+   "prompt_en": "A glowing golden upside-down man floating between two Spider-Men in a white void.",
+   "personajes": [
+    "Spider-Man (Miles Morales)",
+    "Hombre Molécula (Owen Reece)",
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "So good. And now I feel much better--momentarily collected enough to guess where this is headed...",
+     "texto_es": "Tan buena. Y ahora me siento mucho mejor... lo suficientemente concentrado momentáneamente como para adivinar a dónde va esto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "You're following a certain tendril. Spiders scurrying along a very particular web.",
+     "texto_es": "Están siguiendo un cierto zarcillo. Arañas correteando por una telaraña muy particular."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "BURP",
+     "texto_es": "ERUCTO"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "I'm right... aren't I?",
+     "texto_es": "Tengo razón... ¿no?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-164-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    498,
+    694,
+    818,
+    968
+   ],
+   "descripcion": "Peter Parker se rasca la cabeza desconcertado buscando la fuente del poder de Doctor Doom.",
+   "prompt_en": "Close up of Spider-Man scratching his head in confusion inside a white void.",
+   "personajes": [
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "spider-man",
+    "confusion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Uh, maybe. We were sent to find the source of Doom's power. All I can see here is a big white room.",
+     "texto_es": "Eh, tal vez. Nos enviaron a buscar la fuente del poder de Doom. Todo lo que puedo ver aquí es una gran habitación blanca."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "Any idea where around here we might find that?",
+     "texto_es": "¿Alguna idea de dónde podríamos encontrar eso por aquí?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "cómico",
+   "recorte": "vinetas/page-164-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    818,
+    169,
+    1000,
+    968
+   ],
+   "descripcion": "Un gran plano detalle del rostro del Hombre Molécula (Owen Reece) sonriendo al revelar que él es la fuente del poder de Doom.",
+   "prompt_en": "Extreme close-up of an old man's face glowing with power, smiling mysteriously in warm tones.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "hombre-molecula",
+    "doom-dios",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Oh, yes...",
+     "texto_es": "Oh, sí..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "You're looking at him.",
+     "texto_es": "Lo estás mirando."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "revelación",
+   "recorte": "vinetas/page-164-v6.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula (Battleworld)",
+ "numero_comic": 6,
+ "pagina": 164,
+ "archivo": "paginas/page-164.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7206,
+ "_seg": 25.9
+}

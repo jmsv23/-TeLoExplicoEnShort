@@ -1,0 +1,309 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hombre Molécula (Owen Reece) reflexiona junto a Doctor Doom sobre la naturaleza de su existencia como una bomba multiversal creada por los Beyonders. Explican cómo se encontraron a través del tiempo y espacio para activar versiones del Hombre Molécula antes de tiempo y así reducir la detonación final del multiverso.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Origen del Hombre Molécula como bomba multiversal creada por los Beyonders",
+  "Explicación del plan de Doctor Doom y Owen Reece para detener la destrucción total del multiverso"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    35,
+    305,
+    352
+   ],
+   "descripcion": "Owen Reece colgado boca abajo habla sobre cómo los Beyonders se aburrieron de la vida y decidieron destruirlo todo.",
+   "prompt_en": "Comic panel showing Owen Reece hanging upside down looking downwards, soft glowing yellow background.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "beyonders"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Yes. You. Owen Reece. The Molecule Man.",
+     "texto_es": "Sí. Tú. Owen Reece. El Hombre Molécula."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "And then they got bored with life and started loving the idea of death.",
+     "texto_es": "Y luego se aburrieron de la vida y comenzaron a amar la idea de la muerte."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Sometimes you've tinkered all you can... and the only thing left to do is tear it all down and start over.",
+     "texto_es": "A veces has manipulado todo lo que puedes... y lo único que queda por hacer es derribarlo todo y empezar de nuevo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "So then they made me.",
+     "texto_es": "Así que me crearon a mí."
+    }
+   ],
+   "lugar": "Cámara secreta de Doom",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-140-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    352,
+    305,
+    684
+   ],
+   "descripcion": "Doctor Doom de pie en el centro de la viñeta con túnica y máscara bajo una luz dorada mientras escucha.",
+   "prompt_en": "Comic panel featuring Doctor Doom wearing his cloak and iron mask, illuminated by warm golden light.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "A bomb built to destroy a universe.",
+     "texto_es": "Una bomba construida para destruir un universo."
+    }
+   ],
+   "lugar": "Cámara secreta de Doom",
+   "tono": "solemne",
+   "recorte": "vinetas/page-140-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    26,
+    684,
+    305,
+    969
+   ],
+   "descripcion": "Primer plano de Owen Reece al revés, describiéndose a sí mismo como una bomba.",
+   "prompt_en": "Close up panel of Owen Reece seen upside down with glowing blue eyes, shaded in warm yellow tone.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "hombre-molecula",
+    "bomba-multiversal"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Not a bomb. The bomb.",
+     "texto_es": "No una bomba. LA bomba."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Bomb. Bomb. Bomb.",
+     "texto_es": "Bomba. Bomba. Bomba."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Set me off and watch me explode.",
+     "texto_es": "Actívame y mira cómo exploto."
+    }
+   ],
+   "lugar": "Cámara secreta de Doom",
+   "tono": "inquietante",
+   "recorte": "vinetas/page-140-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    315,
+    32,
+    706,
+    654
+   ],
+   "descripcion": "El rostro del Hombre Molécula flota flotando sobre un paisaje urbano futurista y la curvatura de un planeta.",
+   "prompt_en": "Surreal comic panel showing a large floating head of Molecule Man over futuristic cityscapes and planetary horizon.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "beyonders",
+    "multiverso",
+    "hombre-molecula"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "It was a good plan. The Beyonders... they really knew their stuff.",
+     "texto_es": "Era un buen plan. Los Beyonders... realmente sabían lo que hacían."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "They made one of me to kill a universe. And all of me to kill the multiverse. The same person across all of reality. Sliced up into delicious little bites.",
+     "texto_es": "Hicieron a uno de mí para matar a un universo. Y a todos mí para matar el multiverso. La misma persona en toda la realidad. Rebanada en deliciosos bocados pequeños."
+    }
+   ],
+   "lugar": "Visiones del Multiverso",
+   "tono": "revelador",
+   "recorte": "vinetas/page-140-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    315,
+    661,
+    706,
+    969
+   ],
+   "descripcion": "Doctor Doom escucha atentamente mientras habla sobre el libre albedrío y las elecciones.",
+   "prompt_en": "Comic panel showing Doctor Doom standing on the right in profile, golden glow background.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "elecciones"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "But do you know what the Beyonders forgot to plan for, Victor?",
+     "texto_es": "¿Pero sabes con qué no contaban los Beyonders, Victor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes. They made you a man. They gave you choice.",
+     "texto_es": "Sí. Te hicieron un hombre. Te dieron elección."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "We live our lives defined by the choices we make. And in the end, the high cost of living is--",
+     "texto_es": "Vivimos nuestras vidas definidas por las elecciones que tomamos. Y al final, el alto costo de vivir es--"
+    }
+   ],
+   "lugar": "Cámara secreta de Doom",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-140-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    719,
+    32,
+    977,
+    608
+   ],
+   "descripcion": "Owen Reece al revés señala hacia Doom mientras le pregunta quién encontró a quién primero.",
+   "prompt_en": "Comic panel showing upside down body of Owen Reece pointing finger at Doctor Doom standing nearby.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Me!",
+     "texto_es": "¡Yo!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Me. Me. Me. I had a choice, and my choice was you.",
+     "texto_es": "Yo. Yo. Yo. Tuve una elección, y mi elección fuiste tú."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Tell me, Victor. Do you ever wonder who exactly found who? Forwards and backwards in time...",
+     "texto_es": "Dime, Victor. ¿Alguna vez te preguntas quién encontró exactamente a quién? Hacia adelante y hacia atrás en el tiempo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Was it you who found me? Or I who found you?",
+     "texto_es": "¿Fuiste tú quien me encontró a mí? ¿O yo quien te encontró a ti?"
+    }
+   ],
+   "lugar": "Cámara secreta de Doom",
+   "tono": "intenso",
+   "recorte": "vinetas/page-140-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    719,
+    618,
+    977,
+    969
+   ],
+   "descripcion": "Extreme close-up de la máscara de Doctor Doom, enfocado en su ojo, explicando el plan de hacer detonar a los Hombres Molécula temprano.",
+   "prompt_en": "Extreme close-up panel focusing on Doctor Doom's eye behind his metal mask.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "plan-contra-beyonders"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "The order is of little consequence. What mattered was that we both knew what had to be done.",
+     "texto_es": "El orden es de poca importancia. Lo que importaba era que ambos sabíamos lo que había que hacer."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You were a bomb meant to simultaneously explode. So we decided to set some of you off early. Blow the primer to diminish the charge.",
+     "texto_es": "Eras una bomba destinada a explotar simultáneamente. Así que decidimos activar a algunos de ustedes antes de tiempo. Detonar el detonador para disminuir la carga."
+    }
+   ],
+   "lugar": "Cámara secreta de Doom",
+   "tono": "calculador",
+   "recorte": "vinetas/page-140-v7.jpg"
+  }
+ ],
+ "lugar": "Cámara secreta del Hombre Molécula bajo Castle Doom",
+ "numero_comic": 5,
+ "pagina": 140,
+ "archivo": "paginas/page-140.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7890,
+ "_seg": 31.3
+}

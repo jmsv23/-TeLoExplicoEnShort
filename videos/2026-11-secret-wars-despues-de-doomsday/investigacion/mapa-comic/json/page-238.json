@@ -1,0 +1,192 @@
+{
+ "tipo": "historia",
+ "resumen": "En la batalla final de Secret Wars, Doctor Doom admite finalmente a regañadientes que Reed Richards habría hecho un mejor trabajo salvando el universo con el poder omnipotente. Al escuchar este acuerdo entre ambos, el Hombre Molécula (Owen Reece) interviene para despojar a Doom de su poder divino.",
+ "personajes": [
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Doctor Doom admite que Reed Richards habría sido un mejor Dios Emperador",
+  "El Hombre Molécula interviene tras el mutuo acuerdo entre Reed y Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    185,
+    1000
+   ],
+   "descripcion": "Primer plano del rostro ensangrentado y enfocado de Reed Richards hablando resueltamente con Doom.",
+   "prompt_en": "Close-up of Reed Richards with a serious, intense expression and a beard, bathed in warm orange light, comic art style by Esad Ribic.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reed-richards",
+    "confrontacion",
+    "climax"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "And we both know it, don't we?",
+     "texto_es": "Y ambos lo sabemos, ¿verdad?"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "tenso",
+   "recorte": "vinetas/page-238-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    135,
+    0,
+    330,
+    1000
+   ],
+   "descripcion": "Primer plano del rostro del Doctor Doom bajo su máscara plateada, gritando furioso al admitir la verdad.",
+   "prompt_en": "Close up of Doctor Doom's metal mask screaming in rage and frustration, hooded figure, dramatic lighting, detailed comic art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "confesion",
+    "ira"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Yes. Damn you...",
+     "texto_es": "Sí. Maldito seas..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Now die!",
+     "texto_es": "¡Ahora muere!"
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "dramático",
+   "recorte": "vinetas/page-238-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    320,
+    0,
+    620,
+    1000
+   ],
+   "descripcion": "Doom ataca lanzando una potente ráfaga de energía y tentáculos contra su oponente mientras se escucha un fuerte estruendo.",
+   "prompt_en": "Doctor Doom engulfed in massive swirling orange energy tentacles and explosion, dynamic splash panel, soft glow background.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ataque",
+    "poder-cosmico",
+    "tentaculos"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "AAAA... WFFF...",
+     "texto_es": "AAAA... WFFF..."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "caótico",
+   "recorte": "vinetas/page-238-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    704,
+    38,
+    836,
+    963
+   ],
+   "descripcion": "Una viñeta horizontal panorámica que muestra el rostro invertido del Hombre Molécula (Owen Reece) decidiendo intervenir.",
+   "prompt_en": "Upside down close up of Molecule Man's glowing head floating in a white vacuum background, minimalist narrow frame comic panel.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "intervencion",
+    "juicio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Hombre Molécula (Owen Reece)",
+     "texto": "Okay, then. If you both agree...",
+     "texto_es": "Bien, entonces. Si ambos están de acuerdo..."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "calmado",
+   "recorte": "vinetas/page-238-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    820,
+    0,
+    1000,
+    880
+   ],
+   "descripcion": "Doctor Doom se da cuenta horrorizado de que sus poderes divinos le están siendo arrebatados mientras las espirales de energía lo envuelven.",
+   "prompt_en": "Doctor Doom surrounded by giant cosmic tendrils, looking terrified as his godlike powers leave him, dramatic comic book illustration.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doctor-doom",
+    "perdida-de-poder",
+    "desesperacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Wait. No...",
+     "texto_es": "Espera. No..."
+    }
+   ],
+   "lugar": "Cámara del Hombre Molécula",
+   "tono": "temeroso",
+   "recorte": "vinetas/page-238-v5.jpg"
+  }
+ ],
+ "lugar": "Cámara del Hombre Molécula / Battleworld",
+ "numero_comic": 9,
+ "pagina": 238,
+ "archivo": "paginas/page-238.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5431,
+ "_seg": 19.0
+}

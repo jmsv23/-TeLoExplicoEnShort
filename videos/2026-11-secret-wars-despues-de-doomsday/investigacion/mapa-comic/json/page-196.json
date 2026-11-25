@@ -1,0 +1,242 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Siniestro, decapitado y derrotado en la batalla de Doomstadt, intenta negociar un perdón con Apocalipsis. Apocalipsis rechaza rotundamente la piedad hacia traidores mientras lucha contra miembros de los Thor Corps. Cuando Apocalipsis afirma que la situación de Siniestro no puede empeorar, la llegada de una sombra colosal demuestra lo contrario.",
+ "personajes": [
+  "Mister Siniestro",
+  "Apocalipsis",
+  "Thor Corps"
+ ],
+ "eventos_clave": [
+  "Mister Siniestro pide clemencia a Apocalipsis",
+  "Apocalipsis rechaza perdonar a los traidores frente a Dios Doom",
+  "Llegada de una gigantesca silueta a la batalla"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    34,
+    274,
+    343
+   ],
+   "descripcion": "La cabeza cercenada de Mister Siniestro yace en el suelo lleno de escombros mientras intenta persuadir a Apocalipsis para obtener clemencia.",
+   "prompt_en": "Close up of a pale villain's severed head lying on rocky ground speaking, comic book style",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "battleworld",
+    "derrota"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Time out. Just look how far I've fallen...",
+     "texto_es": "Tiempo fuera. Solo mira qué tan bajo he caído..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Until now, I've been a loyal servent. Of a sort. I've had my moments--we have...some were greater than others, sure, but add them all together and one could make a case for lenience.",
+     "texto_es": "Hasta ahora, he sido un sirviente leal. En cierto modo. He tenido mis momentos, los hemos tenido... algunos fueron mejores que otros, claro, pero si los sumas todos, se podría justificar la indulgencia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "So what do you say, Apocalypse? A Baron's pardon for a fellow Baron?",
+     "texto_es": "¿Qué dices, Apocalipsis? ¿El perdón de un Barón para otro Barón?"
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-196-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    25,
+    349,
+    274,
+    968
+   ],
+   "descripcion": "Apocalipsis en pleno combate contra varios combatientes y un Thor con aspecto de jabalí, enfurecido por la petición de misericordia.",
+   "prompt_en": "Giant armored villain Apocalypse fighting warriors in battle, shouting angrily, comic book art",
+   "personajes": [
+    "Apocalipsis",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "apocalipsis",
+    "thor-corps",
+    "batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Thor Corps",
+     "texto": "SSQQUUeeEEEE!",
+     "texto_es": "¡SSQQUUeeEEEE!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "You dare ask me for mercy?",
+     "texto_es": "¿Te atreves a pedirme misericordia?"
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "violento",
+   "recorte": "vinetas/page-196-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    287,
+    30,
+    475,
+    968
+   ],
+   "descripcion": "Plano medio de Apocalipsis luchando furiosamente contra miembros de los Thor Corps mientras declara su lealtad al Dios Doom.",
+   "prompt_en": "Massive grey-skinned warrior Apocalypse fighting against Thor warriors wielding hammers, dramatic explosion",
+   "personajes": [
+    "Apocalipsis",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "apocalipsis",
+    "thor-corps",
+    "god-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "If I, Apocalypse, must bow before God Doom, then there will be no quarter given to traitors such as you...",
+     "texto_es": "Si yo, Apocalipsis, debo inclinarme ante el Dios Doom, entonces no habrá piedad para los traidores como tú..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "...or any of the once-worthy.",
+     "texto_es": "...o cualquiera de los que alguna vez fueron dignos."
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "epico",
+   "recorte": "vinetas/page-196-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    486,
+    31,
+    755,
+    663
+   ],
+   "descripcion": "Apocalipsis somete brutalmente a un guerrero mientras mira hacia abajo a Mister Siniestro y sentencia que su condición no puede empeorar.",
+   "prompt_en": "Apocalypse grabbing a fallen warrior while looking down, intense action battle scene",
+   "personajes": [
+    "Apocalipsis",
+    "Mister Siniestro",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "apocalipsis",
+    "mister-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "You can fall no further, Sinister.",
+     "texto_es": "No puedes caer más bajo, Siniestro."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "Your condition can get no worse.",
+     "texto_es": "Tu condición no puede empeorar."
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-196-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    486,
+    672,
+    755,
+    967
+   ],
+   "descripcion": "Primer plano de la cara de Mister Siniestro mirando hacia arriba con sorpresa y temor al ver algo gigantesco aproximándose.",
+   "prompt_en": "Close up of a pale comic book villain's head looking up in fear and shock",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "mister-siniestro",
+    "sorpresa"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "Oh...",
+     "texto_es": "Oh..."
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "suspenso",
+   "recorte": "vinetas/page-196-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    766,
+    31,
+    965,
+    967
+   ],
+   "descripcion": "Una enorme silueta oscura y colosal emerge en el horizonte envuelta en destellos de luz brillante.",
+   "prompt_en": "Gigantic dark silhouette of a colossal creature looming over a battlefield with lens flare, wide shot",
+   "personajes": [],
+   "valor_video": 5,
+   "etiquetas": [
+    "la-cosa",
+    "el-escudo",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "pensamiento",
+     "quien": "Mister Siniestro",
+     "texto": "...I think it can.",
+     "texto_es": "...Creo que sí puede."
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "revelacion",
+   "recorte": "vinetas/page-196-v6.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 196,
+ "archivo": "paginas/page-196.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5174,
+ "_seg": 18.2
+}

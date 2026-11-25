@@ -1,0 +1,168 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther utiliza el Guantelete del Infinito para enfrentarse directamente a Dios Emperador Doom en un combate cataclísmico mientras el caos de la guerra se extiende por todo Battleworld.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Thor",
+  "Galactus"
+ ],
+ "eventos_clave": [
+  "Black Panther ataca a Dios Emperador Doom con el Guantelete del Infinito",
+  "Doom acepta el desafío divino de Black Panther"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    377,
+    1000
+   ],
+   "descripcion": "Black Panther dispara un rayo masivo de energía cósmica con el Guantelete del Infinito hacia Doctor Doom, golpeándolo directamente.",
+   "prompt_en": "Black Panther using a golden gauntlet to shoot a massive beam of energy at Doctor Doom who blocks it, comic panel art style",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "doom-dios",
+    "combate-cosmico"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "ARRRRGGGHH!",
+     "texto_es": "¡ARRRRGGGHH!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "But pain often brings clarity, T'Challa. I see you now. You have my full attention.",
+     "texto_es": "Pero el dolor a menudo trae claridad, T'Challa. Ahora te veo. Tienes toda mi atención."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-224-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    373,
+    0,
+    614,
+    1000
+   ],
+   "descripcion": "Black Panther en primer plano levantando el Guantelete del Infinito envuelto en energía rosa, listo para continuar la batalla.",
+   "prompt_en": "Black Panther holding up the glowing Infinity Gauntlet in a destroyed landscape, cinematic lighting comic panel",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guantelete-del-infinito",
+    "black-panther"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Good. Then let's get started.",
+     "texto_es": "Bien. Entonces empecemos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-224-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    614,
+    34,
+    946,
+    337
+   ],
+   "descripcion": "Plano medio de Doctor Doom con fragmentos de piedra saliendo de su cara y capucha mientras acepta el duelo final.",
+   "prompt_en": "Doctor Doom close-up in white hood, stone debris floating around his head, dark intense look",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "No. Let us finish this... ...and do so as gods...",
+     "texto_es": "No. Terminemos esto... ...y hagámoslo como dioses..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "solemne",
+   "recorte": "vinetas/page-224-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    614,
+    340,
+    946,
+    966
+   ],
+   "descripcion": "Vista panorámica de la batalla campal en Battleworld con explosiones en la tierra, la cabeza en llamas de Galactus y guerreros volando en el cielo.",
+   "prompt_en": "Wide epic battlefield view with massive explosions on earth, fiery Galactus head, thors flying in the sky",
+   "personajes": [
+    "Thor",
+    "Galactus"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "guerra-total",
+    "battleworld",
+    "galactus",
+    "thor-corps"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "...on the Earth.",
+     "texto_es": "...en la Tierra."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "In the sky.",
+     "texto_es": "En el cielo."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "\"And the heavens above.\"",
+     "texto_es": "\"Y en los cielos superiores.\""
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "caotico",
+   "recorte": "vinetas/page-224-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 9,
+ "pagina": 224,
+ "archivo": "paginas/page-224.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4521,
+ "_seg": 15.0
+}

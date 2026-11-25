@@ -1,0 +1,49 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título de capítulo con el emblema estilizado de Doctor Doom y el texto 'GOD EMPEROR DOOM' sobre fondo blanco.",
+ "personajes": [],
+ "eventos_clave": [
+  "titulo-capitulo-god-emperor-doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página minimalista de título con el logo estilizado de la máscara del Doctor Doom en tono gris arriba y las palabras 'GOD EMPEROR DOOM' en el centro sobre fondo completamente blanco.",
+   "prompt_en": "Minimalist graphic page with a grey stylized icon of Doctor Doom's mask inside a geometric square frame, above bold grey typography reading 'GOD EMPEROR DOOM' against a plain white background.",
+   "personajes": [],
+   "valor_video": 1,
+   "etiquetas": [
+    "god-emperor-doom",
+    "battleworld",
+    "titulo"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "GOD EMPEROR DOOM",
+     "texto_es": "DIOS EMPERADOR DOOM"
+    }
+   ],
+   "lugar": "Desconocido",
+   "tono": "solemne",
+   "recorte": "vinetas/page-046-v1.jpg"
+  }
+ ],
+ "lugar": "Desconocido",
+ "numero_comic": 2,
+ "pagina": 46,
+ "archivo": "paginas/page-046.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3022,
+ "_seg": 8.0
+}

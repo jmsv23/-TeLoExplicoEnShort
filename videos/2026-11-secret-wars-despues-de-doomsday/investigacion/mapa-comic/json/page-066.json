@@ -1,0 +1,236 @@
+{
+ "tipo": "historia",
+ "resumen": "Dios Emperador Doom juzga a la casa de Braddock en el trono de Battleworld, acusándolos de traición y complicidad con las Cámaras Silenciosas. Cuando Doom condena a Lord Braddock a perder sus sentidos y extremidades, su hermana interviene confesando que fue ella quien estuvo involucrada con la rebelión.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Capitán Britania / James Braddock",
+  "[Betsy Braddock / Capitana Britania]",
+  "[Barón Braddock]"
+ ],
+ "eventos_clave": [
+  "Doom interpela a la familia Braddock sobre las Cámaras Silenciosas.",
+  "Doom sentencia a Lord Braddock por omisión y traición.",
+  "La hermana de Lord Braddock confiesa su culpa para salvar a su hermano."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    36,
+    295,
+    966
+   ],
+   "descripcion": "El Dios Emperador Doom sentado majestuosamente en su trono con vestiduras blancas. A su izquierda se encuentran Sue Storm y Valeria Richards. Abajo a la izquierda, Lord Braddock escucha atentamente.",
+   "prompt_en": "God Emperor Doom in white ornate hooded armor sitting on a throne of vines and stone, Sue Storm standing beside him, comic panel illustration",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "[Barón Braddock]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "doom-dios",
+    "trono",
+    "battleworld",
+    "familia-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I care little for your petty disagreements, yet Doom has saved you, young Lord Braddock. Perhaps gratitude is in order?",
+     "texto_es": "Me importan poco sus pequeñas desavenencias, sin embargo, Doom los ha salvado, joven Lord Braddock. ¿Quizás un poco de gratitud estaría bien?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Higher Avalon sits below the Kingdom of Manhattan and is long rumored to be the most favorable conduit for reaching the Silent Chambers.",
+     "texto_es": "Avalon Superior se encuentra debajo del Reino de Manhattan y desde hace tiempo se rumorea que es el conducto más favorable para llegar a las Cámaras Silenciosas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "You have heard this, yes? The Silent Chambers where heretics and thieves work to cast me down from my throne.",
+     "texto_es": "¿Has oído esto, verdad? Las Cámaras Silenciosas donde herejes y ladrones trabajan para derrocarme de mi trono."
+    }
+   ],
+   "lugar": "Trono de Doom (Castle Doom, Battleworld)",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-066-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    311,
+    35,
+    570,
+    629
+   ],
+   "descripcion": "Doom se inclina hacia adelante cuestionando a la familia Braddock. Lord Braddock responde cabizbajo sintiendo la presión.",
+   "prompt_en": "Comic book frame showing a menacing armored king talking to kneeling nobles in a stone hall",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "[Barón Braddock]",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "interrogatorio",
+    "doom-dios",
+    "braddock"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Barón Braddock]",
+     "texto": "I have.",
+     "texto_es": "Lo he oído."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Did you know that when faced with confession, there is one name they whisper... and it is Braddock?",
+     "texto_es": "¿Sabías que al enfrentarse a la confesión, hay un nombre que susurran... y es Braddock?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "You will tell me where I might find this hidden citadel, and you will tell me now.",
+     "texto_es": "Me dirás dónde puedo encontrar esa ciudadela oculta, y me lo dirás ahora."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Barón Braddock]",
+     "texto": "I... I'm sorry. I don't know where it is.",
+     "texto_es": "Yo... lo siento. No sé dónde está."
+    }
+   ],
+   "lugar": "Trono de Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-066-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    311,
+    636,
+    570,
+    967
+   ],
+   "descripcion": "Primer plano aterrador de la máscara metálica de Doctor Doom en las sombras emitiendo su veredicto impasible.",
+   "prompt_en": "Close up shot of Doctor Doom's metallic iron mask under a white hood, ominous dark shadows, comic style",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "primer-plano",
+    "doom-dios",
+    "juicio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "If one is given full dominion over a kingdom, is not that kingdom--all of it--his domain?",
+     "texto_es": "Si a uno se le da pleno dominio sobre un reino, ¿no es ese reino —todo él— su dominio?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "So I must ask--if you see nothing, if you say nothing, if you do nothing... what good are you?",
+     "texto_es": "Así que debo preguntar: si no ves nada, si no dices nada, si no haces nada... ¿de qué sirves?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "I find you at fault. Doomed. Your eyes, your tongue, your hands and feet are all forfeit.",
+     "texto_es": "Los hallo culpables. Condenados. Sus ojos, su lengua, sus manos y pies quedan todos decomisados."
+    }
+   ],
+   "lugar": "Trono de Doom",
+   "tono": "cruel",
+   "recorte": "vinetas/page-066-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    584,
+    34,
+    974,
+    346
+   ],
+   "descripcion": "Una mujer vestida como Capitana Britania grita desesperada deteniendo el castigo decretado por Doom.",
+   "prompt_en": "Comic panel close-up of a dark haired female warrior yelling desperately in panic",
+   "personajes": [
+    "[Betsy Braddock / Capitana Britania]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "intervencion",
+    "grito"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Betsy Braddock / Capitana Britania]",
+     "texto": "No! King Doom, wait!",
+     "texto_es": "¡No! ¡Rey Doom, espere!"
+    }
+   ],
+   "lugar": "Trono de Doom",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-066-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    584,
+    350,
+    974,
+    966
+   ],
+   "descripcion": "La mujer Capitana Britania da un paso al frente ante el trono de Doom confensando su implicación en la conspiración.",
+   "prompt_en": "Female superhero in patriotic white and red uniform stepping forward in a grand throne room, comic art",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "[Barón Braddock]",
+    "[Betsy Braddock / Capitana Britania]",
+    "Capitán Britania / James Braddock"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "confesion",
+    "battleworld",
+    "sacrificio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Betsy Braddock / Capitana Britania]",
+     "texto": "It was not my brother they spoke of... it was me.",
+     "texto_es": "No era de mi hermano de quien hablaban... era de mí."
+    }
+   ],
+   "lugar": "Trono de Doom",
+   "tono": "dramático",
+   "recorte": "vinetas/page-066-v5.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Battleworld",
+ "numero_comic": 3,
+ "pagina": 66,
+ "archivo": "paginas/page-066.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6256,
+ "_seg": 18.8
+}

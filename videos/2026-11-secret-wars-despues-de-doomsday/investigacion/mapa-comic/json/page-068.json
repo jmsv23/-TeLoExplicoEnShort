@@ -1,0 +1,223 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom impone su juicio sobre Avalon. Nombra a Brian Braddock como nuevo Barón de Avalon en reemplazo de su hermano Jamie Braddock, a quien desterra al Escudo. Además, castiga a Mister Siniestro mandándolo a azotar públicamente. Al terminar la audiencia, Valeria Richards decide quedarse un momento para hablar a solas con el Sheriff Strange.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Capitán Britania / James Braddock",
+  "Thor Corps",
+  "Mister Siniestro",
+  "Doctor Strange (Sheriff Strange)",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Brian Braddock es nombrado Barón de Avalon por Doom",
+  "Jamie Braddock es condenado al Escudo",
+  "Mister Siniestro es sentenciado a ser azotado",
+  "Valeria busca hablar a solas con el Sheriff Strange"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    30,
+    34,
+    303,
+    966
+   ],
+   "descripcion": "El Dios Emperador Doom, visto de espaldas resplandeciente en su trono blanco, decreta la elevación de Brian Braddock a Barón de Avalon mientras los guerreros del Thor Corps observan.",
+   "prompt_en": "God Emperor Doom sitting on his bright throne seen from behind, surrounded by Thor Corps and Marvel heroes listening to his decree, comic book art by Esad Ribic",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Capitán Britania / James Braddock",
+    "Thor Corps",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "doom-dios",
+    "thor-corps",
+    "juicio-de-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "The Lord Brian is elevated to Baron. Young master, the kingdom is now yours. See to it that you serve me better than your brother who ruled before you.",
+     "texto_es": "El señor Brian es elevado a Barón. Joven maestro, el reino es ahora tuyo. Procura servirme mejor que tu hermano, quien gobernó antes que tú."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Furthermore, I order Baron Sinister to be publicly whipped, and the former Baron of Avalon removed from my sight.",
+     "texto_es": "Además, ordeno que el Barón Siniestro sea azotado públicamente, y que el anterior Barón de Avalon sea retirado de mi vista."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Aye, All-Father.",
+     "texto_es": "Sí, Padre de Todos."
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "solemne",
+   "recorte": "vinetas/page-068-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    317,
+    34,
+    692,
+    381
+   ],
+   "descripcion": "Dos miembros del Thor Corps se llevan arrestado al caído Jamie Braddock mientras este se despide de su hermano Brian Braddock.",
+   "prompt_en": "Two Thor guards dragging away a defeated superhero while another hero watches in shock, comic style",
+   "personajes": [
+    "Capitán Britania / James Braddock",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "avalon",
+    "castigo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "Do well, brother. I am sorry.",
+     "texto_es": "Hazlo bien, hermano. Lo siento."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania / James Braddock",
+     "texto": "And thank you for your mercy, my King.",
+     "texto_es": "Y gracias por su misericordia, mi Rey."
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "dramático",
+   "recorte": "vinetas/page-068-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    317,
+    391,
+    692,
+    966
+   ],
+   "descripcion": "Vista amplia de la sala del trono donde un haz de energía ilumina la sentencia; Doom sentencia a Jamie Braddock al Escudo mientras Mister Siniestro y Sheriff Strange observan.",
+   "prompt_en": "Wide shot of a sci-fi throne room with glowing blue light beams, figures in armor and cloaks standing around, cinematic comic panel",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Capitán Britania / James Braddock",
+    "Mister Siniestro",
+    "Doctor Strange (Sheriff Strange)",
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-escudo",
+    "doom-dios",
+    "mr-siniestro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "The mercy was for the innocent. I have none for you, Braddock...",
+     "texto_es": "La misericordia era para los inocentes. No tengo ninguna para ti, Braddock..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "You get the Shield.",
+     "texto_es": "Tú vas al Escudo."
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "imponente",
+   "recorte": "vinetas/page-068-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    706,
+    34,
+    981,
+    626
+   ],
+   "descripcion": "Sue Storm vestida de blanco camina alejándose del trono y le pregunta a su hija Valeria si viene con ellos.",
+   "prompt_en": "Woman in white suit walking away in a high hall while asking her young daughter to follow, soft light comic style",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards",
+    "Doctor Doom / Dios Emperador Doom",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom",
+    "sue-storm",
+    "valeria-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Valeria, are you coming?",
+     "texto_es": "Valeria, ¿vienes?"
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "tranquilo",
+   "recorte": "vinetas/page-068-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    706,
+    626,
+    981,
+    966
+   ],
+   "descripcion": "Primer plano de Valeria Richards mirando a cámara, con el Sheriff Strange a su lado, respondiéndole a su madre que se quedará a hablar con el Sheriff.",
+   "prompt_en": "Close up portrait of blonde young female genius standing next to a stern man with a mustache in black uniform, detail comic panel",
+   "personajes": [
+    "Valeria Richards",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "sheriff-strange",
+    "misterio"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I'll catch up, Mom. I need to speak with the Sheriff first.",
+     "texto_es": "Las alcanzaré, mamá. Primero necesito hablar con el Sheriff."
+    }
+   ],
+   "lugar": "Castillo Doom, Doomstadt",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-068-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Doomstadt, Battleworld",
+ "numero_comic": 2,
+ "pagina": 68,
+ "archivo": "paginas/page-068.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5175,
+ "_seg": 17.2
+}

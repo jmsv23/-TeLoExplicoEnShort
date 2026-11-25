@@ -1,0 +1,190 @@
+{
+ "tipo": "historia",
+ "resumen": "En el campo de batalla de Battleworld, Apocalipsis llega equipado con su cañón de brazo. Un gigantesco guerrero armadurado sostiene la cabeza decapitada pero aún consciente de Mister Siniestro, quien intercambia sarcasmos con Apocalipsis y le advierte que hay otros recién llegados al combate.",
+ "personajes": [
+  "Apocalipsis",
+  "Mister Siniestro",
+  "[guerrero armadurado]"
+ ],
+ "eventos_clave": [
+  "Llegada de Apocalipsis al campo de batalla",
+  "Mister Siniestro decapitado conversa con Apocalipsis"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    25,
+    41,
+    274,
+    264
+   ],
+   "descripcion": "Primer plano inset en la esquina superior izquierda que muestra la mano de una armadura dorada y la cabeza decapitada de Mister Siniestro sobre el terreno.",
+   "prompt_en": "Comic book panel closeup of a severed head with pale skin and black hair lying on the ground, a golden armored gauntlet visible above.",
+   "personajes": [
+    "Mister Siniestro",
+    "[guerrero armadurado]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "mister-siniestro",
+    "decapitacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[guerrero armadurado]",
+     "texto": "BARON...",
+     "texto_es": "BARÓN..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-191-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    17,
+    41,
+    480,
+    995
+   ],
+   "descripcion": "Un imponente guerrero gigante vistiendo una dorada armadura futurista con casco translúcido sostiene la cabeza decapitada de Mister Siniestro en una mano y una espada masiva en la otra, emergiendo entre la niebla del campo de batalla.",
+   "prompt_en": "Comic book panel showing a giant golden armored warrior with a glowing helmet holding up a severed head in one hand and a broadsword in the other, standing amidst smoke and battlefield mist.",
+   "personajes": [
+    "Mister Siniestro",
+    "[guerrero armadurado]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "mister-siniestro",
+    "guerrero-dorado"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[guerrero armadurado]",
+     "texto": "...APOCALYPSE WOULD LIKE A WORD.",
+     "texto_es": "...A APOCALIPSIS LE GUSTARÍA DECIR UNAS PALABRAS."
+    },
+    {
+     "tipo": "sfx",
+     "quien": "entorno",
+     "texto": "ZZAK",
+     "texto_es": "ZZAK"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-191-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    450,
+    0,
+    995,
+    995
+   ],
+   "descripcion": "Apocalipsis camina con paso firme a través de la polvareda del campo de batalla, vistiendo su armadura azul y roja con un gran cañón acoplado a su brazo derecho emitiendo energía y fuego. A su lado, la mano armadurada sostiene la cabeza hablante de Mister Siniestro.",
+   "prompt_en": "Full body shot of Apocalypse in blue metallic armor with a massive arm cannon firing energy, walking through a smoky battlefield while speaking to a severed head held by a giant hand.",
+   "personajes": [
+    "Apocalipsis",
+    "Mister Siniestro",
+    "[guerrero armadurado]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "apocalipsis",
+    "battleworld",
+    "mister-siniestro",
+    "campo-de-batalla"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "entorno",
+     "texto": "ZZAK ZZAK ZZAK",
+     "texto_es": "ZZAK ZZAK ZZAK"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "THE FIELD OF WAR. A PLACE OF TRUE TESTING... IT IS GOOD TO BE HERE AGAIN. TO EXALT THE FIT, TO PULL DOWN THE WEAK.",
+     "texto_es": "El campo de batalla. Un lugar de prueba verdadera... Es bueno estar aquí de nuevo. Para exaltar a los aptos, para derribar a los débiles."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "YOU'VE LOST YOUR HEAD ONCE AGAIN, SINISTER.",
+     "texto_es": "Has vuelto a perder la cabeza, Siniestro."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "AS YOU HAVE LOST ALL SENSE OF DECORUM, BARON. TARDINESS--AS RUDE AS IT IS PETULANT...",
+     "texto_es": "Como tú has perdido todo sentido del decoro, Barón. La impuntualidad... tan grosera como petulante..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "...THOUGH IT SEEMS YOU ARE NOT THE ONLY LATE ARRIVAL.",
+     "texto_es": "...Aunque parece que no eres el único recién llegado."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Apocalipsis",
+     "texto": "HMM?",
+     "texto_es": "¿HMM?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-191-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    688,
+    763,
+    975,
+    966
+   ],
+   "descripcion": "Primer plano inset de la cabeza decapitada de Mister Siniestro, sonriendo malévolamente y dirigiendo su mirada hacia una nueva amenaza o aliado que llega.",
+   "prompt_en": "Comic panel close-up of Mister Sinister's severed pale head with a red diamond on his forehead, smirking sinisterly as he looks sideways.",
+   "personajes": [
+    "Mister Siniestro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-siniestro",
+    "decapitado",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Siniestro",
+     "texto": "LOOK...",
+     "texto_es": "MIRA..."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-191-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 6,
+ "pagina": 191,
+ "archivo": "paginas/page-191.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6450,
+ "_seg": 23.0
+}

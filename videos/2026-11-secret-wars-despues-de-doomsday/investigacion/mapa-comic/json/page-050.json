@@ -1,0 +1,185 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Reino de Utópolis, la Ministra Alex Power y su equipo investigan un extraño hallazgo desenterrado tras un aparente terremoto. Al prepararse para descender a través de una brecha en la tierra, se les advierte que la gravedad se invierte al cruzar el umbral.",
+ "personajes": [
+  "Alex Power",
+  "[habitantes de Utópolis]",
+  "[criatura alada]"
+ ],
+ "eventos_clave": [
+  "Llegada de Alex Power a Utópolis",
+  "Descubrimiento del hallazgo subterráneo de la Balsa de Salvamento"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    14,
+    38,
+    375,
+    966
+   ],
+   "descripcion": "Una nave voladora futurista de color blanco sobrevuela el paisaje desértico y rocoso del Reino de Utópolis, donde varios habitantes observan desde el suelo.",
+   "prompt_en": "A sleek white futuristic sci-fi aircraft hovering over a desert canyon terrain in a comic book panel style.",
+   "personajes": [
+    "Alex Power",
+    "[habitantes de Utópolis]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "utopolis",
+    "battleworld",
+    "nave-futurista"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "THE KINGDOM OF UTOPOLIS.",
+     "texto_es": "EL REINO DE UTÓPOLIS."
+    }
+   ],
+   "recorte": "vinetas/page-050-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    375,
+    38,
+    688,
+    410
+   ],
+   "descripcion": "La Ministra Alex Power desembarca vistiendo un traje ajustado negro, sosteniendo su casco transparente mientras habla con un habitante local.",
+   "prompt_en": "A female scientist with short red hair removing a transparent helmet while stepping out of a spacecraft in a comic book style.",
+   "personajes": [
+    "Alex Power",
+    "[habitante de Utópolis]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "utopolis",
+    "alex-power"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "Okay, we're here. Are you sure of what you've found?",
+     "texto_es": "Bien, estamos aquí. ¿Están seguros de lo que han encontrado?"
+    }
+   ],
+   "recorte": "vinetas/page-050-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    375,
+    420,
+    688,
+    966
+   ],
+   "descripcion": "Un habitante amarillento de Utópolis explica la situación a Alex Power junto a la apertura de una grieta en la tierra.",
+   "prompt_en": "A yellow humanoid character talking to a woman in a dark suit near a deep ground fissure with ropes attached.",
+   "personajes": [
+    "Alex Power",
+    "[habitante de Utópolis]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "utopolis",
+    "anomalia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[habitante de Utópolis]",
+     "texto": "I'm sure we found something, Minister Powers. But as soon as we started examining it, we knew we needed to call in the experts.",
+     "texto_es": "Estoy seguro de que encontramos algo, Ministra Powers. Pero tan pronto como empezamos a examinarlo, supimos que debíamos llamar a los expertos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[habitante de Utópolis]",
+     "texto": "Honestly, we didn't even know that something like that was down there until the earthquake uncovered it.",
+     "texto_es": "Honestamente, ni siquiera sabíamos que algo así estaba allí abajo hasta que el terremoto lo dejó al descubierto."
+    }
+   ],
+   "recorte": "vinetas/page-050-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    701,
+    38,
+    980,
+    577
+   ],
+   "descripcion": "Primer plano de Alex Power colocándose su casco esférico transparente junto a un aliado con aspecto de gargola morada.",
+   "prompt_en": "Close up of a female character with short reddish hair inside a clear dome helmet, with a muscular purple winged creature next to her.",
+   "personajes": [
+    "Alex Power",
+    "[criatura alada]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "alex-power",
+    "preparacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "It wasn't an earthquake.",
+     "texto_es": "No fue un terremoto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Alex Power",
+     "texto": "Okay, Alex. We're ready. Let's go.",
+     "texto_es": "Bien, Alex. Estamos listos. Vamos."
+    }
+   ],
+   "recorte": "vinetas/page-050-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    701,
+    587,
+    980,
+    966
+   ],
+   "descripcion": "Alex Power desciende por la grieta sujetando una cuerda mientras sus acompañantes la vigilan desde el borde superior.",
+   "prompt_en": "A character in a black suit with a transparent dome helmet rappelling down into a hole, while a winged creature sits on the rocky edge above.",
+   "personajes": [
+    "Alex Power",
+    "[criatura alada]",
+    "[habitante de Utópolis]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "utopolis",
+    "descenso",
+    "gravedad-invertida"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[habitante de Utópolis]",
+     "texto": "Be careful, Minister. Once you go through, the gravity reverses.",
+     "texto_es": "Tenga cuidado, Ministra. Una vez que pase, la gravedad se invierte."
+    }
+   ],
+   "recorte": "vinetas/page-050-v5.jpg"
+  }
+ ],
+ "lugar": "El Reino de Utópolis, Battleworld",
+ "numero_comic": 3,
+ "pagina": 50,
+ "archivo": "paginas/page-050.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5197,
+ "_seg": 20.6
+}

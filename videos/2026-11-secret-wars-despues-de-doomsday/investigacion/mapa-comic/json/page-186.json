@@ -1,0 +1,188 @@
+{
+ "tipo": "historia",
+ "resumen": "Black Panther (T'Challa), invocando su título de Rey de los Muertos, rallyea a la horda de Marvel Zombies en las Tierras Muertas (Deadlands). Les ofrece atravesar el Asedio Cautivador (Siege Courageous) para tener una segunda oportunidad de luchar con honor contra el falso dios, el Doctor Doom.",
+ "personajes": [
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Capitán Britania"
+ ],
+ "eventos_clave": [
+  "Black Panther recluta al ejército de Marvel Zombies",
+  "Uso del Asedio Cautivador para movilizar a los muertos vivientes contra Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    36,
+    480,
+    964
+   ],
+   "descripcion": "Black Panther alza la mano frente a una multitud de zombies que se arrodillan ante él como Rey de los Muertos.",
+   "prompt_en": "Comic panel showing Black Panther from behind with raised hand addressing a horde of kneelling Marvel zombies on a rocky wasteland",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "rey-de-los-muertos",
+    "marvel-zombies",
+    "tierras-muertas"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania",
+     "texto": "Ssskin'sss all itchy...",
+     "texto_es": "La piel... me pica toda..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania",
+     "texto": "It'sss better when you kneel.",
+     "texto_es": "Esss mejor cuando te arrodillas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Listen to me!",
+     "texto_es": "¡Escúchenme!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "It is said that one who travels through a Siege Courageous is granted a new life. A second chance.",
+     "texto_es": "Se dice que a aquel que viaja a través del Asedio Cautivador se le otorga una nueva vida. Una segunda oportunidad."
+    }
+   ],
+   "lugar": "Las Tierras Muertas (Deadlands)",
+   "tono": "épico",
+   "recorte": "vinetas/page-186-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    480,
+    36,
+    663,
+    964
+   ],
+   "descripcion": "Black Panther señala hacia un portal brillante en el fondo, donde Namor aguarda de pie.",
+   "prompt_en": "Black Panther pointing towards a glowing archway portal in the distance where Namor stands with a trident",
+   "personajes": [
+    "Black Panther (T'Challa)",
+    "Namor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "asedio-cautivador",
+    "discurso-epico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "An opportunity to be something better. Something more.",
+     "texto_es": "Una oportunidad de ser algo mejor. Algo más."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Come with me and we will travel through it to the greatest battle any world has ever seen.",
+     "texto_es": "Vengan conmigo y viajaremos a través de él hacia la batalla más grande que jamás haya visto ningún mundo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Together we will face a false god and strike him down.",
+     "texto_es": "Juntos enfrentaremos a un falso dios y lo derribaremos."
+    }
+   ],
+   "lugar": "Las Tierras Muertas (Deadlands)",
+   "tono": "heroico",
+   "recorte": "vinetas/page-186-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    668,
+    36,
+    948,
+    345
+   ],
+   "descripcion": "Primer plano del rostro de Black Panther mirando con determinación.",
+   "prompt_en": "Close up profile of Black Panther in mask looking stoic and intense",
+   "personajes": [
+    "Black Panther (T'Challa)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "gloria-y-honor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Black Panther (T'Challa)",
+     "texto": "Do you know what they call what is waiting for you on the other side? Glory and honor.",
+     "texto_es": "¿Saben cómo llaman a lo que les espera del otro lado? Gloria y honor."
+    }
+   ],
+   "lugar": "Las Tierras Muertas (Deadlands)",
+   "tono": "solemne",
+   "recorte": "vinetas/page-186-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    668,
+    349,
+    948,
+    964
+   ],
+   "descripcion": "Los zombies, incluido un Capitán Britania zombificado, conversan dudosos sobre la oferta de Pantera Negra.",
+   "prompt_en": "Group of creepy Marvel zombies including zombie Captain Britain looking hesitant and speaking",
+   "personajes": [
+    "Capitán Britania"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "marvel-zombies",
+    "humor-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania",
+     "texto": "Uhhhh. Hold on a minute... I feel totally compelled to follow you, but, uh, maybe we ssshould talk about thisss...",
+     "texto_es": "Uhhhh. Espere un momento... Me siento totalmente compelido a seguirlo, pero, eh, tal vez deberíamos hablar de esssto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania",
+     "texto": "I mean... We have it pretty good here. Yesss. It's sssurprisssing. I find I quite like murder and eating sssoft, sssquissshy thingsss.",
+     "texto_es": "Quiero decir... La pasamos bastante bien aquí. Sssí. Esss sssorprendente. Descubrí que me gusta bastante asesinar y comer cosssas sssuaves y blandasss."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Capitán Britania",
+     "texto": "It's like... Like peanut butter and brainsss...",
+     "texto_es": "Es como... Como mantequilla de maní y cerebrosss..."
+    }
+   ],
+   "lugar": "Las Tierras Muertas (Deadlands)",
+   "tono": "comico",
+   "recorte": "vinetas/page-186-v4.jpg"
+  }
+ ],
+ "lugar": "Las Tierras Muertas (Deadlands), Battleworld",
+ "numero_comic": 7,
+ "pagina": 186,
+ "archivo": "paginas/page-186.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4620,
+ "_seg": 22.8
+}

@@ -1,0 +1,117 @@
+{
+ "tipo": "historia",
+ "resumen": "Groot crece exponencialmente alcanzando un tamaño colosal y destruye las torres del Castillo Doom desde el Gran Árbol, dejando a Star-Lord asombrado y preocupado por la magnitud de la destrucción.",
+ "personajes": [
+  "Groot",
+  "Star-Lord"
+ ],
+ "eventos_clave": [
+  "Crecimiento gigante de Groot",
+  "Destrucción del Castillo Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    740,
+    1000
+   ],
+   "descripcion": "Groot gigantesco emerge furioso del centro de una fortaleza de piedra, destruyendo torres y muros en una gran explosión de llamas, humo y escombros mientras grita su frase icónica.",
+   "prompt_en": "A colossal tree creature bursting through a medieval fantasy castle, massive explosion of wood and stone debris, epic scale, comic book illustration style.",
+   "personajes": [
+    "Groot"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "groot-gigante",
+    "destruccion",
+    "castillo-doom",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Groot",
+     "texto": "I. AM. GROOT!",
+     "texto_es": "¡YO. SOY. GROOT!"
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "epico",
+   "recorte": "vinetas/page-213-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    740,
+    39,
+    946,
+    666
+   ],
+   "descripcion": "Star-Lord vistiendo su casco blindado observa la enorme explosión de fuego y humo frente a él.",
+   "prompt_en": "Sci-fi hero wearing a helmet viewed from behind, surrounded by bright orange flames and heavy smoke from an explosion, comic page layout.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "star-lord",
+    "explosion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "OH, BOY...",
+     "texto_es": "VAYA, VAYA..."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "asombro",
+   "recorte": "vinetas/page-213-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    740,
+    679,
+    946,
+    961
+   ],
+   "descripcion": "Primer plano del rostro de Star-Lord sin casco, con cabello rubio y ojos azules bien abiertos, mostrando una expresión de preocupación y mueca cómica.",
+   "prompt_en": "Close up of a blonde male comic character with wide blue eyes looking worried and making a nervous face, light background.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "star-lord",
+    "reaccion",
+    "humor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "NOW THIS LOOKS LIKE TROUBLE.",
+     "texto_es": "AHORA SÍ QUE ESTO TIENE PINTA DE PROBLEMAS."
+    }
+   ],
+   "lugar": "Castillo Doom",
+   "tono": "cómico",
+   "recorte": "vinetas/page-213-v3.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 8,
+ "pagina": 213,
+ "archivo": "paginas/page-213.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4648,
+ "_seg": 17.3
+}

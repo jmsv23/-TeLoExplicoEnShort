@@ -1,0 +1,291 @@
+{
+ "tipo": "historia",
+ "resumen": "Sheriff Strange y el Dios Emperador Doom discuten sobre los supervivientes del universo original (Tierra-616) recien llegados. Strange se niega a colaborar en su persecución y le echa en cara a Doom su temor latente hacia Reed Richards.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+ ],
+ "eventos_clave": [
+  "Confrontación verbal entre Doctor Strange y el Dios Emperador Doom",
+  "Strange afirma que Doom le teme a Reed Richards"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    36,
+    332,
+    339
+   ],
+   "descripcion": "Primer plano del ojo de Doctor Doom a través de su máscara metálica mientras escucha a Strange.",
+   "prompt_en": "Close up shot of Doctor Doom's eyes behind metal armor mask, serious atmosphere, comic style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "confrontacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You think that's an indulgence, but you know what they are going to try to do.",
+     "texto_es": "Crees que eso es una indulgencia, pero sabes lo que van a intentar hacer."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "They won't be able to help themselves. It's their nature.",
+     "texto_es": "No podrán evitarlo. Es su naturaleza."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "It's his.",
+     "texto_es": "Es la de él."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-128-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    26,
+    347,
+    332,
+    622
+   ],
+   "descripcion": "Primer plano del rostro de Doctor Strange hablando con firmeza.",
+   "prompt_en": "Close up portrait of Stephen Strange with goatee and short dark hair, talking calmly, comic book art.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "sheriff-strange",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Maybe it's mine as well.",
+     "texto_es": "Tal vez también sea la mía."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Those are people we really know, from the old world, and I have lived a lifetime with some of them. We did great things together.",
+     "texto_es": "Esa es gente a la que realmente conocemos, del viejo mundo, y he vivido toda una vida con algunos de ellos. Hicimos grandes cosas juntos."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "nostálgico",
+   "recorte": "vinetas/page-128-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    26,
+    630,
+    332,
+    968
+   ],
+   "descripcion": "Doctor Doom con túnica blanca extendiendo una mano hacia Strange.",
+   "prompt_en": "God Emperor Doom in white cloak and armor reaching out a hand toward Doctor Strange, cinematic medium shot.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "doom-dios",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "And have you and I not done great things together, old friend?",
+     "texto_es": "¿Y acaso tú y yo no hemos hecho grandes cosas juntos, viejo amigo?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "persuasivo",
+   "recorte": "vinetas/page-128-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    336,
+    36,
+    492,
+    968
+   ],
+   "descripcion": "Gran plano detalle de la mirada decidida de Stephen Strange.",
+   "prompt_en": "Extreme wide closeup shot of Doctor Strange's intense blue eyes, comic panel.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "desafio",
+    "sheriff-strange"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Of course we have... ...but I won't have anything to do with this.",
+     "texto_es": "Por supuesto que sí... ...pero no tendré nada que ver con esto."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "firme",
+   "recorte": "vinetas/page-128-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    495,
+    36,
+    718,
+    968
+   ],
+   "descripcion": "Plano general de Strange y Doom frente a frente en un paisaje rocoso desolado.",
+   "prompt_en": "Wide shot of Doctor Strange standing opposite God Emperor Doom in white robes on a barren rocky landscape under blue sky.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "cara-a-cara"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "Call them back.",
+     "texto_es": "Hazlos volver."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "No.",
+     "texto_es": "No."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "...",
+     "texto_es": "..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "You will not test me, Stephen.",
+     "texto_es": "No me pondrás a prueba, Stephen."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-128-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    722,
+    36,
+    983,
+    621
+   ],
+   "descripcion": "Strange hablando con desafío frente al imponente cuerpo con túnica blanca de Doom.",
+   "prompt_en": "Doctor Strange pointing out truths to God Emperor Doom, medium shot, comic book art.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-strange",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I didn't even tell him what you've done, and I'm sure he's going to be hard at work solving the problem of you.",
+     "texto_es": "Ni siquiera le dije lo que has hecho, y estoy seguro de que ya está trabajando duro para resolver el problema que representas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "How much harder do you think Reed Richards is going to try when he finds out that you stole his entire life? Look at you...",
+     "texto_es": "¿Cuánto más fuerte crees que lo intentará Reed Richards cuando descubra que le robaste la vida entera? Mírate..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Even with all this power, you're still afraid of him.",
+     "texto_es": "Incluso con todo este poder, todavía le tienes miedo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-128-v6.jpg"
+  },
+  {
+   "n": 7,
+   "bbox": [
+    722,
+    630,
+    983,
+    968
+   ],
+   "descripcion": "Primer plano del rostro de Strange bajando la mirada mientras dice sus últimas palabras provocadoras.",
+   "prompt_en": "Close up on Doctor Strange looking down with a slight knowing smile, comic page render.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-strange",
+    "desafio-final"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Well, you know what, old friend?",
+     "texto_es": "Bueno, ¿sabes qué, viejo amigo?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I think you should be.",
+     "texto_es": "Creo que deberías tenerlo."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "sentencioso",
+   "recorte": "vinetas/page-128-v7.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 128,
+ "archivo": "paginas/page-128.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6157,
+ "_seg": 24.2
+}

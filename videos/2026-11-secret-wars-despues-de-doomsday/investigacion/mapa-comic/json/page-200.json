@@ -1,0 +1,215 @@
+{
+ "tipo": "historia",
+ "resumen": "Mister Fantástico, Star-Lord y El Hacedor vuelan en su nave hacia el Castillo Doom. De repente, un Hulk ataca la nave desde el exterior rompiendo la cabina y destruyendo los motores traseros, obligando a Star-Lord a maniobrar mientras la nave cae en picada.",
+ "personajes": [
+  "Star-Lord",
+  "Mister Fantástico",
+  "El Hacedor",
+  "Hulk"
+ ],
+ "eventos_clave": [
+  "Ataque de Hulk a la nave de los supervivientes en camino al Castillo Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    23,
+    34,
+    287,
+    417
+   ],
+   "descripcion": "Vista dentro de la cabina de la nave donde Mister Fantástico habla con Star-Lord que conduce la nave mientras El Hacedor observa.",
+   "prompt_en": "Comic book panel, inside a futuristic spaceship cockpit, a man with a beard and blue suit talking to a pilot with brown hair chewing a pencil, soft cinematic light",
+   "personajes": [
+    "Star-Lord",
+    "Mister Fantástico",
+    "El Hacedor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "cabina",
+    "camino-a-castle-doom",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Readings confirm what Spider-Man reported. They've also remained constant up to this very minute...",
+     "texto_es": "Las lecturas confirman lo que Spider-Man reportó. También se han mantenido constantes hasta este preciso minuto..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Our target is Castle Doom. Please get us there quickly, Mister Quill... and unscathed.",
+     "texto_es": "Nuestro objetivo es el Castillo Doom. Por favor llévanos allí rápidamente, Señor Quill... e ilesos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Oh... no problem.",
+     "texto_es": "Oh... no hay problema."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "I'm plenty fast... and I sure don't get shot down.",
+     "texto_es": "Soy bastante rápido... y seguro que no me derriban."
+    }
+   ],
+   "lugar": "Nave espacial",
+   "tono": "serio",
+   "recorte": "vinetas/page-200-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    23,
+    423,
+    287,
+    966
+   ],
+   "descripcion": "Un Hulk verde golpea el parabrisas de la cabina rompiéndolo, sorprendiendo a Star-Lord y Mister Fantástico.",
+   "prompt_en": "Comic panel, a green Hulk smashing glass windshield of a sci-fi vehicle cockpit, characters inside reacting with shock, dramatic action",
+   "personajes": [
+    "Star-Lord",
+    "Mister Fantástico",
+    "Hulk"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ataque",
+    "hulk",
+    "rompiendo-cristal"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Hulk",
+     "texto": "RARRRRR!",
+     "texto_es": "RARRRRR!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "What the--?!",
+     "texto_es": "¡¿Pero qué--?!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "It seems there's a Hulk on your ship, Mister Quill. I suggest you get it off.",
+     "texto_es": "Parece que hay un Hulk en tu nave, Señor Quill. Sugiero que lo quites de encima."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Now!",
+     "texto_es": "¡Ahora!"
+    }
+   ],
+   "lugar": "Nave espacial",
+   "tono": "urgente",
+   "recorte": "vinetas/page-200-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    293,
+    0,
+    773,
+    1000
+   ],
+   "descripcion": "Plano amplio de la nave sci-fi cayendo en barrena soltando humo mientras el Hulk sale despedido por los aires sobre el cielo de Battleworld.",
+   "prompt_en": "Wide comic panel showing a sleek futuristic aircraft spiraling downwards with trail of smoke across a pale sky, a green monster falling away in the air",
+   "personajes": [
+    "Star-Lord",
+    "Hulk"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "caida-en-picada",
+    "accion-evasiva",
+    "batalla-aerea"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Taking evasive action!",
+     "texto_es": "¡Tomando acción evasiva!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "But, uh... slight problem.",
+     "texto_es": "Pero, eh... pequeño problema."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "We've lost our aft engines...",
+     "texto_es": "Hemos perdido los motores traseros..."
+    }
+   ],
+   "lugar": "Cielo de Battleworld",
+   "tono": "caótico",
+   "recorte": "vinetas/page-200-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    773,
+    34,
+    977,
+    966
+   ],
+   "descripcion": "Primer plano de Mister Fantástico y Star-Lord en la cabina mientras la nave se precipita violentamente a tierra.",
+   "prompt_en": "Comic panel close-up inside a falling cockpit, tense characters holding on as controls flash",
+   "personajes": [
+    "Star-Lord",
+    "Mister Fantástico",
+    "El Hacedor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "impacto-inminente",
+    "tension"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "Remember me promising to get us there in one piece?",
+     "texto_es": "¿Recuerdas que prometí llevarnos allí de una pieza?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Yes!",
+     "texto_es": "¡Sí!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "You might want to hold onto something!",
+     "texto_es": "¡Quizá quieras sujetarte de algo!"
+    }
+   ],
+   "lugar": "Nave espacial",
+   "tono": "desesperado",
+   "recorte": "vinetas/page-200-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 200,
+ "archivo": "paginas/page-200.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5103,
+ "_seg": 15.3
+}

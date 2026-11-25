@@ -1,0 +1,50 @@
+{
+ "tipo": "titulo_capitulo",
+ "resumen": "Página de título del capítulo 4 de Secret Wars, titulado 'All the Angels Sing, All the Devils Dance', ilustrada con una toma circular en escala de grises de Castle Doom.",
+ "personajes": [],
+ "eventos_clave": [
+  "Título del capítulo 4: All the Angels Sing, All the Devils Dance"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Página de apertura del capítulo 4 con el número 04 en tipografía alta y delgada, el título 'ALL THE ANGELS SING, ALL THE DEVILS DANCE' centrado abajo, y una ilustración circular parcial de Castle Doom en la parte superior.",
+   "prompt_en": "Monochrome chapter splash page featuring a large number '04' and title text 'ALL THE ANGELS SING, ALL THE DEVILS DANCE', with a circular crop of a gothic castle spire overhead on a clean white background.",
+   "personajes": [],
+   "valor_video": 2,
+   "etiquetas": [
+    "titulo-capitulo",
+    "capitulo-4",
+    "battleworld",
+    "doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "letrero",
+     "quien": "Narrador",
+     "texto": "04 ALL THE ANGELS SING, ALL THE DEVILS DANCE",
+     "texto_es": "04 TODOS LOS ÁNGELES CANTAN, TODOS LOS DIABLOS BAILAN"
+    }
+   ],
+   "lugar": "Doomstadt",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-109-v1.jpg"
+  }
+ ],
+ "lugar": "Doomstadt",
+ "numero_comic": 4,
+ "pagina": 109,
+ "archivo": "paginas/page-109.jpg",
+ "ancho": 1600,
+ "alto": 1230,
+ "doble": true,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3163,
+ "_seg": 7.9
+}

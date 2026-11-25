@@ -6,10 +6,13 @@ Canal de YouTube de cultura pop (cómics y superhéroes, cine, videojuegos) en e
 
 «Crea un video de X», «hagamos un video sobre X» o «un short de X»: invoca la skill **`crear-video`**. Ella pregunta el formato y el estilo, crea la carpeta y lleva el video por las fases con 3 pausas para aprobación.
 
+«¿De qué hago el próximo video?», «qué está pasando», «busca tendencias»: invoca la skill **`radar`**. Barre noticias, filtraciones y comunidad; verifica las historias, mide demanda y saturación en YouTube en español, y deja un reporte puntuado en `research/radar/<fecha>/reporte.md`. La historia elegida pasa a `crear-video`. Para correrlo en segundo plano está el subagente `radar`.
+
 Para rehacer una sola fase de un video que ya existe, usa su skill directamente:
 
 | Fase | Skill | Ejemplos de pedido |
 |---|---|---|
+| radar de tendencias (qué publicar) | `radar` | «corre el radar», «qué es tendencia hoy» |
 | investigación + brief | `investigar` | «investiga más el ángulo de X», «rehaz el brief» |
 | guion + escenas | `guion` | «reescribe el short 2», «cambia el hook» |
 | imágenes y clips | `assets` | «busca mejores fotos de Y», «corta otra escena» |
@@ -49,7 +52,7 @@ Una **pieza** es cada render que sale de un video: `largo` (16:9) o `short-NN` (
 
 ## Cosas que no se ven en el código
 
-- **Voicebox** corre en `192.168.0.52:17493` (`config.json`; `VOICEBOX_URL` lo sobreescribe).
+- **Voicebox** corre en `192.168.0.52:17493` (`config.json → voicebox.url`). Si no responde en 3 s, el motor usa el local `127.0.0.1:17493` (`voicebox.url_local`). `VOICEBOX_URL` fija uno y desactiva el respaldo.
   - Si falta un perfil: `./tl voces restaurar <slug>`.
   - Si cambias de proveedor de TTS, `voces/<slug>/` tiene la muestra original y su texto.
 - **HyperFrames** desde la terminal del agente: `rtk proxy npx hyperframes …`, porque rtk rompe el `npx hyperframes` sin proxy. El motor ya lo llama sin rtk.

@@ -1,0 +1,142 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange le pide a un joven Thor del Thor Corps que abra la segunda balsa de salvamento encontrada. Al lograr abrir la escotilla con su martillo, la balsa revela en su interior a los héroes supervivientes del universo Tierra-616: Spider-Man (Peter Parker), Star-Lord, Thor (Jane Foster) y Capitana Marvel.",
+ "personajes": [
+  "Doctor Strange",
+  "Spider-Man (Miles Morales)",
+  "Thor Corps",
+  "Spider-Man (Peter Parker)",
+  "Star-Lord",
+  "Thor (Jane Foster)",
+  "Capitana Marvel"
+ ],
+ "eventos_clave": [
+  "Apertura de la balsa de salvamento de la Tierra-616",
+  "Revelación de los héroes supervivientes del universo principal"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    35,
+    350,
+    642
+   ],
+   "descripcion": "Doctor Strange con capa negra e interior de pelaje, junto a Miles Morales, le da instrucciones al joven Thor ubicado al fondo del recinto tecnológico.",
+   "prompt_en": "Comic panel showing Doctor Strange in a black fur-collared cloak standing next to Miles Morales, giving instructions to a young Thor standing near a hatch in the distance.",
+   "personajes": [
+    "Doctor Strange",
+    "Spider-Man (Miles Morales)",
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "balsa-de-salvamento",
+    "instrucciones",
+    "preparativo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "Yes, I do. Young Thor... if you would, try to open this vessel in the same manner as the last.",
+     "texto_es": "Sí, lo sé. Joven Thor... si fueras tan amable, intenta abrir esta nave de la misma manera que la anterior."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange",
+     "texto": "And with great care, please.",
+     "texto_es": "Y con mucho cuidado, por favor."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "I can try. The Moloid that was... ah... I think I've got--",
+     "texto_es": "Puedo intentarlo. El moloide que estaba... ah... creo que lo tengo--"
+    }
+   ],
+   "lugar": "Laboratorio secreto de Strange",
+   "tono": "cauteloso",
+   "recorte": "vinetas/page-101-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    652,
+    350,
+    969
+   ],
+   "descripcion": "El joven Thor usa su martillo para golpear y abrir el mecanismo de la balsa, provocando un estallido de luz dorada.",
+   "prompt_en": "Young Thor striking a metal mechanism on a hatch with his hammer, producing a sudden blast of golden light, comic action shot.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "apertura",
+    "energia",
+    "estallido"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "FWASSH!",
+     "texto_es": "¡FWASSH!"
+    }
+   ],
+   "lugar": "Laboratorio secreto de Strange",
+   "tono": "intenso",
+   "recorte": "vinetas/page-101-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    363,
+    0,
+    988,
+    1000
+   ],
+   "descripcion": "Gran plano revelatorio donde la balsa de la Tierra-616 abre sus compuertas envuelta en luz dorada. En su interior se aprecian a Spider-Man agazapado, Star-Lord, Thor (Jane Foster) y Capitana Marvel emergiendo victoriosos ante la mirada de Doctor Strange.",
+   "prompt_en": "Wide dramatic comic book panel, glowing open hatch revealing Marvel heroes inside a raft: crouched Spider-Man, Star-Lord with guns, Jane Foster Thor, Captain Marvel, brightly backlit with golden ambient glow.",
+   "personajes": [
+    "Doctor Strange",
+    "Thor Corps",
+    "Spider-Man (Peter Parker)",
+    "Star-Lord",
+    "Thor (Jane Foster)",
+    "Capitana Marvel"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "revelacion",
+    "supervivientes",
+    "heroes-616",
+    "reencuentro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "So... are we there yet? Because, I swear, it doesn't look like we're there yet.",
+     "texto_es": "Entonces... ¿ya llegamos? Porque te juro que no parece que hayamos llegado todavía."
+    }
+   ],
+   "lugar": "Laboratorio secreto de Strange",
+   "tono": "epico",
+   "recorte": "vinetas/page-101-v3.jpg"
+  }
+ ],
+ "lugar": "Laboratorio secreto de Strange",
+ "numero_comic": 3,
+ "pagina": 101,
+ "archivo": "paginas/page-101.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5087,
+ "_seg": 17.8
+}

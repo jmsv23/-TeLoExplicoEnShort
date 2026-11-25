@@ -1,0 +1,106 @@
+{
+ "tipo": "historia",
+ "resumen": "Dios Emperador Doom asesina al Doctor Strange desintegrándolo con su poder místico supremo tras la desobediencia de este al haber dispersado a los supervivientes de la Tierra-616. Doom contempla fríamente el montón de cenizas humeantes que quedan de su antiguo Sheriff y consejero.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Doctor Strange (Sheriff Strange)"
+ ],
+ "eventos_clave": [
+  "muerte-strange",
+  "doom-mata-a-strange"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    548,
+    1000
+   ],
+   "descripcion": "Dios Emperador Doom surge como una figura gigante encapuchada detrás del Doctor Strange y le lanza un rayo místico fulminante que comienza a pulverizar su cuerpo en cenizas de luz.",
+   "prompt_en": "God Emperor Doom in a white hooded cloak looming behind Sheriff Strange, disintegrating him with pink magic energy from behind, comic art style.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-strange",
+    "doom-dios",
+    "desintegracion",
+    "sfx"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "ZZZNNNWKKKT",
+     "texto_es": "ZZZNNNWKKKT"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "trágico",
+   "recorte": "vinetas/page-129-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    550,
+    24,
+    795,
+    975
+   ],
+   "descripcion": "Doom permanece erguido sobre un terreno rocoso y árido contemplando las cenizas humeantes del Doctor Strange que flotan suavemente con un brillo rosado.",
+   "prompt_en": "God Emperor Doom standing over the smoking glowing ashes of Doctor Strange on a desolate rocky landscape under a wide sky.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-strange",
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-129-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    798,
+    33,
+    966,
+    922
+   ],
+   "descripcion": "Primer plano horizontal centrado en los ojos penetrantes e impasibles de Doctor Doom a través de las aberturas de su máscara de metal bajo su capucha blanca.",
+   "prompt_en": "Extreme close up of Doctor Doom's stern eyes visible through his metal mask under a white hood.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "primer-plano",
+    "mascara-doom"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-129-v3.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 129,
+ "archivo": "paginas/page-129.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4568,
+ "_seg": 16.4
+}

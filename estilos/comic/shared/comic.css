@@ -1,0 +1,355 @@
+/* Tema "comic" de la serie camino-a-doomsday ("Camino a Doomsday").
+   Fuente de verdad: ../../camino-a-doomsday/_estilo.md — un cómic que se mueve:
+   tinta gruesa #0B0B14, papel #FFF3D6, trama Ben-Day, sombras duras, nada difuso.
+   Se carga DESPUÉS de explicando.css y se activa con la clase .com en .exp-stage.
+   No toca otras series (todo va scopeado bajo .com). Sin animaciones/transiciones CSS:
+   todo el movimiento lo hace window.COM (comic.js) con gsap sobre el timeline pausado. */
+
+@font-face {
+  font-family: "Bangers";
+  src: url("fonts/Bangers.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Anton";
+  src: url("fonts/Anton.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Comic Neue";
+  src: url("fonts/ComicNeue-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+/* ---------- paleta (cada color significa algo; ver _estilo.md) ---------- */
+.com {
+  --tinta: #0b0b14;      /* contornos, sombras duras */
+  --papel: #fff3d6;      /* fondo base de cómic */
+  --heroe: #1e5bff;      /* SOLO héroes / Avengers */
+  --rojo: #e8212b;       /* impacto, dato que sorprende (golpes cortos) */
+  --amarillo: #ffd400;   /* narrador y resaltador */
+  --doom: #1fa85a;       /* SOLO Doom / villano */
+  --multi: #8a2be2;      /* multiverso, magia */
+  --ciencia: #00c8e8;    /* ciencia y tecnología */
+  --ceniza: #6b7280;     /* neutro, metal */
+  --doom-osc: #0e5c32;   /* variante oscura de doom */
+  --multi-osc: #4b1580;  /* variante oscura de multi */
+  --f-ono: "Bangers", cursive;
+  --f-ttl: "Anton", sans-serif;
+  --f-cap: "Comic Neue", cursive;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--f-cap);
+  font-weight: 700;
+}
+
+/* ---------- fondos de escena (regla de color-significado) ---------- */
+.com .bg-com-papel { background-color: var(--papel) !important; }
+.com .bg-com-heroe { background-color: var(--heroe) !important; }
+.com .bg-com-multi { background-color: var(--multi) !important; }
+.com .bg-com-doom { background-color: var(--doom) !important; }
+.com .bg-com-ciencia { background-color: var(--ciencia) !important; }
+.com .bg-com-rojo { background-color: var(--rojo) !important; }
+.com .bg-com-tinta { background-color: var(--tinta) !important; }
+.com .bg-com-ceniza { background-color: var(--ceniza) !important; }
+.com .bg-com-doom-osc { background-color: var(--doom-osc) !important; }
+.com .bg-com-multi-osc { background-color: var(--multi-osc) !important; }
+
+/* trama Ben-Day: puntos tinta de 14 px en rejilla a 45° (dos capas desfasadas medio tile).
+   .pat-benday = 15 % (sombras y fondos); .pat-benday-fuerte = 30 % (golpes). */
+.com .pat-benday,
+.com .pat-benday-fuerte {
+  background-image:
+    radial-gradient(circle, rgba(11, 11, 20, 0.15) 7px, transparent 7.5px),
+    radial-gradient(circle, rgba(11, 11, 20, 0.15) 7px, transparent 7.5px);
+  background-size: 28px 28px;
+  background-position: 0 0, 14px 14px;
+}
+.com .pat-benday-fuerte {
+  background-image:
+    radial-gradient(circle, rgba(11, 11, 20, 0.3) 7px, transparent 7.5px),
+    radial-gradient(circle, rgba(11, 11, 20, 0.3) 7px, transparent 7.5px);
+}
+
+/* ---------- tipografía: palabra clave / título / onomatopeya ----------
+   Contorno tinta 8 px (paint-order) + sombra dura desplazada 10 px. Nada de blur. */
+.com .kw,
+.com .ttl,
+.com .ono {
+  text-transform: uppercase;
+  line-height: 0.95;
+  text-align: center;
+  display: block;
+  white-space: nowrap;
+  color: var(--papel);
+  -webkit-text-stroke: 8px var(--tinta);
+  paint-order: stroke fill;
+  text-shadow: 10px 10px 0 var(--tinta);
+  transform: rotate(var(--rot, -6deg));
+  transform-origin: center;
+}
+.com .kw { font-family: var(--f-ono); font-weight: 400; font-size: 200px; letter-spacing: 0.01em; }
+.com .ttl { font-family: var(--f-ttl); font-weight: 400; font-size: 160px; letter-spacing: 0; }
+/* ONOMATO: contorno exterior papel de 6 px (efecto pegatina: 8 text-shadow de 0 blur) */
+.com .ono {
+  font-family: var(--f-ono); font-weight: 400; font-size: 220px;
+  text-shadow:
+    10px 10px 0 var(--tinta),
+    6px 0 0 var(--papel), -6px 0 0 var(--papel), 0 6px 0 var(--papel), 0 -6px 0 var(--papel),
+    4.3px 4.3px 0 var(--papel), -4.3px 4.3px 0 var(--papel), 4.3px -4.3px 0 var(--papel), -4.3px -4.3px 0 var(--papel);
+}
+.com .kw--sm, .com .ttl--sm { font-size: 120px; }
+.com .kw--lg, .com .ttl--lg { font-size: 260px; }
+.com .ono--sm { font-size: 160px; }
+.com .kw--amarillo, .com .ttl--amarillo, .com .ono--amarillo { color: var(--amarillo); }
+.com .kw--rojo, .com .ttl--rojo, .com .ono--rojo { color: var(--rojo); }
+.com .kw--papel, .com .ttl--papel, .com .ono--papel { color: var(--papel); }
+.com .kw--doom, .com .ttl--doom, .com .ono--doom { color: var(--doom); }
+/* texto tinta sólido (para viñetas y fondos claros): sin contorno ni sombra */
+.com .kw--tinta, .com .ttl--tinta, .com .ono--tinta { color: var(--tinta); -webkit-text-stroke: 0; text-shadow: none; }
+.com .kw .wd, .com .kw .ch, .com .ttl .wd, .com .ttl .ch, .com .ono .wd, .com .ono .ch { display: inline-block; }
+
+/* MISREG: contorno de color desfasado 3–4 px un instante (COM.misreg anima --mx/--my).
+   Va DESPUÉS de kw/ttl/ono para ganar la cascada: incluye la sombra dura base para no perderla. */
+.com [data-mis] {
+  text-shadow:
+    var(--mx, 0px) var(--my, 0px) 0 var(--rojo),
+    calc(var(--mx, 0px) * -1) calc(var(--my, 0px) * -1) 0 var(--ciencia),
+    10px 10px 0 var(--tinta);
+}
+
+/* ---------- caja del narrador (.cap) ---------- */
+/* Fondo amarillo, borde tinta 8 px, esquina inferior derecha cortada (clip-path) y
+   sombra dura: el drop-shadow sigue la forma recortada (0 blur). */
+.com .cap {
+  position: absolute;
+  max-width: 560px;
+  padding: 16px 28px;
+  background: var(--amarillo);
+  border: 8px solid var(--tinta);
+  font-family: var(--f-cap);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.12;
+  color: var(--tinta);
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 30px), calc(100% - 30px) 100%, 0 100%);
+  filter: drop-shadow(8px 8px 0 var(--tinta));
+}
+.com .cap .ch { display: inline-block; }
+
+/* ---------- viñeta (.panel) ---------- */
+.com .panel {
+  position: absolute;
+  background: var(--papel);
+  border: 10px solid var(--tinta);
+  box-shadow: 12px 12px 0 var(--tinta);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.com .panel--sin-sombra { box-shadow: none; }
+
+/* ---------- cinta diagonal (.cinta) ---------- */
+.com .cinta {
+  position: absolute;
+  width: 1400px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--f-ttl);
+  font-weight: 400;
+  font-size: 72px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+  color: var(--tinta);
+  background: var(--papel);
+  border-top: 6px solid var(--tinta);
+  border-bottom: 6px solid var(--tinta);
+  box-shadow: 12px 12px 0 var(--tinta);
+  transform: rotate(var(--rot, -12deg));
+}
+.com .cinta--rojo { background: var(--rojo); color: var(--papel); }
+.com .cinta--multi { background: var(--multi); color: var(--papel); }
+.com .cinta--amarillo { background: var(--amarillo); color: var(--tinta); }
+.com .cinta--doom { background: var(--doom); color: var(--papel); }
+.com .cinta--tinta { background: var(--tinta); color: var(--amarillo); }
+
+/* ---------- globo de diálogo (.globo) ---------- */
+.com .globo {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 36px;
+  background: var(--papel);
+  border: 8px solid var(--tinta);
+  border-radius: 46%;
+  font-family: var(--f-cap);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.1;
+  text-align: center;
+  color: var(--tinta);
+  box-shadow: 8px 8px 0 var(--tinta);
+}
+/* rabito: cuadrado girado 45° que tapa el borde inferior y saca dos esquinitas tinta */
+.com .globo::after {
+  content: "";
+  position: absolute;
+  left: 64px;
+  bottom: -26px;
+  width: 42px;
+  height: 42px;
+  background: var(--papel);
+  border-right: 8px solid var(--tinta);
+  border-bottom: 8px solid var(--tinta);
+  border-radius: 8px;
+  transform: rotate(45deg);
+}
+
+/* ---------- nube de pensamiento (.nube): silueta SVG estática de fondo ---------- */
+.com .nube {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 70px;
+  background: no-repeat center / 100% 100%;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 480'><path d='M110 260 C60 250 60 180 115 165 C100 105 165 70 225 85 C250 30 340 25 380 70 C450 40 530 80 520 145 C580 165 575 240 515 255 C520 310 450 335 395 315 C350 360 250 360 205 320 C150 340 105 310 110 260 Z' fill='%23FFF3D6' stroke='%230B0B14' stroke-width='10' stroke-linejoin='round'/><circle cx='150' cy='392' r='28' fill='%23FFF3D6' stroke='%230B0B14' stroke-width='9'/><circle cx='100' cy='446' r='17' fill='%23FFF3D6' stroke='%230B0B14' stroke-width='7'/></svg>");
+  font-family: var(--f-cap);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.1;
+  text-align: center;
+  color: var(--tinta);
+}
+
+/* ---------- placa del contador (fija del canal, arriba a la derecha) ---------- */
+/* Posición de canal: left 620, top 230, ancho ~400 (ver zonas seguras abajo). */
+.com .contador {
+  position: absolute;
+  left: 620px;
+  top: 230px;
+  width: 400px;
+  padding: 12px 0;
+  background: var(--rojo);
+  border: 6px solid var(--tinta);
+  box-shadow: 8px 8px 0 var(--tinta);
+  font-family: var(--f-ttl);
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--papel);
+  transform: rotate(-3deg);
+  white-space: nowrap;
+}
+
+/* ---------- marca del canal (fija, abajo centro y 1560) ---------- */
+.com .com-marca {
+  position: absolute;
+  left: 50%;
+  top: 1560px;
+  transform: translateX(-50%);
+  padding: 4px 18px;
+  background: var(--papel);
+  border: 4px solid var(--tinta);
+  border-radius: 999px;
+  font-family: var(--f-cap);
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.1;
+  color: var(--tinta);
+  opacity: 0.85;
+}
+
+/* ---------- utilidad .c: punto 0x0 para colocar objetos por x/y centro ---------- */
+.com .c {
+  position: absolute;
+  width: 0;
+  height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.com .c > * { flex: none; }
+
+/* ---------- líneas de velocidad ---------- */
+.com .speed {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.com .rayito {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: var(--tinta);
+  clip-path: polygon(0 50%, 100% 0, 100% 100%);
+}
+/* sobre fondos oscuros, los rayitos van en papel */
+.com .bg-com-tinta ~ * .rayito,
+.com .bg-com-doom ~ * .rayito,
+.com .bg-com-multi ~ * .rayito,
+.com .bg-com-heroe ~ * .rayito,
+.com .bg-com-tinta ~ * * .rayito,
+.com .bg-com-doom ~ * * .rayito,
+.com .bg-com-multi ~ * * .rayito,
+.com .bg-com-heroe ~ * * .rayito { background: var(--papel); }
+
+/* salpicadura de la ONOMATOPEYA (rayitos alrededor del texto, los pone COM.onomato) */
+.com .ono-rayos { position: absolute; inset: 0; overflow: visible; pointer-events: none; }
+
+/* ---------- capas de transición (las crea COM.scene) ---------- */
+.com .com-halftone {
+  position: absolute;
+  inset: 0;
+  z-index: 30;
+  pointer-events: none;
+  background-color: var(--papel);
+}
+.com .com-ink {
+  position: absolute;
+  z-index: 45;
+  pointer-events: none;
+  overflow: visible;
+}
+.com .com-ink path { fill: var(--tinta); }
+.com .com-pagefold {
+  position: absolute;
+  inset: 0;
+  z-index: 40;
+  pointer-events: none;
+  background: var(--papel);
+  filter: drop-shadow(16px 16px 0 var(--tinta));
+}
+
+/* ---------- capa fija (COM.chrome / COM.setup) ---------- */
+.com .com-chrome {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 60;
+}
+.com .com-grano {
+  position: absolute;
+  inset: 0;
+  opacity: 0.04; /* grano de impresión 4 % */
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+.com .com-flash {
+  position: absolute;
+  inset: 0;
+  background: #ffffff;
+  opacity: 0;
+}
+
+/* ---------- zonas seguras del canal (referencia; no se estilizan) ----------
+   Contenido entre y 220 y y 1450. Nada importante a la derecha de x 940 entre y 900 y y 1700.
+   Excepciones fijas del canal: contador (left 620, top 230, ancho 400) y marca (y 1560). */
+.com .com-marca { display: none !important; }

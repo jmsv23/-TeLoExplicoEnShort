@@ -1,0 +1,219 @@
+{
+ "tipo": "historia",
+ "resumen": "Thanos habla con Ben Grimm (la Cosa), quien forma parte de la colosal muralla defensiva conocida como El Escudo en Battleworld. Thanos le revela a Ben la verdad sobre su existencia pasada junto a los Cuatro Fantásticos y cómo el Dios Emperador Doom ha alterado la realidad, incitándolo a alzarse en rebelión.",
+ "personajes": [
+  "Thanos",
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Sue Storm / Mujer Invisible",
+  "Antorcha Humana"
+ ],
+ "eventos_clave": [
+  "Thanos revela la verdad sobre el pasado a Ben Grimm",
+  "Thanos incita a la Cosa a rebelarse contra el Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    33,
+    307,
+    309
+   ],
+   "descripcion": "Primer plano de Thanos mirando fijamente hacia adelante mientras le habla a la Cosa.",
+   "prompt_en": "Close-up portrait of Thanos wearing his golden armor and helmet speaking intensely, comic art style.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thanos",
+    "el-escudo",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "I know who you really are, Ben Grimm. You are warrior... A hero...",
+     "texto_es": "Sé quién eres realmente, Ben Grimm. Eres un guerrero... Un héroe..."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "serio",
+   "recorte": "vinetas/page-176-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    22,
+    309,
+    587,
+    990
+   ],
+   "descripcion": "Ilustración de fondo que muestra a Los Cuatro Fantásticos a bordo del Fantasticar surcando los cielos en sus días de gloria, ilustrando el discurso de Thanos.",
+   "prompt_en": "The Fantastic Four riding a futuristic white flying ship through the blue sky, heroic comic book illustration.",
+   "personajes": [
+    "Thanos",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Sue Storm / Mujer Invisible",
+    "Antorcha Humana",
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "los-cuatro-fantasticos",
+    "fantasticar",
+    "recuerdo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Thanos",
+     "texto": "And where I am from, you are the closest friend of Doom's greatest enemy. You have shamed him time and time over.",
+     "texto_es": "Y de donde yo vengo, eres el amigo más cercano del mayor enemigo de Doom. Lo has avergonzado una y otra vez."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Thanos",
+     "texto": "Doom is a petty usurper of powers far grander than himself.",
+     "texto_es": "Doom es un insignificante usurpador de poderes mucho más grandes que él mismo."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Thanos",
+     "texto": "Speaking as one who has felt the universe writhe in his clenched fist, this power should not be left to a mortal such as he.",
+     "texto_es": "Hablando como alguien que ha sentido al universo retorcerse en su puño cerrado, este poder no debería dejarse en manos de un mortal como él."
+    }
+   ],
+   "lugar": "Tierra-616 (recuerdo)",
+   "tono": "nostálgico",
+   "recorte": "vinetas/page-176-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    592,
+    33,
+    977,
+    332
+   ],
+   "descripcion": "Plano detalle del rostro de roca de Ben Grimm en El Escudo, con una lágrima brotando de su ojo.",
+   "prompt_en": "Extreme close up of a massive stone giant's eye with a tear falling, detailed comic style.",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "la-cosa",
+    "el-escudo",
+    "emocional"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "You sayin' none of this is the real deal?",
+     "texto_es": "¿Dices que nada de esto es real?"
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-176-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    592,
+    342,
+    977,
+    700
+   ],
+   "descripcion": "Thanos contemplando el colosal muro de piedra de Ben Grimm mientras conversan sobre la naturaleza de Battleworld.",
+   "prompt_en": "Thanos looking up at a gigantic living rock wall, full body view, comic art style.",
+   "personajes": [
+    "Thanos",
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "la-cosa",
+    "el-escudo",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "The whole of Battleworld is just a big load of baloney?",
+     "texto_es": "¿Todo Battleworld es solo un montón de patrañas?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "No. It's real. It's as real as anything.",
+     "texto_es": "No. Es real. Es tan real como cualquier cosa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "It's just not reality as it should be.",
+     "texto_es": "Simplemente no es la realidad como debería ser."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "revelador",
+   "recorte": "vinetas/page-176-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    592,
+    712,
+    977,
+    966
+   ],
+   "descripcion": "Primer plano de Thanos con su ojo bríllando intensamente mientras incita a Ben Grimm a alzarse contra Doom.",
+   "prompt_en": "Close up shot of Thanos with glowing red eyes in dramatic shadows, villainous persuasion, comic art style.",
+   "personajes": [
+    "Thanos"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thanos",
+    "doom-dios",
+    "manipulacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "Doom convinced you to live on your knees. Every day of this life, he's beaten you as you lie there.",
+     "texto_es": "Doom te convenció de vivir de rodillas. Cada día de esta vida, te ha derrotado mientras yaces ahí."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thanos",
+     "texto": "This is a painful, heartless truth. And it begs one question: Are you just going to die here...",
+     "texto_es": "Esta es una verdad dolorosa y cruel. Y plantea una pregunta: ¿Vas a quedarte a morir aquí..."
+    }
+   ],
+   "lugar": "El Escudo",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-176-v5.jpg"
+  }
+ ],
+ "lugar": "El Escudo, Battleworld",
+ "numero_comic": 6,
+ "pagina": 176,
+ "archivo": "paginas/page-176.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6918,
+ "_seg": 24.8
+}

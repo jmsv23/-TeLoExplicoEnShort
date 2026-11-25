@@ -1,0 +1,170 @@
+{
+ "titulo": "Análisis del tráiler final de Avengers: Doomsday",
+ "fecha": "2026-11-23",
+ "formato": "largo+short",
+ "estilo": "comic",
+ "voz": null,
+ "serie": "camino-a-doomsday",
+ "piezas": [
+  {
+   "id": "largo",
+   "tipo": "largo",
+   "comic": {
+    "partes": [
+     [
+      "p1",
+      [
+       "hook",
+       "d1",
+       "d2"
+      ]
+     ],
+     [
+      "p2",
+      [
+       "d3",
+       "d4",
+       "d5"
+      ]
+     ],
+     [
+      "p3",
+      [
+       "d6",
+       "d7"
+      ]
+     ],
+     [
+      "p4",
+      [
+       "d8",
+       "d9"
+      ]
+     ],
+     [
+      "p5",
+      [
+       "d10",
+       "filtracion",
+       "cierre"
+      ]
+     ]
+    ],
+    "dias": 24,
+    "placa": [
+     "d(\\d+)",
+     "DETALLE",
+     10
+    ]
+   },
+   "partes": true,
+   "clip_lufs": -21
+  },
+  {
+   "id": "short-01",
+   "tipo": "short",
+   "comic": {
+    "partes": [
+     [
+      "s1",
+      [
+       "hook",
+       "uno",
+       "dos",
+       "tres",
+       "cuatro",
+       "cierre"
+      ]
+     ]
+    ],
+    "dias": 24,
+    "placa": [
+     "^$",
+     "",
+     0
+    ]
+   },
+   "gaps": {
+    "seccion": 0.3,
+    "clip": 0.25,
+    "cola": 0.9
+   },
+   "clip_lufs": -21
+  }
+ ],
+ "musica": {
+  "comic": {
+   "hook": "hook",
+   "d1": "misterio",
+   "d2": "misterio",
+   "d3": "misterio",
+   "d4": "doom",
+   "d5": "accion",
+   "d6": "accion",
+   "d7": "accion",
+   "d8": "accion",
+   "d9": "bonus",
+   "d10": "doom",
+   "filtracion": "misterio",
+   "cierre": "hook",
+   "uno": "misterio",
+   "dos": "misterio",
+   "tres": "doom",
+   "cuatro": "doom"
+  }
+ },
+ "pronunciacion": [
+  [
+   "Doomstadt",
+   "Dumstat"
+  ],
+  [
+   "Doombots",
+   "Dumbots"
+  ],
+  [
+   "X-Men",
+   "Equis Men"
+  ],
+  [
+   "Hailee Steinfeld",
+   "Jeili Stainfeld"
+  ],
+  [
+   "Next Avengers",
+   "Next Ávengers"
+  ],
+  [
+   "Comic-Con",
+   "Cómic Con"
+  ],
+  [
+   "Shang-Chi",
+   "Shang Chi"
+  ],
+  [
+   "Battleworld",
+   "Bátelguorld"
+  ],
+  [
+   "Mjolnir",
+   "Miólnir"
+  ]
+ ],
+ "estado": {
+  "investigacion": "hecho",
+  "brief": "aprobado",
+  "guion": "aprobado",
+  "assets": "hecho",
+  "voz": {
+   "short-01": "hecho"
+  },
+  "montaje": {
+   "short-01": "hecho"
+  },
+  "entrega": "hecho",
+  "publicado": null
+ },
+ "youtube": {},
+ "migrado_de": "content-creator/explicando/_motion/compositions/camino-a-doomsday/_lf (lf04)"
+}

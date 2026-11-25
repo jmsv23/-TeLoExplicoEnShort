@@ -1,0 +1,216 @@
+{
+ "tipo": "historia",
+ "resumen": "Un anciano Thor instruye a un joven recién nombrado digno sobre el origen de los martillos y el propósito de los Thor Corps como la fuerza del orden y la justicia de Battleworld bajo el mandato del Padre de Todos.",
+ "personajes": [
+  "Thor Corps",
+  "[Thor viejo]",
+  "[Thor novato]"
+ ],
+ "eventos_clave": [
+  "Iniciación del nuevo Thor en los Thor Corps",
+  "Explicación sobre la creación de los martillos Mjolnir a partir de las estrellas por el Padre de Todos"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    28,
+    35,
+    365,
+    388
+   ],
+   "descripcion": "El viejo Thor felicita al joven recién elevado a digno y le habla sobre los mitos del pasado cuando los cielos estaban llenos de estrellas.",
+   "prompt_en": "Comic panel showing an old bearded Thor wearing metal armor talking to a young blonde man who holds a glowing war hammer.",
+   "personajes": [
+    "[Thor viejo]",
+    "[Thor novato]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "iniciacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "Aye. You have been reborn. Worthy.",
+     "texto_es": "Sí. Has renacido. Eres digno."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "I am old--older than most--but before even my time there is a legend that the heavens were full of stars...",
+     "texto_es": "Soy viejo... más viejo que la mayoría... pero incluso antes de mi época existe una leyenda de que los cielos estaban llenos de estrellas..."
+    }
+   ],
+   "lugar": "Salón de los Thor Corps",
+   "tono": "místico",
+   "recorte": "vinetas/page-044-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    401,
+    365,
+    679
+   ],
+   "descripcion": "El viejo Thor continúa explicando cómo las estrellas han ido desapareciendo a lo largo del tiempo.",
+   "prompt_en": "Comic panel showing a close-up of a veteran Thor with a braided beard discussing the vanishing stars with a young initiate holding a hammer.",
+   "personajes": [
+    "[Thor viejo]",
+    "[Thor novato]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "A sea of them, and little difference between the day and night. And now, there are so few.",
+     "texto_es": "Un mar de ellas, y poca diferencia entre el día y la noche. Y ahora, quedan tan pocas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "So where did they go? And why is there one fewer every year?",
+     "texto_es": "¿A dónde se fueron entonces? ¿Y por qué hay una menos cada año?"
+    }
+   ],
+   "lugar": "Salón de los Thor Corps",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-044-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    28,
+    690,
+    365,
+    968
+   ],
+   "descripcion": "El anciano Thor le muestra su martillo al novato y le enseña que todos los martillos provienen de la voluntad del Padre de Todos.",
+   "prompt_en": "Comic panel of an old Thor holding a glowing hammer high, explaining its divine origin to a younger Thor recruit.",
+   "personajes": [
+    "[Thor viejo]",
+    "[Thor novato]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "mjolnir",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "Look in your hand. It was the All-Father who plucked the stars from the heavens and from each, forged our hammers.",
+     "texto_es": "Mira en tu mano. Fue el Padre de Todos quien arrancó las estrellas de los cielos y de cada una, forjó nuestros martillos."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "They all have different names--you will name yours--but they all serve the same purpose.",
+     "texto_es": "Todos tienen nombres diferentes... tú nombrarás el tuyo... pero todos sirven para el mismo propósito."
+    }
+   ],
+   "lugar": "Salón de los Thor Corps",
+   "tono": "solemne",
+   "recorte": "vinetas/page-044-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    374,
+    30,
+    819,
+    968
+   ],
+   "descripcion": "Gran viñeta central donde una multitud de miembros de los Thor Corps alzan sus martillos al unísono al grito de 'JUSTICIA'.",
+   "prompt_en": "Wide splash panel showing an army of diverse Thors in armor raising their hammers in a grand hall, chanting in unison, atmospheric green tint.",
+   "personajes": [
+    "Thor Corps",
+    "[Thor viejo]",
+    "[Thor novato]"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "justicia",
+    "battleworld",
+    "ejercito"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Thor Corps",
+     "texto": "JUSTICE!",
+     "texto_es": "¡JUSTICIA!"
+    }
+   ],
+   "lugar": "Gran Salón del Hall de los Thors",
+   "tono": "epico",
+   "recorte": "vinetas/page-044-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    826,
+    30,
+    971,
+    968
+   ],
+   "descripcion": "El viejo Thor le afirma al tembloroso novato que los Thors son la ley de Battleworld.",
+   "prompt_en": "Comic panel close-up on the old Thor speaking resolutely while the wide-eyed young Thor looks up nervously asking what to do next.",
+   "personajes": [
+    "[Thor viejo]",
+    "[Thor novato]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "ley",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "It has a purpose--just as you have a purpose.",
+     "texto_es": "Tiene un propósito... al igual que tú tienes un propósito."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor viejo]",
+     "texto": "And we Thors are the law, just as the All-Father intended.",
+     "texto_es": "Y nosotros, los Thors, somos la ley, tal como el Padre de Todos lo dispuso."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "What... what do I do now?",
+     "texto_es": "¿Qué... qué hago ahora?"
+    }
+   ],
+   "lugar": "Salón de los Thor Corps",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-044-v5.jpg"
+  }
+ ],
+ "lugar": "Battleworld, Hall de los Thor Corps",
+ "numero_comic": 2,
+ "pagina": 44,
+ "archivo": "paginas/page-044.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5210,
+ "_seg": 17.6
+}

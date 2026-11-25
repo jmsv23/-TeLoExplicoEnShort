@@ -1,0 +1,183 @@
+{
+ "tipo": "historia",
+ "resumen": "Se relata el origen y ascenso del Profeta (Maximus el Loco), quien emergió del Gran Páramo proclamando que el Dios Emperador Doom no es un verdadero dios. Con su discurso de libertad e insurrección, el Profeta incita al pueblo a levantarse en armas y marcha con su variopinto ejército hacia el Castillo Doom.",
+ "personajes": [
+  "Maximus / El Profeta"
+ ],
+ "eventos_clave": [
+  "Surgimiento del Profeta en los páramos de Battleworld",
+  "Maximus predica la rebelión contra el Dios Emperador Doom",
+  "El Profeta reúne a un ejército de rebeldes para marchar contra el Castillo Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    36,
+    388,
+    372
+   ],
+   "descripcion": "El Profeta con su casco con cuernos y capa de harapos se sostiene erguido sobre un montón de rocas alzando un tridente.",
+   "prompt_en": "Comic panel of a mysterious warrior prophet wearing a horned skull mask and ragged cape standing on a rocky hill, holding up a long pitchfork staff, minimalist background, comic art style by Esad Ribic.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-profeta",
+    "rebelion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The Prophet emerged from the Great Waste--appearing from nothing.",
+     "texto_es": "El Profeta emergió del Gran Páramo, apareciendo de la nada."
+    }
+   ],
+   "lugar": "Gran Páramo, Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-179-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    28,
+    353,
+    290,
+    987
+   ],
+   "descripcion": "Vista trasera del Profeta dirigiéndose a varios aldeanos y guerreros que lo escuchan atónitos.",
+   "prompt_en": "Comic panel showing the back of a horned-helm leader speaking to a small crowd of diverse medieval warriors and peasants, hazy mountainous background.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "discurso",
+    "rebelion"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "A cause fully formed. An idea given shape:",
+     "texto_es": "Una causa totalmente formada. Una idea a la que se le dio forma:"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "This Doom is no god.",
+     "texto_es": "Este Doom no es un dios."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And if he is no god, then why suffer under his hand? Why submit to his rule?",
+     "texto_es": "Y si no es un dios, ¿por qué sufrir bajo su mano? ¿Por qué someterse a su gobierno?"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "inspirador",
+   "recorte": "vinetas/page-179-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    281,
+    401,
+    574,
+    968
+   ],
+   "descripcion": "El Profeta está subido a una roca rodeado por una gran multitud de campesinos y rebeldes de Battleworld que alzan los puños.",
+   "prompt_en": "Comic book panel of a crowd of rebels cheering and raising their hands around a masked leader holding a staff, dusty ancient ruins atmosphere.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ejercito-rebelde",
+    "discurso"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The Prophet's words were fire.",
+     "texto_es": "Las palabras del Profeta eran fuego."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "He spoke of liberty, and the people pulled down their idols.",
+     "texto_es": "Habló de libertad, y la gente derribó sus ídolos."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "He shouted freedom. And the people raised up arms.",
+     "texto_es": "Gritó libertad. Y la gente alzó sus armas."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "apasionado",
+   "recorte": "vinetas/page-179-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    577,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Vista panorámica inferior donde el Profeta observa a su inmenso ejército rebelde equipado con armas de varias eras marchando bajo gigantescas rocas flotantes.",
+   "prompt_en": "Wide comic panel showing a large diverse army of fantasy and sci-fi warriors marching under giant floating rocks in the sky, green field, wide angle view.",
+   "personajes": [
+    "Maximus / El Profeta"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "marcha-rebelde",
+    "ejercito",
+    "rocas-flotantes",
+    "castillo-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "He marched his army to Castle Doom to cast out god himself.",
+     "texto_es": "Marchó con su ejército hacia el Castillo Doom para expulsar a Dios mismo."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "It was providence providing the perfect man at the perfect time. But who is this great catalyst?",
+     "texto_es": "Fue la providencia proporcionando al hombre perfecto en el momento perfecto. Pero ¿quién es este gran catalizador?"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Who is this prophet?",
+     "texto_es": "¿Quién es este profeta?"
+    }
+   ],
+   "lugar": "Campos camino a Castillo Doom",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-179-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 7,
+ "pagina": 179,
+ "archivo": "paginas/page-179.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5166,
+ "_seg": 18.0
+}

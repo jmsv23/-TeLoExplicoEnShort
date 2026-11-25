@@ -1,0 +1,224 @@
+{
+ "tipo": "historia",
+ "resumen": "En el Castillo Doom, el Emperador Doom, Sue Storm y sus hijos presencian una fuerte explosión ocasionada por la Cosa (Ben Grimm), quien se ha liberado de su forma como el Escudo. Mientras Sue se inquieta por la situación de Ben, Doom ordena a Cisne Negro investigar, pero Valeria se da cuenta de que ya es demasiado tarde para detener lo que ocurre.",
+ "personajes": [
+  "la Cosa (Ben Grimm) / El Escudo",
+  "Doctor Doom / Dios Emperador Doom",
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards",
+  "Franklin Richards",
+  "Cisne Negro (Black Swan)"
+ ],
+ "eventos_clave": [
+  "Despertar de Ben Grimm",
+  "Ataque al Castillo Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    448,
+    1000
+   ],
+   "descripcion": "Una viñeta panorámica superior donde la Cosa (Ben Grimm), en forma de un gigantesco titan de piedra anaranjada que formaba el Escudo, surge rompiendo estructuras en medio de una explosión masiva con fuego y escombros.",
+   "prompt_en": "A giant colossal orange stone monster standing up amidst a massive fiery explosion and flying debris, epic comic page spread by Esad Ribic",
+   "personajes": [
+    "la Cosa (Ben Grimm) / El Escudo"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "el-escudo",
+    "ben-grimm",
+    "explosion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "la Cosa (Ben Grimm) / El Escudo",
+     "texto": "CRAAAASHH",
+     "texto_es": "¡CRAAAASHH!"
+    }
+   ],
+   "lugar": "El Escudo / Castillo Doom",
+   "tono": "epico",
+   "recorte": "vinetas/page-202-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    448,
+    38,
+    694,
+    399
+   ],
+   "descripcion": "Primer plano del rostro consternado de Sue Storm mirando con asombro y preocupación, mientras Doctor Doom permanece firme detrás de ella.",
+   "prompt_en": "Close-up of a shocked blonde woman with blue eyes looking worried, a masked armored villain with hood standing behind her, dramatic atmospheric lighting",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "familia-doom",
+    "reaccion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Oh, Ben.",
+     "texto_es": "Oh, Ben."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "What are you doing?",
+     "texto_es": "¿Qué estás haciendo?"
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom",
+   "tono": "preocupado",
+   "recorte": "vinetas/page-202-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    448,
+    410,
+    694,
+    960
+   ],
+   "descripcion": "Vista desde el balcón del castillo donde Sue Storm, Valeria, Franklin y Doom observan el estallido exterior mientras retumba una fuerte onomatopeya.",
+   "prompt_en": "A royal family on a stone castle balcony overlooking a massive explosion sound effect, comic style by Esad Ribic",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom",
+    "Valeria Richards",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ataque-castillo",
+    "boom"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "BOOM",
+     "texto_es": "BOOM"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[guardia de Doom]",
+     "texto": "An explosion! The rebels have reached the castle!",
+     "texto_es": "¡Una explosión! ¡Los rebeldes han alcanzado el castillo!"
+    }
+   ],
+   "lugar": "Balcón del Castillo Doom",
+   "tono": "urgente",
+   "recorte": "vinetas/page-202-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    708,
+    38,
+    946,
+    508
+   ],
+   "descripcion": "Doctor Doom habla serenamente con Cisne Negro mientras esta se prepara para intervenir.",
+   "prompt_en": "A hooded armored lord talking to a black-armored female warrior with pale white hair inside a high fantasy castle",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Cisne Negro (Black Swan)",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "estrategia",
+    "cisne-negro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "No. We would know if the lower levels had been breached. That must have been something else.",
+     "texto_es": "No. Sabríamos si los niveles inferiores hubieran sido vulnerados. Eso debe haber sido otra cosa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Black Swan, would you...?",
+     "texto_es": "Cisne Negro, ¿podrías...?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro (Black Swan)",
+     "texto": "Of course, my Lord. I'll be right back.",
+     "texto_es": "Por supuesto, mi Señor. Vuelvo enseguida."
+    }
+   ],
+   "lugar": "Interior del Castillo Doom",
+   "tono": "tenso",
+   "recorte": "vinetas/page-202-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    708,
+    519,
+    946,
+    960
+   ],
+   "descripcion": "Primer plano de Valeria Richards señalando al frente con tono sombrío, mientras su madre Sue y Doom la escuchan atentamente.",
+   "prompt_en": "A young blonde girl pointing her finger forward solemnly, blonde woman and hooded masked man standing behind her in shadow",
+   "personajes": [
+    "Valeria Richards",
+    "Sue Storm / Mujer Invisible",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "revelacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "What about Ben, Victor?",
+     "texto_es": "¿Qué hay de Ben, Víctor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "What are you going to do about--",
+     "texto_es": "¿Qué vas a hacer al respecto de--?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "I think it's too late, Mom.",
+     "texto_es": "Creo que es demasiado tarde, mamá."
+    }
+   ],
+   "lugar": "Interior del Castillo Doom",
+   "tono": "dramatico",
+   "recorte": "vinetas/page-202-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Doomstadt, Battleworld",
+ "numero_comic": 7,
+ "pagina": 202,
+ "archivo": "paginas/page-202.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5834,
+ "_seg": 17.1
+}

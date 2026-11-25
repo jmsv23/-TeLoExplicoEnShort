@@ -1,0 +1,173 @@
+{
+ "tipo": "historia",
+ "resumen": "Los miembros del Thor Corps investigan una zona de excavación en cuarentena en Battleworld donde se ha descubierto un objeto misterioso. Un Thor experimentado le explica al nuevo recluta que el Dios Emperador Doom le teme a las cosas que generan dudas sobre su divinidad entre los creyentes.",
+ "personajes": [
+  "Thor Corps",
+  "[Thor novato]",
+  "[Thor veterano]",
+  "[Alienígena de la excavación]"
+ ],
+ "eventos_clave": [
+  "Inspección del sitio de excavación en cuarentena",
+  "Explicación de cómo la duda amenaza la fe en el Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    32,
+    21,
+    660,
+    990
+   ],
+   "descripcion": "El Thor novato con capa roja contempla desde una colina desértica la enorme estructura metálica enterrada, mientras el Thor veterano explica por qué el sitio fue puesto en cuarentena por orden divina.",
+   "prompt_en": "A Norse god superhero in a winged helmet and long red cape standing on a desert ridge looking at a massive ancient crashed spaceship under a dark sky, comic book art style by Esad Ribic.",
+   "personajes": [
+    "[Thor novato]",
+    "[Thor veterano]",
+    "[Alienígena de la excavación]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "battleworld",
+    "excavacion",
+    "cuarentena",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "Quarantined?",
+     "texto_es": "¿En cuarentena?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Yes. Children fear stories of monsters, men fear the spectre of death... and God, he fears the loss of believers.",
+     "texto_es": "Sí. Los niños temen las historias de monstruos, los hombres temen el espectro de la muerte... y Dios, él teme la pérdida de creyentes."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Quarantine is for things that cause doubt.",
+     "texto_es": "La cuarentena es para las cosas que provocan duda."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alienígena de la excavación]",
+     "texto": "We stopped as soon as the word came down. A bit too quickly, if you ask me...",
+     "texto_es": "Nos detuvimos tan pronto como llegó la orden. Un poco demasiado rápido, si me preguntas..."
+    }
+   ],
+   "lugar": "Zona de excavación, Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-078-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    660,
+    31,
+    977,
+    555
+   ],
+   "descripcion": "Un trabajador alienígena con casco esférico transparente conversa con el Thor veterano de barba rosada, quien le advierte con firmeza que no toque la reliquia.",
+   "prompt_en": "Close up panel of a slender alien worker wearing a bubble glass helmet talking to a heavily armored bearded Thor warrior, detailed comic art style.",
+   "personajes": [
+    "[Thor veterano]",
+    "[Alienígena de la excavación]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "thor-corps",
+    "dialogo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Alienígena de la excavación]",
+     "texto": "Lots of interesting stuff here. Hard to keep my hands off it.",
+     "texto_es": "Hay muchas cosas interesantes aquí. Es difícil mantener las manos alejadas."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Don't touch. Understand?",
+     "texto_es": "No toques. ¿Entiendes?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alienígena de la excavación]",
+     "texto": "What do you mean by doubt?",
+     "texto_es": "¿A qué te refieres con duda?"
+    }
+   ],
+   "lugar": "Zona de excavación, Battleworld",
+   "tono": "cauteloso",
+   "recorte": "vinetas/page-078-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    660,
+    563,
+    977,
+    980
+   ],
+   "descripcion": "El Thor veterano reflexiona con el Thor joven sobre la naturaleza del mundo y la divinidad de Doom, mientras el curioso alienígena vuelve a agacharse tentando la suerte.",
+   "prompt_en": "An old armored Thor talking with a young Thor while a small alien reaching down to touch something, atmospheric comic frame.",
+   "personajes": [
+    "[Thor novato]",
+    "[Thor veterano]",
+    "[Alienígena de la excavación]"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "You now live in a floating castle--it's a strange world out there. Chaotic.",
+     "texto_es": "Ahora vives en un castillo flotante; es un mundo extraño allá afuera. Caótico."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor veterano]",
+     "texto": "Sometimes things occur that seem to contradict the godhead of Doom.",
+     "texto_es": "A veces ocurren cosas que parecen contradecir la divinidad de Doom."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Thor novato]",
+     "texto": "Well, are they real?",
+     "texto_es": "Bueno, ¿son reales?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Alienígena de la excavación]",
+     "texto": "Don't touch. Don't touch. Oh, that looks interesting...",
+     "texto_es": "No tocar. No tocar. Oh, eso parece interesante..."
+    }
+   ],
+   "lugar": "Zona de excavación, Battleworld",
+   "tono": "filosófico",
+   "recorte": "vinetas/page-078-v3.jpg"
+  }
+ ],
+ "lugar": "Zona de excavación, Battleworld",
+ "numero_comic": 2,
+ "pagina": 78,
+ "archivo": "paginas/page-078.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6241,
+ "_seg": 23.3
+}

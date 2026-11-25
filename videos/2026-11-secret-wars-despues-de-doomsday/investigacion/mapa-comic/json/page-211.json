@@ -1,0 +1,224 @@
+{
+ "tipo": "historia",
+ "resumen": "Cisne Negro ataca a Star-Lord y lo derriba violentamente contra la estructura de madera del trono de Doom. A pesar de estar malherido, Star-Lord busca desesperadamente y encuentra un pequeño brote de Groot que llevaba consigo. Mientras Cisne Negro se dispone a darle el golpe final por haber manchado con sangre el trono de su Dios, Star-Lord le advierte con una sonrisa confiada que no lo obligue a usarlo.",
+ "personajes": [
+  "Star-Lord",
+  "Cisne Negro"
+ ],
+ "eventos_clave": [
+  "Star-Lord encuentra la astilla/brote de Groot en el trono de Doom",
+  "Cisne Negro acorrala a Star-Lord"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    350,
+    630
+   ],
+   "descripcion": "Star-Lord es arrojado con violencia contra una pared de escombros de piedra y mampostería, provocando una gran colisión.",
+   "prompt_en": "Comic book panel of Star-Lord being thrown backward into a collapsing stone wall, dust and debris flying everywhere, dynamic action angle.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "combate",
+    "impacto",
+    "escombros"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "CRRASSSHHH!",
+     "texto_es": "¡CRRASSSHHH!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "UNH!",
+     "texto_es": "¡UNH!"
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "violento",
+   "recorte": "vinetas/page-211-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    629,
+    350,
+    965
+   ],
+   "descripcion": "Star-Lord yace herido en el suelo de rodillas mientras la silueta amenazante de Cisne Negro se aproxima entre la niebla.",
+   "prompt_en": "Comic book panel showing a beaten Star-Lord crawling on the floor, holding his ribs, while a shadowy female silhouette looms in foggy background.",
+   "personajes": [
+    "Star-Lord",
+    "Cisne Negro"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "herido",
+    "amenaza",
+    "sombras"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "SPLEEN. MY SPLEEN.",
+     "texto_es": "Bazo. Mi bazo."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "doloroso",
+   "recorte": "vinetas/page-211-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    354,
+    0,
+    655,
+    965
+   ],
+   "descripcion": "Mientras Cisne Negro discursa sobre la extinción inevitable, Star-Lord busca en el suelo de madera y encuentra con alivio un pequeño palito/brote.",
+   "prompt_en": "Wide comic panel showing a close up of pale female villain Black Swan talking gracefully on the left, while Star-Lord on the right reaches for a tiny wooden stick on a organic woody surface.",
+   "personajes": [
+    "Cisne Negro",
+    "Star-Lord"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "brote-groot",
+    "monologo",
+    "busqueda"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "I'm sure it hurts. For pain is what proceeds the great collapse. We all have an extinction cycle... this is yours.",
+     "texto_es": "Estoy segura de que duele. Porque el dolor es lo que precede al gran colapso. Todos tenemos un ciclo de extinción... este es el tuyo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "I am a Black Swan, and this is my nature.",
+     "texto_es": "Soy una Cisne Negro, y esta es mi naturaleza."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Where...where'd you go? A little piece survives the end of everything and then I go and lose...",
+     "texto_es": "¿Dónde... dónde te fuiste? Una pequeña pieza sobrevive al fin de todo y luego voy y la pierdo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Ah! There you are.",
+     "texto_es": "¡Ah! Ahí estás."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "tension",
+   "recorte": "vinetas/page-211-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    666,
+    37,
+    980,
+    661
+   ],
+   "descripcion": "Cisne Negro se alza amenazante sobre Star-Lord tendido en el suelo mientras él levanta el pequeño brote como advertencia.",
+   "prompt_en": "Comic panel showing Black Swan in monochrome costume standing powerfully over a wounded Star-Lord lying on floor, holding up a small twig.",
+   "personajes": [
+    "Star-Lord",
+    "Cisne Negro"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "confrontacion",
+    "amenaza",
+    "brote-groot"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Okay. Last chance. If you stop right there--if you stop right now--I promise I won't use this.",
+     "texto_es": "Bien. Última oportunidad. Si te detienes ahí mismo--si te detienes justo ahora--prometo que no usaré esto."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "One final empty threat? What a fool you are.",
+     "texto_es": "¿Una última amenaza vacía? Qué ingenuo eres."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Cisne Negro",
+     "texto": "You're bleeding on my God's throne, little man. Time to die.",
+     "texto_es": "Estás sangrando en el trono de mi Dios, hombrecillo. Hora de morir."
+    }
+   ],
+   "lugar": "Trono de Doom, Castillo Doom, Battleworld",
+   "tono": "desafiante",
+   "recorte": "vinetas/page-211-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    666,
+    659,
+    1000,
+    1000
+   ],
+   "descripcion": "Primer plano del rostro sangrante de Star-Lord sonriendo astutamente con confianza.",
+   "prompt_en": "Close-up comic panel of blonde Star-Lord with a bloody nose smiling confidently and smirking at the viewer.",
+   "personajes": [
+    "Star-Lord"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "primer-plano",
+    "sonrisa-astuta",
+    "confianza"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Well...just remember...",
+     "texto_es": "Bueno... solo recuerda..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "I told you so...",
+     "texto_es": "Te lo dije..."
+    }
+   ],
+   "lugar": "Castillo Doom, Battleworld",
+   "tono": "irónico",
+   "recorte": "vinetas/page-211-v5.jpg"
+  }
+ ],
+ "lugar": "Castillo Doom, Battleworld",
+ "numero_comic": 7,
+ "pagina": 211,
+ "archivo": "paginas/page-211.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5670,
+ "_seg": 20.8
+}

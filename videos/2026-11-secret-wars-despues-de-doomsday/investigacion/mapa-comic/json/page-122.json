@@ -1,0 +1,174 @@
+{
+ "tipo": "historia",
+ "resumen": "El Dios Emperador Doom hace su imponente aparición frente a los supervivientes de las balsas del multiverso. Al percatarse de la presencia de su eterno rival, Doom pronuncia el apellido Richards. Mister Fantástico (616) contempla a Doom con asombro, reconociendo el increíble logro de haber creado Battleworld de la nada.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Thanos",
+  "Capitana Marvel (Carol Danvers)",
+  "Black Panther (T'Challa)",
+  "Namor",
+  "Spider-Man (Peter Parker)",
+  "Thor (Jane Foster)"
+ ],
+ "eventos_clave": [
+  "Reencuentro entre Dios Emperador Doom y Mister Fantástico (Tierra-616)",
+  "Confrontación de los supervivientes con Doom en Battleworld"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    545,
+    1000
+   ],
+   "descripcion": "Vista panorámica del Dios Emperador Doom con capa blanca flotando/descendiendo en medio del polvo y la luz, rodeado a lo lejos por los héroes y villanos supervivientes de la balsa de salvamento.",
+   "prompt_en": "Wide comic splash panel of God Emperor Doom in a white cloak facing forward, surrounded by rocky dust and glowing light, with various superheroes and villains standing on rocky hills in the background.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+    "Thanos",
+    "El Hacedor (Reed Richards Ultimate)",
+    "Capitana Marvel (Carol Danvers)",
+    "Black Panther (T'Challa)",
+    "Namor",
+    "Spider-Man (Peter Parker)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "doom-dios",
+    "battleworld",
+    "supervivientes-balsa",
+    "secret-wars"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "epico",
+   "recorte": "vinetas/page-122-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    545,
+    34,
+    700,
+    966
+   ],
+   "descripcion": "Primer plano horizontal de la máscara metálica y capucha blanca de Doom, mirando fijamente hacia abajo con intensidad.",
+   "prompt_en": "Close-up cinematic shot of Doctor Doom's metallic mask under a white hood, looking down sternly.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    " doom-dios",
+    "reencuentro-reed-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom (Victor von Doom)",
+     "texto": "RICHARDS.",
+     "texto_es": "RICHARDS."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "amenazante",
+   "recorte": "vinetas/page-122-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    700,
+    34,
+    1000,
+    375
+   ],
+   "descripcion": "El Hacedor con su domo/casco futurista habla confundido, mientras Reed Richards (616) lo corrige secamente a su lado.",
+   "prompt_en": "Comic panel close-up of The Maker with his futuristic helmet looking puzzled, talking to Reed Richards of Earth-616.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor (Reed Richards Ultimate)",
+     "texto": "Is he talking to me? I don't really care for his tone.",
+     "texto_es": "¿Habla conmigo? Realmente no me gusta su tono."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "NO. HE IS MOST CERTAINLY NOT TALKING TO YOU.",
+     "texto_es": "NO. DEFINITIVAMENTE NO TE ESTÁ HABLANDO A TI."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-122-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    700,
+    375,
+    1000,
+    966
+   ],
+   "descripcion": "Vista en contraplano desde la espalda de la enorme armadura de Doom mirando hacia Reed Richards (616), quien avanza maravillado observando lo que Victor creó.",
+   "prompt_en": "Over-the-shoulder shot from behind Doom looking down at Reed Richards in his blue suit standing in a rocky landscape.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Doctor Doom / Dios Emperador Doom (Victor von Doom)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reencuentro-reed-doom",
+    "doom-dios",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "SO, IT'S TRUE. IT REALLY IS YOU, ISN'T IT, VICTOR?",
+     "texto_es": "Así que es verdad. Realmente eres tú, ¿verdad, Victor?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "IT'S AMAZING. AN ARTIFICIAL CONSTRUCT OF REALITY. A WORLD WHERE THERE SHOULD BE NOTHING.",
+     "texto_es": "Es increíble. Un constructo artificial de la realidad. Un mundo donde no debería haber nada."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "LOOK AT WHAT YOU'VE MADE.",
+     "texto_es": "Mira lo que has hecho."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "revelador",
+   "recorte": "vinetas/page-122-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 122,
+ "archivo": "paginas/page-122.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5447,
+ "_seg": 18.1
+}

@@ -1,0 +1,187 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards lidera una reunión con la Fundación Futuro en su laboratorio para revisar los avances de la balsa de salvamento frente a la inminente incursión final. Dragon Man levanta la mano para hacer una observación técnica sobre la construcción.",
+ "personajes": [
+  "Valeria Richards",
+  "Dragon Man",
+  "Bentley 23"
+ ],
+ "eventos_clave": [
+  "Reunión de la Fundación Futuro",
+  "Preparación de la balsa de salvamento",
+  "Conteo regresivo para la incursión final"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    520,
+    1000
+   ],
+   "descripcion": "Vista panorámica del laboratorio de la Fundación Futuro con un contador holográfico mostrando 45:40:09. Valeria Richards habla desde una plataforma circular iluminada rodeada por los jóvenes miembros de la fundación y Dragon Man.",
+   "prompt_en": "Panoramic comic page illustration of Valeria Richards standing on a lit circular pedestal inside a futuristic laboratory giving a presentation to a group of young superhero children and a large gargoyle dragon creature with glasses. A digital red holographic countdown clock reads 45:40:09 above them.",
+   "personajes": [
+    "Valeria Richards",
+    "Dragon Man",
+    "Bentley 23"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "fundacion-futuro",
+    "balsa-de-salvamento",
+    "conteo-regresivo",
+    "ultima-incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "The good news, Future Foundation, is we're almost done with our build...and we can finish what we're working on.",
+     "texto_es": "La buena noticia, Fundación Futuro, es que casi terminamos nuestra construcción... y podemos finalizar en lo que estamos trabajando."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Dad, Black Panther and their other sort-of-smart friends will help out, but we should plan on that not happening... as things are going to get pretty crazy out there in the next couple of days.",
+     "texto_es": "Papá, Pantera Negra y sus otros amigos más o menos inteligentes ayudarán, pero deberíamos planear como si eso no fuera a pasar... ya que las cosas se van a poner muy locas allá afuera en los próximos días."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Okay. That's it for the pep talk, worker bees. Any questions?",
+     "texto_es": "Bien. Eso es todo por la charla de ánimo, abejas trabajadoras. ¿Alguna pregunta?"
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "serio",
+   "recorte": "vinetas/page-258-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    520,
+    29,
+    936,
+    424
+   ],
+   "descripcion": "Dragon Man levanta educadamente una garra para pedir la palabra detrás del pequeño Bentley 23.",
+   "prompt_en": "Close-up panel of Dragon Man, a grey reptilian gargoyle creature wearing small round spectacles, raising his clawed hand politely behind a young boy named Bentley 23.",
+   "personajes": [
+    "Dragon Man",
+    "Bentley 23"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "dragon-man"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "Ahem.",
+     "texto_es": "Ajem."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Bentley 23",
+     "texto": "You don't have to raise your hand, man.",
+     "texto_es": "No tienes que levantar la mano, viejo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "In times of stress, an orderly mind is a fortress, Bentley.",
+     "texto_es": "En tiempos de estrés, una mente ordenada es una fortaleza, Bentley."
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "humorístico",
+   "recorte": "vinetas/page-258-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    574,
+    460,
+    936,
+    672
+   ],
+   "descripcion": "Valeria Richards se gira para escuchar atentamente la pregunta de Dragon Man.",
+   "prompt_en": "Medium shot of young Valeria Richards in a white uniform turning around to listen thoughtfully.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "valeria-richards",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Go ahead, Dragon.",
+     "texto_es": "Adelante, Dragón."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "What's on your mind?",
+     "texto_es": "¿Qué tienes en mente?"
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "atento",
+   "recorte": "vinetas/page-258-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    520,
+    672,
+    936,
+    969
+   ],
+   "descripcion": "Plano medio corto de Dragon Man explicando con seriedad los detalles técnicos del proyecto.",
+   "prompt_en": "Close-up of Dragon Man speaking seriously with round reading glasses perched on his snout.",
+   "personajes": [
+    "Dragon Man"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "dragon-man",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "At first, none of us noticed, because we were all focused on separate systems.",
+     "texto_es": "Al principio, ninguno de nosotros se dio cuenta, porque todos estábamos enfocados en sistemas separados."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Dragon Man",
+     "texto": "For example: I was working on long-term stasis, while Onome was fabricating the Vibranium-Tribunal hull plating...",
+     "texto_es": "Por ejemplo: yo estaba trabajando en la estasis a largo plazo, mientras Onome estaba fabricando el blindaje del casco del Tribunal de Vibranium..."
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "técnico",
+   "recorte": "vinetas/page-258-v4.jpg"
+  }
+ ],
+ "lugar": "Laboratorio de la Fundación Futuro, Edificio Baxter",
+ "numero_comic": 1,
+ "pagina": 258,
+ "archivo": "paginas/page-258.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5568,
+ "_seg": 19.5
+}

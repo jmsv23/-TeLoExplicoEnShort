@@ -1,0 +1,210 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria le explica a Sue Storm cómo Franklin Richards concibe nuevos universos, Mister Fantástico los proyecta a la existencia y fragmentos del Hombre Molécula sirven como anclas cósmicas, sanando a Owen Reece mientras reconstruyen el Multiverso.",
+ "personajes": [
+  "Franklin Richards",
+  "Valeria Richards",
+  "Sue Storm / Mujer Invisible",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "Hombre Molécula (Owen Reece)"
+ ],
+ "eventos_clave": [
+  "Reconstrucción del Multiverso tras Secret Wars",
+  "Franklin Richards creando universos en miniatura",
+  "Mister Fantástico canalizando el poder para darles realidad",
+  "Fragmentación y sanación del Hombre Molécula"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    332,
+    637
+   ],
+   "descripcion": "Franklin Richards sostiene alegremente una esfera brillante que contiene una galaxia en miniatura, mientras Leech observa en el fondo.",
+   "prompt_en": "A young boy in a white sci-fi suit holding a glowing transparent orb containing a swirling spiral galaxy, cosmic background, comic book art by Esad Ribic.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "multiverso",
+    "creacion-de-universos",
+    "franklin-richards",
+    "fundacion-futuro"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "So he has these ideas...",
+     "texto_es": "Así que él tiene estas ideas..."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "maravilla",
+   "recorte": "vinetas/page-250-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    646,
+    332,
+    960
+   ],
+   "descripcion": "Valeria Richards levanta los brazos emocionada frente a su madre, Sue Storm, explicando la magnitud de sus creaciones.",
+   "prompt_en": "A young blonde girl in a white sci-fi uniform throwing her hands in the air with excitement, talking to a blonde woman seen from behind, digital comic style.",
+   "personajes": [
+    "Valeria Richards",
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "fundacion-futuro",
+    "familia-richards"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "For worlds?",
+     "texto_es": "¿Para mundos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "For universes, Mom. Whole universes!",
+     "texto_es": "¡Para universos, mamá. Universos enteros!"
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "entusiasta",
+   "recorte": "vinetas/page-250-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    344,
+    38,
+    638,
+    526
+   ],
+   "descripcion": "Mister Fantástico se agacha canalizando la energía cósmica mientras un destello de luz atraviesa el espacio saliendo de la esfera.",
+   "prompt_en": "A man in a blue superhero suit crouching down as a bright glowing cosmic beam of light shoots into deep space, comic art style.",
+   "personajes": [
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Franklin Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "reconstruccion-multiverso",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "Then he gives them to Dad.",
+     "texto_es": "Luego se los da a papá."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "And Dad, using all that power, spins them off into their own reality.",
+     "texto_es": "Y papá, usando todo ese poder, los lanza hacia su propia realidad."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "epico",
+   "recorte": "vinetas/page-250-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    344,
+    532,
+    638,
+    960
+   ],
+   "descripcion": "El Hombre Molécula aparece duplicándose o dividiéndose espiritualmente en el espacio.",
+   "prompt_en": "A mysterious man in green and purple robes splitting into a ghostly duplicate in outer space, atmospheric lighting, comic book panel.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "hombre-molecula",
+    "ancla-multiversal"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "Finally, they slice off a bit of Owen to go with it. Like an anchor. But it also serves to make the Molecule Man better. Whole.",
+     "texto_es": "Finalmente, cortan un trozo de Owen para que vaya con ellos. Como un ancla. Pero también sirve para hacer al Hombre Molécula mejor. Entero."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "místico",
+   "recorte": "vinetas/page-250-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    650,
+    38,
+    1000,
+    960
+   ],
+   "descripcion": "Una imagen amplia donde Owen Reece flota curándose hacia esferas cósmicas luminosas, mientras al lado Sue Storm escucha conmovida a Valeria.",
+   "prompt_en": "Composite panel showing a man floating towards glowing energy spheres in cosmic void, and a close up of a blonde mother and daughter talking with wonder.",
+   "personajes": [
+    "Hombre Molécula (Owen Reece)",
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "sanacion-hombre-molecula",
+    "final-secret-wars",
+    "exploracion-multiversal"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Valeria Richards",
+     "texto": "Healing him.",
+     "texto_es": "Curándolo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Okay.",
+     "texto_es": "Está bien."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "And that's just the start of what we're doing. All of this has to be catalogued. Recorded. Explored.",
+     "texto_es": "Y esto es solo el comienzo de lo que estamos haciendo. Todo esto tiene que ser catalogado. Registrado. Explorado."
+    }
+   ],
+   "lugar": "Espacio exterior",
+   "tono": "esperanzador",
+   "recorte": "vinetas/page-250-v5.jpg"
+  }
+ ],
+ "lugar": "Espacio exterior / El fin y comienzo del Multiverso",
+ "numero_comic": 9,
+ "pagina": 250,
+ "archivo": "paginas/page-250.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5916,
+ "_seg": 21.1
+}

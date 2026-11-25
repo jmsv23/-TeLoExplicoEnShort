@@ -1,0 +1,272 @@
+{
+ "tipo": "historia",
+ "resumen": "Doctor Strange explica a los héroes supervivientes de la Tierra-616 que han estado en estasis durante ocho años. Les revela que el multiverso fue destruido y que un nuevo mundo (Battleworld) fue creado por 'Dios', despertando la curiosidad y desconfianza de Mister Fantástico.",
+ "personajes": [
+  "Doctor Strange (Sheriff Strange)",
+  "Star-Lord",
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Capitana Marvel (Carol Danvers)",
+  "Black Panther (T'Challa)",
+  "Thor (Jane Foster)",
+  "Mister Fantástico (Reed Richards, Tierra-616)"
+ ],
+ "eventos_clave": [
+  "Doctor Strange revela que han pasado 8 años en estasis.",
+  "Strange explica la creación de Battleworld tras la muerte del multiverso.",
+  "Reed Richards pregunta la identidad de 'Dios'."
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    26,
+    33,
+    307,
+    971
+   ],
+   "descripcion": "Doctor Strange habla ante el grupo de superhéroes sobrevivientes dentro de la nave/cámara de estasis.",
+   "prompt_en": "Comic panel wide shot of Doctor Strange with a cape speaking to a group of superhero survivors inside a high-tech metallic chamber.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Star-Lord",
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Capitana Marvel (Carol Danvers)",
+    "Black Panther (T'Challa)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "estasis",
+    "battleworld",
+    "reunion-heroes"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Where exactly are we?",
+     "texto_es": "¿Dónde estamos exactamente?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I have to warn you. This situation we are in... it's more complicated than you might think.",
+     "texto_es": "Tengo que advertirles. Esta situación en la que estamos... es más complicada de lo que piensan."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It's not just the 'where' that should concern you, but also the 'when.'",
+     "texto_es": "No es solo el 'dónde' lo que debería preocuparles, sino también el 'cuándo'."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "What do you mean?",
+     "texto_es": "¿Qué quieres decir?"
+    }
+   ],
+   "lugar": "Cámara de estasis en Battleworld",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-104-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    315,
+    33,
+    603,
+    392
+   ],
+   "descripcion": "Doctor Strange explica la situación de estasis a Star-Lord a corta distancia.",
+   "prompt_en": "Medium shot of Doctor Strange looking calm while talking to Star-Lord in a sci-fi environment.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Star-Lord"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "estasis",
+    "explicacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You've been in stasis... gone quite some time...",
+     "texto_es": "Han estado en estasis... fuera durante bastante tiempo..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "Well, I think an hour's a long time. I get bored.",
+     "texto_es": "Bueno, creo que una hora ya es mucho tiempo. Me aburro."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Star-Lord",
+     "texto": "How long are you talking about?",
+     "texto_es": "¿De cuánto tiempo estás hablando?"
+    }
+   ],
+   "lugar": "Cámara de estasis en Battleworld",
+   "tono": "intrigante",
+   "recorte": "vinetas/page-104-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    315,
+    400,
+    603,
+    626
+   ],
+   "descripcion": "Primer plano del rostro serio de Doctor Strange dando la revelación del tiempo transcurrido.",
+   "prompt_en": "Close up of Doctor Strange with a mustache and focused expression, dramatic lighting.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "revelacion",
+    "tiempo"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Eight years.",
+     "texto_es": "Ocho años."
+    }
+   ],
+   "lugar": "Cámara de estasis en Battleworld",
+   "tono": "dramático",
+   "recorte": "vinetas/page-104-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    315,
+    634,
+    603,
+    971
+   ],
+   "descripcion": "Doctor Strange explica la destrucción de la realidad y la creación del nuevo mundo por parte de Dios a Spider-Man.",
+   "prompt_en": "Doctor Strange speaking to Spider-Man and Thor, explaining the creation of Battleworld.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Spider-Man (Peter Parker)",
+    "Thor (Jane Foster)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "battleworld",
+    "origen",
+    "dios-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Everything died, but in that moment of death, God made a new world... this one.",
+     "texto_es": "Todo murió, pero en ese momento de muerte, Dios hizo un nuevo mundo... este."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "He constructed it out of the remnants of incursion points between collapsing worlds. Some of what we would call OUR Earth remains... most does not.",
+     "texto_es": "Lo construyó a partir de los restos de los puntos de incursión entre mundos en colapso. Algo de lo que llamaríamos NUESTRA Tierra permanece... la mayor parte no."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "You should know, however, that no one remembers the worlds before. Only this one.",
+     "texto_es": "Sin embargo, deben saber que nadie recuerda los mundos de antes. Solo este."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "How is that possible?",
+     "texto_es": "¿Cómo es eso posible?"
+    }
+   ],
+   "lugar": "Cámara de estasis en Battleworld",
+   "tono": "revelador",
+   "recorte": "vinetas/page-104-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    612,
+    33,
+    981,
+    971
+   ],
+   "descripcion": "Mister Fantástico agachado, consternado, interrumpe a Doctor Strange para preguntar la identidad del supuesto Dios.",
+   "prompt_en": "Reed Richards crouching on the ground looking up with concern and questioning Doctor Strange.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Mister Fantástico (Reed Richards, Tierra-616)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "reed-richards",
+    "dios-doom",
+    "tencion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "It's quite simple, actually. Exactly how well do you remember eight years ago? Most of it is partial recollections amid moments of clarity.",
+     "texto_es": "Es bastante simple, de hecho. ¿Qué tan bien recuerdan hace exactamente ocho años? La mayor parte son recuerdos parciales en medio de momentos de claridad."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "At first--as the world was shaped--it took constant effort to synchronize the new history with the old, but now it's much easier.",
+     "texto_es": "Al principio, mientras el mundo se formaba, tomó un esfuerzo constante sincronizar la nueva historia con la vieja, pero ahora es mucho más fácil."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Especially since God controls the areas of study in the Ministries of Science.",
+     "texto_es": "Especialmente dado que Dios controla las áreas de estudio en los Ministerios de la Ciencia."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Who is it?",
+     "texto_es": "¿Quién es?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "Excuse me?",
+     "texto_es": "¿Perdón?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico (Reed Richards, Tierra-616)",
+     "texto": "God. Who is this God you're talking about?",
+     "texto_es": "Dios. ¿Quién es este Dios del que estás hablando?"
+    }
+   ],
+   "lugar": "Cámara de estasis en Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-104-v5.jpg"
+  }
+ ],
+ "lugar": "Cámara de estasis en Battleworld",
+ "numero_comic": 4,
+ "pagina": 104,
+ "archivo": "paginas/page-104.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6386,
+ "_seg": 22.0
+}

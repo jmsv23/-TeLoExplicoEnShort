@@ -1,0 +1,241 @@
+{
+ "tipo": "historia",
+ "resumen": "Durante la incursión final entre la Tierra-616 y la Tierra-1610, Iron Man y Capitana Marvel combaten a las fuerzas enemigas mientras despliegan la colosal armadura Iron Man Six. En la superficie, Spider-Man rescata a civiles del caos y los escombros que caen sobre la ciudad.",
+ "personajes": [
+  "Iron Man",
+  "Capitana Marvel (Carol Danvers)",
+  "Spider-Man (Peter Parker)",
+  "[Nick Fury]"
+ ],
+ "eventos_clave": [
+  "Batalla de la Incursión Final",
+  "Despliegue de Iron Man Six",
+  "Spider-Man rescata a un civil"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    29,
+    296,
+    260
+   ],
+   "descripcion": "Primer plano de un héroe portando un casco tecnológico con visor azul iluminado, confirmando estar listo para la misión.",
+   "prompt_en": "Close-up of a comic book hero wearing an illuminated blue high-tech helmet visor speaking into a radio communicator.",
+   "personajes": [
+    "Iron Man"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "casco-tecnologico",
+    "preparativos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "AND THEN I SAVE THE DAY.",
+     "texto_es": "Y luego salvo el día."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "I UNDERSTAND... AND I'M READY... TURN THIS THING ON.",
+     "texto_es": "Entiendo... y estoy listo... enciendan esta cosa."
+    }
+   ],
+   "lugar": "Espacio / Nave táctica",
+   "tono": "determinado",
+   "recorte": "vinetas/page-015-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    0,
+    0,
+    485,
+    1000
+   ],
+   "descripcion": "Capitana Marvel y Iron Man vuelan en formación junto a gigantescas naves de combate y cazas en el espacio frente a la otra Tierra.",
+   "prompt_en": "Captain Marvel and Iron Man flying alongside a massive red starship fleet against the backdrop of an impending cosmic collision.",
+   "personajes": [
+    "Capitana Marvel (Carol Danvers)",
+    "Iron Man"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "capitana-marvel",
+    "iron-man",
+    "flota-espacial"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "WE DON'T HAVE MUCH TIME LEFT.",
+     "texto_es": "No nos queda mucho tiempo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "Fury, this is Stark... We've engaged the other Earth and are meeting heavy opposition. No large-scale response to our fleet, but we're pretty outnumbered on the metahuman front.",
+     "texto_es": "Fury, habla Stark... Entablamos combate con la otra Tierra y encontramos fuerte oposición. Sin respuesta a gran escala a nuestra flota, pero estamos superados en número en el frente metahumano."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Iron Man",
+     "texto": "You want to impart some of that tactical acumen you're famous for?",
+     "texto_es": "¿Quieres impartir algo de esa agudeza táctica por la que eres famoso?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Nick Fury]",
+     "texto": "There are no second chances or prolonged windows of opportunity here, Mister Stark. Overwhelming force is what's called for.",
+     "texto_es": "No hay segundas oportunidades ni ventanas de oportunidad prolongadas aquí, señor Stark. Se requiere una fuerza abrumadora."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[Nick Fury]",
+     "texto": "Just win, baby.",
+     "texto_es": "Solo gana, viejo."
+    }
+   ],
+   "lugar": "Órbita terrestre",
+   "tono": "épico",
+   "recorte": "vinetas/page-015-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    457,
+    0,
+    804,
+    1000
+   ],
+   "descripcion": "Una enorme armadura roja Iron Man Six desciende velozmente hacia la ciudad provocando una gigantesca onda expansiva y explosión.",
+   "prompt_en": "A huge red robot armor named Iron Man Six falling down to a city skyline creating a huge fiery explosion with sound effect BOOOMM.",
+   "personajes": [
+    "Iron Man"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "iron-man-six",
+    "explosion",
+    "despliegue"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Ninguno",
+     "texto": "BOOOMM",
+     "texto_es": "BOOOMM"
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Iron Man",
+     "texto": "Understood.",
+     "texto_es": "Entendido."
+    },
+    {
+     "tipo": "narracion",
+     "quien": "Iron Man",
+     "texto": "Initializing Iron Man Six...",
+     "texto_es": "Inicializando Iron Man Seis..."
+    }
+   ],
+   "lugar": "Ciudad",
+   "tono": "impactante",
+   "recorte": "vinetas/page-015-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    750,
+    0,
+    1000,
+    529
+   ],
+   "descripcion": "Transeúntes aterrorizados escapan desesperadamente mientras escombros ardientes impactan en las calles.",
+   "prompt_en": "Panicked people in business suits running on city streets dodging falling flaming debris.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "civiles",
+    "destruccion",
+    "caos"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[ciudadano]",
+     "texto": "LOOK OUT!",
+     "texto_es": "¡CUIDADO!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[ciudadano]",
+     "texto": "OH, GOD--",
+     "texto_es": "¡OH, DIOS--!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "[ciudadano]",
+     "texto": "RUN!",
+     "texto_es": "¡CORRAN!"
+    }
+   ],
+   "lugar": "Calles de la ciudad",
+   "tono": "caótico",
+   "recorte": "vinetas/page-015-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    700,
+    524,
+    966,
+    968
+   ],
+   "descripcion": "Spider-Man se lanza en red cargando a un hombre trajeado a salvo en medio del desastre urbano.",
+   "prompt_en": "Spider-Man swinging through the air carrying a man in a suit to safety amidst falling debris.",
+   "personajes": [
+    "Spider-Man (Peter Parker)"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "spider-man",
+    "rescate",
+    "heroe"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "IT'S OKAY-- YOU CAN BREATHE.",
+     "texto_es": "ESTÁ BIEN-- PUEDES RESPIRAR."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Spider-Man (Peter Parker)",
+     "texto": "I GOT YOU.",
+     "texto_es": "TE TENGO."
+    }
+   ],
+   "lugar": "Ciudad",
+   "tono": "heroico",
+   "recorte": "vinetas/page-015-v5.jpg"
+  }
+ ],
+ "lugar": "Órbita terrestre y calles de la ciudad",
+ "numero_comic": 1,
+ "pagina": 15,
+ "archivo": "paginas/page-015.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 7474,
+ "_seg": 25.7
+}

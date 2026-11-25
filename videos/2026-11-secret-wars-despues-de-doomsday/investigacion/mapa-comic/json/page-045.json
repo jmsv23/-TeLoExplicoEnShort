@@ -1,0 +1,96 @@
+{
+ "tipo": "historia",
+ "resumen": "Un nuevo recluta del Thor Corps es guiado a inclinarse y jurar lealtad ante la monumental estatua del Dios Emperador Doom en una ceremonia solemne frente a toda la orden de los Thors.",
+ "personajes": [
+  "Thor Corps",
+  "Doctor Doom",
+  "Narrador"
+ ],
+ "eventos_clave": [
+  "Juramento de lealtad del Thor Corps",
+  "Iniciación del nuevo Thor"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    29,
+    36,
+    258,
+    963
+   ],
+   "descripcion": "Un veterano del Thor Corps ayuda a un nuevo recluta a arrodillarse frente al altar mientras los demás miembros del Thor Corps observan a los lados.",
+   "prompt_en": "Comic panel showing two blonde heroic figures in armored loincloths on an altar surrounded by caped guardians holding hammers in a ceremonial hall.",
+   "personajes": [
+    "Thor Corps"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "thor-corps",
+    "iniciacion",
+    "battleworld"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "Now you bend your knee, brother.",
+     "texto_es": "Ahora híncate de rodillas, hermano."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Thor Corps",
+     "texto": "For God is watching...",
+     "texto_es": "Porque Dios está observando..."
+    }
+   ],
+   "lugar": "Templo del Thor Corps",
+   "tono": "solemne",
+   "recorte": "vinetas/page-045-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    258,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Plano general de la imponente sala del templo dominada por una cabeza colosal de hierro con la máscara del Dios Emperador Doom, de la cual emanan rayos de energía verde hacia la plataforma de ritual donde yacen los dos reclutas arrodillados frente al ejército de Thors.",
+   "prompt_en": "Grand scale comic art of a massive green stone temple featuring a colossal floating steel mask of Doctor Doom, projecting green lightning bolts down to two kneeling worshippers, surrounded by dozens of warriors in red capes.",
+   "personajes": [
+    "Thor Corps",
+    "Doctor Doom",
+    "Narrador"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "thor-corps",
+    "doom-dios",
+    "battleworld",
+    "estatua-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "And from now until the end of days, we all labor to keep his peace.",
+     "texto_es": "Y desde ahora hasta el fin de los días, todos trabajamos para mantener su paz."
+    }
+   ],
+   "lugar": "Templo del Dios Emperador Doom",
+   "tono": "majestuoso",
+   "recorte": "vinetas/page-045-v2.jpg"
+  }
+ ],
+ "lugar": "Doomgard / Battleworld",
+ "numero_comic": 2,
+ "pagina": 45,
+ "archivo": "paginas/page-045.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 4110,
+ "_seg": 15.1
+}

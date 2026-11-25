@@ -1,0 +1,238 @@
+{
+ "tipo": "historia",
+ "resumen": "El Hacedor y Mister Fantástico (Reed Richards de la Tierra-616) analizan los datos de sus sondas sobre la marcha del ejército del Profeta (Maximus) hacia el trono de Doom. Ambos debaten sus planes y enfoques sobre cómo enfrentar al Dios Emperador Doom: mientras el Hacedor busca matar a Doom y critica la debilidad sentimental de su contraparte adulta, Reed 616 responde que cuidar de otros es su verdadera fuerza.",
+ "personajes": [
+  "El Hacedor",
+  "Mister Fantástico"
+ ],
+ "eventos_clave": [
+  "El Hacedor y Mister Fantástico vigilan las acciones del Profeta en Battleworld",
+  "Debate sobre la posibilidad de matar a Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    33,
+    31,
+    442,
+    655
+   ],
+   "descripcion": "El Hacedor y Mister Fantástico observan una pantalla táctil gigante y un monitor flotante en su laboratorio de tecnología avanzada. En la pantalla se proyecta una imagen del Profeta (Maximus) liderando a su ejército.",
+   "prompt_en": "Comic book panel, wide shot of two men in a futuristic high-tech laboratory standing before large glowing blue holographic screens. One man wears a futuristic black and white helmet and suit, the other wears a blue Fantastic Four uniform. Hologram shows a horned figure leading an army.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "mister-fantastico",
+    "battleworld",
+    "el-profeta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Your premise is flawed, Reed. The belief that, no matter what, he's going to be able to hold it together...",
+     "texto_es": "Tu premisa es errónea, Reed. La creencia de que, sin importar qué, él podrá mantener todo unido..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Just look. I'm downloading the data from your probes now. The Prophet has raised an army--an endless legion of Doom deniers--that now marches towards his throne and the World Tree.",
+     "texto_es": "Solo mira. Estoy descargando los datos de tus sondas ahora. El Profeta ha levantado un ejército, una legión infinita de negadores de Doom, que ahora marcha hacia su trono y el Árbol del Mundo."
+    }
+   ],
+   "lugar": "Balsa de salvamento / Laboratorio secreto",
+   "tono": "analítico",
+   "recorte": "vinetas/page-159-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    33,
+    655,
+    442,
+    970
+   ],
+   "descripcion": "Vista lateral de Mister Fantástico observando la pantalla donde se muestra el casco con cuernos del Profeta. El Hacedor está a su lado.",
+   "prompt_en": "Comic book panel, medium shot showing Reed Richards with a beard looking at a glowing monitor displaying a horned villain, talking with the Maker in a futuristic helmet.",
+   "personajes": [
+    "Mister Fantástico",
+    "El Hacedor"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "mister-fantastico",
+    "el-profeta"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "The Prophet. This is another one of your side projects?",
+     "texto_es": "¿El Profeta? ¿Este es otro de tus proyectos paralelos?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Maybe. It makes me wonder, if I confessed all of my secret plans, would you also tell me yours?",
+     "texto_es": "Tal vez. Me hace preguntarme, si confesara todos mis planes secretos, ¿tú también me dirías los tuyos?"
+    }
+   ],
+   "lugar": "Balsa de salvamento / Laboratorio secreto",
+   "tono": "desconfiado",
+   "recorte": "vinetas/page-159-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    442,
+    31,
+    592,
+    970
+   ],
+   "descripcion": "Primer plano horizontal del Hacedor llevando su casco azul y blanco distintivo, mirando sombríamente hacia el frente.",
+   "prompt_en": "Comic book panel, wide extreme close-up of a villain wearing a sleek blue and silver helmet with a black emblem, shadows over his face, serious tone.",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "No. Of course you wouldn't...",
+     "texto_es": "No. Por supuesto que no lo harías..."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "Who could ever truly understand the machinations that go on inside that head of yours?",
+     "texto_es": "¿Quién podría entender realmente las maquinaciones que ocurren dentro de esa cabeza tuya?"
+    }
+   ],
+   "lugar": "Balsa de salvamento / Laboratorio secreto",
+   "tono": "intenso",
+   "recorte": "vinetas/page-159-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    592,
+    31,
+    946,
+    355
+   ],
+   "descripcion": "El Hacedor se retira la parte superior de su casco revelando su rostro joven, mientras habla con Mister Fantástico, quien se mantiene de espaldas con su traje azul del cuatro en el pecho.",
+   "prompt_en": "Comic book panel, full shot of the Maker removing his futuristic helmet, standing next to older Reed Richards who wears the classic Fantastic Four uniform.",
+   "personajes": [
+    "El Hacedor",
+    "Mister Fantástico"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "el-hacedor",
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "So...perhaps we should simply agree to focus on the problem that brought us together?",
+     "texto_es": "Entonces... ¿quizás deberíamos simplemente acordar enfocarnos en el problema que nos unió?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "How to kill a god.",
+     "texto_es": "Cómo matar a un dios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "And I told you already...I'm not ready to consider that.",
+     "texto_es": "Y ya te lo dije... No estoy listo para considerar eso."
+    }
+   ],
+   "lugar": "Balsa de salvamento / Laboratorio secreto",
+   "tono": "tenso",
+   "recorte": "vinetas/page-159-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    592,
+    355,
+    946,
+    680
+   ],
+   "descripcion": "Primer plano del rostro del Hacedor al descubierto, mostrando una sonrisa arrogante y mirada astuta, dirigiéndose a Reed 616.",
+   "prompt_en": "Comic book panel, close-up of a young dark-haired man with sinister purple eyes and a faint smirking smile, looking sideways with confidence.",
+   "personajes": [
+    "El Hacedor"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "el-hacedor",
+    "universo-ultimate"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "El Hacedor",
+     "texto": "You know, I look at your face...which is my face...and I see the age on it. I wonder how it became so sentimental? So soft. So weak.",
+     "texto_es": "Sabes, miro tu rostro... que es mi rostro... y veo los años en él. Me pregunto ¿cómo se volvió tan sentimental? Tan suave. Tan débil."
+    }
+   ],
+   "lugar": "Balsa de salvamento / Laboratorio secreto",
+   "tono": "arrogante",
+   "recorte": "vinetas/page-159-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    592,
+    680,
+    946,
+    970
+   ],
+   "descripcion": "Primer plano de Mister Fantástico (Reed Richards 616) mayor, con barba entrecana y mirada determinada y compasiva.",
+   "prompt_en": "Comic book panel, close-up of a mature bearded middle-aged man with short brown hair and grey temples, blue eyes with a stern composed expression, glowing blue background.",
+   "personajes": [
+    "Mister Fantástico"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "mister-fantastico"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Mister Fantástico",
+     "texto": "It's easy, Reed, when you learn to care about things other than yourself.",
+     "texto_es": "Es fácil, Reed, cuando aprendes a preocuparte por otras cosas además de ti mismo."
+    }
+   ],
+   "lugar": "Balsa de salvamento / Laboratorio secreto",
+   "tono": "reflexivo",
+   "recorte": "vinetas/page-159-v6.jpg"
+  }
+ ],
+ "lugar": "Laboratorio de los supervivientes de la balsa",
+ "numero_comic": 6,
+ "pagina": 159,
+ "archivo": "paginas/page-159.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6465,
+ "_seg": 23.7
+}

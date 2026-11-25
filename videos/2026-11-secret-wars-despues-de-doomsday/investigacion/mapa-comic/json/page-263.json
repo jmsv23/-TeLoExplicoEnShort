@@ -1,0 +1,206 @@
+{
+ "tipo": "historia",
+ "resumen": "Franklin y Valeria Richards reúnen a los miembros de la Fundación Futuro para animarlos a seguir trabajando en la balsa de salvamento. Valeria les explica que, aunque no pueden evitar la incursión final y la destrucción de la Tierra, deben concentrarse en no perder y garantizar la supervivencia de los científicos y constructores elegidos.",
+ "personajes": [
+  "Valeria Richards",
+  "Franklin Richards",
+  "Dragon Man"
+ ],
+ "eventos_clave": [
+  "construccion-de-la-balsa",
+  "preparacion-para-la-incursion",
+  "discurso-de-valeria"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    43,
+    36,
+    246,
+    966
+   ],
+   "descripcion": "Primer plano de Franklin Richards con uniforme rojo del número 5 mirando con expresión seria, con la mano sobre el hombro de un miembro alienígena de la Fundación Futuro.",
+   "prompt_en": "Close-up comic illustration of young Franklin Richards wearing a red superhero suit with number 5, speaking solemnly next to a green alien teammate.",
+   "personajes": [
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "franklin-richards",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "They tried as hard as they could. Just like anybody would.",
+     "texto_es": "Lo intentaron tan duro como pudieron. Como cualquiera lo haría."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Franklin Richards",
+     "texto": "It just wasn't enough.",
+     "texto_es": "Simplemente no fue suficiente."
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-263-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    246,
+    36,
+    541,
+    966
+   ],
+   "descripcion": "El grupo de la Fundación Futuro, incluyendo a Dragon Man, Bentley-23, Alex Power, Leech, Onome y otros jóvenes genios, escuchan tristes e incómodos en el laboratorio.",
+   "prompt_en": "Comic panel showing a group of diverse young genius kids and alien children wearing white Future Foundation suits, looking sad alongside a large gargoyle-like purple alien dragon.",
+   "personajes": [
+    "Dragon Man",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "dragon-man",
+    "ultimas-horas"
+   ],
+   "textos": [],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "desanimado",
+   "recorte": "vinetas/page-263-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    541,
+    36,
+    735,
+    966
+   ],
+   "descripcion": "Valeria Richards con su traje blanco del número 6 levantando los puños con determinación mientras pronuncia un motivador discurso.",
+   "prompt_en": "Comic panel of young blonde Valeria Richards raising her fists in anger and determination, wearing a white uniform with number 6, speaking passionately.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "discurso-motivacional",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "That's right. We couldn't win. So we came up with the only solution left:",
+     "texto_es": "Así es. No podíamos ganar. Así que ideamos la única solución que nos quedaba:"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Not losing.",
+     "texto_es": "No perder."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Which is what the raft is for.",
+     "texto_es": "Que es para lo que sirve la balsa."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "So get back to work!",
+     "texto_es": "¡Así que vuelvan a trabajar!"
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "determinado",
+   "recorte": "vinetas/page-263-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    735,
+    36,
+    966,
+    663
+   ],
+   "descripcion": "Vista aérea del suelo con baldosas rojas del laboratorio donde los miembros de la Fundación Futuro comienzan a dispersarse para seguir trabajando.",
+   "prompt_en": "High angle shot comic panel showing children in futuristic white suits walking away across a red grid floor in a high-tech facility.",
+   "personajes": [
+    "Valeria Richards",
+    "Franklin Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "fundacion-futuro",
+    "balsa-de-salvamento",
+    "supervivencia"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Or else the specially cultivated collection of scientists, engineers and builders handpicked to restart the human race won't have a life raft to escape on!",
+     "texto_es": "¡O de lo contrario la colección especialmente cultivada de científicos, ingenieros y constructores seleccionados a mano para reiniciar la raza humana no tendrá una balsa de salvamento en la cual escapar!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "After all...",
+     "texto_es": "Después de todo..."
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "urgente",
+   "recorte": "vinetas/page-263-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    735,
+    663,
+    966,
+    966
+   ],
+   "descripcion": "Primer plano del rostro de Valeria Richards mirando hacia un lado con mirada preocupada pero resuelta.",
+   "prompt_en": "Close up of blonde young girl Valeria Richards looking melancholic yet determined, warm light reflecting on her face.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "valeria-richards",
+    "esperanza",
+    "balsa-de-salvamento"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "It's the only hope we have left.",
+     "texto_es": "...es la única esperanza que nos queda."
+    }
+   ],
+   "lugar": "Laboratorio del Edificio Baxter",
+   "tono": "melancólico",
+   "recorte": "vinetas/page-263-v5.jpg"
+  }
+ ],
+ "lugar": "Edificio Baxter, Nueva York, Tierra-616",
+ "numero_comic": 1,
+ "pagina": 263,
+ "archivo": "paginas/page-263.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5465,
+ "_seg": 21.0
+}

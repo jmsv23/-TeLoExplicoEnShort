@@ -1,0 +1,41 @@
+"""DATO 7 · Incursiones y Battleworld."""
+from lib_h import pho, ph, svgimg, L
+
+
+def build(S):
+    s = S.scene(S.w("Dato siete"), bg="multi", enter="ink", pat="pat-benday-fuerte")
+    s.text("d", "DATO 7", "ttl", "amarillo", 480, 200, s.start + 0.05, size=150, rot=-5, misreg=True)
+    t = S.w("incursión")
+    s.text("inc", "INCURSIÓN", "kw", "papel", 480, 520, t, size=140, rot=-5)
+    s.cinta("com", "DE LOS CÓMICS", "rojo", top=860, rot=-4, at=S.w("cómics"))
+    t = S.w("se superponen")
+    s.img("inc2", "lf/incursion.jpg", 1000, 70, 820, 940, t, frm="R", pos="50% 45%")
+    t = S.w("destruirse")
+    s.text("bam", "¡CRASH!", "ono", "rojo", 1400, 520, t, rot=-8, hold=1.0, zoom=True)
+    s.sfx("explosion", t, -4)
+    t = S.w("mueren los dos")
+    s.sello("dos", "SI NO, MUEREN LOS DOS", 520, 720, t, color="rojo", rot=-6)
+
+    s = S.scene(S.w("De los restos"), bg="doom", enter="halftone", color="doom")
+    t = S.w("Battleworld")
+    s.img("bw", "lf/battleworld.jpg", 100, 60, 640, 940, t, frm="L", pos="50% 30%")
+    s.obj("mos", L.mosaic(620), 1300, 520, t + 0.3)
+    t = S.w("Dios Doom")
+    s.com("crown", "crown", 1300, 200, 320, 220, t, how="drop")
+    s.text("gd", "DIOS DOOM", "ttl", "amarillo", 1300, 880, t + 0.2, size=130, rot=-4, misreg=True)
+    t = S.w("Secret Wars", again=False)
+    s.cap("sw", "SECRET WARS · 2027", t, left=860, top=40, width=700)
+
+    s = S.scene(S.w("Aclaro"), bg="papel", enter="pageflip")
+    s.sello("cl", "ESTO ES DE LOS CÓMICS", 960, 160, s.start + 0.1, color="tinta", rot=-4)
+    t = S.w("dos autos")
+    s.obj("c1", L.car(560, "#1E5BFF"), 380, 620, t, how="slide", frm="L")
+    s.obj("c2", L.car(560, "#E8212B", flip=True), 1540, 620, t, how="slide", frm="R")
+    t = S.w("uno desaparece")
+    s.move("c1", t, x=300)
+    s.move("c2", t, x=-300)
+    s.text("bam2", "¡BAM!", "ono", "amarillo", 960, 560, t + 0.45, rot=-8, hold=0.8)
+    t = S.w("se queda con los restos")
+    s.com("crn", "crown", 960, 860, 260, 180, t, how="drop")
+    t = S.w("dueño del mapa")
+    s.text("map", "EL DUEÑO DEL MAPA", "kw", "doom", 960, 300, t, size=110, rot=-3)

@@ -1,0 +1,190 @@
+{
+ "tipo": "historia",
+ "resumen": "Dios Emperador Doom asesina a Cíclope rompiéndole el cuello tras absorber la Fuerza Fénix. Para evitar que Doom masacre al resto de los supervivientes de la balsa del juicio final, el Sheriff Doctor Strange lanza un hechizo masivo y los dispersa por todo Battleworld. Cuando Doom lo cuestiona, Strange admite que lo hizo para salvar las vidas de sus viejos amigos.",
+ "personajes": [
+  "Doctor Doom / Dios Emperador Doom",
+  "Cíclope (con el Fénix)",
+  "Doctor Strange (Sheriff Strange)",
+  "Mister Fantástico (Reed Richards, Tierra-616)",
+  "El Hacedor (Reed Richards Ultimate)",
+  "Namor",
+  "Thanos"
+ ],
+ "eventos_clave": [
+  "Muerte de Cíclope a manos de Dios Emperador Doom",
+  "Doctor Strange dispersa a los héroes supervivientes por Battleworld",
+  "Confrontación verbal entre Doctor Strange y Dios Emperador Doom"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    20,
+    31,
+    201,
+    976
+   ],
+   "descripcion": "Dios Emperador Doom agarra el cuello de Cíclope (con la Fuerza Fénix) y se lo quiebra con una fuerza devastadora mientras se escucha un sonoro crujido.",
+   "prompt_en": "A close-up comic panel showing a tyrant giant armored hand snapping the neck of a superhero with a red visor visor helmet, giant red letters spelling CRACK behind him.",
+   "personajes": [
+    "Doctor Doom / Dios Emperador Doom",
+    "Cíclope (con el Fénix)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "muerte-de-ciclope",
+    "doom-dios",
+    "fenix"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "CRACK",
+     "texto_es": "CRACK"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "...The dream is over.",
+     "texto_es": "...El sueño ha terminado."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "trágico",
+   "recorte": "vinetas/page-127-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    206,
+    31,
+    597,
+    976
+   ],
+   "descripcion": "Doctor Strange se coloca en el centro con los brazos extendidos invocando una magia rosada brillante que teletransporta y dispersa a Thanos, Namor, Mr. Fantástico y el Hacedor en distintas direcciones.",
+   "prompt_en": "Wide comic panel showing a sorcerer standing in the center with arms wide open emitting bright pink mystical light beams, scattering several superhero figures away in all directions.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Mister Fantástico (Reed Richards, Tierra-616)",
+    "Namor",
+    "Thanos",
+    "El Hacedor (Reed Richards Ultimate)"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "magia",
+    "sheriff-strange",
+    "teletransporte",
+    "battleworld"
+   ],
+   "textos": [],
+   "lugar": "Battleworld",
+   "tono": "épico",
+   "recorte": "vinetas/page-127-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    600,
+    31,
+    725,
+    976
+   ],
+   "descripcion": "El cadáver de Cíclope cae al suelo de piedra con un golpe seco justo al lado de las armadas botas metálicas de Doom.",
+   "prompt_en": "Low angle comic panel of a defeated hero body slumping face down to the dusty rocky ground near an armored dictator metal boot, with sound effect THUMP.",
+   "personajes": [
+    "Cíclope (con el Fénix)",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "muerte-de-ciclope",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "sfx",
+     "quien": "Narrador",
+     "texto": "THUMP",
+     "texto_es": "THUMP"
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "sombrío",
+   "recorte": "vinetas/page-127-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    731,
+    31,
+    946,
+    976
+   ],
+   "descripcion": "Doctor Strange habla tranquilamente con Dios Emperador Doom vestído de blanco, explicando por qué salvó a los héroes enviándolos lejos antes de que Doom los ejecutara.",
+   "prompt_en": "Split panel view of Doctor Strange talking face-to-face with Doctor Doom in a white cloak and mask, wide portrait focus on Strange explaining his actions.",
+   "personajes": [
+    "Doctor Strange (Sheriff Strange)",
+    "Doctor Doom / Dios Emperador Doom"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "conversacion",
+    "sheriff-strange",
+    "doom-dios"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Where did you send them, Stephen?",
+     "texto_es": "¿A dónde los enviaste, Stephen?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I scattered them to the wind.",
+     "texto_es": "Los dispersé al viento."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Doom / Dios Emperador Doom",
+     "texto": "Why?",
+     "texto_es": "¿Por qué?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "Because we both know what was about to happen.",
+     "texto_es": "Porque ambos sabemos lo que estaba a punto de pasar."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "They would have refused to bow before you, and then you would have felt compelled to eliminate such behavior. With prejudice.",
+     "texto_es": "Se habrían negado a arrodillarse ante ti, y luego te habrías visto obligado a eliminar tal comportamiento. Con todos los prejuicios."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Doctor Strange (Sheriff Strange)",
+     "texto": "I couldn't allow that.",
+     "texto_es": "No podía permitir eso."
+    }
+   ],
+   "lugar": "Battleworld",
+   "tono": "tenso",
+   "recorte": "vinetas/page-127-v4.jpg"
+  }
+ ],
+ "lugar": "Battleworld",
+ "numero_comic": 4,
+ "pagina": 127,
+ "archivo": "paginas/page-127.jpg",
+ "ancho": 1008,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5809,
+ "_seg": 20.0
+}

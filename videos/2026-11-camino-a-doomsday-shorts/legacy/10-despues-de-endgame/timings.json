@@ -1,0 +1,955 @@
+{
+ "duracion": 39.92,
+ "coincidencia": 0.934,
+ "segmentos": [
+  {
+   "id": "S1",
+   "bloque": "HOOK",
+   "inicio": 0.211,
+   "fin": 5.775
+  },
+  {
+   "id": "S2",
+   "bloque": "DESARROLLO",
+   "inicio": 5.795,
+   "fin": 33.084
+  },
+  {
+   "id": "S3",
+   "bloque": "PAYBACK",
+   "inicio": 33.485,
+   "fin": 36.492
+  },
+  {
+   "id": "S4",
+   "bloque": "CTA",
+   "inicio": 36.953,
+   "fin": 39.298
+  }
+ ],
+ "escenas": [
+  {
+   "id": "1",
+   "nombre": "Portada",
+   "inicio": 0.0,
+   "fin": 2.993
+  },
+  {
+   "id": "2",
+   "nombre": "Lo único",
+   "inicio": 2.993,
+   "fin": 5.795
+  },
+  {
+   "id": "3",
+   "nombre": "Uno: Sam",
+   "inicio": 5.795,
+   "fin": 9.157
+  },
+  {
+   "id": "4",
+   "nombre": "Dos: Loki",
+   "inicio": 9.157,
+   "fin": 13.3
+  },
+  {
+   "id": "5",
+   "nombre": "Tres: al cine",
+   "inicio": 13.3,
+   "fin": 16.843
+  },
+  {
+   "id": "6",
+   "nombre": "Cuatro: los 4",
+   "inicio": 16.843,
+   "fin": 19.845
+  },
+  {
+   "id": "7",
+   "nombre": "Cinco: New Avengers",
+   "inicio": 19.845,
+   "fin": 24.368
+  },
+  {
+   "id": "8",
+   "nombre": "Seis: Deadpool y Wolverine",
+   "inicio": 24.368,
+   "fin": 28.272
+  },
+  {
+   "id": "9",
+   "nombre": "Resúmenes",
+   "inicio": 28.272,
+   "fin": 33.926
+  },
+  {
+   "id": "10",
+   "nombre": "El tablero",
+   "inicio": 33.926,
+   "fin": 36.953
+  },
+  {
+   "id": "11",
+   "nombre": "Siguiente número",
+   "inicio": 36.953,
+   "fin": 39.92
+  }
+ ],
+ "beats": [
+  {
+   "id": "1.1",
+   "t": 0.0,
+   "t_est": 0.0,
+   "ancla": null,
+   "interpolado": true
+  },
+  {
+   "id": "1.2",
+   "t": 1.532,
+   "t_est": 1.2,
+   "ancla": "siete"
+  },
+  {
+   "id": "1.3",
+   "t": 2.873,
+   "t_est": 2.3,
+   "ancla": "treinta"
+  },
+  {
+   "id": "2.1",
+   "t": 2.993,
+   "t_est": 3.4,
+   "ancla": "títulos"
+  },
+  {
+   "id": "2.2",
+   "t": 4.874,
+   "t_est": 5.2,
+   "ancla": "único"
+  },
+  {
+   "id": "3.1",
+   "t": 5.795,
+   "t_est": 6.6,
+   "ancla": "Uno"
+  },
+  {
+   "id": "3.2",
+   "t": 8.217,
+   "t_est": 8.0,
+   "ancla": "escudo"
+  },
+  {
+   "id": "4.1",
+   "t": 9.157,
+   "t_est": 8.9,
+   "ancla": "Dos"
+  },
+  {
+   "id": "4.2",
+   "t": 10.298,
+   "t_est": 10.4,
+   "ancla": "Sylvie"
+  },
+  {
+   "id": "4.3",
+   "t": 10.698,
+   "t_est": 11.5,
+   "ancla": "rompe"
+  },
+  {
+   "id": "4.4",
+   "t": 12.059,
+   "t_est": 12.5,
+   "ancla": "multiverso"
+  },
+  {
+   "id": "5.1",
+   "t": 13.3,
+   "t_est": 13.7,
+   "ancla": "Tres"
+  },
+  {
+   "id": "5.2",
+   "t": 13.941,
+   "t_est": 14.7,
+   "ancla": "Spider-Man"
+  },
+  {
+   "id": "5.3",
+   "t": 15.082,
+   "t_est": 15.8,
+   "ancla": "Strange"
+  },
+  {
+   "id": "5.4",
+   "t": 16.142,
+   "t_est": 16.6,
+   "ancla": "cine"
+  },
+  {
+   "id": "6.1",
+   "t": 16.843,
+   "t_est": 17.3,
+   "ancla": "Cuatro"
+  },
+  {
+   "id": "6.2",
+   "t": 18.184,
+   "t_est": 18.4,
+   "ancla": "Fantásticos"
+  },
+  {
+   "id": "6.3",
+   "t": 19.364,
+   "t_est": 19.0,
+   "ancla": "otra"
+  },
+  {
+   "id": "7.1",
+   "t": 19.845,
+   "t_est": 20.4,
+   "ancla": "Cinco"
+  },
+  {
+   "id": "7.2",
+   "t": 20.625,
+   "t_est": 21.4,
+   "ancla": "Thunderbolts"
+  },
+  {
+   "id": "7.3",
+   "t": 22.206,
+   "t_est": 22.0,
+   "ancla": "convertido"
+  },
+  {
+   "id": "7.4",
+   "t": 23.127,
+   "t_est": 22.8,
+   "ancla": "Avengers"
+  },
+  {
+   "id": "8.1",
+   "t": 24.368,
+   "t_est": 23.5,
+   "ancla": "seis"
+  },
+  {
+   "id": "8.2",
+   "t": 24.488,
+   "t_est": 24.3,
+   "ancla": "Deadpool"
+  },
+  {
+   "id": "8.3",
+   "t": 25.569,
+   "t_est": 25.0,
+   "ancla": "Wolverine"
+  },
+  {
+   "id": "8.4",
+   "t": 26.069,
+   "t_est": 25.8,
+   "ancla": "cruzan"
+  },
+  {
+   "id": "9.1",
+   "t": 28.272,
+   "t_est": 27.0,
+   "ancla": "resúmenes"
+  },
+  {
+   "id": "9.2",
+   "t": 29.936,
+   "t_est": 29.6,
+   "ancla": "final"
+  },
+  {
+   "id": "9.3",
+   "t": 31.3,
+   "t_est": 31.2,
+   "ancla": "todo"
+  },
+  {
+   "id": "9.4",
+   "t": 32.502,
+   "t_est": 32.2,
+   "ancla": "quién"
+  },
+  {
+   "id": "10.1",
+   "t": 33.926,
+   "t_est": 33.8,
+   "ancla": "seis"
+  },
+  {
+   "id": "10.2",
+   "t": 35.349,
+   "t_est": 35.1,
+   "ancla": "tablero"
+  },
+  {
+   "id": "10.3",
+   "t": 36.011,
+   "t_est": 36.0,
+   "ancla": "Doomsday"
+  },
+  {
+   "id": "11.1",
+   "t": 36.953,
+   "t_est": 37.2,
+   "ancla": "Siguiente"
+  },
+  {
+   "id": "11.2",
+   "t": 38.116,
+   "t_est": 38.2,
+   "ancla": "lista"
+  },
+  {
+   "id": "11.3",
+   "t": 38.958,
+   "t_est": 39.0,
+   "ancla": "maratonear"
+  }
+ ],
+ "palabras": [
+  {
+   "w": "Desde",
+   "seg": "S1",
+   "inicio": 0.211,
+   "fin": 0.391
+  },
+  {
+   "w": "Endgame",
+   "seg": "S1",
+   "inicio": 0.551,
+   "fin": 1.032
+  },
+  {
+   "w": "pasaron",
+   "seg": "S1",
+   "inicio": 1.112,
+   "fin": 1.472
+  },
+  {
+   "w": "siete",
+   "seg": "S1",
+   "inicio": 1.532,
+   "fin": 1.792
+  },
+  {
+   "w": "años",
+   "seg": "S1",
+   "inicio": 1.852,
+   "fin": 2.052
+  },
+  {
+   "w": "y",
+   "seg": "S1",
+   "inicio": 2.072,
+   "fin": 2.092
+  },
+  {
+   "w": "más",
+   "seg": "S1",
+   "inicio": 2.333,
+   "fin": 2.433
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 2.473,
+   "fin": 2.553
+  },
+  {
+   "w": "treinta",
+   "seg": "S1",
+   "inicio": 2.873,
+   "fin": 2.933
+  },
+  {
+   "w": "títulos",
+   "seg": "S1",
+   "inicio": 2.993,
+   "fin": 3.313
+  },
+  {
+   "w": "de",
+   "seg": "S1",
+   "inicio": 3.353,
+   "fin": 3.433
+  },
+  {
+   "w": "Marvel.",
+   "seg": "S1",
+   "inicio": 3.473,
+   "fin": 3.894
+  },
+  {
+   "w": "Esto",
+   "seg": "S1",
+   "inicio": 4.254,
+   "fin": 4.474
+  },
+  {
+   "w": "es",
+   "seg": "S1",
+   "inicio": 4.554,
+   "fin": 4.634
+  },
+  {
+   "w": "lo",
+   "seg": "S1",
+   "inicio": 4.694,
+   "fin": 4.774
+  },
+  {
+   "w": "único",
+   "seg": "S1",
+   "inicio": 4.874,
+   "fin": 5.095
+  },
+  {
+   "w": "que",
+   "seg": "S1",
+   "inicio": 5.135,
+   "fin": 5.235
+  },
+  {
+   "w": "necesitas.",
+   "seg": "S1",
+   "inicio": 5.295,
+   "fin": 5.775
+  },
+  {
+   "w": "Uno:",
+   "seg": "S2",
+   "inicio": 5.795,
+   "fin": 6.536
+  },
+  {
+   "w": "Sam",
+   "seg": "S2",
+   "inicio": 6.956,
+   "fin": 7.176
+  },
+  {
+   "w": "Wilson",
+   "seg": "S2",
+   "inicio": 7.216,
+   "fin": 7.636
+  },
+  {
+   "w": "hereda",
+   "seg": "S2",
+   "inicio": 7.756,
+   "fin": 8.057
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 8.097,
+   "fin": 8.177
+  },
+  {
+   "w": "escudo.",
+   "seg": "S2",
+   "inicio": 8.217,
+   "fin": 8.617
+  },
+  {
+   "w": "Dos:",
+   "seg": "S2",
+   "inicio": 9.157,
+   "fin": 9.297
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 9.638,
+   "fin": 9.718
+  },
+  {
+   "w": "Loki,",
+   "seg": "S2",
+   "inicio": 9.778,
+   "fin": 10.118
+  },
+  {
+   "w": "Sylvie",
+   "seg": "S2",
+   "inicio": 10.298,
+   "fin": 10.618
+  },
+  {
+   "w": "rompe",
+   "seg": "S2",
+   "inicio": 10.698,
+   "fin": 10.939
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 10.979,
+   "fin": 11.039
+  },
+  {
+   "w": "Línea",
+   "seg": "S2",
+   "inicio": 11.099,
+   "fin": 11.319
+  },
+  {
+   "w": "Sagrada",
+   "seg": "S2",
+   "inicio": 11.359,
+   "fin": 11.719
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 11.739,
+   "fin": 11.759
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 11.779,
+   "fin": 11.819
+  },
+  {
+   "w": "multiverso",
+   "seg": "S2",
+   "inicio": 12.059,
+   "fin": 12.56
+  },
+  {
+   "w": "se",
+   "seg": "S2",
+   "inicio": 12.6,
+   "fin": 12.68
+  },
+  {
+   "w": "abre.",
+   "seg": "S2",
+   "inicio": 12.76,
+   "fin": 13.0
+  },
+  {
+   "w": "Tres:",
+   "seg": "S2",
+   "inicio": 13.3,
+   "fin": 13.56
+  },
+  {
+   "w": "Spider-Man",
+   "seg": "S2",
+   "inicio": 13.941,
+   "fin": 14.521
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 14.641,
+   "fin": 14.681
+  },
+  {
+   "w": "Doctor",
+   "seg": "S2",
+   "inicio": 14.721,
+   "fin": 15.001
+  },
+  {
+   "w": "Strange",
+   "seg": "S2",
+   "inicio": 15.082,
+   "fin": 15.502
+  },
+  {
+   "w": "lo",
+   "seg": "S2",
+   "inicio": 15.622,
+   "fin": 15.702
+  },
+  {
+   "w": "llevan",
+   "seg": "S2",
+   "inicio": 15.742,
+   "fin": 15.982
+  },
+  {
+   "w": "al",
+   "seg": "S2",
+   "inicio": 16.022,
+   "fin": 16.082
+  },
+  {
+   "w": "cine.",
+   "seg": "S2",
+   "inicio": 16.142,
+   "fin": 16.402
+  },
+  {
+   "w": "Cuatro:",
+   "seg": "S2",
+   "inicio": 16.843,
+   "fin": 17.083
+  },
+  {
+   "w": "llegan",
+   "seg": "S2",
+   "inicio": 17.463,
+   "fin": 17.723
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 17.763,
+   "fin": 17.843
+  },
+  {
+   "w": "Cuatro",
+   "seg": "S2",
+   "inicio": 17.903,
+   "fin": 18.124
+  },
+  {
+   "w": "Fantásticos,",
+   "seg": "S2",
+   "inicio": 18.184,
+   "fin": 18.764
+  },
+  {
+   "w": "desde",
+   "seg": "S2",
+   "inicio": 19.044,
+   "fin": 19.284
+  },
+  {
+   "w": "otra",
+   "seg": "S2",
+   "inicio": 19.364,
+   "fin": 19.505
+  },
+  {
+   "w": "Tierra.",
+   "seg": "S2",
+   "inicio": 19.565,
+   "fin": 19.825
+  },
+  {
+   "w": "Cinco:",
+   "seg": "S2",
+   "inicio": 19.845,
+   "fin": 19.885
+  },
+  {
+   "w": "Thunderbolts",
+   "seg": "S2",
+   "inicio": 20.625,
+   "fin": 21.706
+  },
+  {
+   "w": "termina",
+   "seg": "S2",
+   "inicio": 21.806,
+   "fin": 22.146
+  },
+  {
+   "w": "convertido",
+   "seg": "S2",
+   "inicio": 22.206,
+   "fin": 22.647
+  },
+  {
+   "w": "en",
+   "seg": "S2",
+   "inicio": 22.687,
+   "fin": 22.767
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 22.807,
+   "fin": 22.887
+  },
+  {
+   "w": "New",
+   "seg": "S2",
+   "inicio": 22.967,
+   "fin": 23.087
+  },
+  {
+   "w": "Avengers.",
+   "seg": "S2",
+   "inicio": 23.127,
+   "fin": 23.647
+  },
+  {
+   "w": "Y",
+   "seg": "S2",
+   "inicio": 24.068,
+   "fin": 24.128
+  },
+  {
+   "w": "seis:",
+   "seg": "S2",
+   "inicio": 24.368,
+   "fin": 24.468
+  },
+  {
+   "w": "Deadpool",
+   "seg": "S2",
+   "inicio": 24.488,
+   "fin": 25.369
+  },
+  {
+   "w": "y",
+   "seg": "S2",
+   "inicio": 25.449,
+   "fin": 25.509
+  },
+  {
+   "w": "Wolverine",
+   "seg": "S2",
+   "inicio": 25.569,
+   "fin": 26.009
+  },
+  {
+   "w": "cruzan",
+   "seg": "S2",
+   "inicio": 26.069,
+   "fin": 26.389
+  },
+  {
+   "w": "el",
+   "seg": "S2",
+   "inicio": 26.409,
+   "fin": 26.469
+  },
+  {
+   "w": "multiverso.",
+   "seg": "S2",
+   "inicio": 26.509,
+   "fin": 27.07
+  },
+  {
+   "w": "Es",
+   "seg": "S2",
+   "inicio": 27.39,
+   "fin": 27.471
+  },
+  {
+   "w": "como",
+   "seg": "S2",
+   "inicio": 27.511,
+   "fin": 27.651
+  },
+  {
+   "w": "leerte",
+   "seg": "S2",
+   "inicio": 27.711,
+   "fin": 28.052
+  },
+  {
+   "w": "los",
+   "seg": "S2",
+   "inicio": 28.112,
+   "fin": 28.192
+  },
+  {
+   "w": "resúmenes",
+   "seg": "S2",
+   "inicio": 28.272,
+   "fin": 28.673
+  },
+  {
+   "w": "de",
+   "seg": "S2",
+   "inicio": 28.713,
+   "fin": 28.774
+  },
+  {
+   "w": "la",
+   "seg": "S2",
+   "inicio": 28.814,
+   "fin": 28.854
+  },
+  {
+   "w": "temporada",
+   "seg": "S2",
+   "inicio": 28.914,
+   "fin": 29.335
+  },
+  {
+   "w": "antes",
+   "seg": "S2",
+   "inicio": 29.515,
+   "fin": 29.736
+  },
+  {
+   "w": "del",
+   "seg": "S2",
+   "inicio": 29.776,
+   "fin": 29.896
+  },
+  {
+   "w": "final:",
+   "seg": "S2",
+   "inicio": 29.936,
+   "fin": 30.237
+  },
+  {
+   "w": "no",
+   "seg": "S2",
+   "inicio": 30.919,
+   "fin": 31.019
+  },
+  {
+   "w": "ves",
+   "seg": "S2",
+   "inicio": 31.079,
+   "fin": 31.239
+  },
+  {
+   "w": "todo,",
+   "seg": "S2",
+   "inicio": 31.3,
+   "fin": 31.54
+  },
+  {
+   "w": "pero",
+   "seg": "S2",
+   "inicio": 31.901,
+   "fin": 32.061
+  },
+  {
+   "w": "sabes",
+   "seg": "S2",
+   "inicio": 32.142,
+   "fin": 32.402
+  },
+  {
+   "w": "quién",
+   "seg": "S2",
+   "inicio": 32.502,
+   "fin": 32.663
+  },
+  {
+   "w": "es",
+   "seg": "S2",
+   "inicio": 32.703,
+   "fin": 32.783
+  },
+  {
+   "w": "quién.",
+   "seg": "S2",
+   "inicio": 32.843,
+   "fin": 33.084
+  },
+  {
+   "w": "Con",
+   "seg": "S3",
+   "inicio": 33.485,
+   "fin": 33.605
+  },
+  {
+   "w": "esas",
+   "seg": "S3",
+   "inicio": 33.665,
+   "fin": 33.846
+  },
+  {
+   "w": "seis",
+   "seg": "S3",
+   "inicio": 33.926,
+   "fin": 34.106
+  },
+  {
+   "w": "piezas",
+   "seg": "S3",
+   "inicio": 34.186,
+   "fin": 34.507
+  },
+  {
+   "w": "ya",
+   "seg": "S3",
+   "inicio": 34.688,
+   "fin": 34.828
+  },
+  {
+   "w": "estás",
+   "seg": "S3",
+   "inicio": 34.868,
+   "fin": 35.129
+  },
+  {
+   "w": "en",
+   "seg": "S3",
+   "inicio": 35.149,
+   "fin": 35.229
+  },
+  {
+   "w": "el",
+   "seg": "S3",
+   "inicio": 35.269,
+   "fin": 35.309
+  },
+  {
+   "w": "tablero",
+   "seg": "S3",
+   "inicio": 35.349,
+   "fin": 35.67
+  },
+  {
+   "w": "para",
+   "seg": "S3",
+   "inicio": 35.75,
+   "fin": 35.91
+  },
+  {
+   "w": "Doomsday.",
+   "seg": "S3",
+   "inicio": 36.011,
+   "fin": 36.492
+  },
+  {
+   "w": "Siguiente:",
+   "seg": "S4",
+   "inicio": 36.953,
+   "fin": 37.474
+  },
+  {
+   "w": "la",
+   "seg": "S4",
+   "inicio": 37.995,
+   "fin": 38.056
+  },
+  {
+   "w": "lista",
+   "seg": "S4",
+   "inicio": 38.116,
+   "fin": 38.336
+  },
+  {
+   "w": "definitiva",
+   "seg": "S4",
+   "inicio": 38.416,
+   "fin": 38.837
+  },
+  {
+   "w": "para",
+   "seg": "S4",
+   "inicio": 38.857,
+   "fin": 38.938
+  },
+  {
+   "w": "maratonear.",
+   "seg": "S4",
+   "inicio": 38.958,
+   "fin": 39.298
+  }
+ ]
+}

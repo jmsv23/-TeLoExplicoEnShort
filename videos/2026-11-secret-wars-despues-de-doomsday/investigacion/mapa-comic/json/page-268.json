@@ -1,0 +1,69 @@
+{
+ "tipo": "portada_alternativa",
+ "resumen": "Ilustración promocional/portada alternativa que enfrenta simétricamente a Mister Fantástico (Reed Richards de la Tierra-616) rodeado de héroes sobre un fondo rojo, contra el Hacedor (Reed Richards del Universo Ultimate) rodeado de villanos y la Cabal sobre un fondo púrpura.",
+ "personajes": [
+  "Mister Fantástico",
+  "El Hacedor",
+  "Capitana Marvel",
+  "Spider-Man (Peter Parker)",
+  "Spider-Man (Miles Morales)",
+  "Thor (Jane Foster)",
+  "Star-Lord",
+  "Cíclope",
+  "Thanos",
+  "Cisne Negro"
+ ],
+ "eventos_clave": [
+  "Contraste ideológico entre Mister Fantástico y el Hacedor",
+  "Confrontación multiversal entre héroes y la Cabal"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    1000,
+    1000
+   ],
+   "descripcion": "Ilustración de portada dividida en dos mitades verticalmente. En el centro, la cara de Reed Richards está dividida: el lado izquierdo muestra su rostro humano como Mister Fantástico con su traje azul clásico de los 4 Fantásticos, mientras que el lado derecho muestra la máscara cibernética del Hacedor con su traje negro. Del lado izquierdo emergen ráfagas de luz roja rodeadas de rostros de héroes como Capitana Marvel, Daredevil, Spider-Man, Miles Morales, Thor Jane Foster, Star-Lord y Cíclope. Del lado derecho surgen ráfagas de luz púrpura rodeadas de villanos como Thanos, Cisne Negro y otros miembros de la Cabal.",
+   "prompt_en": "Split cover artwork with Reed Richards Mister Fantastic on the left surrounded by red energy beams and superhero portraits, and The Maker on the right surrounded by purple energy beams and supervillain portraits, cosmic digital painting style.",
+   "personajes": [
+    "Mister Fantástico",
+    "El Hacedor",
+    "Capitana Marvel",
+    "Spider-Man (Peter Parker)",
+    "Spider-Man (Miles Morales)",
+    "Thor (Jane Foster)",
+    "Star-Lord",
+    "Cíclope",
+    "Thanos",
+    "Cisne Negro"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "mister-fantastico",
+    "el-hacedor",
+    "secret-wars",
+    "cabal",
+    "tierra-616",
+    "tierra-1610",
+    "portada-alternativa"
+   ],
+   "textos": [],
+   "lugar": "Multiverso",
+   "tono": "épico",
+   "recorte": "vinetas/page-268-v1.jpg"
+  }
+ ],
+ "lugar": "Multiverso",
+ "numero_comic": null,
+ "pagina": 268,
+ "archivo": "paginas/page-268.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 3663,
+ "_seg": 30.6
+}

@@ -1,0 +1,246 @@
+{
+ "tipo": "historia",
+ "resumen": "Valeria Richards y su madre, Sue Storm, observan el caos desatado en Castle Doom. Valeria cuestiona la realidad de lo que están presenciando y le pide a su madre que confíe en ella y la siga.",
+ "personajes": [
+  "Sue Storm / Mujer Invisible",
+  "Valeria Richards"
+ ],
+ "eventos_clave": [
+  "Valeria Richards le pregunta a Sue Storm si confía en ella y la ama por encima de todo",
+  "Valeria le pide a Sue que la acompañe lejos del conflicto en Doomstadt"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    24,
+    38,
+    348,
+    351
+   ],
+   "descripcion": "Sue Storm se tapa la boca consternada mientras mira al horizonte junto a Valeria Richards, quien contempla la escena fijamente.",
+   "prompt_en": "Comic panel showing a blonde woman in a futuristic white outfit covering her mouth in shock, next to a young blonde girl with intense eyes looking forward.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "battleworld",
+    "familia-doom",
+    "doomstadt"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Oh, Franklin... what have you done?",
+     "texto_es": "Oh, Franklin... ¿qué has hecho?"
+    }
+   ],
+   "lugar": "Balcón de Castle Doom, Doomstadt",
+   "tono": "preocupado",
+   "recorte": "vinetas/page-209-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    24,
+    354,
+    348,
+    653
+   ],
+   "descripcion": "Primer plano de Valeria Richards fascinada mirando el espectáculo, mientras Sue la mira confundida.",
+   "prompt_en": "Close up panel of a young blonde girl with blue eyes speaking with awe, while an older blonde woman behind her looks confused.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "familia-doom",
+    "conversacion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "This... this is some show.",
+     "texto_es": "Esto... esto es todo un espectáculo."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "What?!",
+     "texto_es": "¿Qué?!"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "It's some show. The spectacle of it. Like theater.",
+     "texto_es": "Es todo un espectáculo. Lo espectacular que es. Como el teatro."
+    }
+   ],
+   "lugar": "Balcón de Castle Doom, Doomstadt",
+   "tono": "intrigado",
+   "recorte": "vinetas/page-209-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    24,
+    658,
+    348,
+    963
+   ],
+   "descripcion": "Valeria camina hacia un lado mientras una explosión de fuego resplandece al fondo detrás del balcón.",
+   "prompt_en": "Comic panel showing a young girl turning back to face a woman, with a bright orange explosion blooming in the background sky.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "ataque-doomstadt",
+    "explosion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Val, what are you--",
+     "texto_es": "Val, ¿qué estás--?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Do you trust me, Mom?",
+     "texto_es": "¿Confías en mí, mamá?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Yes.",
+     "texto_es": "Sí."
+    }
+   ],
+   "lugar": "Balcón de Castle Doom, Doomstadt",
+   "tono": "dramático",
+   "recorte": "vinetas/page-209-v3.jpg"
+  },
+  {
+   "n": 4,
+   "bbox": [
+    361,
+    38,
+    563,
+    963
+   ],
+   "descripcion": "Gran primerísimo plano de los ojos azules y parte superior del rostro de Valeria Richards mirando muy seria.",
+   "prompt_en": "Extreme close-up panel focusing on a blonde young girl's serious blue eyes and nose, comic art style.",
+   "personajes": [
+    "Valeria Richards"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "primer-plano",
+    "interrogante"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Do you love me more than anything?",
+     "texto_es": "¿Me amas más que a nada?"
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "No matter what?",
+     "texto_es": "¿Sin importar qué?"
+    }
+   ],
+   "lugar": "Balcón de Castle Doom, Doomstadt",
+   "tono": "intenso",
+   "recorte": "vinetas/page-209-v4.jpg"
+  },
+  {
+   "n": 5,
+   "bbox": [
+    563,
+    38,
+    778,
+    963
+   ],
+   "descripcion": "Primer plano del rostro de Sue Storm mirando a su hija con emoción y comprensión.",
+   "prompt_en": "Close up comic panel of a mature blonde woman with blue eyes looking downwards with an affectionate and sincere expression.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible"
+   ],
+   "valor_video": 4,
+   "etiquetas": [
+    "amor-maternal",
+    "primer-plano"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "You're my daughter, Valeria.",
+     "texto_es": "Eres mi hija, Valeria."
+    },
+    {
+     "tipo": "dialogo",
+     "quien": "Sue Storm / Mujer Invisible",
+     "texto": "Of course I do.",
+     "texto_es": "Por supuesto que sí."
+    }
+   ],
+   "lugar": "Balcón de Castle Doom, Doomstadt",
+   "tono": "emotivo",
+   "recorte": "vinetas/page-209-v5.jpg"
+  },
+  {
+   "n": 6,
+   "bbox": [
+    778,
+    38,
+    976,
+    963
+   ],
+   "descripcion": "Plano general de la terraza de piedra de Castle Doom; Valeria le extiende la mano a Sue pidiéndole que la siga.",
+   "prompt_en": "Wide comic panel showing a small young girl in a futuristic white suit standing on a stone castle terrace extending her hand toward a blonde woman.",
+   "personajes": [
+    "Sue Storm / Mujer Invisible",
+    "Valeria Richards"
+   ],
+   "valor_video": 5,
+   "etiquetas": [
+    "decision",
+    "escape",
+    "castle-doom"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "Valeria Richards",
+     "texto": "Then come with me...",
+     "texto_es": "Entonces ven conmigo..."
+    }
+   ],
+   "lugar": "Balcón de Castle Doom, Doomstadt",
+   "tono": "misterioso",
+   "recorte": "vinetas/page-209-v6.jpg"
+  }
+ ],
+ "lugar": "Castle Doom, Doomstadt, Battleworld",
+ "numero_comic": 8,
+ "pagina": 209,
+ "archivo": "paginas/page-209.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 6189,
+ "_seg": 22.2
+}

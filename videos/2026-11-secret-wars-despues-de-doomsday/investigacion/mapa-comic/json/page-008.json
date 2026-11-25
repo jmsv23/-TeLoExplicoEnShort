@@ -1,0 +1,118 @@
+{
+ "tipo": "historia",
+ "resumen": "En la Tierra-1610 (Universo Ultimate), la isla de Manhattan enfrenta una incursión inminente vislumbrada por una enorme esfera de energía púrpura en el horizonte. Desde la sede de S.H.I.E.L.D., El Triskelion, Nick Fury le exige a Reed Richards que le diga cuánto tiempo les queda antes del fin del mundo.",
+ "personajes": [
+  "El Hacedor (Reed Richards Ultimate)",
+  "[Nick Fury (Tierra-1610)]",
+  "[Ojo de Halcón (Tierra-1610)]"
+ ],
+ "eventos_clave": [
+  "Inicio de la incursión final en la Tierra-1610",
+  "Nick Fury confronta a Reed Richards sobre el tiempo restante"
+ ],
+ "vinetas": [
+  {
+   "n": 1,
+   "bbox": [
+    0,
+    0,
+    580,
+    1000
+   ],
+   "descripcion": "Vista panorámica de la isla de Manhattan en la Tierra-1610 con una enorme esfera flotante de energía púrpura correspondiente al evento de incursión amenazando la ciudad.",
+   "prompt_en": "Wide panoramic shot of Manhattan skyline, Earth-1610, with skyscrapers under a light blue sky and a huge glowing purple sphere of an incursion event looming over the city.",
+   "personajes": [],
+   "valor_video": 4,
+   "etiquetas": [
+    "incursion",
+    "tierra-1610",
+    "manhattan",
+    "fin-del-mundo"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "Manhattan. Earth-1610. Incursion event imminent.",
+     "texto_es": "Manhattan. Tierra-1610. Evento de incursión inminente."
+    }
+   ],
+   "lugar": "Manhattan, Tierra-1610",
+   "tono": "apocalíptico",
+   "recorte": "vinetas/page-008-v1.jpg"
+  },
+  {
+   "n": 2,
+   "bbox": [
+    580,
+    0,
+    1000,
+    712
+   ],
+   "descripcion": "Vista exterior del Triskelion, la base principal de S.H.I.E.L.D., con varios Helicarriers de alta tecnología flotando a su alrededor.",
+   "prompt_en": "High-angle shot of futuristic S.H.I.E.L.D. Helicarriers flying near a modern glass tower facility called The Triskelion over the bay.",
+   "personajes": [],
+   "valor_video": 3,
+   "etiquetas": [
+    "triskelion",
+    "shield",
+    "helicarrier",
+    "tierra-1610"
+   ],
+   "textos": [
+    {
+     "tipo": "narracion",
+     "quien": "Narrador",
+     "texto": "The Triskelion. Headquarters of this Earth's S.H.I.E.L.D.",
+     "texto_es": "El Triskelion. Cuartel general de S.H.I.E.L.D. de esta Tierra."
+    }
+   ],
+   "lugar": "El Triskelion, Tierra-1610",
+   "tono": "tenso",
+   "recorte": "vinetas/page-008-v2.jpg"
+  },
+  {
+   "n": 3,
+   "bbox": [
+    580,
+    712,
+    1000,
+    984
+   ],
+   "descripcion": "Nick Fury de la Tierra-1610 mira fijamente y con rostro serio mientras habla con Reed Richards (El Hacedor). Detrás de él se observa a Ojo de Halcón.",
+   "prompt_en": "Close-up of Nick Fury from Earth-1610 with eyepatch, beard, and dark suit looking sternly forward while talking, Hawkeye visible behind him in a high-tech control room.",
+   "personajes": [
+    "El Hacedor (Reed Richards Ultimate)",
+    "[Nick Fury (Tierra-1610)]",
+    "[Ojo de Halcón (Tierra-1610)]"
+   ],
+   "valor_video": 3,
+   "etiquetas": [
+    "nick-fury",
+    "el-hacedor",
+    "incursion"
+   ],
+   "textos": [
+    {
+     "tipo": "dialogo",
+     "quien": "[Nick Fury (Tierra-1610)]",
+     "texto": "You tell me the world is ending, I wonder if you think I'm blind. You tell me it's ending today... Well, then, Richards... I wanna know how long we got left?",
+     "texto_es": "Me dices que el mundo se acaba, me pregunto si piensas que soy ciego. Me dices que se acaba hoy... Bueno, entonces, Richards... ¿quiero saber cuánto tiempo nos queda?"
+    }
+   ],
+   "lugar": "El Triskelion, Tierra-1610",
+   "tono": "serio",
+   "recorte": "vinetas/page-008-v3.jpg"
+  }
+ ],
+ "lugar": "Tierra-1610 (Universo Ultimate)",
+ "numero_comic": 1,
+ "pagina": 8,
+ "archivo": "paginas/page-008.jpg",
+ "ancho": 1041,
+ "alto": 1600,
+ "doble": false,
+ "_modelo": "gemini-3.5-flash",
+ "_tokens": 5650,
+ "_seg": 23.6
+}
